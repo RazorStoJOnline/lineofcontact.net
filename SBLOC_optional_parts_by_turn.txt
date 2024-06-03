@@ -1,0 +1,179 @@
+SteelBattalion: Line of Contact
+Author: KingLeerUK
+Origin: LINEOFCONTACT.NET
+
+
+Optional Parts Availability by Turn
+* = newly available for the Turn
+
+
+--TURN01
+Advanced Balancer Level 1
+Additional Mount Level 1
+Supply Battalion Level 1
+Mechanic Unit Level 1
+Strategic Unit Level 1
+
+
+--TURN02
+Advanced Balancer Level 1
+Additional Mount Level 1
+Supply Battalion Level 1
+Mechanic Unit Level 1
+Strategic Unit Level 1
+Tactician Level 1*
+Power Cell Level 1*
+Goddess of War*
+Surveillance Unit*
+
+
+--TURN03
+Advanced Balancer Level 1
+Advanced Balancer Level 2*
+Additional Mount Level 1
+Additional Mount Level 2*
+Supply Battalion Level 1
+Supply Battalion Level 2*
+Mechanic Unit Level 1
+Strategic Unit Level 1
+Strategic Unit Level 2*
+Tactician Level 1
+Power Cell Level 1
+Goddess of War
+Surveillance Unit
+
+
+--TURN04
+Advanced Balancer Level 1
+Advanced Balancer Level 2
+Additional Mount Level 1
+Additional Mount Level 2
+Supply Battalion Level 1
+Supply Battalion Level 2
+Mechanic Unit Level 1
+Mechanic Unit Level 2*
+Strategic Unit Level 1
+Strategic Unit Level 2
+Tactician Level 1
+Tactician Level 2*
+Power Cell Level 1
+Power Cell Level 2*
+Goddess of War
+Surveillance Unit
+Advanced Radar*
+
+
+--TURN05
+Advanced Balancer Level 1
+Advanced Balancer Level 2
+Advanced Balancer Level 3*
+Additional Mount Level 1
+Additional Mount Level 2
+Additional Mount Level 3*
+Advanced Mount Level 1*
+Supply Battalion Level 1
+Supply Battalion Level 2
+Mechanic Unit Level 1
+Mechanic Unit Level 2
+Strategic Unit Level 1
+Strategic Unit Level 2
+Tactician Level 1
+Tactician Level 2
+Power Cell Level 1
+Power Cell Level 2
+Goddess of War
+Surveillance Unit
+Advanced Radar
+Advanced Armour*
+
+
+--TURN06
+Advanced Balancer Level 1
+Advanced Balancer Level 2
+Advanced Balancer Level 3
+Additional Mount Level 1
+Additional Mount Level 2
+Additional Mount Level 3
+Advanced Mount Level 1
+Advanced Mount Level 2*
+Supply Battalion Level 1
+Supply Battalion Level 2
+Supply Battalion Level 3*
+Mechanic Unit Level 1
+Mechanic Unit Level 2
+Strategic Unit Level 1
+Strategic Unit Level 2
+Strategic Unit Level 3*
+Tactician Level 1
+Tactician Level 2
+Power Cell Level 1
+Power Cell Level 2
+Goddess of War
+Surveillance Unit
+Advanced Radar
+Advanced Armour
+Generals Inspection*
+
+
+--TURN07
+Advanced Balancer Level 1
+Advanced Balancer Level 2
+Advanced Balancer Level 3
+Additional Mount Level 1
+Additional Mount Level 2
+Additional Mount Level 3
+Advanced Mount Level 1
+Advanced Mount Level 2
+Supply Battalion Level 1
+Supply Battalion Level 2
+Supply Battalion Level 3
+Mechanic Unit Level 1
+Mechanic Unit Level 2
+Mechanic Unit Level 3*
+Strategic Unit Level 1
+Strategic Unit Level 2
+Strategic Unit Level 3
+Tactician Level 1
+Tactician Level 2
+Tactician Level 3*
+Power Cell Level 1
+Power Cell Level 2
+Goddess of War
+Surveillance Unit
+Advanced Radar
+Advanced Armour
+Generals Inspection
+Anti-Shock Body*
+
+
+--TURN08
+Advanced Balancer Level 1
+Advanced Balancer Level 2
+Advanced Balancer Level 3
+Additional Mount Level 1
+Additional Mount Level 2
+Additional Mount Level 3
+Advanced Mount Level 1
+Advanced Mount Level 2
+Advanced Mount Level 3*
+Supply Battalion Level 1
+Supply Battalion Level 2
+Supply Battalion Level 3
+Mechanic Unit Level 1
+Mechanic Unit Level 2
+Mechanic Unit Level 3
+Strategic Unit Level 1
+Strategic Unit Level 2
+Strategic Unit Level 3
+Tactician Level 1
+Tactician Level 2
+Tactician Level 3
+Power Cell Level 1
+Power Cell Level 2
+Power Cell Level 3*
+Goddess of War
+Surveillance Unit
+Advanced Radar
+Advanced Armour
+Generals Inspection
+Anti-Shock Body

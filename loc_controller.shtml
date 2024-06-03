@@ -1,0 +1,904 @@
+<html>
+
+<!-- Mirrored from lineofcontact.net/loc_controller.shtml by HTTrack Website Copier/3.x [XR&CO'2010], Thu, 06 May 2010 16:43:36 GMT -->
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<title>LINEOFCONTACT.NET :: STEEL BATTALION: LINE OF CONTACT INFORMATION</title>
+
+<link rel=StyleSheet href="css/locnet.css" TYPE="text/css" media="screen">
+
+</head>
+
+<body topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0">
+<!---begin navigation include--->
+<!---start header navigation include--->
+<a name="#top"></a>
+<script type='text/javascript'>
+function Go(){return}
+</script>
+<script type='text/javascript' src='_js/main.js'></script>
+
+<script language="JavaScript">
+// Menu tree
+//	MenuX=new Array(Text to show, Link, background image (optional), number of sub elements, height, width);
+//	For rollover images set "Text to show" to:  "rollover:Image1.jpg:Image2.jpg"
+
+Menu1=new Array("<img src='image/btn_tutorial.gif' width='51' height='11'>","","",13,11,51);
+	Menu1_1=new Array("Tutorial Overview","loc_tutorial.shtml","",0,20,120);
+	Menu1_2=new Array("Create A Pilot","loc_newpilot.shtml","",0,20,120);
+	Menu1_3=new Array("New Pilot Advice","loc_advice.shtml","",0,20,120);
+	Menu1_4=new Array("Controlling VTs","loc_vtcontrol.shtml","",0,20,120);
+	Menu1_5=new Array("Starting a Game","loc_newgame.shtml","",0,20,120);
+	Menu1_6=new Array("Chat & Trade Tutorial","loc_tradechat.shtml","",0,20,120);
+	Menu1_7=new Array("Communication Tutorial","loc_communication.shtml","",0,20,120);
+	Menu1_8=new Array("Artillery Tutorial","loc_tutorial_artillery.shtml","",0,20,120);
+	Menu1_9=new Array("Sniper Tutorial","loc_tutorial_sniper.shtml","",0,20,120);
+	Menu1_10=new Array("Repacking Tutorial","loc_tutorial_repack.shtml","",0,20,120);
+	Menu1_11=new Array("Foot Controller Repair","loc_footcontroller_repair.shtml","",0,20,120);
+	Menu1_12=new Array("Insignia Tool","loc_tutorial_insigniatool.shtml","",0,20,120);
+	Menu1_13=new Array("Unlock Code","loc_unlockcode.shtml","",0,20,120);
+
+Menu2=new Array("<img src='image/btn_vt.gif' width='82' height='11'>","","",9,11,82);
+	Menu2_1=new Array("VT Overview","loc_vt.shtml","",0,20,130);
+	Menu2_2=new Array("Hai Shi Dao VTs","","",3,20,130);
+		Menu2_2_1=new Array("1st Generation VTs","","",5,20,110);
+			Menu2_2_1_1=new Array("Vitzh","ds_vitzh.shtml","",0,20,100);
+			Menu2_2_1_2=new Array("Vortex","ds_vortex.shtml","",0,20,100);
+			Menu2_2_1_3=new Array("m-Vitzh","ds_m-vitzh.shtml","",0,20,100);
+			Menu2_2_1_4=new Array("Scare Face","ds_scareface.shtml","",0,20,100);
+			Menu2_2_1_5=new Array("Scare Face A1","ds_scarefacea1.shtml","",0,20,100);
+		Menu2_2_2=new Array("2nd Generation VTs","","",4,20,110);
+			Menu2_2_2_1=new Array("Scare Face II","ds_scareface2.shtml","",0,20,110);
+			Menu2_2_2_2=new Array("Maelstrom","ds_maelstrom.shtml","",0,20,110);
+			Menu2_2_2_3=new Array("Garpike","ds_garpike.shtml","",0,20,110);
+			Menu2_2_2_4=new Array("Behemoth","ds_behemoth.shtml","",0,20,110);
+		Menu2_2_3=new Array("3rd Generation VTs","","",3,20,130);
+			Menu2_2_3_1=new Array("Regal Dress N","ds_regaldress_N.shtml","",0,20,110);
+			Menu2_2_3_2=new Array("Regal Dress A","ds_regaldress_A.shtml","",0,20,110);
+			Menu2_2_3_3=new Array("Juggernaut","ds_juggernaut.shtml","",0,20,110);
+	Menu2_3=new Array("Pacific Rim Forces VTs","","",3,20,130);
+		Menu2_3_1=new Array("1st Generation VTs","","",3,20,110);
+			Menu2_3_1_1=new Array("Decider","ds_decider.shtml","",0,20,110);
+			Menu2_3_1_2=new Array("Falchion","ds_falchion.shtml","",0,20,110);
+			Menu2_3_1_3=new Array("Decider Volcanic","ds_decidervolcanic.shtml","",0,20,110);
+		Menu2_3_2=new Array("2nd Generation VTs","","",5,20,110);
+			Menu2_3_2_1=new Array("Blade","ds_blade.shtml","",0,20,110);
+			Menu2_3_2_2=new Array("Prominence M1","ds_prominenceM1.shtml","",0,20,110);
+			Menu2_3_2_3=new Array("Rapier","ds_rapier.shtml","",0,20,110);
+			Menu2_3_2_4=new Array("Prominence M2","ds_prominenceM2.shtml","",0,20,110);
+			Menu2_3_2_5=new Array("Prominence M3","ds_prominenceM3.shtml","",0,20,110);
+		Menu2_3_3=new Array("3rd Generation VTs","","",1,20,110);
+			Menu2_3_3_1=new Array("Quasar","ds_quasar.shtml","",0,20,110);
+	Menu2_4=new Array("Right Brothers VTs","","",3,20,130);
+		Menu2_4_1=new Array("1st Generation VTs","","",2,20,110);
+			Menu2_4_1_1=new Array("Colt","ds_colt.shtml","",0,20,110);
+			Menu2_4_1_2=new Array("Colt Executive","ds_coltexecutive.shtml","",0,20,110);
+		Menu2_4_2=new Array("2nd Generation VTs","","",3,20,110);
+			Menu2_4_2_1=new Array("Yellow Jacket","ds_yellowjacket.shtml","",0,20,110);
+			Menu2_4_2_2=new Array("Siegeszug","ds_siegeszug.shtml","",0,20,110);
+			Menu2_4_2_3=new Array("Sheepdog","ds_sheepdog.shtml","",0,20,110);
+		Menu2_4_3=new Array("3rd Generation VTs","","",1,20,110);
+			Menu2_4_3_1=new Array("Earthshaker","ds_earthshaker.shtml","",0,20,110);
+	Menu2_5=new Array("Jaralaccs Mercenary VTs","","",1,20,130);
+		Menu2_5_1=new Array("2nd Generation VTs","","",4,20,110);
+			Menu2_5_1_1=new Array("Jaralaccs C","ds_jaralaccsC.shtml","",0,20,110);
+			Menu2_5_1_2=new Array("Jaralaccs N","ds_jaralaccsN.shtml","",0,20,110);
+			Menu2_5_1_3=new Array("Jaralaccs NS-R","ds_jaralaccsNS-R.shtml","",0,20,110);
+			Menu2_5_1_4=new Array("Jaralaccs Macabre","ds_jaralaccs_macabre.shtml","",0,20,110);
+	Menu2_6=new Array("VT Manufacturers","loc_manunav.shtml","",0,20,130);
+	Menu2_7=new Array("VT Comparissons","loc_vtcompare.shtml","",0,20,130);
+	Menu2_8=new Array("Cockpit Reference","loc_cockpits.shtml","",6,20,130);
+		Menu2_8_1=new Array("1st Gen - Standard","loc_cockpits_g1.shtml","",0,20,120);
+		Menu2_8_2=new Array("1st Gen - Support","loc_cockpits_g1s.shtml","",0,20,120);
+		Menu2_8_3=new Array("2nd Gen - Standard","loc_cockpits_g2.shtml","",0,20,120);
+		Menu2_8_4=new Array("2nd Gen - Support","loc_cockpits_g2s.shtml","",0,20,120);
+		Menu2_8_5=new Array("2nd Gen - Jaralaccs","loc_cockpits_g2j.shtml","",0,20,120);
+		Menu2_8_6=new Array("3rd Gen - Standard","loc_cockpits_g3.shtml","",0,20,120);
+	Menu2_9=new Array("VT Customisation","loc_vtcustom.shtml","",0,20,130);
+	
+Menu3=new Array("<img src='image/btn_config.gif' width='81' height='11'>","","",5,11,81);
+	Menu3_1=new Array("Weapon Information","loc_weapon.shtml","",0,20,130);
+	Menu3_2=new Array("Weapon Summary","loc_weapon_summary.shtml","",0,20,130);
+	Menu3_3=new Array("Weapon Configuration","loc_weaponconfig.shtml","",0,20,130);
+	Menu3_4=new Array("Optional Parts","loc_optionalparts.shtml","",0,20,130);
+	Menu3_5=new Array("Weapon Range Compare","loc_rangecompare.shtml","",0,20,130);
+	
+Menu4=new Array("<img src='image/btn_testing.gif' width='55' height='11'>","","",9,11,55);
+	Menu4_1=new Array("Testing & Results","loc_testing.shtml","",0,20,200);
+	Menu4_2=new Array("Loadout Weight Effect on Turning","loc_testing_turnweighteffect.shtml","",0,20,200);
+	Menu4_3=new Array("Vertical Tank Rise Time","loc_testing_vt_risetime.shtml","",0,20,200);
+	Menu4_4=new Array("Platform and Leg Durability","loc_testing_dur.shtml","",0,20,200);
+	Menu4_5=new Array("Vertical Tank Distance Modifiers","loc_testing_distancemod.shtml","",0,20,200);
+	Menu4_6=new Array("Vertical Tank Turning Performance","loc_testing_turn.shtml","",0,20,200);
+	Menu4_7=new Array("Vertical Tank Acceleration Testing","loc_testing_speed.shtml","",0,20,200);
+	Menu4_8=new Array("Guided Missile Testing","loc_testing_guidedmissile.shtml","",0,20,200);
+	Menu4_9=new Array("Torque Performance on Terrain","loc_testing_crossgear.shtml","",0,20,200);
+	
+Menu5=new Array("<img src='image/btn_tactical.gif' width='94' height='11'>","","",3,11,94);
+	Menu5_1=new Array("Sortie Points","loc_sortiepoints.shtml","",0,20,120);
+	Menu5_2=new Array("Gameplay","loc_gameplay.shtml","",0,20,120);
+	Menu5_3=new Array("Mission Information","loc_mission.shtml","",25,20,120);
+		Menu5_3_1=new Array("Mission 00 - Live Ammunition Training Grounds","loc_mission00.shtml","",0,20,300);
+		Menu5_3_2=new Array("Mission 01 - Sha Wan Hills","loc_mission01.shtml","",0,20,300);
+		Menu5_3_3=new Array("Mission 02 - Dong Lai River Ford","loc_mission02.shtml","",0,20,300);
+		Menu5_3_4=new Array("Mission 03 - Capture of Outpost 8","loc_mission03.shtml","",0,20,300);
+		Menu5_3_5=new Array("Mission 04 - Occupation of Highland 33","loc_mission04.shtml","",0,20,300);
+		Menu5_3_6=new Array("Mission 05 - Ji Feng Military Base","loc_mission05.shtml","",0,20,300);
+		Menu5_3_7=new Array("Mission 06 - Hong Shan Military Base","loc_mission06.shtml","",0,20,300);
+		Menu5_3_8=new Array("Mission 07 - Battle of Jian Da Harbor","loc_mission07.shtml","",0,20,300);
+		Menu5_3_9=new Array("Mission 08 - Zhong Huan City","loc_mission08.shtml","",0,20,300);
+		Menu5_3_10=new Array("Mission 09 - Reserve Base Siege","loc_mission09.shtml","",0,20,300);
+		Menu5_3_11=new Array("Mission 10 - Jacalita Woodlands","loc_mission10.shtml","",0,20,300);
+		Menu5_3_12=new Array("Mission 11 - San Kuchen Subterranean Fortress","loc_mission11.shtml","",0,20,300);
+		Menu5_3_13=new Array("Mission 12 - Ji Feng Basin","loc_mission12.shtml","",0,20,300);
+		Menu5_3_14=new Array("Mission 13 - Airbase Assault","loc_mission13.shtml","",0,20,300);
+		Menu5_3_15=new Array("Mission 14 - Wei Gu Strike","loc_mission14.shtml","",0,20,300);
+		Menu5_3_16=new Array("Mission 15 - Container Extraction","loc_mission15.shtml","",0,20,300);
+		Menu5_3_17=new Array("Mission 16 - Nan Jiang Ravine","loc_mission16.shtml","",0,20,300);
+		Menu5_3_18=new Array("Mission 17 - New Nan Jiang Factory","loc_mission17.shtml","",0,20,300);
+		Menu5_3_19=new Array("Mission 18 - Battle of Meng Chung He","loc_mission18.shtml","",0,20,300);
+		Menu5_3_20=new Array("Mission 19 - Yun Kota Gorge","loc_mission19.shtml","",0,20,300);
+		Menu5_3_21=new Array("Mission 20 - Xen Feng Tian Corridor","loc_mission20.shtml","",0,20,300);
+		Menu5_3_22=new Array("Mission 21 - Yu Jai Woodlands","loc_mission21.shtml","",0,20,300);
+		Menu5_3_23=new Array("Mission 22 - Capture of Xen Feng Tian","loc_mission22.shtml","",0,20,300);
+		Menu5_3_24=new Array("Mission 23 - Er Ting Foothills","loc_mission23.shtml","",0,20,300);
+		Menu5_3_25=new Array("Mission 24 - Defense of Yu Jai Village","loc_mission24.shtml","",0,20,300);
+		
+Menu6=new Array("<img src='image/btn_intel.gif' width='86' height='11'>","","",10,11,86);
+	Menu6_1=new Array("Pilot Profile","loc_pilotprofile.shtml","",0,20,150);
+	Menu6_2=new Array("Rank","loc_rank.shtml","",0,20,150);
+	Menu6_3=new Array("Awards","loc_awards.shtml","",0,20,150);
+	Menu6_4=new Array("Professional Names","loc_professional.shtml","",0,20,150);
+	Menu6_5=new Array("Faction Intel","loc_faction.shtml","",0,20,150);
+	Menu6_6=new Array("Communication","loc_communication.shtml","",0,20,150);
+	Menu6_7=new Array("Glossary","loc_glossary.shtml","",0,20,150);
+	Menu6_8=new Array("Githon's Steel Battalion Guide","loc_sbt.shtml","",0,20,150);
+	Menu6_9=new Array("Frequently Asked Questions","loc_faq.shtml","",0,20,150);
+	Menu6_10=new Array("Exploits","loc_exploits.shtml","",0,20,150);
+	
+Menu7=new Array("<img src='image/btn_platform.gif' width='58' height='11'>","","",12,11,58);
+	Menu7_1=new Array("Platform Overview","loc_platform.shtml","",0,20,150);
+	Menu7_2=new Array("Game Specifications","loc_game.shtml","",0,20,150);
+	Menu7_3=new Array("Game Requirements","loc_requirements.shtml","",0,20,150);
+	Menu7_4=new Array("Controller Overview","loc_controller.shtml","",0,20,150);
+	Menu7_5=new Array("Controller Serial Archive","loc_serialarchive.shtml","",0,20,150);
+	Menu7_6=new Array("Controller Differences","loc_controllerdifferences.shtml","",0,20,150);
+	Menu7_7=new Array("Connection Issues","loc_connection.shtml","",0,20,150);
+	Menu7_8=new Array("Game History & Patches","loc_gamehistory.shtml","",0,20,150);
+	Menu7_9=new Array("Replay Information","loc_replay.shtml","",0,20,150);
+	Menu7_10=new Array("Custom Soundtracks","loc_boombox.shtml","",0,20,150);
+	Menu7_11=new Array("SB vs SB: LOC","loc_sbdifferences.shtml","",0,20,150);
+	Menu7_12=new Array("Cockpit Setups","loc_cockpit.shtml","",0,20,150);
+	
+Menu8=new Array("<img src='image/btn_media.gif' width='76' height='11'>","","",10,11,76);
+	Menu8_1=new Array("Media Overview","loc_media.shtml","",0,20,150);
+	Menu8_2=new Array("VT Open Cockpit Details","loc_media_cockpit.shtml","",0,20,150);
+	Menu8_3=new Array("Hai Shi Dao VTs","","",12,20,150);
+		Menu8_3_1=new Array("Vitzh","loc_media_vitzh.shtml","",0,20,100);
+		Menu8_3_2=new Array("Vortex","loc_media_vortex.shtml","",0,20,100);
+		Menu8_3_3=new Array("Scare Face","loc_media_scareface.shtml","",0,20,100);
+		Menu8_3_4=new Array("m-Vitzh","loc_media_mvitzh.shtml","",0,20,100);
+		Menu8_3_5=new Array("Scare Face A1","loc_media_scarefacea1.shtml","",0,20,100);
+		Menu8_3_6=new Array("Scare Face II","loc_media_scareface2.shtml","",0,20,100);
+		Menu8_3_7=new Array("Maelstrom","loc_media_maelstrom.shtml","",0,20,100);
+		Menu8_3_8=new Array("Behemoth","loc_media_behemoth.shtml","",0,20,100);
+		Menu8_3_9=new Array("Garpike","loc_media_garpike.shtml","",0,20,100);
+		Menu8_3_10=new Array("Regal Dress A","loc_media_regaldressa.shtml","",0,20,100);
+		Menu8_3_11=new Array("Regal Dress N","loc_media_regaldressn.shtml","",0,20,100);
+		Menu8_3_12=new Array("Juggernaut","loc_media_juggernaut.shtml","",0,20,100);
+	Menu8_4=new Array("Pacific Rim Forces VTs","","",9,20,150);
+		Menu8_4_1=new Array("Decider","loc_media_decider.shtml","",0,20,100);
+		Menu8_4_2=new Array("Falchion","loc_media_falchion.shtml","",0,20,100);
+		Menu8_4_3=new Array("Decider Volcanic","loc_media_decidervolcanic.shtml","",0,20,100);
+		Menu8_4_4=new Array("Prominence M1","loc_media_prominencem1.shtml","",0,20,100);
+		Menu8_4_5=new Array("Prominence M2","loc_media_prominencem2.shtml","",0,20,100);
+		Menu8_4_6=new Array("Prominence M3","loc_media_prominencem3.shtml","",0,20,100);
+		Menu8_4_7=new Array("Blade","loc_media_blade.shtml","",0,20,100);
+		Menu8_4_8=new Array("Rapier","loc_media_rapier.shtml","",0,20,100);
+		Menu8_4_9=new Array("Quasar","loc_media_quasar.shtml","",0,20,100);
+	Menu8_5=new Array("Right Brothers VTs","","",6,20,150);
+		Menu8_5_1=new Array("Colt","loc_media_colt.shtml","",0,20,100);
+		Menu8_5_2=new Array("Colt Executive","loc_media_coltexecutive.shtml","",0,20,100);
+		Menu8_5_3=new Array("Yellow Jacket","loc_media_yellowjacket.shtml","",0,20,100);
+		Menu8_5_4=new Array("Sheepdog","loc_media_sheepdog.shtml","",0,20,100);
+		Menu8_5_5=new Array("Siegeszug","loc_media_siegeszug.shtml","",0,20,100);
+		Menu8_5_6=new Array("Earthshaker","loc_media_earthshaker.shtml","",0,20,100);
+	Menu8_6=new Array("Jaralaccs Mercenary VTs","","",4,20,150);
+		Menu8_6_1=new Array("Jaralaccs C","loc_media_jaralaccsc.shtml","",0,20,100);
+		Menu8_6_2=new Array("Jaralaccs N","loc_media_jaralaccsn.shtml","",0,20,100);
+		Menu8_6_3=new Array("Jaralaccs NS-R","loc_media_jaralaccsnsr.shtml","",0,20,100);
+		Menu8_6_4=new Array("Jaralaccs Macabre","loc_media_jaralaccsmacabre.shtml","",0,20,100);
+	Menu8_7=new Array("Battle Images","","",6,20,150);
+		Menu8_7_1=new Array("Battle 01","loc_media_battle.shtml","",0,20,100);
+		Menu8_7_2=new Array("Battle 02","loc_media_battle2.shtml","",0,20,100);
+		Menu8_7_3=new Array("Battle 03","loc_media_battle3.shtml","",0,20,100);
+		Menu8_7_4=new Array("Battle 04","loc_media_battle4.shtml","",0,20,100);
+		Menu8_7_5=new Array("Battle 05","loc_media_battle5.shtml","",0,20,100);
+		Menu8_7_6=new Array("Battle 06","loc_media_battle6.shtml","",0,20,100);
+	Menu8_8=new Array("Chaff Deployment Details","loc_media_chaff.shtml","",0,20,150);
+	Menu8_9=new Array("Gameplay Movies","loc_media_movies.shtml","",0,20,150);
+	Menu8_10=new Array("Action Replay Files","loc_media_actionreplay.shtml","",0,20,150);
+
+Menu9=new Array("<img src='image/btn_misc.gif' width='83' height='11'>","","",3,11,83);
+	Menu9_1=new Array("BoxLOC","loc_boxloc.shtml","",0,20,150);
+	Menu9_2=new Array("Order of Garpike","loc_orderofpike.shtml","",0,20,150);
+	Menu9_3=new Array("Random VT Selector","loc_randomvtselector.shtml","",0,20,150);
+
+Menu10=new Array("<img src='image/btn_comm.gif' width='49' height='11'>","","",2,11,49);
+	Menu10_1=new Array("Contact Us","loc_contact.shtml","",0,20,150);
+	Menu10_2=new Array("Links of Interest","loc_discuss.shtml","",0,20,150);
+
+Menu11=new Array("<img src='image/btn_about.gif' width='63' height='11'>","","",3,11,63);
+	Menu11_1=new Array("About the Site","loc_about.shtml","",0,20,150);
+	Menu11_2=new Array("Site Credits","loc_about.shtml#credits","",0,20,150);
+	Menu11_3=new Array("Sitemap","loc_sitemap.shtml","",0,20,150);
+</script>
+
+<div align="center">
+
+<table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td>&nbsp;</td>
+		<td width="900" height="88" valign="top">
+		
+		<!---begin header and navigation--->
+		<table width="900" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="9" height="79"><img src="image/bg_navhd01.gif" width="9" height="79" border="0" alt=""></td>
+				<td width="105" height="79"><a href="loc_main.shtml"><img src="image/header01.gif" width="105" height="79" border="0" alt="LINEOFCONTACT.NET"></a></td>
+				<td width="8" height="79"><img src="image/bg_navhd02.gif" width="8" height="79" border="0" alt=""></td>
+				<td width="778" height="79">
+				<table width="778" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td width="778" height="41">
+						<table width="778" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="425" height="41" align="left"><img src="image/hdr_icons.gif" width="22" height="41" border="0" alt=""></td>
+								<td width="353" height="41" align="right"><img src="image/hdr_locnet.gif" width="353" height="41" border="0" alt="LINEOFCONTACT.NET - Your Source for Steel Battalion: Line of Contact Information"></td>
+							</tr>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td width="778" height="11">
+						<span id="dropmenu">
+						<table width="778" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="51" height="11"><img src="image/btn_tutorial.gif" width="51" height="11" border="0" alt="TUTORIAL"></td>
+								<td width="82" height="11"><img src="image/btn_vt.gif" width="82" height="11" border="0" alt="VERTICAL TANKS"></td>
+								<td width="81" height="11"><img src="image/btn_config.gif" width="81" height="11" border="0" alt="CONFIGURATION"></td>
+								<td width="55" height="11"><img src="image/btn_testing.gif" width="55" height="11" border="0" alt="TESTING"></td>
+								<td width="94" height="11"><img src="image/btn_tactical.gif" width="94" height="11" border="0" alt="TACTICAL ANALYSIS"></td>
+								<td width="86" height="11"><img src="image/btn_intel.gif" width="86" height="11" border="0" alt="INTEL &amp; BRIEFING"></td>
+								<td width="58" height="11"><img src="image/btn_platform.gif" width="58" height="11" border="0" alt="PLATFORM"></td>
+								<td width="76" height="11"><img src="image/btn_media.gif" width="76" height="11" border="0" alt="MEDIA UPLINK"></td>
+								<td width="83" height="11"><img src="image/btn_misc.gif" width="83" height="11" border="0" alt="MISCELLANEOUS"></td>
+								<td width="49" height="11"><img src="image/btn_comm.gif" width="49" height="11" border="0" alt="COMLINK"></td>
+								<td width="63" height="11"><img src="image/btn_about.gif" width="63" height="11" border="0" alt="ABOUT SITE"></td>
+							</tr>
+						</table>
+						</span>
+						</td>
+					</tr>
+					<tr>
+						<td width="778" height="18">
+						<table width="778" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="51" height="18" background="image/bg_navhd07.gif"></td>
+								<td style="padding-top: 2px; padding-left: 3px;" width="725" height="18" background="image/bg_navhd08_splice.gif"><span class="headline">LATEST NEWS:</span> KEEBLER ON FIRE AGAIN - <span style="font-size: 9px;">Regular LOC times Wed from 8:30pmEST, Sun from 3pm EST</span></td>
+								<td width="2" height="18" background="image/bg_navhd08.gif"></td>
+							</tr>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td width="778" height="9" background="image/bg_navhd05_runner.gif"></td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+			<tr>
+				<td width="9" height="9"><img src="image/bg_navhd03.gif" width="9" height="9" border="0" alt=""></td>
+				<td width="105" height="9" background="image/bg_navhd03_splice.gif"></td>
+				<td width="8" height="9"><img src="image/bg_navhd04.gif" width="8" height="9" border="0" alt=""></td>
+				<td width="778" height="9" align="left"><img src="image/bg_navhd06.gif" width="5" height="9" border="0" alt=""></td>
+			</tr>
+		</table>
+		<!---end header and navigation--->
+		</td>
+		<td>&nbsp;</td>
+	</tr>
+<!---end header navigation include--->
+<!---end navigation include--->
+	<tr>
+		<td>&nbsp;</td>
+		<td width="900" height="40">
+		<div style="height: 9px;"></div>
+		<table width="900" cellspacing="0" cellpadding="0" style="border-style: solid; border-width: 1px; border-color: #000000;">
+			<tr>
+				<td width="106" height="13" background="image/bg_currentdoc.gif"></td>
+				<td class="crumbs" style="padding-left: 5px;" width="794" height="13" bgcolor="#E4E4E4"><a class="crumbs" href="loc_main.shtml">Home</a> &gt; <a class="crumbs" href="loc_platform.shtml">Platform</a> &gt; <a class="crumbs" href="loc_controller.shtml">Controller Reference</a></td>
+			</tr>
+		</table>
+		<div style="height: 18px;"></div>
+		</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td width="900" valign="top">
+		<!---start content area--->
+		<div class="H1">Steel Battalion Controller Reference</div>
+		<br>
+		The original Steel Battalion game was reknowned (or perhaps even infamous) for its impressive controller.  Steel Battalion: Line of Contact adds an additional level of complexity by requiring not only the SB controller but a standard XBox controller and XBox Live communicator headset module.  Below I will describe the function of each control as well as additional notes which may be helpful.
+		<br>
+		<br>
+		<div class="H1"><a href="loc_tutorial_repack.shtml">Repacking Instructions</a> NEW!</div>
+		<br>
+		<div class="H1"><a href="loc_footcontroller_repair.shtml">Foot Controller Repair Tutorial</a></div>
+		<br>
+		05.11.2005 - It has been recently brought to my attention that the footer pedal block that shipped with many of the new "blue button" controllers has a very different design than that of the original controller bundles.  I will be obtaining more detailed information and images soon and post them here.
+		<br>
+		<br>
+		Maintenance, repair and replacement information may be found at the <a href="#maintenance">bottom</a> of this page.
+		<br>
+		<br>
+		<img src="image/controller_complete.jpg" width="640" height="480" border="0" usemap="#Map">
+		<br>
+		<br>
+		<br>
+		<br>
+		<table width="750" border="1" cellpadding="2" cellspacing="0" bordercolor="#000000">
+			<tr bgcolor="CFCFCF">
+				<td width="150">&nbsp;<span class="H1">Control Name</span></td>
+				<td width="190">&nbsp;In-Game</td>
+				<td width="180">&nbsp;Game Menu</td>
+				<td width="180">&nbsp;Replay</td>
+			</tr>
+			<tr>
+				<td width="150">&nbsp;<span class="H1">GEAR LEVER</span></td>
+				<td width="190">Changes the current gear setting, 1 - 5, Neutral and Reverse. Much like a manual transmission automobile, you must build up sufficient RPM/torque before changing gears upwards.  In 5th gear a special "wheel mode" is enabled that allows a VT to travel rapidly, but only over even flat ground or downhill.  Downshifting allows for a "back throttle" braking effect without the need to use the brake pedal and decrease RPM/torque.</td>
+				<td width="180">no effect</td>
+				<td width="180">In "Free Camera" mode, controls the "acceleration" of the free roaming camera.  Reverse makes the camera go backwards, Nuetral stops the camera.  Forward gears are increasing in velocity.</td>
+			</tr>
+			<tr>
+				<td width="150">&nbsp;<span class="H1">ROTATION LEVER</span><br>(left-right)</td>
+				<td width="190">Changes the direction of travel for the VT body.  Note that the upper "torso" of a VT may be pointed/aimed elsewhere.</td>
+				<td width="180">no effect</td>
+				<td width="180">Changes replay menu item selection.</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">SIGHT CHANGE STICK</span><br>
+				&nbsp;(x-y axis)</td>
+				<td width="190">Changes the camera view angle for the main monitor view.</td>
+				<td width="180">no effect</td>
+				<td width="180">Moves the camera angle for external views, changes internal angle in cockpit view.</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">SIGHT CHANGE BUTTON</span><br>
+				&nbsp;(click)</td>
+				<td width="190">Recenters the main monitor view to the current direction of travel.</td>
+				<td width="180">Depending on menu context, selects or deletes the current item.</td>
+				<td width="180">Toggles the CRT effect on/off.</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">FILT CONTROL SYSTEM</span><br>
+				&nbsp;Toggle Switch
+				</td>
+				<td width="190">Toggle ON to initiate the startup sequence of the VT.  If toggled OFF while VT is online, causes the battery recovery time to be slower.  Toggling the switch off in combination with the other toggle switches enables Stealth/Shutdown mode.</td>
+				<td width="180">no effect</td>
+				<td width="180">no effect</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">OXYGEN SUPPLY SYSTEM</span><br>
+				&nbsp;Toggle Switch
+				</td>
+				<td width="190">Toggle ON to initiate the startup sequence of the VT.  If toggled OFF while VT is online, causes the oxygen supply to shut off, after 30 seconds the screen will start to go white and a "gasping" sound can be heard.  Pilot death will result if the oxygen is not restored.  Toggling the switch off in combination with the other toggle switches enables Stealth/Shutdown mode.</td>
+				<td width="180">no effect</td>
+				<td width="180">no effect</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">FUEL FLOW RATE</span><br>
+				&nbsp;Toggle Switch
+				</td>
+				<td width="190">Toggle ON to initiate the startup sequence of the VT.  If toggled OFF while VT is online, causes the VT to use fuel a 3x the normal rate.  Toggling the switch off in combination with the other toggle switches enables Stealth/Shutdown mode.</td>
+				<td width="180">no effect</td>
+				<td width="180">no effect</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">BUFFER MATERIAL</span><br>
+				&nbsp;Toggle Switch
+				</td>
+				<td width="190">Toggle ON to initiate the startup sequence of the VT.  If toggled OFF while VT is online, causes the view angle to dip down and extreme vibration and distortion in the camera view when movement is made.  Toggling the switch off in combination with the other toggle switches enables Stealth/Shutdown mode.</td>
+				<td width="180">no effect</td>
+				<td width="180">no effect</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">VT-LOCATION MEASUREMENT</span><br>
+				&nbsp;Toggle Switch
+				</td>
+				<td width="190">Toggle ON to initiate the startup sequence of the VT.  If toggled OFF while VT is online, causes the radar display on the multimonitor to go intermittently static, disabling its usefulness.  Toggling the switch off in combination with the other toggle switches enables Stealth/Shutdown mode.</td>
+				<td width="180">no effect</td>
+				<td width="180">no effect</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">COMMUNICATION<br>&nbsp;BUTTONS</span><br>
+				&nbsp;1 - 5
+				</td>
+				<td width="190">
+				Button 1 opens communication to selected teammate.<br>
+				Button 2 closes currently active communication.<br>
+				Button 3 switches to an incoming communication request.<br>
+				Button 4 pauses playback of the boombox playlist (if tracks were queued prior to the mission).<br>
+				Button 5 advances to the next track on the boombox playlist (if tracks were queued prior to the mission).<br>
+			  </td>
+				<td width="180">no effect</td>
+				<td width="180">no effect</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">TUNER DIAL</span>
+				</td>
+				<td width="190">
+				Used to change communication channels between teammates.  The dial starts at position 1, which is equivalent to "9 o'clock" or directly left.  Full details on the use of the communication functions are available <a href="loc_communication.shtml">here</a>.
+				</td>
+				<td width="180">no effect</td>
+				<td width="180">no effect</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">FUNCTION SWITCH</span><br>
+				&nbsp;F1
+				</td>
+				<td width="190">
+				For certain VTs, this serves a specific function.  For the <a href="ds_prominenceM2.shtml">Prominence M2</a> this ejects the Optional Armour.  For VTs with a sniper rifle equipped, the F1 button toggles sniper mode zoom.
+				</td>
+				<td width="180">no effect</td>
+				<td width="180">Pauses playback.</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">FUNCTION SWITCH</span><br>
+				&nbsp;F2
+				</td>
+				<td width="190">Zooms the pilot view to the multi-monitor display, effectively "leaning in" for a closer view.</td>
+				<td width="180">no effect</td>
+				<td width="180">Changes selected pilot.</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">FUNCTION SWITCH</span><br>
+				&nbsp;F3
+				</td>
+				<td width="190">Zooms the pilot view to the sub-monitor display, effectively "leaning in" for a closer view.</td>
+				<td width="180">no effect</td>
+				<td width="180">Toggles overview map.</td>
+			</tr>
+			<tr>
+				<td width="150">&nbsp;<span class="H1">TANK DETACH</span></td>
+				<td width="190">Drops additional fuel tanks if enabled on the current configuration.  If two tanks are fitted, it will drop them individually, requiring two presses.  Blinks when the current sub-tank is empty.</td>
+				<td width="180">&nbsp;</td>
+				<td width="180">Increments playback speed from 1x - 10x</td>
+			</tr>
+			<tr>
+				<td width="150">&nbsp;<span class="H1">OVERRIDE</span></td>
+				<td width="190">Disables the safety limiters on the hydrolic systems allowing for faster movement and quicker battery recovery time.  Also consumes fuel at 10x the normal rate when enabled.</td>
+				<td width="180">&nbsp;</td>
+				<td width="180">Toggles through playback effects.</td>
+			</tr>
+			<tr>
+				<td width="150">&nbsp;<span class="H1">NIGHT SCOPE</span></td>
+				<td width="190">Enables the night vision camera.  Reduces the effective visual range to less than 500m, but allows for navigation in near total darkness.  Explosion flashes can overload the camera causing temporary white out blindness.</td>
+				<td width="180">no effect</td>
+				<td width="180">Toggles Sub-Monitor overlay view on/off.</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">F.S.S.</span><br>
+				&nbsp;Forecast Shooting System
+				</td>
+				<td width="190">Enables the <a href="loc_glossary.shtml#FSS">F.S.S.</a> systems on 2nd and 3rd generation VTs.</td>
+				<td width="180">no effect</td>
+				<td width="180">Changes the camera type.</td>
+			</tr>
+			<tr>
+				<td width="150">&nbsp;<span class="H1">MANIPULATOR</span></td>
+				<td width="190">Deploys the manipulator arm.  Useful for picking up cargo and triggering door controls.  While deployed use of all sub-weapons is disabled.</td>
+				<td width="180">no effect</td>
+				<td width="180">Toggles cockpit view.</td>
+			</tr>
+			<tr>
+				<td width="150">&nbsp;<span class="H1">LINE COLOR CHANGE</span></td>
+				<td width="190">Cycles through the possible HUD line colours.  Useful against certain backgrounds.</td>
+				<td width="180">no effect</td>
+				<td width="180">Switches focus to Exit menu option.</td>
+			</tr>
+			<tr>
+				<td width="150">&nbsp;<span class="H1">WASHING</span></td>
+				<td width="190">Removes debris from the main view camera.  Multiple uses may be required for severe occlusion.  Flashes when needed.</td>
+				<td width="180">no effect</td>
+				<td width="180">no effect</td>
+			</tr>
+			<tr>
+				<td width="150">&nbsp;<span class="H1">EXTINGUISHER</span></td>
+				<td width="190">Sprays flame retardant chemicals into the hull and cockpit to prevent fire damage.  Flashes when needed.</td>
+				<td width="180">no effect</td>
+				<td width="180">no effect</td>
+			</tr>
+			<tr>
+				<td width="150">&nbsp;<span class="H1">CHAFF</span></td>
+				<td width="190">Deploys a combination of metalic particles and heat flares to confuse the guidance systems of self-guided missiles.  Only effective for a single salvo.  Blinks when required.  Must be deployed with sufficient time before impact or missiles may not veer far enough from target and still hit.</td>
+				<td width="180">no effect</td>
+				<td width="180">no effect</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">MAIN</span><br>
+				&nbsp;weapon control</td>
+				<td width="190">Cycles through the available Main Weapons current loaded.</td>
+				<td width="180">no effect</td>
+				<td width="180">no effect</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">SUB</span><br>
+				&nbsp;weapon control
+				</td>
+				<td width="190">Cycles through the available Sub Weapons currently loaded.</td>
+				<td width="180">no effect</td>
+				<td width="180">no effect</td>
+			</tr>
+			<tr>
+				<td width="150">&nbsp;<span class="H1">MAGAZINE CHANGE</span></td>
+				<td width="190">Ejects the current Main Weapon magazine (with remaining ammunition in the clip) for multiple magazine weapons.  Pressed repeatedly in combination with the Main Weapon trigger will perform a <a href="loc_exploit.shtml">"clip dump"</a>.</td>
+				<td width="180">no effect</td>
+				<td width="180">Toggles Control Menu hide/display.</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">AIMING LEVER</span><br>
+				&nbsp;(x-y axis)
+				</td>
+				<td width="190">Moves the targetting reticule and thus aims the weapon systems of the VT.</td>
+				<td width="180">no effect</td>
+				<td width="180">In "Free Camera" mode, controls the direction of movement for the camera.  Control is very similar to a flight-sim stick.</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">MAIN WEAPON</span>
+				</td>
+				<td width="190">Fires the current Main Weapon.</td>
+				<td width="180">Selects the current option (menu dependent).</td>
+				<td width="180">Select current menu option.</td>
+			</tr>
+			<tr>
+				<td width="150">&nbsp;<span class="H1">LOCK ON</span></td>
+				<td width="190">Locks the weapon systems on enemy VTs within targetting range when the targetting reticule is passed over them.  Press again to release the lock.  Locking onto an enemy displays the WARN indicator on their HUD.</td>
+				<td width="180">Cancels the current selection (menu dependent).  Can also be used to back out of menus.  Context dependent.</td>
+				<td width="180">Toggles cockpit view.</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">SUB WEAPON</span><br>
+				&nbsp;trigger
+				</td>
+				<td width="190">Fires the current Sub Weapon.  Certain weapons may require this button be held to "charge" them.</td>
+				<td width="180">Varies.  Can display statistics information or player inventory sheets.</td>
+				<td width="180">Toggles Control Menu hide/display.</td>
+			</tr>
+			<tr>
+				<td width="150">&nbsp;<span class="H1">EJECT-CMD</span></td>
+				<td width="190">Ejects the pilot from the current VT.  Works while shut down, on fire, underwater or lying down.  The current VT is lost.</td>
+				<td width="180">In certain contexts can cancel a selection.</td>
+				<td width="180">Displays pilot and VT information, weapon loadout and optional parts, second toggle displays scrolling game credits.</td>
+			</tr>
+			<tr>
+				<td width="150">&nbsp;<span class="H1">COCKPIT HATCH</span></td>
+				<td width="190">Closes the cockpit hatch of the VT.  The first step in starting up.  Does NOT reopen the hatch if pressed again.</td>
+				<td width="180">no effect</td>
+				<td width="180">no effect</td>
+			</tr>
+			<tr>
+				<td width="150">&nbsp;<span class="H1">IGNITION</span></td>
+				<td width="190">Initialises the VT operating system.</td>
+				<td width="180">no effect</td>
+				<td width="180">no effect</td>
+			</tr>
+			<tr>
+				<td width="150">&nbsp;<span class="H1">START</span></td>
+				<td width="190">
+				After all toggle switches have been activated, joint actuators are brought online in a "sliding meter" display.  Once all meters have passed the nominal line the START button is pressed to lock in the actuators, stand up the VT and bring the final systems online.  If pressed with any of the meters below nominal a lock failure will result and the meters will re-initialise at their minimum level.
+				<br>
+				<br>
+				After a VT has been started, the START button may be pressed in combination with the SUB-MONITOR MODE SELECT, MULTI-MONITOR MAP ZOOM IN/OUT or MULTI-MONITOR MODE SELECT buttons to reverse cycle the various display or informational views.
+			  </td>
+				<td width="180">no effect</td>
+				<td width="180">no effect</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">OPEN/CLOSE</span><br>
+				&nbsp;multimonitor
+				</td>
+				<td width="190">Opens and Closes the MULTI MONITOR display panel, allowing for a larger view area on the main screen, but without the additional information or map views.  For second generation support VTs, the display is stowed to the side but still viewable at an angle.</td>
+				<td width="180">no effect</td>
+				<td width="180">no effect</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">MAP ZOOM IN/OUT</span><br>
+				&nbsp;multimonitor
+				</td>
+				<td width="190">Cycles through the three map magnifications available (approximately 500m, 2000m and whole map radii).</td>
+				<td width="180">no effect</td>
+				<td width="180">Sub Monitor view map magnifcation (three levels)</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">MODE SELECT</span><br>
+				&nbsp;multimonitor
+				</td>
+				<td width="190">Cycles through the available MULTI MONITOR map and informational displays.</td>
+				<td width="180">no effect</td>
+				<td width="180">Sub Monitor view function.</td>
+			</tr>
+			<tr>
+				<td width="150">&nbsp;<span class="H1">SUB MONITOR MODE<br>&nbsp;SELECT</span></td>
+				<td width="190">Cycles through the available SUB MONITOR views (live camera, lock-on, missile, front, rear, sky).</td>
+				<td width="180">no effect</td>
+				<td width="180">Sub monitor view function.</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">IN</span><br>
+				&nbsp;MAIN MONITOR ZOOM
+				</td>
+				<td width="190">Zooms the main monitor view in, centered on the VT centerline.</td>
+				<td width="180">no effect</td>
+				<td width="180">Camera zoom in.</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">OUT</span><br>
+				&nbsp;MAIN MONITOR ZOOM
+				</td>
+				<td width="190">Zooms the main monitor view out, centered on the VT centerline.</td>
+				<td width="180">no effect</td>
+				<td width="180">Camera zoom out.</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">ACCELERATOR PEDAL</span>
+				</td>
+				<td width="190">Applies power to the leg transmission assembly, generating torque and allowing movement (direction dependent on current gear selected).</td>
+				<td width="180">no effect</td>
+				<td width="180">Performs lateral movement to the right when in Free Camera mode.</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">BRAKE PEDAL</span>
+				</td>
+				<td width="190">Applies frictional damping to the leg transmission assembly, slowing VT movement.</td>
+				<td width="180">no effect</td>
+				<td width="180">no effect</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">SLIDESTEP PEDAL</span>
+				</td>
+				<td width="190">Allows rapid movement at the expense of battery reserve power.  Works in combination with the current gear shift setting (forward, neutral or reverse) and the rotation level (left or right) to determine direction of movement.  The pedal is pressure sensitive, a small tap will result in a small movement with lesser use of battery power, a fully depressed slidestep will result in a large dodge but at the expense of nearly all battery reserve.  Diagonal slidesteps may be performed by using the accelerator pedal in combination with the rotation lever and the gearshift setting.</td>
+				<td width="180">no effect</td>
+				<td width="180">Performs lateral movement to the left when in Free Camera mode.</td>
+			</tr>
+			<tr bgcolor="CFCFCF">
+				<td width="150">&nbsp;<span class="H1">Control Name</span></td>
+				<td width="190">&nbsp;In-Game</td>
+				<td width="180">&nbsp;Game Menu</td>
+				<td width="180">&nbsp;Replay</td>
+			</tr>
+			<tr>
+				<td width="150"><img src="image/controller_stdbutton_green.jpg" width="21" height="21"></td>
+				<td width="190">no effect</td>
+				<td width="180">Selects the current option</td>
+				<td width="180">Selects the current option</td>
+			</tr>
+			<tr>
+				<td width="150"><img src="image/controller_stdbutton_red.jpg" width="21" height="21"></td>
+				<td width="190">no effect</td>
+				<td width="180">Cancels current selection or action</td>
+				<td width="180">Cancels current selection or action</td>
+			</tr>
+			<tr>
+				<td width="150"><img src="image/controller_stdbutton_blue.jpg" width="21" height="21"></td>
+				<td width="190">no effect</td>
+				<td width="180">Context dependent, usually delete functionality</td>
+				<td width="180">Deletes replays (from the main replay menu)</td>
+			</tr>
+			<tr>
+				<td><img src="image/controller_stdbutton_yellow.jpg" width="21" height="21"></td>
+				<td width="190">no effect</td>
+				<td width="180">Toggles information views</td>
+				<td width="180">Toggles information views</td>
+			</tr>
+			<tr>
+				<td><img src="image/controller_stdbutton_white.jpg" width="21" height="21"></td>
+				<td width="190">no effect</td>
+				<td width="180">Zooms in on Map View</td>
+				<td width="180">Zooms in on Map View</td>
+			</tr>
+			<tr>
+				<td><img src="image/controller_stdbutton_black.jpg" width="21" height="21"></td>
+				<td width="190">no effect</td>
+				<td width="180">Zooms out on Map View</td>
+				<td width="180">Zooms out on Map View</td>
+			</tr>
+			<tr>
+				<td>&nbsp;<span class="H1">D-PAD</span></td>
+				<td width="190">no effect</td>
+				<td width="180">Menu selection control</td>
+				<td width="180">Menu selection control</td>
+			</tr>
+			<tr>
+				<td>&nbsp;<span class="H1">START</span></td>
+				<td width="190">Opens XBox Live Friends List Options</td>
+				<td width="180">Opens XBox Live Friends List Options</td>
+				<td width="180">Opens XBox Live Friends List Options.  Note that a bug in the Replay Menu will not let a player join a game without first navigating out of Replay Mode.</td>
+			</tr>
+			<tr>
+				<td>&nbsp;<span class="H1">BACK</span></td>
+				<td width="190">no effect</td>
+				<td width="180">no effect</td>
+				<td width="180">no effect</td>
+			</tr>
+			<tr>
+				<td>
+				&nbsp;<span class="H1">LEFT THUMBSTICK</span><br>
+				&nbsp;(x-y axis)
+				</td>
+				<td width="190">no effect</td>
+				<td width="180">menu item selection control</td>
+				<td width="180">menu item selection control</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">LEFT THUMBSTICK</span><br>
+				&nbsp;(click button)
+				</td>
+				<td width="190">no effect</td>
+				<td width="180">Hides/Shows information layers in menus</td>
+				<td width="180">Toggles CRT effect</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">RIGHT THUMBSTICK</span><br>
+				&nbsp;(x-y axis)
+				</td>
+				<td width="190">no effect</td>
+				<td width="180">Controls view center on map display</td>
+				<td width="180">no effect</td>
+			</tr>
+			<tr>
+				<td>
+				&nbsp;<span class="H1">RIGHT THUMBSTICK</span><br>
+				&nbsp;(click button)
+				</td>
+				<td width="190">Recenters Map View (sortie room only)</td>
+				<td width="180">Recenters Map View</td>
+				<td width="180">Cycles through informational sub-screen views</td>
+			</tr>
+			<tr>
+				<td>&nbsp;<span class="H1">LEFT TRIGGER</span></td>
+				<td width="190">no effect</td>
+				<td width="180">no effect</td>
+				<td width="180">Strafe left in Free Camera mode.</td>
+			</tr>
+			<tr>
+				<td>&nbsp;<span class="H1">RIGHT TRIGGER</span></td>
+				<td width="190">Displays pilot information pages (ID Card Tabs) (sortie room only)</td>
+				<td width="180">Displays pilot information pages (ID Card Tabs)</td>
+				<td width="180">Strafe right in Free Camera mode.</td>
+			</tr>
+			<tr bgcolor="CFCFCF">
+				<td width="150">&nbsp;<span class="H1">Control Name</span></td>
+				<td width="190">&nbsp;In-Game</td>
+				<td width="180">&nbsp;Game Menu</td>
+				<td width="180">&nbsp;Replay</td>
+			</tr>
+			<tr>
+				<td>&nbsp;<span class="H1">MUTE</span></td>
+				<td width="190">Mutes the microphone.</td>
+				<td width="180">no effect</td>
+				<td width="180">no effect</td>
+			</tr>
+			<tr>
+				<td>&nbsp;<span class="H1">VOLUME</span></td>
+				<td width="190">Controls the communicator headphone volume.</td>
+				<td width="180">no effect</td>
+				<td width="180">no effect</td>
+			</tr>
+		</table>
+		<br>
+		<br>
+		<a name="maintenance"></a>
+		<div class="H1">Care and Maintenance for the Steel Battalion Controller</div>
+		<br>
+		Primary failures on the Steel Battalion controller from normal use are wear are broken footpedal springs, snapped toggle switches and malfunctioning view-hat thumbsticks.
+		<br>
+		<br>
+		While under the original 90-day warranty, <a href="http://www.sammyusa.com/" target="_blank">Sammy USA</a> will replace defective block components free of charge (user must pay shipping).  After the warranty period, Sammy will sell individual block units for $40 USD, plus shipping.
+		<br>
+		<br>
+		<a href="loc_SBwarranty.html" target="_blank">Warranty Information</a> - this information is also available on the <a href="http://www.capcom.com/SB/SB_warranty.html" target="_blank">Capcom USA Steel Battalion</a> page.  Unfortunately, the <a href="http://www.sammyusa.com/" target="_blank">Sammy USA website</a> contains no information specifically about the <span class="italic">Steel Battalion</span> controller.  In order to obtain replacement blocks, you must call one of the following:<br>
+		<div class="H1">1-888-877-2669</div>
+		<br>
+		This information applies to North America only, players in other world regions should contact the entity from which they purchased their bundle originally, or the <a href="http://www.capcom.com/" target="_blank">Capcom</a> division in their region.
+		<br>
+		<br>
+		If capable, a user may perform some repairs on their controller after the warranty period has passed should they so desire.
+		<br>
+		<br>
+		<span class="H1italic">Please note that this advice and information is given without warranty.  Any damage incurred is the responsibility of the controller owner and this website and its authors cannot be held accountable.</span>
+		<br>
+		<br>
+		After having replaced accelerator springs twice now, I would suggest the following preventive maintenance for everyone. 
+		<br>
+		<br>
+		Purchase a tube of white lithium thermal grease (the kind for hi-temp automobile applications) and liberally apply it to the springs inside the controller at least once every few months. The springs fail due to a combination of mechanical and thermal stress, applying additional grease will help disperse some of the heat and reduce self-friction between the spring coils. Just be sure not to get any grease into the poteniometer sensors. DO NOT use WD-40 or graphite powder as either one of these can lead to corrosion or circuit failures.
+		<br>
+		<br>
+		Broken toggle switches can usually be fixed with strong adhesives like SuperGlue.  If the toggle has broken off at its base, a small pilot hole can be drilled into the base and the toggle body to allow for joining pin insertion (with glue).  This IS a delicate procedure and should only be undertaken by someone with the proper tools (I suggest a Dremel tool for the job) and experience with precision drilling and assembly.
+		<br>
+		<br>
+		Broken view-hat controls are usually the result of the data wires inside the left control stick being pulled away from the X-Y axis data solder points.  Repair requires that the entire left joystic be disassembled and the wires re-soldered using a low wattage iron.  This is delicate work as the controller assembly is quite fragile and can be destroyed by too much heat.  Suggested only for those with IC soldering experience.
+		<br>
+		<br>
+		Broken <a href="image/controller_springs.jpg" target="_blank">foot pedal springs</a> are probably the most common failure in the Steel Battaltion controller.  For a while, <a href="http://www.sammyusa.com/" target="_blank">Sammy USA</a> was supplying replacement springs free of charge, then they started charging $5 USD to cover shipping costs.  There have been reports that they no longer sell spring assemblies individually to private consumers.  If you can find comparable torsion type springs at a hardware store they may work.  Many players have reported "cannibalising" one of the brake pedal springs to use on the accelerator pedal as they are all the same size.  The brake is not used nearly as much as either the accelerator or slidestep pedal and will function properly with only one spring (ableit, with less resistance).
+		<br>
+		<br>
+		<span class="H1">The Steel Battalion Foot Controller Repair Tutorial is now available <a href="loc_footcontroller_repair.shtml">here</a>.</span>
+		<br>
+		<map name="Map">
+			<area shape="poly" coords="17,203,8,189,8,179,120,153,114,169,119,183,132,186,150,181,158,167,154,154,148,149,188,142,201,198,175,200,165,205,164,216,168,231,178,254,186,270,34,306,25,287" href="image/controller_leftblock.jpg" target="_blank" alt="Right Block">
+			<area shape="poly" coords="437,131,495,139,489,155,498,170,515,179,523,174,526,160,526,157,533,144,602,152,611,259,602,277,488,261,492,227,493,205,487,196,473,193,446,193,436,194,427,202" href="image/controller_rightblock.jpg" target="_blank" alt="Right Block">
+			<area shape="poly" coords="172,438,182,346,180,334,186,281,188,271,166,217,168,205,186,202,212,203,218,209,232,242,266,245,290,232,303,234,304,209,313,203,324,202,358,203,366,209,367,220,365,232,427,234,431,214,431,202,440,198,478,196,491,200,491,218,485,265,479,311,479,317,483,335,481,349,495,437,494,454,172,455" href="image/controller_foot.jpg" target="_blank" alt="Foot Controller">
+			<area shape="poly" coords="197,154,209,198,218,202,233,238,265,242,287,230,302,230,302,208,311,199,357,199,371,210,370,229,407,230,420,231,430,142,395,130,395,109,391,106,236,112,233,134,199,149" href="image/controller_centerblock.jpg" target="_blank" alt="Center Block">
+			<area shape="poly" coords="136,184,148,176,153,166,149,151,145,147,134,130,139,109,131,94,134,83,125,58,115,52,95,57,91,65,89,81,93,94,108,108,119,152,117,169,121,181" href="image/controller_rotation.jpg" target="_blank" alt="Rotation Lever">
+			<area shape="poly" coords="501,171,518,174,522,159,533,141,553,108,560,107,569,101,579,85,579,72,575,61,559,52,542,60,541,86,532,91,523,99,522,115,505,137,499,138,493,152,494,160" href="image/controller_aiming.jpg" target="_blank" alt="Aiming Lever">
+			<area shape="rect" coords="9,339,165,428" href="image/controller_standard.jpg" target="_blank" alt="Standard XBox Controller">
+			<area shape="rect" coords="502,315,628,400" href="image/controller_headset.jpg" target="_blank" alt="XBox Live Headset">
+		</map>
+		<div class="footer" align="right">This file was last updated Saturday, 29-Nov-2008 14:55:55 PST</div><br>
+		<!---end content area--->
+		</td>
+		<td>&nbsp;</td>
+	</tr>
+<!---begin footer include--->
+<!---start footer include--->
+<tr>
+	<td style="background-repeat: repeat-x;" bgcolor="#EEEEEE" background="image/bg_footer.gif">&nbsp;</td>
+	<td width="900" valign="top" height="50" style="background-repeat: repeat-x;" bgcolor="#EEEEEE" background="image/bg_footer.gif">
+	<div class="footer" align="center"><a class="footer" href="loc_vt.shtml">Vertical Tanks</a> &nbsp; || &nbsp; <a class="footer" href="loc_weapon.shtml">Weapons</a> &nbsp; || &nbsp; <a class="footer" href="loc_mission.shtml">Missions</a> &nbsp; || &nbsp; <a class="footer" href="loc_contact.shtml">Contact</a> &nbsp; || &nbsp; <a class="footer" href="loc_about.shtml">About</a> &nbsp; || &nbsp; <a class="footer" href="loc_sitemap.shtml">Sitemap</a> &nbsp; || &nbsp; <a class="footer" href="loc_main.shtml">Home</a></div>
+	</td>
+	<td style="background-repeat: repeat-x;" bgcolor="#EEEEEE" background="image/bg_footer.gif">&nbsp;</td>
+</tr>
+<!---end footer include--->
+<!---end footer include--->
+</table>
+
+</div>
+
+</body>
+
+
+<!-- Mirrored from lineofcontact.net/loc_controller.shtml by HTTrack Website Copier/3.x [XR&CO'2010], Thu, 06 May 2010 16:43:46 GMT -->
+</html>

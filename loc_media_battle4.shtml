@@ -1,0 +1,584 @@
+<html>
+
+<!-- Mirrored from lineofcontact.net/loc_media_battle4.shtml by HTTrack Website Copier/3.x [XR&CO'2010], Thu, 06 May 2010 16:52:14 GMT -->
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<title>LINEOFCONTACT.NET :: STEEL BATTALION: LINE OF CONTACT INFORMATION</title>
+
+<link rel=StyleSheet href="css/locnet.css" TYPE="text/css" media="screen">
+
+</head>
+
+<body topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0">
+<!---begin navigation include--->
+<!---start header navigation include--->
+<a name="#top"></a>
+<script type='text/javascript'>
+function Go(){return}
+</script>
+<script type='text/javascript' src='_js/main.js'></script>
+
+<script language="JavaScript">
+// Menu tree
+//	MenuX=new Array(Text to show, Link, background image (optional), number of sub elements, height, width);
+//	For rollover images set "Text to show" to:  "rollover:Image1.jpg:Image2.jpg"
+
+Menu1=new Array("<img src='image/btn_tutorial.gif' width='51' height='11'>","","",13,11,51);
+	Menu1_1=new Array("Tutorial Overview","loc_tutorial.shtml","",0,20,120);
+	Menu1_2=new Array("Create A Pilot","loc_newpilot.shtml","",0,20,120);
+	Menu1_3=new Array("New Pilot Advice","loc_advice.shtml","",0,20,120);
+	Menu1_4=new Array("Controlling VTs","loc_vtcontrol.shtml","",0,20,120);
+	Menu1_5=new Array("Starting a Game","loc_newgame.shtml","",0,20,120);
+	Menu1_6=new Array("Chat & Trade Tutorial","loc_tradechat.shtml","",0,20,120);
+	Menu1_7=new Array("Communication Tutorial","loc_communication.shtml","",0,20,120);
+	Menu1_8=new Array("Artillery Tutorial","loc_tutorial_artillery.shtml","",0,20,120);
+	Menu1_9=new Array("Sniper Tutorial","loc_tutorial_sniper.shtml","",0,20,120);
+	Menu1_10=new Array("Repacking Tutorial","loc_tutorial_repack.shtml","",0,20,120);
+	Menu1_11=new Array("Foot Controller Repair","loc_footcontroller_repair.shtml","",0,20,120);
+	Menu1_12=new Array("Insignia Tool","loc_tutorial_insigniatool.shtml","",0,20,120);
+	Menu1_13=new Array("Unlock Code","loc_unlockcode.shtml","",0,20,120);
+
+Menu2=new Array("<img src='image/btn_vt.gif' width='82' height='11'>","","",9,11,82);
+	Menu2_1=new Array("VT Overview","loc_vt.shtml","",0,20,130);
+	Menu2_2=new Array("Hai Shi Dao VTs","","",3,20,130);
+		Menu2_2_1=new Array("1st Generation VTs","","",5,20,110);
+			Menu2_2_1_1=new Array("Vitzh","ds_vitzh.shtml","",0,20,100);
+			Menu2_2_1_2=new Array("Vortex","ds_vortex.shtml","",0,20,100);
+			Menu2_2_1_3=new Array("m-Vitzh","ds_m-vitzh.shtml","",0,20,100);
+			Menu2_2_1_4=new Array("Scare Face","ds_scareface.shtml","",0,20,100);
+			Menu2_2_1_5=new Array("Scare Face A1","ds_scarefacea1.shtml","",0,20,100);
+		Menu2_2_2=new Array("2nd Generation VTs","","",4,20,110);
+			Menu2_2_2_1=new Array("Scare Face II","ds_scareface2.shtml","",0,20,110);
+			Menu2_2_2_2=new Array("Maelstrom","ds_maelstrom.shtml","",0,20,110);
+			Menu2_2_2_3=new Array("Garpike","ds_garpike.shtml","",0,20,110);
+			Menu2_2_2_4=new Array("Behemoth","ds_behemoth.shtml","",0,20,110);
+		Menu2_2_3=new Array("3rd Generation VTs","","",3,20,130);
+			Menu2_2_3_1=new Array("Regal Dress N","ds_regaldress_N.shtml","",0,20,110);
+			Menu2_2_3_2=new Array("Regal Dress A","ds_regaldress_A.shtml","",0,20,110);
+			Menu2_2_3_3=new Array("Juggernaut","ds_juggernaut.shtml","",0,20,110);
+	Menu2_3=new Array("Pacific Rim Forces VTs","","",3,20,130);
+		Menu2_3_1=new Array("1st Generation VTs","","",3,20,110);
+			Menu2_3_1_1=new Array("Decider","ds_decider.shtml","",0,20,110);
+			Menu2_3_1_2=new Array("Falchion","ds_falchion.shtml","",0,20,110);
+			Menu2_3_1_3=new Array("Decider Volcanic","ds_decidervolcanic.shtml","",0,20,110);
+		Menu2_3_2=new Array("2nd Generation VTs","","",5,20,110);
+			Menu2_3_2_1=new Array("Blade","ds_blade.shtml","",0,20,110);
+			Menu2_3_2_2=new Array("Prominence M1","ds_prominenceM1.shtml","",0,20,110);
+			Menu2_3_2_3=new Array("Rapier","ds_rapier.shtml","",0,20,110);
+			Menu2_3_2_4=new Array("Prominence M2","ds_prominenceM2.shtml","",0,20,110);
+			Menu2_3_2_5=new Array("Prominence M3","ds_prominenceM3.shtml","",0,20,110);
+		Menu2_3_3=new Array("3rd Generation VTs","","",1,20,110);
+			Menu2_3_3_1=new Array("Quasar","ds_quasar.shtml","",0,20,110);
+	Menu2_4=new Array("Right Brothers VTs","","",3,20,130);
+		Menu2_4_1=new Array("1st Generation VTs","","",2,20,110);
+			Menu2_4_1_1=new Array("Colt","ds_colt.shtml","",0,20,110);
+			Menu2_4_1_2=new Array("Colt Executive","ds_coltexecutive.shtml","",0,20,110);
+		Menu2_4_2=new Array("2nd Generation VTs","","",3,20,110);
+			Menu2_4_2_1=new Array("Yellow Jacket","ds_yellowjacket.shtml","",0,20,110);
+			Menu2_4_2_2=new Array("Siegeszug","ds_siegeszug.shtml","",0,20,110);
+			Menu2_4_2_3=new Array("Sheepdog","ds_sheepdog.shtml","",0,20,110);
+		Menu2_4_3=new Array("3rd Generation VTs","","",1,20,110);
+			Menu2_4_3_1=new Array("Earthshaker","ds_earthshaker.shtml","",0,20,110);
+	Menu2_5=new Array("Jaralaccs Mercenary VTs","","",1,20,130);
+		Menu2_5_1=new Array("2nd Generation VTs","","",4,20,110);
+			Menu2_5_1_1=new Array("Jaralaccs C","ds_jaralaccsC.shtml","",0,20,110);
+			Menu2_5_1_2=new Array("Jaralaccs N","ds_jaralaccsN.shtml","",0,20,110);
+			Menu2_5_1_3=new Array("Jaralaccs NS-R","ds_jaralaccsNS-R.shtml","",0,20,110);
+			Menu2_5_1_4=new Array("Jaralaccs Macabre","ds_jaralaccs_macabre.shtml","",0,20,110);
+	Menu2_6=new Array("VT Manufacturers","loc_manunav.shtml","",0,20,130);
+	Menu2_7=new Array("VT Comparissons","loc_vtcompare.shtml","",0,20,130);
+	Menu2_8=new Array("Cockpit Reference","loc_cockpits.shtml","",6,20,130);
+		Menu2_8_1=new Array("1st Gen - Standard","loc_cockpits_g1.shtml","",0,20,120);
+		Menu2_8_2=new Array("1st Gen - Support","loc_cockpits_g1s.shtml","",0,20,120);
+		Menu2_8_3=new Array("2nd Gen - Standard","loc_cockpits_g2.shtml","",0,20,120);
+		Menu2_8_4=new Array("2nd Gen - Support","loc_cockpits_g2s.shtml","",0,20,120);
+		Menu2_8_5=new Array("2nd Gen - Jaralaccs","loc_cockpits_g2j.shtml","",0,20,120);
+		Menu2_8_6=new Array("3rd Gen - Standard","loc_cockpits_g3.shtml","",0,20,120);
+	Menu2_9=new Array("VT Customisation","loc_vtcustom.shtml","",0,20,130);
+	
+Menu3=new Array("<img src='image/btn_config.gif' width='81' height='11'>","","",5,11,81);
+	Menu3_1=new Array("Weapon Information","loc_weapon.shtml","",0,20,130);
+	Menu3_2=new Array("Weapon Summary","loc_weapon_summary.shtml","",0,20,130);
+	Menu3_3=new Array("Weapon Configuration","loc_weaponconfig.shtml","",0,20,130);
+	Menu3_4=new Array("Optional Parts","loc_optionalparts.shtml","",0,20,130);
+	Menu3_5=new Array("Weapon Range Compare","loc_rangecompare.shtml","",0,20,130);
+	
+Menu4=new Array("<img src='image/btn_testing.gif' width='55' height='11'>","","",9,11,55);
+	Menu4_1=new Array("Testing & Results","loc_testing.shtml","",0,20,200);
+	Menu4_2=new Array("Loadout Weight Effect on Turning","loc_testing_turnweighteffect.shtml","",0,20,200);
+	Menu4_3=new Array("Vertical Tank Rise Time","loc_testing_vt_risetime.shtml","",0,20,200);
+	Menu4_4=new Array("Platform and Leg Durability","loc_testing_dur.shtml","",0,20,200);
+	Menu4_5=new Array("Vertical Tank Distance Modifiers","loc_testing_distancemod.shtml","",0,20,200);
+	Menu4_6=new Array("Vertical Tank Turning Performance","loc_testing_turn.shtml","",0,20,200);
+	Menu4_7=new Array("Vertical Tank Acceleration Testing","loc_testing_speed.shtml","",0,20,200);
+	Menu4_8=new Array("Guided Missile Testing","loc_testing_guidedmissile.shtml","",0,20,200);
+	Menu4_9=new Array("Torque Performance on Terrain","loc_testing_crossgear.shtml","",0,20,200);
+	
+Menu5=new Array("<img src='image/btn_tactical.gif' width='94' height='11'>","","",3,11,94);
+	Menu5_1=new Array("Sortie Points","loc_sortiepoints.shtml","",0,20,120);
+	Menu5_2=new Array("Gameplay","loc_gameplay.shtml","",0,20,120);
+	Menu5_3=new Array("Mission Information","loc_mission.shtml","",25,20,120);
+		Menu5_3_1=new Array("Mission 00 - Live Ammunition Training Grounds","loc_mission00.shtml","",0,20,300);
+		Menu5_3_2=new Array("Mission 01 - Sha Wan Hills","loc_mission01.shtml","",0,20,300);
+		Menu5_3_3=new Array("Mission 02 - Dong Lai River Ford","loc_mission02.shtml","",0,20,300);
+		Menu5_3_4=new Array("Mission 03 - Capture of Outpost 8","loc_mission03.shtml","",0,20,300);
+		Menu5_3_5=new Array("Mission 04 - Occupation of Highland 33","loc_mission04.shtml","",0,20,300);
+		Menu5_3_6=new Array("Mission 05 - Ji Feng Military Base","loc_mission05.shtml","",0,20,300);
+		Menu5_3_7=new Array("Mission 06 - Hong Shan Military Base","loc_mission06.shtml","",0,20,300);
+		Menu5_3_8=new Array("Mission 07 - Battle of Jian Da Harbor","loc_mission07.shtml","",0,20,300);
+		Menu5_3_9=new Array("Mission 08 - Zhong Huan City","loc_mission08.shtml","",0,20,300);
+		Menu5_3_10=new Array("Mission 09 - Reserve Base Siege","loc_mission09.shtml","",0,20,300);
+		Menu5_3_11=new Array("Mission 10 - Jacalita Woodlands","loc_mission10.shtml","",0,20,300);
+		Menu5_3_12=new Array("Mission 11 - San Kuchen Subterranean Fortress","loc_mission11.shtml","",0,20,300);
+		Menu5_3_13=new Array("Mission 12 - Ji Feng Basin","loc_mission12.shtml","",0,20,300);
+		Menu5_3_14=new Array("Mission 13 - Airbase Assault","loc_mission13.shtml","",0,20,300);
+		Menu5_3_15=new Array("Mission 14 - Wei Gu Strike","loc_mission14.shtml","",0,20,300);
+		Menu5_3_16=new Array("Mission 15 - Container Extraction","loc_mission15.shtml","",0,20,300);
+		Menu5_3_17=new Array("Mission 16 - Nan Jiang Ravine","loc_mission16.shtml","",0,20,300);
+		Menu5_3_18=new Array("Mission 17 - New Nan Jiang Factory","loc_mission17.shtml","",0,20,300);
+		Menu5_3_19=new Array("Mission 18 - Battle of Meng Chung He","loc_mission18.shtml","",0,20,300);
+		Menu5_3_20=new Array("Mission 19 - Yun Kota Gorge","loc_mission19.shtml","",0,20,300);
+		Menu5_3_21=new Array("Mission 20 - Xen Feng Tian Corridor","loc_mission20.shtml","",0,20,300);
+		Menu5_3_22=new Array("Mission 21 - Yu Jai Woodlands","loc_mission21.shtml","",0,20,300);
+		Menu5_3_23=new Array("Mission 22 - Capture of Xen Feng Tian","loc_mission22.shtml","",0,20,300);
+		Menu5_3_24=new Array("Mission 23 - Er Ting Foothills","loc_mission23.shtml","",0,20,300);
+		Menu5_3_25=new Array("Mission 24 - Defense of Yu Jai Village","loc_mission24.shtml","",0,20,300);
+		
+Menu6=new Array("<img src='image/btn_intel.gif' width='86' height='11'>","","",10,11,86);
+	Menu6_1=new Array("Pilot Profile","loc_pilotprofile.shtml","",0,20,150);
+	Menu6_2=new Array("Rank","loc_rank.shtml","",0,20,150);
+	Menu6_3=new Array("Awards","loc_awards.shtml","",0,20,150);
+	Menu6_4=new Array("Professional Names","loc_professional.shtml","",0,20,150);
+	Menu6_5=new Array("Faction Intel","loc_faction.shtml","",0,20,150);
+	Menu6_6=new Array("Communication","loc_communication.shtml","",0,20,150);
+	Menu6_7=new Array("Glossary","loc_glossary.shtml","",0,20,150);
+	Menu6_8=new Array("Githon's Steel Battalion Guide","loc_sbt.shtml","",0,20,150);
+	Menu6_9=new Array("Frequently Asked Questions","loc_faq.shtml","",0,20,150);
+	Menu6_10=new Array("Exploits","loc_exploits.shtml","",0,20,150);
+	
+Menu7=new Array("<img src='image/btn_platform.gif' width='58' height='11'>","","",12,11,58);
+	Menu7_1=new Array("Platform Overview","loc_platform.shtml","",0,20,150);
+	Menu7_2=new Array("Game Specifications","loc_game.shtml","",0,20,150);
+	Menu7_3=new Array("Game Requirements","loc_requirements.shtml","",0,20,150);
+	Menu7_4=new Array("Controller Overview","loc_controller.shtml","",0,20,150);
+	Menu7_5=new Array("Controller Serial Archive","loc_serialarchive.shtml","",0,20,150);
+	Menu7_6=new Array("Controller Differences","loc_controllerdifferences.shtml","",0,20,150);
+	Menu7_7=new Array("Connection Issues","loc_connection.shtml","",0,20,150);
+	Menu7_8=new Array("Game History & Patches","loc_gamehistory.shtml","",0,20,150);
+	Menu7_9=new Array("Replay Information","loc_replay.shtml","",0,20,150);
+	Menu7_10=new Array("Custom Soundtracks","loc_boombox.shtml","",0,20,150);
+	Menu7_11=new Array("SB vs SB: LOC","loc_sbdifferences.shtml","",0,20,150);
+	Menu7_12=new Array("Cockpit Setups","loc_cockpit.shtml","",0,20,150);
+	
+Menu8=new Array("<img src='image/btn_media.gif' width='76' height='11'>","","",10,11,76);
+	Menu8_1=new Array("Media Overview","loc_media.shtml","",0,20,150);
+	Menu8_2=new Array("VT Open Cockpit Details","loc_media_cockpit.shtml","",0,20,150);
+	Menu8_3=new Array("Hai Shi Dao VTs","","",12,20,150);
+		Menu8_3_1=new Array("Vitzh","loc_media_vitzh.shtml","",0,20,100);
+		Menu8_3_2=new Array("Vortex","loc_media_vortex.shtml","",0,20,100);
+		Menu8_3_3=new Array("Scare Face","loc_media_scareface.shtml","",0,20,100);
+		Menu8_3_4=new Array("m-Vitzh","loc_media_mvitzh.shtml","",0,20,100);
+		Menu8_3_5=new Array("Scare Face A1","loc_media_scarefacea1.shtml","",0,20,100);
+		Menu8_3_6=new Array("Scare Face II","loc_media_scareface2.shtml","",0,20,100);
+		Menu8_3_7=new Array("Maelstrom","loc_media_maelstrom.shtml","",0,20,100);
+		Menu8_3_8=new Array("Behemoth","loc_media_behemoth.shtml","",0,20,100);
+		Menu8_3_9=new Array("Garpike","loc_media_garpike.shtml","",0,20,100);
+		Menu8_3_10=new Array("Regal Dress A","loc_media_regaldressa.shtml","",0,20,100);
+		Menu8_3_11=new Array("Regal Dress N","loc_media_regaldressn.shtml","",0,20,100);
+		Menu8_3_12=new Array("Juggernaut","loc_media_juggernaut.shtml","",0,20,100);
+	Menu8_4=new Array("Pacific Rim Forces VTs","","",9,20,150);
+		Menu8_4_1=new Array("Decider","loc_media_decider.shtml","",0,20,100);
+		Menu8_4_2=new Array("Falchion","loc_media_falchion.shtml","",0,20,100);
+		Menu8_4_3=new Array("Decider Volcanic","loc_media_decidervolcanic.shtml","",0,20,100);
+		Menu8_4_4=new Array("Prominence M1","loc_media_prominencem1.shtml","",0,20,100);
+		Menu8_4_5=new Array("Prominence M2","loc_media_prominencem2.shtml","",0,20,100);
+		Menu8_4_6=new Array("Prominence M3","loc_media_prominencem3.shtml","",0,20,100);
+		Menu8_4_7=new Array("Blade","loc_media_blade.shtml","",0,20,100);
+		Menu8_4_8=new Array("Rapier","loc_media_rapier.shtml","",0,20,100);
+		Menu8_4_9=new Array("Quasar","loc_media_quasar.shtml","",0,20,100);
+	Menu8_5=new Array("Right Brothers VTs","","",6,20,150);
+		Menu8_5_1=new Array("Colt","loc_media_colt.shtml","",0,20,100);
+		Menu8_5_2=new Array("Colt Executive","loc_media_coltexecutive.shtml","",0,20,100);
+		Menu8_5_3=new Array("Yellow Jacket","loc_media_yellowjacket.shtml","",0,20,100);
+		Menu8_5_4=new Array("Sheepdog","loc_media_sheepdog.shtml","",0,20,100);
+		Menu8_5_5=new Array("Siegeszug","loc_media_siegeszug.shtml","",0,20,100);
+		Menu8_5_6=new Array("Earthshaker","loc_media_earthshaker.shtml","",0,20,100);
+	Menu8_6=new Array("Jaralaccs Mercenary VTs","","",4,20,150);
+		Menu8_6_1=new Array("Jaralaccs C","loc_media_jaralaccsc.shtml","",0,20,100);
+		Menu8_6_2=new Array("Jaralaccs N","loc_media_jaralaccsn.shtml","",0,20,100);
+		Menu8_6_3=new Array("Jaralaccs NS-R","loc_media_jaralaccsnsr.shtml","",0,20,100);
+		Menu8_6_4=new Array("Jaralaccs Macabre","loc_media_jaralaccsmacabre.shtml","",0,20,100);
+	Menu8_7=new Array("Battle Images","","",6,20,150);
+		Menu8_7_1=new Array("Battle 01","loc_media_battle.shtml","",0,20,100);
+		Menu8_7_2=new Array("Battle 02","loc_media_battle2.shtml","",0,20,100);
+		Menu8_7_3=new Array("Battle 03","loc_media_battle3.shtml","",0,20,100);
+		Menu8_7_4=new Array("Battle 04","loc_media_battle4.shtml","",0,20,100);
+		Menu8_7_5=new Array("Battle 05","loc_media_battle5.shtml","",0,20,100);
+		Menu8_7_6=new Array("Battle 06","loc_media_battle6.shtml","",0,20,100);
+	Menu8_8=new Array("Chaff Deployment Details","loc_media_chaff.shtml","",0,20,150);
+	Menu8_9=new Array("Gameplay Movies","loc_media_movies.shtml","",0,20,150);
+	Menu8_10=new Array("Action Replay Files","loc_media_actionreplay.shtml","",0,20,150);
+
+Menu9=new Array("<img src='image/btn_misc.gif' width='83' height='11'>","","",3,11,83);
+	Menu9_1=new Array("BoxLOC","loc_boxloc.shtml","",0,20,150);
+	Menu9_2=new Array("Order of Garpike","loc_orderofpike.shtml","",0,20,150);
+	Menu9_3=new Array("Random VT Selector","loc_randomvtselector.shtml","",0,20,150);
+
+Menu10=new Array("<img src='image/btn_comm.gif' width='49' height='11'>","","",2,11,49);
+	Menu10_1=new Array("Contact Us","loc_contact.shtml","",0,20,150);
+	Menu10_2=new Array("Links of Interest","loc_discuss.shtml","",0,20,150);
+
+Menu11=new Array("<img src='image/btn_about.gif' width='63' height='11'>","","",3,11,63);
+	Menu11_1=new Array("About the Site","loc_about.shtml","",0,20,150);
+	Menu11_2=new Array("Site Credits","loc_about.shtml#credits","",0,20,150);
+	Menu11_3=new Array("Sitemap","loc_sitemap.shtml","",0,20,150);
+</script>
+
+<div align="center">
+
+<table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td>&nbsp;</td>
+		<td width="900" height="88" valign="top">
+		
+		<!---begin header and navigation--->
+		<table width="900" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="9" height="79"><img src="image/bg_navhd01.gif" width="9" height="79" border="0" alt=""></td>
+				<td width="105" height="79"><a href="loc_main.shtml"><img src="image/header01.gif" width="105" height="79" border="0" alt="LINEOFCONTACT.NET"></a></td>
+				<td width="8" height="79"><img src="image/bg_navhd02.gif" width="8" height="79" border="0" alt=""></td>
+				<td width="778" height="79">
+				<table width="778" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td width="778" height="41">
+						<table width="778" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="425" height="41" align="left"><img src="image/hdr_icons.gif" width="22" height="41" border="0" alt=""></td>
+								<td width="353" height="41" align="right"><img src="image/hdr_locnet.gif" width="353" height="41" border="0" alt="LINEOFCONTACT.NET - Your Source for Steel Battalion: Line of Contact Information"></td>
+							</tr>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td width="778" height="11">
+						<span id="dropmenu">
+						<table width="778" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="51" height="11"><img src="image/btn_tutorial.gif" width="51" height="11" border="0" alt="TUTORIAL"></td>
+								<td width="82" height="11"><img src="image/btn_vt.gif" width="82" height="11" border="0" alt="VERTICAL TANKS"></td>
+								<td width="81" height="11"><img src="image/btn_config.gif" width="81" height="11" border="0" alt="CONFIGURATION"></td>
+								<td width="55" height="11"><img src="image/btn_testing.gif" width="55" height="11" border="0" alt="TESTING"></td>
+								<td width="94" height="11"><img src="image/btn_tactical.gif" width="94" height="11" border="0" alt="TACTICAL ANALYSIS"></td>
+								<td width="86" height="11"><img src="image/btn_intel.gif" width="86" height="11" border="0" alt="INTEL &amp; BRIEFING"></td>
+								<td width="58" height="11"><img src="image/btn_platform.gif" width="58" height="11" border="0" alt="PLATFORM"></td>
+								<td width="76" height="11"><img src="image/btn_media.gif" width="76" height="11" border="0" alt="MEDIA UPLINK"></td>
+								<td width="83" height="11"><img src="image/btn_misc.gif" width="83" height="11" border="0" alt="MISCELLANEOUS"></td>
+								<td width="49" height="11"><img src="image/btn_comm.gif" width="49" height="11" border="0" alt="COMLINK"></td>
+								<td width="63" height="11"><img src="image/btn_about.gif" width="63" height="11" border="0" alt="ABOUT SITE"></td>
+							</tr>
+						</table>
+						</span>
+						</td>
+					</tr>
+					<tr>
+						<td width="778" height="18">
+						<table width="778" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="51" height="18" background="image/bg_navhd07.gif"></td>
+								<td style="padding-top: 2px; padding-left: 3px;" width="725" height="18" background="image/bg_navhd08_splice.gif"><span class="headline">LATEST NEWS:</span> KEEBLER ON FIRE AGAIN - <span style="font-size: 9px;">Regular LOC times Wed from 8:30pmEST, Sun from 3pm EST</span></td>
+								<td width="2" height="18" background="image/bg_navhd08.gif"></td>
+							</tr>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td width="778" height="9" background="image/bg_navhd05_runner.gif"></td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+			<tr>
+				<td width="9" height="9"><img src="image/bg_navhd03.gif" width="9" height="9" border="0" alt=""></td>
+				<td width="105" height="9" background="image/bg_navhd03_splice.gif"></td>
+				<td width="8" height="9"><img src="image/bg_navhd04.gif" width="8" height="9" border="0" alt=""></td>
+				<td width="778" height="9" align="left"><img src="image/bg_navhd06.gif" width="5" height="9" border="0" alt=""></td>
+			</tr>
+		</table>
+		<!---end header and navigation--->
+		</td>
+		<td>&nbsp;</td>
+	</tr>
+<!---end header navigation include--->
+<!---end navigation include--->
+	<tr>
+		<td>&nbsp;</td>
+		<td width="900" height="40">
+		<div style="height: 9px;"></div>
+		<table width="900" cellspacing="0" cellpadding="0" style="border-style: solid; border-width: 1px; border-color: #000000;">
+			<tr>
+				<td width="106" height="13" background="image/bg_currentdoc.gif"></td>
+				<td class="crumbs" style="padding-left: 5px;" width="794" height="13" bgcolor="#E4E4E4"><a class="crumbs" href="loc_main.shtml">Home</a> &gt; <a class="crumbs" href="loc_media.shtml">Media Overview</a> &gt; <a class="crumbs" href="loc_media_battle4.shtml">General Battle Images 04</a></td>
+			</tr>
+		</table>
+		<div style="height: 18px;"></div>
+		</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td width="900" valign="top">
+		<!---start content area--->
+		<script language="JavaScript" type="text/JavaScript">
+			<!--
+			// Opens window and builds page for large view
+			function ShowMe(imgSrc) // pass image file name without extension
+			{
+			newWindow=window.open('image/loading.gif','newWin','location=no,menubar=no,directories=no,toolbar=no,status=no,personalbar=no,titlebar=no,scrollbars=no,dependent=yes,resizable=no,width=630,height=480'); // define window size and chrome
+				newWindow.document.write('<html><head><title>Large View<\/title><style type="text/css" media="all">@import url("css/locnet.css");<\/style><\/head><body style="margin:0em; background-repeat:no-repeat; background-position:top center; background-color:#000000;"><table width="630" border="0" cellspacing="0" cellpadding="0"><tr><td width="630" background="http://www.orderofgarpike.com/_media/battle/'+imgSrc+'.jpg"><a href="javascript:window.close()"><img src="image/spacer.gif" width="630" height="480" border="0" alt="close window"><\/a><\/td><\/tr><\/table><\/body><\/html>');  // write HTML for new window contents
+				newWindow.document.close();  // finalize document
+				newWindow.focus();  // bring to front
+			}
+			//-->
+		</script>
+		<div class="H1">General Battle Images 04</div>
+		<br>
+		<table width="500" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0451'); return false;"><img src="media/thumb/battle/0451.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0452'); return false;"><img src="media/thumb/battle/0452.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0453'); return false;"><img src="media/thumb/battle/0453.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0454'); return false;"><img src="media/thumb/battle/0454.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0455'); return false;"><img src="media/thumb/battle/0455.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0456'); return false;"><img src="media/thumb/battle/0456.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0457'); return false;"><img src="media/thumb/battle/0457.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0458'); return false;"><img src="media/thumb/battle/0458.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0459'); return false;"><img src="media/thumb/battle/0459.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0460'); return false;"><img src="media/thumb/battle/0460.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0461'); return false;"><img src="media/thumb/battle/0461.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0462'); return false;"><img src="media/thumb/battle/0462.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0463'); return false;"><img src="media/thumb/battle/0463.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0464'); return false;"><img src="media/thumb/battle/0464.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0465'); return false;"><img src="media/thumb/battle/0465.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0466'); return false;"><img src="media/thumb/battle/0466.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0467'); return false;"><img src="media/thumb/battle/0467.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0468'); return false;"><img src="media/thumb/battle/0468.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0469'); return false;"><img src="media/thumb/battle/0469.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0470'); return false;"><img src="media/thumb/battle/0470.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0471'); return false;"><img src="media/thumb/battle/0471.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0472'); return false;"><img src="media/thumb/battle/0472.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0473'); return false;"><img src="media/thumb/battle/0473.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0474'); return false;"><img src="media/thumb/battle/0474.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0475'); return false;"><img src="media/thumb/battle/0475.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0476'); return false;"><img src="media/thumb/battle/0476.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0477'); return false;"><img src="media/thumb/battle/0477.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0478'); return false;"><img src="media/thumb/battle/0478.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0479'); return false;"><img src="media/thumb/battle/0479.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0480'); return false;"><img src="media/thumb/battle/0480.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0481'); return false;"><img src="media/thumb/battle/0481.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0482'); return false;"><img src="media/thumb/battle/0482.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0483'); return false;"><img src="media/thumb/battle/0483.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0484'); return false;"><img src="media/thumb/battle/0484.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0485'); return false;"><img src="media/thumb/battle/0485.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0486'); return false;"><img src="media/thumb/battle/0486.html" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0487'); return false;"><img src="media/thumb/battle/0487.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0488'); return false;"><img src="media/thumb/battle/0488.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0489'); return false;"><img src="media/thumb/battle/0489.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0490'); return false;"><img src="media/thumb/battle/0490.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0491'); return false;"><img src="media/thumb/battle/0491.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0492'); return false;"><img src="media/thumb/battle/0492.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0493'); return false;"><img src="media/thumb/battle/0493.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0494'); return false;"><img src="media/thumb/battle/0494.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0495'); return false;"><img src="media/thumb/battle/0495.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0496'); return false;"><img src="media/thumb/battle/0496.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0497'); return false;"><img src="media/thumb/battle/0497.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0498'); return false;"><img src="media/thumb/battle/0498.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0499'); return false;"><img src="media/thumb/battle/0499.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0500'); return false;"><img src="media/thumb/battle/0500.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0501'); return false;"><img src="media/thumb/battle/0501.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0502'); return false;"><img src="media/thumb/battle/0502.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0503'); return false;"><img src="media/thumb/battle/0503.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0504'); return false;"><img src="media/thumb/battle/0504.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0505'); return false;"><img src="media/thumb/battle/0505.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0506'); return false;"><img src="media/thumb/battle/0506.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0507'); return false;"><img src="media/thumb/battle/0507.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0508'); return false;"><img src="media/thumb/battle/0508.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0509'); return false;"><img src="media/thumb/battle/0509.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0510'); return false;"><img src="media/thumb/battle/0510.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0511'); return false;"><img src="media/thumb/battle/0511.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0512'); return false;"><img src="media/thumb/battle/0512.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0513'); return false;"><img src="media/thumb/battle/0513.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0514'); return false;"><img src="media/thumb/battle/0514.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0515'); return false;"><img src="media/thumb/battle/0515.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0516'); return false;"><img src="media/thumb/battle/0516.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0517'); return false;"><img src="media/thumb/battle/0517.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0518'); return false;"><img src="media/thumb/battle/0518.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0519'); return false;"><img src="media/thumb/battle/0519.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0520'); return false;"><img src="media/thumb/battle/0520.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0521'); return false;"><img src="media/thumb/battle/0521.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0522'); return false;"><img src="media/thumb/battle/0522.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0523'); return false;"><img src="media/thumb/battle/0523.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0524'); return false;"><img src="media/thumb/battle/0524.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0525'); return false;"><img src="media/thumb/battle/0525.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0526'); return false;"><img src="media/thumb/battle/0526.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0527'); return false;"><img src="media/thumb/battle/0527.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0528'); return false;"><img src="media/thumb/battle/0528.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0529'); return false;"><img src="media/thumb/battle/0529.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0530'); return false;"><img src="media/thumb/battle/0530.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0531'); return false;"><img src="media/thumb/battle/0531.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0532'); return false;"><img src="media/thumb/battle/0532.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0533'); return false;"><img src="media/thumb/battle/0533.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0534'); return false;"><img src="media/thumb/battle/0534.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0535'); return false;"><img src="media/thumb/battle/0535.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0536'); return false;"><img src="media/thumb/battle/0536.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0537'); return false;"><img src="media/thumb/battle/0537.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0538'); return false;"><img src="media/thumb/battle/0538.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0539'); return false;"><img src="media/thumb/battle/0539.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0540'); return false;"><img src="media/thumb/battle/0540.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0541'); return false;"><img src="media/thumb/battle/0541.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0542'); return false;"><img src="media/thumb/battle/0542.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0543'); return false;"><img src="media/thumb/battle/0543.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0544'); return false;"><img src="media/thumb/battle/0544.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0545'); return false;"><img src="media/thumb/battle/0545.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0546'); return false;"><img src="media/thumb/battle/0546.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0547'); return false;"><img src="media/thumb/battle/0547.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0548'); return false;"><img src="media/thumb/battle/0548.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0549'); return false;"><img src="media/thumb/battle/0549.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0550'); return false;"><img src="media/thumb/battle/0550.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0551'); return false;"><img src="media/thumb/battle/0551.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0552'); return false;"><img src="media/thumb/battle/0552.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0553'); return false;"><img src="media/thumb/battle/0553.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0554'); return false;"><img src="media/thumb/battle/0554.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0555'); return false;"><img src="media/thumb/battle/0555.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0556'); return false;"><img src="media/thumb/battle/0556.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0557'); return false;"><img src="media/thumb/battle/0557.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0558'); return false;"><img src="media/thumb/battle/0558.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0559'); return false;"><img src="media/thumb/battle/0559.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0560'); return false;"><img src="media/thumb/battle/0560.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0561'); return false;"><img src="media/thumb/battle/0561.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0562'); return false;"><img src="media/thumb/battle/0562.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0563'); return false;"><img src="media/thumb/battle/0563.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0564'); return false;"><img src="media/thumb/battle/0564.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0565'); return false;"><img src="media/thumb/battle/0565.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0566'); return false;"><img src="media/thumb/battle/0566.html" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0567'); return false;"><img src="media/thumb/battle/0567.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0568'); return false;"><img src="media/thumb/battle/0568.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0569'); return false;"><img src="media/thumb/battle/0569.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0570'); return false;"><img src="media/thumb/battle/0570.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0571'); return false;"><img src="media/thumb/battle/0571.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0572'); return false;"><img src="media/thumb/battle/0572.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0573'); return false;"><img src="media/thumb/battle/0573.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0574'); return false;"><img src="media/thumb/battle/0574.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0575'); return false;"><img src="media/thumb/battle/0575.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0576'); return false;"><img src="media/thumb/battle/0576.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0577'); return false;"><img src="media/thumb/battle/0577.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0578'); return false;"><img src="media/thumb/battle/0578.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0579'); return false;"><img src="media/thumb/battle/0579.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0580'); return false;"><img src="media/thumb/battle/0580.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0581'); return false;"><img src="media/thumb/battle/0581.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0582'); return false;"><img src="media/thumb/battle/0582.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0583'); return false;"><img src="media/thumb/battle/0583.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0584'); return false;"><img src="media/thumb/battle/0584.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0585'); return false;"><img src="media/thumb/battle/0585.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0586'); return false;"><img src="media/thumb/battle/0586.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0587'); return false;"><img src="media/thumb/battle/0587.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0588'); return false;"><img src="media/thumb/battle/0588.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0589'); return false;"><img src="media/thumb/battle/0589.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0590'); return false;"><img src="media/thumb/battle/0590.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0591'); return false;"><img src="media/thumb/battle/0591.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0592'); return false;"><img src="media/thumb/battle/0592.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0593'); return false;"><img src="media/thumb/battle/0593.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0594'); return false;"><img src="media/thumb/battle/0594.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0595'); return false;"><img src="media/thumb/battle/0595.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0596'); return false;"><img src="media/thumb/battle/0596.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0597'); return false;"><img src="media/thumb/battle/0597.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0598'); return false;"><img src="media/thumb/battle/0598.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0599'); return false;"><img src="media/thumb/battle/0599.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0600'); return false;"><img src="media/thumb/battle/0600.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+		</table>
+		<br>
+		<div class="footer" align="right">This file was last updated Saturday, 29-Nov-2008 14:57:35 PST</div><br>
+		<!---end content area--->
+		</td>
+		<td>&nbsp;</td>
+	</tr>
+<!---begin footer include--->
+<!---start footer include--->
+<tr>
+	<td style="background-repeat: repeat-x;" bgcolor="#EEEEEE" background="image/bg_footer.gif">&nbsp;</td>
+	<td width="900" valign="top" height="50" style="background-repeat: repeat-x;" bgcolor="#EEEEEE" background="image/bg_footer.gif">
+	<div class="footer" align="center"><a class="footer" href="loc_vt.shtml">Vertical Tanks</a> &nbsp; || &nbsp; <a class="footer" href="loc_weapon.shtml">Weapons</a> &nbsp; || &nbsp; <a class="footer" href="loc_mission.shtml">Missions</a> &nbsp; || &nbsp; <a class="footer" href="loc_contact.shtml">Contact</a> &nbsp; || &nbsp; <a class="footer" href="loc_about.shtml">About</a> &nbsp; || &nbsp; <a class="footer" href="loc_sitemap.shtml">Sitemap</a> &nbsp; || &nbsp; <a class="footer" href="loc_main.shtml">Home</a></div>
+	</td>
+	<td style="background-repeat: repeat-x;" bgcolor="#EEEEEE" background="image/bg_footer.gif">&nbsp;</td>
+</tr>
+<!---end footer include--->
+<!---end footer include--->
+</table>
+
+</div>
+
+</body>
+
+
+<!-- Mirrored from lineofcontact.net/loc_media_battle4.shtml by HTTrack Website Copier/3.x [XR&CO'2010], Thu, 06 May 2010 16:52:47 GMT -->
+</html>

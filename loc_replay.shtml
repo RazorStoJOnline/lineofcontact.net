@@ -1,0 +1,1022 @@
+<html>
+
+<!-- Mirrored from lineofcontact.net/loc_replay.shtml by HTTrack Website Copier/3.x [XR&CO'2010], Thu, 06 May 2010 16:44:07 GMT -->
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<title>LINEOFCONTACT.NET :: STEEL BATTALION: LINE OF CONTACT INFORMATION</title>
+
+<link rel=StyleSheet href="css/locnet.css" TYPE="text/css" media="screen">
+
+</head>
+
+<body topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0">
+<!---begin navigation include--->
+<!---start header navigation include--->
+<a name="#top"></a>
+<script type='text/javascript'>
+function Go(){return}
+</script>
+<script type='text/javascript' src='_js/main.js'></script>
+
+<script language="JavaScript">
+// Menu tree
+//	MenuX=new Array(Text to show, Link, background image (optional), number of sub elements, height, width);
+//	For rollover images set "Text to show" to:  "rollover:Image1.jpg:Image2.jpg"
+
+Menu1=new Array("<img src='image/btn_tutorial.gif' width='51' height='11'>","","",13,11,51);
+	Menu1_1=new Array("Tutorial Overview","loc_tutorial.shtml","",0,20,120);
+	Menu1_2=new Array("Create A Pilot","loc_newpilot.shtml","",0,20,120);
+	Menu1_3=new Array("New Pilot Advice","loc_advice.shtml","",0,20,120);
+	Menu1_4=new Array("Controlling VTs","loc_vtcontrol.shtml","",0,20,120);
+	Menu1_5=new Array("Starting a Game","loc_newgame.shtml","",0,20,120);
+	Menu1_6=new Array("Chat & Trade Tutorial","loc_tradechat.shtml","",0,20,120);
+	Menu1_7=new Array("Communication Tutorial","loc_communication.shtml","",0,20,120);
+	Menu1_8=new Array("Artillery Tutorial","loc_tutorial_artillery.shtml","",0,20,120);
+	Menu1_9=new Array("Sniper Tutorial","loc_tutorial_sniper.shtml","",0,20,120);
+	Menu1_10=new Array("Repacking Tutorial","loc_tutorial_repack.shtml","",0,20,120);
+	Menu1_11=new Array("Foot Controller Repair","loc_footcontroller_repair.shtml","",0,20,120);
+	Menu1_12=new Array("Insignia Tool","loc_tutorial_insigniatool.shtml","",0,20,120);
+	Menu1_13=new Array("Unlock Code","loc_unlockcode.shtml","",0,20,120);
+
+Menu2=new Array("<img src='image/btn_vt.gif' width='82' height='11'>","","",9,11,82);
+	Menu2_1=new Array("VT Overview","loc_vt.shtml","",0,20,130);
+	Menu2_2=new Array("Hai Shi Dao VTs","","",3,20,130);
+		Menu2_2_1=new Array("1st Generation VTs","","",5,20,110);
+			Menu2_2_1_1=new Array("Vitzh","ds_vitzh.shtml","",0,20,100);
+			Menu2_2_1_2=new Array("Vortex","ds_vortex.shtml","",0,20,100);
+			Menu2_2_1_3=new Array("m-Vitzh","ds_m-vitzh.shtml","",0,20,100);
+			Menu2_2_1_4=new Array("Scare Face","ds_scareface.shtml","",0,20,100);
+			Menu2_2_1_5=new Array("Scare Face A1","ds_scarefacea1.shtml","",0,20,100);
+		Menu2_2_2=new Array("2nd Generation VTs","","",4,20,110);
+			Menu2_2_2_1=new Array("Scare Face II","ds_scareface2.shtml","",0,20,110);
+			Menu2_2_2_2=new Array("Maelstrom","ds_maelstrom.shtml","",0,20,110);
+			Menu2_2_2_3=new Array("Garpike","ds_garpike.shtml","",0,20,110);
+			Menu2_2_2_4=new Array("Behemoth","ds_behemoth.shtml","",0,20,110);
+		Menu2_2_3=new Array("3rd Generation VTs","","",3,20,130);
+			Menu2_2_3_1=new Array("Regal Dress N","ds_regaldress_N.shtml","",0,20,110);
+			Menu2_2_3_2=new Array("Regal Dress A","ds_regaldress_A.shtml","",0,20,110);
+			Menu2_2_3_3=new Array("Juggernaut","ds_juggernaut.shtml","",0,20,110);
+	Menu2_3=new Array("Pacific Rim Forces VTs","","",3,20,130);
+		Menu2_3_1=new Array("1st Generation VTs","","",3,20,110);
+			Menu2_3_1_1=new Array("Decider","ds_decider.shtml","",0,20,110);
+			Menu2_3_1_2=new Array("Falchion","ds_falchion.shtml","",0,20,110);
+			Menu2_3_1_3=new Array("Decider Volcanic","ds_decidervolcanic.shtml","",0,20,110);
+		Menu2_3_2=new Array("2nd Generation VTs","","",5,20,110);
+			Menu2_3_2_1=new Array("Blade","ds_blade.shtml","",0,20,110);
+			Menu2_3_2_2=new Array("Prominence M1","ds_prominenceM1.shtml","",0,20,110);
+			Menu2_3_2_3=new Array("Rapier","ds_rapier.shtml","",0,20,110);
+			Menu2_3_2_4=new Array("Prominence M2","ds_prominenceM2.shtml","",0,20,110);
+			Menu2_3_2_5=new Array("Prominence M3","ds_prominenceM3.shtml","",0,20,110);
+		Menu2_3_3=new Array("3rd Generation VTs","","",1,20,110);
+			Menu2_3_3_1=new Array("Quasar","ds_quasar.shtml","",0,20,110);
+	Menu2_4=new Array("Right Brothers VTs","","",3,20,130);
+		Menu2_4_1=new Array("1st Generation VTs","","",2,20,110);
+			Menu2_4_1_1=new Array("Colt","ds_colt.shtml","",0,20,110);
+			Menu2_4_1_2=new Array("Colt Executive","ds_coltexecutive.shtml","",0,20,110);
+		Menu2_4_2=new Array("2nd Generation VTs","","",3,20,110);
+			Menu2_4_2_1=new Array("Yellow Jacket","ds_yellowjacket.shtml","",0,20,110);
+			Menu2_4_2_2=new Array("Siegeszug","ds_siegeszug.shtml","",0,20,110);
+			Menu2_4_2_3=new Array("Sheepdog","ds_sheepdog.shtml","",0,20,110);
+		Menu2_4_3=new Array("3rd Generation VTs","","",1,20,110);
+			Menu2_4_3_1=new Array("Earthshaker","ds_earthshaker.shtml","",0,20,110);
+	Menu2_5=new Array("Jaralaccs Mercenary VTs","","",1,20,130);
+		Menu2_5_1=new Array("2nd Generation VTs","","",4,20,110);
+			Menu2_5_1_1=new Array("Jaralaccs C","ds_jaralaccsC.shtml","",0,20,110);
+			Menu2_5_1_2=new Array("Jaralaccs N","ds_jaralaccsN.shtml","",0,20,110);
+			Menu2_5_1_3=new Array("Jaralaccs NS-R","ds_jaralaccsNS-R.shtml","",0,20,110);
+			Menu2_5_1_4=new Array("Jaralaccs Macabre","ds_jaralaccs_macabre.shtml","",0,20,110);
+	Menu2_6=new Array("VT Manufacturers","loc_manunav.shtml","",0,20,130);
+	Menu2_7=new Array("VT Comparissons","loc_vtcompare.shtml","",0,20,130);
+	Menu2_8=new Array("Cockpit Reference","loc_cockpits.shtml","",6,20,130);
+		Menu2_8_1=new Array("1st Gen - Standard","loc_cockpits_g1.shtml","",0,20,120);
+		Menu2_8_2=new Array("1st Gen - Support","loc_cockpits_g1s.shtml","",0,20,120);
+		Menu2_8_3=new Array("2nd Gen - Standard","loc_cockpits_g2.shtml","",0,20,120);
+		Menu2_8_4=new Array("2nd Gen - Support","loc_cockpits_g2s.shtml","",0,20,120);
+		Menu2_8_5=new Array("2nd Gen - Jaralaccs","loc_cockpits_g2j.shtml","",0,20,120);
+		Menu2_8_6=new Array("3rd Gen - Standard","loc_cockpits_g3.shtml","",0,20,120);
+	Menu2_9=new Array("VT Customisation","loc_vtcustom.shtml","",0,20,130);
+	
+Menu3=new Array("<img src='image/btn_config.gif' width='81' height='11'>","","",5,11,81);
+	Menu3_1=new Array("Weapon Information","loc_weapon.shtml","",0,20,130);
+	Menu3_2=new Array("Weapon Summary","loc_weapon_summary.shtml","",0,20,130);
+	Menu3_3=new Array("Weapon Configuration","loc_weaponconfig.shtml","",0,20,130);
+	Menu3_4=new Array("Optional Parts","loc_optionalparts.shtml","",0,20,130);
+	Menu3_5=new Array("Weapon Range Compare","loc_rangecompare.shtml","",0,20,130);
+	
+Menu4=new Array("<img src='image/btn_testing.gif' width='55' height='11'>","","",9,11,55);
+	Menu4_1=new Array("Testing & Results","loc_testing.shtml","",0,20,200);
+	Menu4_2=new Array("Loadout Weight Effect on Turning","loc_testing_turnweighteffect.shtml","",0,20,200);
+	Menu4_3=new Array("Vertical Tank Rise Time","loc_testing_vt_risetime.shtml","",0,20,200);
+	Menu4_4=new Array("Platform and Leg Durability","loc_testing_dur.shtml","",0,20,200);
+	Menu4_5=new Array("Vertical Tank Distance Modifiers","loc_testing_distancemod.shtml","",0,20,200);
+	Menu4_6=new Array("Vertical Tank Turning Performance","loc_testing_turn.shtml","",0,20,200);
+	Menu4_7=new Array("Vertical Tank Acceleration Testing","loc_testing_speed.shtml","",0,20,200);
+	Menu4_8=new Array("Guided Missile Testing","loc_testing_guidedmissile.shtml","",0,20,200);
+	Menu4_9=new Array("Torque Performance on Terrain","loc_testing_crossgear.shtml","",0,20,200);
+	
+Menu5=new Array("<img src='image/btn_tactical.gif' width='94' height='11'>","","",3,11,94);
+	Menu5_1=new Array("Sortie Points","loc_sortiepoints.shtml","",0,20,120);
+	Menu5_2=new Array("Gameplay","loc_gameplay.shtml","",0,20,120);
+	Menu5_3=new Array("Mission Information","loc_mission.shtml","",25,20,120);
+		Menu5_3_1=new Array("Mission 00 - Live Ammunition Training Grounds","loc_mission00.shtml","",0,20,300);
+		Menu5_3_2=new Array("Mission 01 - Sha Wan Hills","loc_mission01.shtml","",0,20,300);
+		Menu5_3_3=new Array("Mission 02 - Dong Lai River Ford","loc_mission02.shtml","",0,20,300);
+		Menu5_3_4=new Array("Mission 03 - Capture of Outpost 8","loc_mission03.shtml","",0,20,300);
+		Menu5_3_5=new Array("Mission 04 - Occupation of Highland 33","loc_mission04.shtml","",0,20,300);
+		Menu5_3_6=new Array("Mission 05 - Ji Feng Military Base","loc_mission05.shtml","",0,20,300);
+		Menu5_3_7=new Array("Mission 06 - Hong Shan Military Base","loc_mission06.shtml","",0,20,300);
+		Menu5_3_8=new Array("Mission 07 - Battle of Jian Da Harbor","loc_mission07.shtml","",0,20,300);
+		Menu5_3_9=new Array("Mission 08 - Zhong Huan City","loc_mission08.shtml","",0,20,300);
+		Menu5_3_10=new Array("Mission 09 - Reserve Base Siege","loc_mission09.shtml","",0,20,300);
+		Menu5_3_11=new Array("Mission 10 - Jacalita Woodlands","loc_mission10.shtml","",0,20,300);
+		Menu5_3_12=new Array("Mission 11 - San Kuchen Subterranean Fortress","loc_mission11.shtml","",0,20,300);
+		Menu5_3_13=new Array("Mission 12 - Ji Feng Basin","loc_mission12.shtml","",0,20,300);
+		Menu5_3_14=new Array("Mission 13 - Airbase Assault","loc_mission13.shtml","",0,20,300);
+		Menu5_3_15=new Array("Mission 14 - Wei Gu Strike","loc_mission14.shtml","",0,20,300);
+		Menu5_3_16=new Array("Mission 15 - Container Extraction","loc_mission15.shtml","",0,20,300);
+		Menu5_3_17=new Array("Mission 16 - Nan Jiang Ravine","loc_mission16.shtml","",0,20,300);
+		Menu5_3_18=new Array("Mission 17 - New Nan Jiang Factory","loc_mission17.shtml","",0,20,300);
+		Menu5_3_19=new Array("Mission 18 - Battle of Meng Chung He","loc_mission18.shtml","",0,20,300);
+		Menu5_3_20=new Array("Mission 19 - Yun Kota Gorge","loc_mission19.shtml","",0,20,300);
+		Menu5_3_21=new Array("Mission 20 - Xen Feng Tian Corridor","loc_mission20.shtml","",0,20,300);
+		Menu5_3_22=new Array("Mission 21 - Yu Jai Woodlands","loc_mission21.shtml","",0,20,300);
+		Menu5_3_23=new Array("Mission 22 - Capture of Xen Feng Tian","loc_mission22.shtml","",0,20,300);
+		Menu5_3_24=new Array("Mission 23 - Er Ting Foothills","loc_mission23.shtml","",0,20,300);
+		Menu5_3_25=new Array("Mission 24 - Defense of Yu Jai Village","loc_mission24.shtml","",0,20,300);
+		
+Menu6=new Array("<img src='image/btn_intel.gif' width='86' height='11'>","","",10,11,86);
+	Menu6_1=new Array("Pilot Profile","loc_pilotprofile.shtml","",0,20,150);
+	Menu6_2=new Array("Rank","loc_rank.shtml","",0,20,150);
+	Menu6_3=new Array("Awards","loc_awards.shtml","",0,20,150);
+	Menu6_4=new Array("Professional Names","loc_professional.shtml","",0,20,150);
+	Menu6_5=new Array("Faction Intel","loc_faction.shtml","",0,20,150);
+	Menu6_6=new Array("Communication","loc_communication.shtml","",0,20,150);
+	Menu6_7=new Array("Glossary","loc_glossary.shtml","",0,20,150);
+	Menu6_8=new Array("Githon's Steel Battalion Guide","loc_sbt.shtml","",0,20,150);
+	Menu6_9=new Array("Frequently Asked Questions","loc_faq.shtml","",0,20,150);
+	Menu6_10=new Array("Exploits","loc_exploits.shtml","",0,20,150);
+	
+Menu7=new Array("<img src='image/btn_platform.gif' width='58' height='11'>","","",12,11,58);
+	Menu7_1=new Array("Platform Overview","loc_platform.shtml","",0,20,150);
+	Menu7_2=new Array("Game Specifications","loc_game.shtml","",0,20,150);
+	Menu7_3=new Array("Game Requirements","loc_requirements.shtml","",0,20,150);
+	Menu7_4=new Array("Controller Overview","loc_controller.shtml","",0,20,150);
+	Menu7_5=new Array("Controller Serial Archive","loc_serialarchive.shtml","",0,20,150);
+	Menu7_6=new Array("Controller Differences","loc_controllerdifferences.shtml","",0,20,150);
+	Menu7_7=new Array("Connection Issues","loc_connection.shtml","",0,20,150);
+	Menu7_8=new Array("Game History & Patches","loc_gamehistory.shtml","",0,20,150);
+	Menu7_9=new Array("Replay Information","loc_replay.shtml","",0,20,150);
+	Menu7_10=new Array("Custom Soundtracks","loc_boombox.shtml","",0,20,150);
+	Menu7_11=new Array("SB vs SB: LOC","loc_sbdifferences.shtml","",0,20,150);
+	Menu7_12=new Array("Cockpit Setups","loc_cockpit.shtml","",0,20,150);
+	
+Menu8=new Array("<img src='image/btn_media.gif' width='76' height='11'>","","",10,11,76);
+	Menu8_1=new Array("Media Overview","loc_media.shtml","",0,20,150);
+	Menu8_2=new Array("VT Open Cockpit Details","loc_media_cockpit.shtml","",0,20,150);
+	Menu8_3=new Array("Hai Shi Dao VTs","","",12,20,150);
+		Menu8_3_1=new Array("Vitzh","loc_media_vitzh.shtml","",0,20,100);
+		Menu8_3_2=new Array("Vortex","loc_media_vortex.shtml","",0,20,100);
+		Menu8_3_3=new Array("Scare Face","loc_media_scareface.shtml","",0,20,100);
+		Menu8_3_4=new Array("m-Vitzh","loc_media_mvitzh.shtml","",0,20,100);
+		Menu8_3_5=new Array("Scare Face A1","loc_media_scarefacea1.shtml","",0,20,100);
+		Menu8_3_6=new Array("Scare Face II","loc_media_scareface2.shtml","",0,20,100);
+		Menu8_3_7=new Array("Maelstrom","loc_media_maelstrom.shtml","",0,20,100);
+		Menu8_3_8=new Array("Behemoth","loc_media_behemoth.shtml","",0,20,100);
+		Menu8_3_9=new Array("Garpike","loc_media_garpike.shtml","",0,20,100);
+		Menu8_3_10=new Array("Regal Dress A","loc_media_regaldressa.shtml","",0,20,100);
+		Menu8_3_11=new Array("Regal Dress N","loc_media_regaldressn.shtml","",0,20,100);
+		Menu8_3_12=new Array("Juggernaut","loc_media_juggernaut.shtml","",0,20,100);
+	Menu8_4=new Array("Pacific Rim Forces VTs","","",9,20,150);
+		Menu8_4_1=new Array("Decider","loc_media_decider.shtml","",0,20,100);
+		Menu8_4_2=new Array("Falchion","loc_media_falchion.shtml","",0,20,100);
+		Menu8_4_3=new Array("Decider Volcanic","loc_media_decidervolcanic.shtml","",0,20,100);
+		Menu8_4_4=new Array("Prominence M1","loc_media_prominencem1.shtml","",0,20,100);
+		Menu8_4_5=new Array("Prominence M2","loc_media_prominencem2.shtml","",0,20,100);
+		Menu8_4_6=new Array("Prominence M3","loc_media_prominencem3.shtml","",0,20,100);
+		Menu8_4_7=new Array("Blade","loc_media_blade.shtml","",0,20,100);
+		Menu8_4_8=new Array("Rapier","loc_media_rapier.shtml","",0,20,100);
+		Menu8_4_9=new Array("Quasar","loc_media_quasar.shtml","",0,20,100);
+	Menu8_5=new Array("Right Brothers VTs","","",6,20,150);
+		Menu8_5_1=new Array("Colt","loc_media_colt.shtml","",0,20,100);
+		Menu8_5_2=new Array("Colt Executive","loc_media_coltexecutive.shtml","",0,20,100);
+		Menu8_5_3=new Array("Yellow Jacket","loc_media_yellowjacket.shtml","",0,20,100);
+		Menu8_5_4=new Array("Sheepdog","loc_media_sheepdog.shtml","",0,20,100);
+		Menu8_5_5=new Array("Siegeszug","loc_media_siegeszug.shtml","",0,20,100);
+		Menu8_5_6=new Array("Earthshaker","loc_media_earthshaker.shtml","",0,20,100);
+	Menu8_6=new Array("Jaralaccs Mercenary VTs","","",4,20,150);
+		Menu8_6_1=new Array("Jaralaccs C","loc_media_jaralaccsc.shtml","",0,20,100);
+		Menu8_6_2=new Array("Jaralaccs N","loc_media_jaralaccsn.shtml","",0,20,100);
+		Menu8_6_3=new Array("Jaralaccs NS-R","loc_media_jaralaccsnsr.shtml","",0,20,100);
+		Menu8_6_4=new Array("Jaralaccs Macabre","loc_media_jaralaccsmacabre.shtml","",0,20,100);
+	Menu8_7=new Array("Battle Images","","",6,20,150);
+		Menu8_7_1=new Array("Battle 01","loc_media_battle.shtml","",0,20,100);
+		Menu8_7_2=new Array("Battle 02","loc_media_battle2.shtml","",0,20,100);
+		Menu8_7_3=new Array("Battle 03","loc_media_battle3.shtml","",0,20,100);
+		Menu8_7_4=new Array("Battle 04","loc_media_battle4.shtml","",0,20,100);
+		Menu8_7_5=new Array("Battle 05","loc_media_battle5.shtml","",0,20,100);
+		Menu8_7_6=new Array("Battle 06","loc_media_battle6.shtml","",0,20,100);
+	Menu8_8=new Array("Chaff Deployment Details","loc_media_chaff.shtml","",0,20,150);
+	Menu8_9=new Array("Gameplay Movies","loc_media_movies.shtml","",0,20,150);
+	Menu8_10=new Array("Action Replay Files","loc_media_actionreplay.shtml","",0,20,150);
+
+Menu9=new Array("<img src='image/btn_misc.gif' width='83' height='11'>","","",3,11,83);
+	Menu9_1=new Array("BoxLOC","loc_boxloc.shtml","",0,20,150);
+	Menu9_2=new Array("Order of Garpike","loc_orderofpike.shtml","",0,20,150);
+	Menu9_3=new Array("Random VT Selector","loc_randomvtselector.shtml","",0,20,150);
+
+Menu10=new Array("<img src='image/btn_comm.gif' width='49' height='11'>","","",2,11,49);
+	Menu10_1=new Array("Contact Us","loc_contact.shtml","",0,20,150);
+	Menu10_2=new Array("Links of Interest","loc_discuss.shtml","",0,20,150);
+
+Menu11=new Array("<img src='image/btn_about.gif' width='63' height='11'>","","",3,11,63);
+	Menu11_1=new Array("About the Site","loc_about.shtml","",0,20,150);
+	Menu11_2=new Array("Site Credits","loc_about.shtml#credits","",0,20,150);
+	Menu11_3=new Array("Sitemap","loc_sitemap.shtml","",0,20,150);
+</script>
+
+<div align="center">
+
+<table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td>&nbsp;</td>
+		<td width="900" height="88" valign="top">
+		
+		<!---begin header and navigation--->
+		<table width="900" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="9" height="79"><img src="image/bg_navhd01.gif" width="9" height="79" border="0" alt=""></td>
+				<td width="105" height="79"><a href="loc_main.shtml"><img src="image/header01.gif" width="105" height="79" border="0" alt="LINEOFCONTACT.NET"></a></td>
+				<td width="8" height="79"><img src="image/bg_navhd02.gif" width="8" height="79" border="0" alt=""></td>
+				<td width="778" height="79">
+				<table width="778" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td width="778" height="41">
+						<table width="778" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="425" height="41" align="left"><img src="image/hdr_icons.gif" width="22" height="41" border="0" alt=""></td>
+								<td width="353" height="41" align="right"><img src="image/hdr_locnet.gif" width="353" height="41" border="0" alt="LINEOFCONTACT.NET - Your Source for Steel Battalion: Line of Contact Information"></td>
+							</tr>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td width="778" height="11">
+						<span id="dropmenu">
+						<table width="778" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="51" height="11"><img src="image/btn_tutorial.gif" width="51" height="11" border="0" alt="TUTORIAL"></td>
+								<td width="82" height="11"><img src="image/btn_vt.gif" width="82" height="11" border="0" alt="VERTICAL TANKS"></td>
+								<td width="81" height="11"><img src="image/btn_config.gif" width="81" height="11" border="0" alt="CONFIGURATION"></td>
+								<td width="55" height="11"><img src="image/btn_testing.gif" width="55" height="11" border="0" alt="TESTING"></td>
+								<td width="94" height="11"><img src="image/btn_tactical.gif" width="94" height="11" border="0" alt="TACTICAL ANALYSIS"></td>
+								<td width="86" height="11"><img src="image/btn_intel.gif" width="86" height="11" border="0" alt="INTEL &amp; BRIEFING"></td>
+								<td width="58" height="11"><img src="image/btn_platform.gif" width="58" height="11" border="0" alt="PLATFORM"></td>
+								<td width="76" height="11"><img src="image/btn_media.gif" width="76" height="11" border="0" alt="MEDIA UPLINK"></td>
+								<td width="83" height="11"><img src="image/btn_misc.gif" width="83" height="11" border="0" alt="MISCELLANEOUS"></td>
+								<td width="49" height="11"><img src="image/btn_comm.gif" width="49" height="11" border="0" alt="COMLINK"></td>
+								<td width="63" height="11"><img src="image/btn_about.gif" width="63" height="11" border="0" alt="ABOUT SITE"></td>
+							</tr>
+						</table>
+						</span>
+						</td>
+					</tr>
+					<tr>
+						<td width="778" height="18">
+						<table width="778" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="51" height="18" background="image/bg_navhd07.gif"></td>
+								<td style="padding-top: 2px; padding-left: 3px;" width="725" height="18" background="image/bg_navhd08_splice.gif"><span class="headline">LATEST NEWS:</span> KEEBLER ON FIRE AGAIN - <span style="font-size: 9px;">Regular LOC times Wed from 8:30pmEST, Sun from 3pm EST</span></td>
+								<td width="2" height="18" background="image/bg_navhd08.gif"></td>
+							</tr>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td width="778" height="9" background="image/bg_navhd05_runner.gif"></td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+			<tr>
+				<td width="9" height="9"><img src="image/bg_navhd03.gif" width="9" height="9" border="0" alt=""></td>
+				<td width="105" height="9" background="image/bg_navhd03_splice.gif"></td>
+				<td width="8" height="9"><img src="image/bg_navhd04.gif" width="8" height="9" border="0" alt=""></td>
+				<td width="778" height="9" align="left"><img src="image/bg_navhd06.gif" width="5" height="9" border="0" alt=""></td>
+			</tr>
+		</table>
+		<!---end header and navigation--->
+		</td>
+		<td>&nbsp;</td>
+	</tr>
+<!---end header navigation include--->
+<!---end navigation include--->
+	<tr>
+		<td>&nbsp;</td>
+		<td width="900" height="40">
+		<div style="height: 9px;"></div>
+		<table width="900" cellspacing="0" cellpadding="0" style="border-style: solid; border-width: 1px; border-color: #000000;">
+			<tr>
+				<td width="106" height="13" background="image/bg_currentdoc.gif"></td>
+				<td class="crumbs" style="padding-left: 5px;" width="794" height="13" bgcolor="#E4E4E4"><a class="crumbs" href="loc_main.shtml">Home</a> &gt; <a class="crumbs" href="loc_platform.shtml">Platform</a> &gt; <a class="crumbs" href="loc_replay.shtml">Replay Information and Tutorial</a></td>
+			</tr>
+		</table>
+		<div style="height: 18px;"></div>
+		</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td width="900" valign="top">
+		<!---start content area--->
+		<div class="H1">Replay Mode Overview and Tutorial</div>
+		<br>
+		<span class="italic">Steel Battalion: Line of Contact</span> offers one of the most comprehensive and robust replay systems of any XBox&reg; game available.  Despite the complexity of the gameplay, the replay system records ALL user input from all pilots participating in a given game session.  Replays are one of the best training tools available to pilots, allowing review of pilot performance and a new perspective on Vertical Tank combat.<br>
+		<br>
+		<br>
+		<div class="H1">XBox Memory Storage and Replay File Management</div>
+		<br>
+		<span class="italic">Steel Battalion: Line of Contact</span> allows a player to store up to 100 individual replays on the XBox hard drive.  Replays may be traded via the Chat/Trade function within the game, and may also be accessed and copied to a removeable memory card unit.  Most replays use approximately 250 to 400 blocks depending on their length and number of players participating.  It is possible to generate a replay larger than a standard 8MB memory card unit will hold, but this is a rare occurrence.
+		<br>
+		<br>
+		Although rare, there have been reports of replays stored in the first Replay slot (00) becoming corrupted through some unknown process.  I have experienced this issue myself and would advise players to avoid storing important replays in slot 00 if at all possible.
+		<br>
+		<br>
+		Replay data is generated for every mission played in <span class="italic">Steel Battalion: Line of Contact</span>, but only saved as a replay file if the player chooses to do so at the end of a session.  After the post-mission briefing, the option to SAVE REPLAY is presented, along with CONTINUE, which will return the pilot to the Main Menu.  Choosing to save a replay opens up a dialogue allowing the selection of a Save Location (slot).  Either empty or occupied slots may be selected to save a replay, but if an occupied slot is selected the old replay is overwritten with the new replay save.
+		<br>
+		<br>
+		Replays may be deleted by highlighting an occupied replay slot and pressing the X (blue) button on a standard XBox controller.
+		<br>
+		<br>
+		In order to received a traded replay, a player must have at least one open slot available in their replay list.  A replay trade will not be allowed if this condition is not met.
+		<br>
+		<br>
+		<br>
+		<span class="H1">Feature Summary</span>
+		<ul>
+			<li>Play / Pause</li>
+			<li>Playback Speed (x1 - x10)</li>
+			<li>Camera Angle (9 modes available)</li>
+			<li>Follow Player</li>
+			<li>Replay Effects (30 available filters)</li>
+			<li>In-Cockpit Toggle and zoom/shift</li>
+			<li>Map Display (with zoom control)</li>
+			<li>Sub Monitor Overlay</li>
+			<li>Free Roaming Camera</li>
+		</ul>
+		A comprehensive replay feature listing and definitions are discussed in more detail below.<br>
+		<br>
+		<br>
+		<div class="H1">Replay Menu</div>
+		<br>
+		Replays may be accessed through the LOAD REPLAY option, which is available from the main menu in both Free Mission and Campaign modes, and as a menu selection after the splash screen.  Replays may be watched "offline" without access to XBox Live.
+		<br>
+		<br>
+		<div align="center">
+		<table width="200" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100" height="76" valign="top"><a href="javascript:popUprep('pop_replay01.html')"><img src="image/replay_inf01_tb.jpg" width="100" height="76" border="0" alt=""></a></td>
+				<td width="100" height="76" valign="top"><a href="javascript:popUprep('pop_replay02.html')"><img src="image/replay_inf02_tb.jpg" width="100" height="76" border="0" alt=""></a></td>
+			</tr>
+			<tr>
+				<td width="100" height="15" valign="bottom" align="center">Replay Option<br>Main Menu</td>
+				<td width="100" height="15" valign="bottom" align="center">Replay Selection<br>Screen</td>
+			</tr>
+		</table>
+		</div>
+		<br>
+		From the main Replay menu, individual replay files can be viewed, selected and deleted.  As each replay slot is selected, a summary of the recorded mission is displayed.  The information provided in the summary is as follows:
+		<ul>
+			<li>Play Mode (Campaign, Conquest, Battle Royale, Capture the Container)</li>
+			<li>Mission Number</li>
+			<li>Mission Duration</li>
+			<li>Faction Affiliation</li>
+			<li>Participating Pilots</li>
+			<li>Final Sortie Points</li>
+			<li>Date of Session</li>
+			<li>Time of Session (using a 24 hour clock)</li>
+			<li>VTs Piloted</li>
+		</ul>
+		<div align="center"><img src="image/replay_inf03.jpg" width="500" height="380" border="0" alt=""></div>
+		<br>
+		<br>
+		Replays are displayed with Attackers on the left side and Defenders on the right side (in the participating pilot list), except for Battle Royale replays which simply list pilots in order of sortie room slot.
+		<br>
+		<br>
+		<div class="H1">Replay Controls</div>
+		<br>
+		After a replay is selected from the Replay menu, playback will automatically begin.  By default, the SWITCH camera is selected and the "originator" VT is the center of focus.  The user may then make changes in camera angle using the control bar options or via direct input from the <span class="italic">Steel Battalion</span> controller.  Most of the replay controls are available from the control bar menu and camera angles can be controlled using the thumbsticks on a standard XBox controller, depending on camera mode selected.  The left stick controls the direction faced, and the right stick controls the zoom level.  A complete list of replay related controls for both the <span class="italic">Steel Battalion</span> and standard XBox controllers is available below and is also duplicated on the <a href="loc_controller.shtml">Controller Information</a> page.
+		<br>
+		<br>
+		I have tried to make this list as comprehensive as possible, but due to the complexity and number of replay controls and modes available, this list is by no means exhaustive.
+		<br>
+		<br>
+		<table width="700" border="1" cellpadding="2" cellspacing="0" bordercolor="#000000">
+			<tr bgcolor="CFCFCF">
+				<td width="150">&nbsp;<span class="H1">Control Name</span></td>
+				<td width="550">&nbsp;Replay</td>
+			</tr>
+			<tr>
+				<td width="150">&nbsp;<span class="H1">GEAR LEVER</span></td>
+				<td width="550">In "Free Camera" mode, controls the "acceleration" of the free roaming camera.  Reverse makes the camera go backwards, Neutral stops the camera.  Forward gears are increasing in velocity.</td>
+			</tr>
+			<tr>
+				<td width="150">&nbsp;<span class="H1">ROTATION LEVER</span><br>(left-right)</td>
+				<td width="550">Changes replay menu item selection.</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">SIGHT CHANGE STICK</span><br>
+				&nbsp;(x-y axis)</td>
+				<td width="550">Moves the camera angle for external views, changes internal angle in cockpit view.</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">SIGHT CHANGE BUTTON</span><br>
+				&nbsp;(click)</td>
+				<td width="550">Toggles the CRT effect on/off.</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">FILT CONTROL SYSTEM</span><br>
+				&nbsp;Toggle Switch
+				</td>
+				<td width="550">no effect</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">OXYGEN SUPPLY SYSTEM</span><br>
+				&nbsp;Toggle Switch
+				</td>
+				<td width="550">no effect</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">FUEL FLOW RATE</span><br>
+				&nbsp;Toggle Switch
+				</td>
+				<td width="550">no effect</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">BUFFER MATERIAL</span><br>
+				&nbsp;Toggle Switch
+				</td>
+				<td width="550">no effect</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">VT-LOCATION MEASUREMENT</span><br>
+				&nbsp;Toggle Switch
+				</td>
+				<td width="550">no effect</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">COMMUNICATION<br>&nbsp;BUTTONS</span><br>
+				&nbsp;1 - 5
+				</td>
+				<td width="550">no effect</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">TUNER DIAL</span>
+				</td>
+				<td width="550">no effect</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">FUNCTION SWITCH</span><br>
+				&nbsp;F1
+				</td>
+				<td width="550">Pauses playback.</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">FUNCTION SWITCH</span><br>
+				&nbsp;F2
+				</td>
+				<td width="550">Changes selected pilot.</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">FUNCTION SWITCH</span><br>
+				&nbsp;F3
+				</td>
+				<td width="550">Toggles overview map.</td>
+			</tr>
+			<tr>
+				<td width="150">&nbsp;<span class="H1">TANK DETACH</span></td>
+				<td width="550">Increments playback speed from 1x - 10x</td>
+			</tr>
+			<tr>
+				<td width="150">&nbsp;<span class="H1">OVERRIDE</span></td>
+				<td width="550">Toggles through playback effects.</td>
+			</tr>
+			<tr>
+				<td width="150">&nbsp;<span class="H1">NIGHT SCOPE</span></td>
+				<td width="550">Toggles Sub-Monitor overlay view on/off.</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">F.S.S.</span><br>
+				&nbsp;Forecast Shooting System
+				</td>
+				<td width="550">Changes the camera type.</td>
+			</tr>
+			<tr>
+				<td width="150">&nbsp;<span class="H1">MANIPULATOR</span></td>
+				<td width="550">Toggles cockpit view.</td>
+			</tr>
+			<tr>
+				<td width="150">&nbsp;<span class="H1">LINE COLOR CHANGE</span></td>
+				<td width="550">Switches focus to Exit menu option.</td>
+			</tr>
+			<tr>
+				<td width="150">&nbsp;<span class="H1">WASHING</span></td>
+				<td width="550">no effect</td>
+			</tr>
+			<tr>
+				<td width="150">&nbsp;<span class="H1">EXTINGUISHER</span></td>
+				<td width="550">no effect</td>
+			</tr>
+			<tr>
+				<td width="150">&nbsp;<span class="H1">CHAFF</span></td>
+				<td width="550">no effect</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">MAIN</span><br>
+				&nbsp;weapon control</td>
+				<td width="550">no effect</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">SUB</span><br>
+				&nbsp;weapon control
+				</td>
+				<td width="550">no effect</td>
+			</tr>
+			<tr>
+				<td width="150">&nbsp;<span class="H1">MAGAZINE CHANGE</span></td>
+				<td width="550">Toggles Control Menu hide/display.</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">AIMING LEVER</span><br>
+				&nbsp;(x-y axis)
+				</td>
+				<td width="550">In "Free Camera" mode, controls the direction of movement for the camera.  Control is very similar to a flight-sim stick.</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">MAIN WEAPON</span>
+				</td>
+				<td width="550">Select current menu option.</td>
+			</tr>
+			<tr>
+				<td width="150">&nbsp;<span class="H1">LOCK ON</span></td>
+				<td width="550">Toggles cockpit view.</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">SUB WEAPON</span><br>
+				&nbsp;trigger
+				</td>
+				<td width="550">Toggles Control Menu hide/display.</td>
+			</tr>
+			<tr>
+				<td width="150">&nbsp;<span class="H1">EJECT-CMD</span></td>
+				<td width="550">Displays pilot and VT information, weapon loadout and optional parts, second toggle displays scrolling game credits.</td>
+			</tr>
+			<tr>
+				<td width="150">&nbsp;<span class="H1">COCKPIT HATCH</span></td>
+				<td width="550">no effect</td>
+			</tr>
+			<tr>
+				<td width="150">&nbsp;<span class="H1">IGNITION</span></td>
+				<td width="550">no effect</td>
+			</tr>
+			<tr>
+				<td width="150">&nbsp;<span class="H1">START</span></td>
+				<td width="550">no effect</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">OPEN/CLOSE</span><br>
+				&nbsp;multimonitor
+				</td>
+				<td width="550">no effect</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">MAP ZOOM IN/OUT</span><br>
+				&nbsp;multimonitor
+				</td>
+				<td width="550">Sub Monitor view map magnifcation (three levels)</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">MODE SELECT</span><br>
+				&nbsp;multimonitor
+				</td>
+				<td width="550">Sub Monitor view function.</td>
+			</tr>
+			<tr>
+				<td width="150">&nbsp;<span class="H1">SUB MONITOR MODE<br>&nbsp;SELECT</span></td>
+				<td width="550">Sub monitor view function.</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">IN</span><br>
+				&nbsp;MAIN MONITOR ZOOM
+				</td>
+				<td width="550">Camera zoom in.</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">OUT</span><br>
+				&nbsp;MAIN MONITOR ZOOM
+				</td>
+				<td width="550">Camera zoom out.</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">ACCELERATOR PEDAL</span>
+				</td>
+				<td width="550">Performs lateral movement to the right when in Free Camera mode.</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">BRAKE PEDAL</span>
+				</td>
+				<td width="550">no effect</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">SLIDESTEP PEDAL</span>
+				</td>
+				<td width="550">Performs lateral movement to the left when in Free Camera mode.</td>
+			</tr>
+			<tr bgcolor="CFCFCF">
+				<td width="150">&nbsp;<span class="H1">Control Name</span></td>
+				<td width="550">&nbsp;Replay</td>
+			</tr>
+			<tr>
+				<td width="150"><img src="image/controller_stdbutton_green.jpg" width="21" height="21"></td>
+				<td width="550">Selects the current option</td>
+			</tr>
+			<tr>
+				<td width="150"><img src="image/controller_stdbutton_red.jpg" width="21" height="21"></td>
+				<td width="550">Cancels current selection or action</td>
+			</tr>
+			<tr>
+				<td width="150"><img src="image/controller_stdbutton_blue.jpg" width="21" height="21"></td>
+				<td width="550">Deletes replays (from the main replay menu)</td>
+			</tr>
+			<tr>
+				<td><img src="image/controller_stdbutton_yellow.jpg" width="21" height="21"></td>
+				<td width="550">Toggles information views</td>
+			</tr>
+			<tr>
+				<td><img src="image/controller_stdbutton_white.jpg" width="21" height="21"></td>
+				<td width="550">Zooms in on Map View</td>
+			</tr>
+			<tr>
+				<td><img src="image/controller_stdbutton_black.jpg" width="21" height="21"></td>
+				<td width="550">Zooms out on Map View</td>
+			</tr>
+			<tr>
+				<td>&nbsp;<span class="H1">D-PAD</span></td>
+				<td width="550">Menu selection control</td>
+			</tr>
+			<tr>
+				<td>&nbsp;<span class="H1">START</span></td>
+				<td width="550">Opens XBox Live Friends List Options.  Note that a bug in the Replay Menu will not let a player join a game without first navigating out of Replay Mode.</td>
+			</tr>
+			<tr>
+				<td>&nbsp;<span class="H1">BACK</span></td>
+				<td width="550">no effect</td>
+			</tr>
+			<tr>
+				<td>
+				&nbsp;<span class="H1">LEFT THUMBSTICK</span><br>
+				&nbsp;(x-y axis)
+				</td>
+				<td width="550">menu item selection control, in free camera mode controls direction of camera</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">LEFT THUMBSTICK</span><br>
+				&nbsp;(click button)
+				</td>
+				<td width="550">Toggles CRT effect</td>
+			</tr>
+			<tr>
+				<td width="150">
+				&nbsp;<span class="H1">RIGHT THUMBSTICK</span><br>
+				&nbsp;(x-y axis)
+				</td>
+				<td width="550">In free camera mode controls the zoom level</td>
+			</tr>
+			<tr>
+				<td>
+				&nbsp;<span class="H1">RIGHT THUMBSTICK</span><br>
+				&nbsp;(click button)
+				</td>
+				<td width="550">Cycles through informational sub-screen views</td>
+			</tr>
+			<tr>
+				<td>&nbsp;<span class="H1">LEFT TRIGGER</span></td>
+				<td width="550">Strafe left in Free Camera mode.</td>
+			</tr>
+			<tr>
+				<td>&nbsp;<span class="H1">RIGHT TRIGGER</span></td>
+				<td width="550">Strafe right in Free Camera mode.</td>
+			</tr>
+		</table>
+		<br>
+		<br>
+		<div class="H1">Camera Options</div>
+		<br>
+		There are several camera options available during the playback of a replay.  I will describe each below.
+		<br>
+		<br>
+		<table width="700" border="1" bordercolor="#000000" cellspacing="0" cellpadding="3">
+			<tr>
+				<td width="70" valign="top"><div class="H1">SWITCH</div></td>
+				<td width="630" valign="top">This camera mode randomly changes the angle of view every few seconds on the selected focus VT/pilot.  Using a standard XBox controller, the view may be zoomed in or out using the right thumbstick.  Very cinematic views can be obtained using this camera, but it is not very useful to observe battle interactions.</td>
+			</tr>
+			<tr>
+				<td width="70" valign="top"><div class="H1">BATTLE</div></td>
+				<td width="630" valign="top">Similar to the Switch camera, this view will change randomly every few seconds during playback but with the selected VT/pilot being the point of origin for the camera, thus looking outward from the current VT.  This camera has an added "tracking" feature which will fixate the nearest enemy unit under 2000m, or the currently locked enemy VT.</td>
+			</tr>
+			<tr>
+				<td width="70" valign="top"><div class="H1">MISSILE</div></td>
+				<td width="630" valign="top">Essentially a camera that is "launched" with larger projectile weapons and most sub-weapons.  The view allows the camera to track to target.  While "in-flight" the standard XBox controller thumbsticks will alter the angle and zoom level of the camera view.</td>
+			</tr>
+			<tr>
+				<td width="70" valign="top"><div class="H1">SKY</div></td>
+				<td width="630" valign="top">Essentially a top-down view from directly over the currently selected VT/pilot.  Angle, direction and level of zoom can be controlled using the thumbsticks of a standard XBox controller.</td>
+			</tr>
+			<tr>
+				<td width="70" valign="top"><div class="H1">LOCK ON</div></td>
+				<td width="630" valign="top">Similar to Missile view but does not track with fired projectiles.  As the name implies, the view follows the currently locked enemy VT.  If no VT is locked, the view follows the aimed direction of the currently selected Main weapon.  No zoom or angle controls are available with this camera mode.</td>
+			</tr>
+			<tr>
+				<td width="70" valign="top"><div class="H1">REAR</div></td>
+				<td width="630" valign="top">A fixed camera view from directly behind the currently selected VT/pilot.  Zoom level and vertical angle may be controlled using the thumbsticks of a standard XBox controller.  Essentially a "chase" view centered on the direction faced by the body of the VT.</td>
+			</tr>
+			<tr>
+				<td width="70" valign="top"><div class="H1">CHASE</div></td>
+				<td width="630" valign="top">Similar to the Rear view but the horizontal angle may also be changed allowing a full 360&deg; view of the currently selected pilot/VT.  Standard XBox controller thumbsticks control angle, direction and level of zoom.</td>
+			</tr>
+			<tr>
+				<td width="70" valign="top"><div class="H1">FREE</div></td>
+				<td width="630" valign="top">A completely free roaming camera.  When selected, the camera starts in the vicinity of the selected VT/pilot, but and be "flown" around a map with either a standard XBox controller or the <span class="italic">Steel Battalion</span> controller.  The available controls for this camera are quite comprehensive (see above for a full list).   This camera allows for the most cinematic options.  It should be noted that the <span class="italic">Steel Battalion</span> controller gear shift should be put in Neutral if the intent is to control the camera with a standard XBox controller or else the camera will seem "anchored".</td> 
+			</tr>
+			<tr>
+				<td width="70" valign="top"><div class="H1">COCKPIT</div></td>
+				<td width="630" valign="top">Not so much a camera, but an alternate "view" available only for the VT/pilot which recorded the replay.  The thumbsticks of a standard XBox controller allow for "shifting" of the point of view within the cockpit during playback.  Pressing the left thumbstick button will &quot;lock&quot; the view at the current zoom and angle, clicking the button again releases the view back to standard position. The "sub" monitor overlay views are not available while in this viewing mode.  A strange bug in the replay function will sometimes remove the motion sound from the current VT when an external camera is selected from within cockpit mode.</td>
+			</tr>
+		</table>
+		<br>
+		<br>
+		<div class="H1">Example Camera Views</div>
+		<br>
+		<div align="center">
+		<table width="400" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100" height="76"><a href="javascript:popUprep('pop_replay_cam01.html')"><img src="image/replay_cam_battle_tb.jpg" width="100" height="76" border="0" alt="BATTLE Camera"></a></td>
+				<td width="100" height="76"><a href="javascript:popUprep('pop_replay_cam02.html')"><img src="image/replay_cam_lock_tb.jpg" width="100" height="76" border="0" alt="LOCK Camera"></a></td>
+				<td width="100" height="76"><a href="javascript:popUprep('pop_replay_cam03.html')"><img src="image/replay_cam_rear_tb.jpg" width="100" height="76" border="0" alt="REAR Camera"></a></td>
+				<td width="100" height="76"><a href="javascript:popUprep('pop_replay_cam04.html')"><img src="image/replay_cam_chase_tb.jpg" width="100" height="76" border="0" alt="CHASE Camera"></a></td>
+			</tr>
+			<tr>
+				<td width="100" height="15" valign="middle" align="center">BATTLE<br>Camera</td>
+				<td width="100" height="15" valign="middle" align="center">LOCK<br>Camera</td>
+				<td width="100" height="15" valign="middle" align="center">REAR<br>Camera</td>
+				<td width="100" height="15" valign="middle" align="center">CHASE<br>Camera</td>
+			</tr>
+			<tr>
+					<td width="100" height="76"><a href="javascript:popUprep('pop_replay_cam05.html')"><img src="image/replay_cam_missile_tb.jpg" width="100" height="76" border="0" alt="MISSILE Camera"></a></td>
+				<td width="100" height="76"><a href="javascript:popUprep('pop_replay_cam06.html')"><img src="image/replay_cam_cockpit_tb.jpg" width="100" height="76" border="0" alt="COCKPIT View"></a></td>
+				<td width="100" height="76"><a href="javascript:popUprep('pop_replay_cam07.html')"><img src="image/replay_cam_switch_tb.jpg" width="100" height="76" border="0" alt="SWITCH Camera"></a></td>
+				<td width="100" height="76"><a href="javascript:popUprep('pop_replay_cam08.html')"><img src="image/replay_cam_sky_tb.jpg" width="100" height="76" border="0" alt="SKY Camera"></a></td>
+			</tr>
+			<tr>
+				<td width="100" height="15" valign="middle" align="center">MISSILE<br>Camera</td>
+				<td width="100" height="15" valign="middle" align="center">COCKPIT<br>View</td>
+				<td width="100" height="15" valign="middle" align="center">SWITCH<br>Camera</td>
+				<td width="100" height="15" valign="middle" align="center">SKY<br>Camera</td>
+			</tr>
+		</table>
+		</div>
+		<br>
+		<br>
+		<div class="H1">Replay Options</div>
+		<br>
+		Once a replay has loaded, a number of controls are available via the control bar on the bottom of the screen.  Options on the control bar may be selected using the D-pad and activated using the B (green) button on a standard XBox controller.  All of the functions on the control bar are directly accessible using a <span class="italic">Steel Battalion</span> controller.  See the list above for a full listing of available mapped controls.
+		<br>
+		<br>
+		<div align="center">
+		<table width="200" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100" height="76" valign="top"><a href="javascript:popUprep('pop_replay03.html')"><img src="image/replay_inf03_tb.jpg" width="100" height="76" border="0" alt=""></a></td>
+				<td width="100" height="76" valign="top"><a href="javascript:popUprep('pop_replay04.html')"><img src="image/replay_inf04_tb.jpg" width="100" height="76" border="0" alt=""></a></td>
+			</tr>
+			<tr>
+				<td width="100" height="15" valign="bottom" align="center">Replay<br>Loaded Screen</td>
+				<td width="100" height="15" valign="bottom" align="center">Replay<br>Control Bar</td>
+			</tr>
+		</table>
+		</div>
+		<br>
+		The replay control bar can be hidden at any time during playback by pressing the Y (yellow) button a standard XBox controller or the Magazine Change button the center block of a <span class="italic">Steel Battalion</span> controller.
+		<br>
+		<br>
+		The horizontal "CRT effect" may be removed from all camera views (except Cockpit) by pressing the left thumbstick button on a standard XBox controller or the Sight Change button (view hat click, left joystick) on the <span class="italic">Steel Battalion</span> controller.  This is useful for getting a cleaner image and allowing more detail to be shown.
+		<br>
+		<br>
+		A full map may be accessed at any time from the replay control bar.  This map will show the positions of all active enemy VTs on the map, any projectiles in transit, and even active mines for both sides.  This map view may be zoomed in or out using the White and Black buttons on a standard XBox controller.
+		<br>
+		<br>
+		All views except Cockpit allow for the Sub Monitor and Multimonitor data content to be overlayed on the main screen image.  This can be useful to determining enemy VT status or sortie point levels as the mission progresses.  The SUB information can be selected at any time from the control bar menu, or by pressing the Night Scope button on the <span class="italic">Steel Battalion</span> controller.  The Multimonitor data can be cycled through using the MODE SELECT button on the controller.  Sub-Monitor data/views can be cycled through using the SUB MONITOR MODE SELECT button on the controller.
+		<br>
+		<br>
+		<div align="center">
+		<table width="500" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100" height="76" valign="top"><a href="javascript:popUprep('pop_replayeff01.html')"><img src="image/replay_infeff01_tb.jpg" width="100" height="76" border="0" alt="Front Cam Sub Monitor Overlay"></a></td>
+				<td width="100" height="76" valign="top"><a href="javascript:popUprep('pop_replayeff02.html')"><img src="image/replay_infeff02_tb.jpg" width="100" height="76" border="0" alt="Missile Cam Sub Monitor Overlay"></a></td>
+				<td width="100" height="76" valign="top"><a href="javascript:popUprep('pop_replayeff03.html')"><img src="image/replay_infeff03_tb.jpg" width="100" height="76" border="0" alt="Back Cam Sub Monitor Overlay"></a></td>
+				<td width="100" height="76" valign="top"><a href="javascript:popUprep('pop_replayeff04.html')"><img src="image/replay_infeff04_tb.jpg" width="100" height="76" border="0" alt="Lock On Cam Sub Monitor Overlay"></a></td>
+				<td width="100" height="76" valign="top"><a href="javascript:popUprep('pop_replayeff05.html')"><img src="image/replay_infeff05_tb.jpg" width="100" height="76" border="0" alt="Live Cam Sub Monitor Overlay"></a></td>
+			</tr>
+			<tr>
+				<td width="100" height="15" align="center" valign="bottom">FRONT<br>Cam Overlay</td>
+				<td width="100" height="15" align="center" valign="bottom">MISSILE<br>Cam Overlay</td>
+				<td width="100" height="15" align="center" valign="bottom">BACK<br>Cam Overlay</td>
+				<td width="100" height="15" align="center" valign="bottom">LOCK ON<br>Cam Overlay</td>
+				<td width="100" height="15" align="center" valign="bottom">LIVE<br>Cam Overlay</td>
+			</tr>
+		</table>
+		</div>
+		<br>
+		<br>
+		Additional pilot and VT specific information is available by pressing the right thumbstick button on a standard XBox controller or EJECT-CMD on a <span class="italic">Steel Battalion</span> controller.  These supplementary views only become available after all VTs have been "touched" by a player.  The first supplementary view shows pilot and VT specific information, including VT serial number, pilot professional name, shots missed and hit (in the current session), and various other VT specific statistics.  The second supplementary view is a scrolling marquee of developer credits.  These views may be cycled through for any view, including cockpit view.
+		<br>
+		<br>
+		<div align="center">
+		<table width="300" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100" height="76" valign="top"><a href="javascript:popUprep('pop_replaysup01.html')"><img src="image/replay_infsup01_tb.jpg" width="100" height="76" border="0" alt="Supplementary Information - Credits"></a></td>
+				<td width="100" height="76" valign="top"><a href="javascript:popUprep('pop_replaysup02.html')"><img src="image/replay_infsup02_tb.jpg" width="100" height="76" border="0" alt="Supplementary Information - Pilot &amp; VT Info"></a></td>
+				<td width="100" height="76" valign="top"><a href="javascript:popUprep('pop_replaysup03.html')"><img src="image/replay_infsup03_tb.jpg" width="100" height="76" border="0" alt="Supplementary Information - Pilot &amp; VT Info"></a></td>
+			</tr>
+			<tr>
+				<td width="100" height="15" valign="bottom" align="center">Credits Display</td>
+				<td width="100" height="15" valign="bottom" align="center">VT &amp; Pilot Info</td>
+				<td width="100" height="15" valign="bottom" align="center">VT &amp; Pilot Info</td>
+			</tr>
+		</table>
+		</div>
+		<br>
+		<br>
+		<div class="H1">Replay Effects</div>
+		<br>
+		There are 30 replay effects available for all camera modes except Cockpit.  Initially, there are only 4 replay effects available.  Additional replay effects are "unlocked" with each new VT "touched" and made available for Free Mission mode.  Some effects are quite impractical, whereas others can be used to enhance details or provide additional "light" in dark missions.  The replay effects truly show the amazing levels of detail in the VT models of the game.
+		<br>
+		<br>
+		Below I have prepared 30 individual shots of a single replay frame to show how the various filter effects available modify the image.  Following the images are some comments regarding particularly useful effects settings.
+		<br>
+		<br>
+		<div align="center">
+		<img src="effect/reference01.jpg" width="500" height="380" border="0" alt="reference image">
+		<br>
+		<table width="500" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100" height="76"><a href="javascript:popUprep('effect/pop_effect01.html')"><img src="effect/effect01_tb.jpg" width="100" height="76" border="0" alt="Replay Effect Filter 01"></a></td>
+				<td width="100" height="76"><a href="javascript:popUprep('effect/pop_effect02.html')"><img src="effect/effect02_tb.jpg" width="100" height="76" border="0" alt="Replay Effect Filter 02"></a></td>
+				<td width="100" height="76"><a href="javascript:popUprep('effect/pop_effect03.html')"><img src="effect/effect03_tb.jpg" width="100" height="76" border="0" alt="Replay Effect Filter 03"></a></td>
+				<td width="100" height="76"><a href="javascript:popUprep('effect/pop_effect04.html')"><img src="effect/effect04_tb.jpg" width="100" height="76" border="0" alt="Replay Effect Filter 04"></a></td>
+				<td width="100" height="76"><a href="javascript:popUprep('effect/pop_effect05.html')"><img src="effect/effect05_tb.jpg" width="100" height="76" border="0" alt="Replay Effect Filter 05"></a></td>
+			</tr>
+			<tr>
+				<td width="100" height="15" valign="middle" align="center">Effect 01</td>
+				<td width="100" height="15" valign="middle" align="center">Effect 02</td>
+				<td width="100" height="15" valign="middle" align="center">Effect 03</td>
+				<td width="100" height="15" valign="middle" align="center">Effect 04</td>
+				<td width="100" height="15" valign="middle" align="center">Effect 05</td>
+			</tr>
+			<tr>
+				<td width="100" height="76"><a href="javascript:popUprep('effect/pop_effect06.html')"><img src="effect/effect06_tb.jpg" width="100" height="76" border="0" alt="Replay Effect Filter 06"></a></td>
+				<td width="100" height="76"><a href="javascript:popUprep('effect/pop_effect07.html')"><img src="effect/effect07_tb.jpg" width="100" height="76" border="0" alt="Replay Effect Filter 07"></a></td>
+				<td width="100" height="76"><a href="javascript:popUprep('effect/pop_effect08.html')"><img src="effect/effect08_tb.jpg" width="100" height="76" border="0" alt="Replay Effect Filter 08"></a></td>
+				<td width="100" height="76"><a href="javascript:popUprep('effect/pop_effect09.html')"><img src="effect/effect09_tb.jpg" width="100" height="76" border="0" alt="Replay Effect Filter 09"></a></td>
+				<td width="100" height="76"><a href="javascript:popUprep('effect/pop_effect10.html')"><img src="effect/effect10_tb.jpg" width="100" height="76" border="0" alt="Replay Effect Filter 10"></a></td>
+			</tr>
+			<tr>
+				<td width="100" height="15" valign="middle" align="center">Effect 06</td>
+				<td width="100" height="15" valign="middle" align="center">Effect 07</td>
+				<td width="100" height="15" valign="middle" align="center">Effect 08</td>
+				<td width="100" height="15" valign="middle" align="center">Effect 09</td>
+				<td width="100" height="15" valign="middle" align="center">Effect 10</td>
+			</tr>
+			<tr>
+				<td width="100" height="76"><a href="javascript:popUprep('effect/pop_effect11.html')"><img src="effect/effect11_tb.jpg" width="100" height="76" border="0" alt="Replay Effect Filter 11"></a></td>
+				<td width="100" height="76"><a href="javascript:popUprep('effect/pop_effect12.html')"><img src="effect/effect12_tb.jpg" width="100" height="76" border="0" alt="Replay Effect Filter 12"></a></td>
+				<td width="100" height="76"><a href="javascript:popUprep('effect/pop_effect13.html')"><img src="effect/effect13_tb.jpg" width="100" height="76" border="0" alt="Replay Effect Filter 13"></a></td>
+				<td width="100" height="76"><a href="javascript:popUprep('effect/pop_effect14.html')"><img src="effect/effect14_tb.jpg" width="100" height="76" border="0" alt="Replay Effect Filter 14"></a></td>
+				<td width="100" height="76"><a href="javascript:popUprep('effect/pop_effect15.html')"><img src="effect/effect15_tb.jpg" width="100" height="76" border="0" alt="Replay Effect Filter 15"></a></td>
+			</tr>
+			<tr>
+				<td width="100" height="15" valign="middle" align="center">Effect 11</td>
+				<td width="100" height="15" valign="middle" align="center">Effect 12</td>
+				<td width="100" height="15" valign="middle" align="center">Effect 13</td>
+				<td width="100" height="15" valign="middle" align="center">Effect 14</td>
+				<td width="100" height="15" valign="middle" align="center">Effect 15</td>
+			</tr>
+			<tr>
+				<td width="100" height="76"><a href="javascript:popUprep('effect/pop_effect16.html')"><img src="effect/effect16_tb.jpg" width="100" height="76" border="0" alt="Replay Effect Filter 16"></a></td>
+				<td width="100" height="76"><a href="javascript:popUprep('effect/pop_effect17.html')"><img src="effect/effect17_tb.jpg" width="100" height="76" border="0" alt="Replay Effect Filter 17"></a></td>
+				<td width="100" height="76"><a href="javascript:popUprep('effect/pop_effect18.html')"><img src="effect/effect18_tb.jpg" width="100" height="76" border="0" alt="Replay Effect Filter 18"></a></td>
+				<td width="100" height="76"><a href="javascript:popUprep('effect/pop_effect19.html')"><img src="effect/effect19_tb.jpg" width="100" height="76" border="0" alt="Replay Effect Filter 19"></a></td>
+				<td width="100" height="76"><a href="javascript:popUprep('effect/pop_effect20.html')"><img src="effect/effect20_tb.jpg" width="100" height="76" border="0" alt="Replay Effect Filter 20"></a></td>
+			</tr>
+			<tr>
+				<td width="100" height="15" valign="middle" align="center">Effect 16</td>
+				<td width="100" height="15" valign="middle" align="center">Effect 17</td>
+				<td width="100" height="15" valign="middle" align="center">Effect 18</td>
+				<td width="100" height="15" valign="middle" align="center">Effect 19</td>
+				<td width="100" height="15" valign="middle" align="center">Effect 20</td>
+			</tr>
+			<tr>
+				<td width="100" height="76"><a href="javascript:popUprep('effect/pop_effect21.html')"><img src="effect/effect21_tb.jpg" width="100" height="76" border="0" alt="Replay Effect Filter 21"></a></td>
+				<td width="100" height="76"><a href="javascript:popUprep('effect/pop_effect22.html')"><img src="effect/effect22_tb.jpg" width="100" height="76" border="0" alt="Replay Effect Filter 22"></a></td>
+				<td width="100" height="76"><a href="javascript:popUprep('effect/pop_effect23.html')"><img src="effect/effect23_tb.jpg" width="100" height="76" border="0" alt="Replay Effect Filter 23"></a></td>
+				<td width="100" height="76"><a href="javascript:popUprep('effect/pop_effect24.html')"><img src="effect/effect24_tb.jpg" width="100" height="76" border="0" alt="Replay Effect Filter 24"></a></td>
+				<td width="100" height="76"><a href="javascript:popUprep('effect/pop_effect25.html')"><img src="effect/effect25_tb.jpg" width="100" height="76" border="0" alt="Replay Effect Filter 25"></a></td>
+			</tr>
+			<tr>
+				<td width="100" height="15" valign="middle" align="center">Effect 21</td>
+				<td width="100" height="15" valign="middle" align="center">Effect 22</td>
+				<td width="100" height="15" valign="middle" align="center">Effect 23</td>
+				<td width="100" height="15" valign="middle" align="center">Effect 24</td>
+				<td width="100" height="15" valign="middle" align="center">Effect 25</td>
+			</tr>
+			<tr>
+				<td width="100" height="76"><a href="javascript:popUprep('effect/pop_effect26.html')"><img src="effect/effect26_tb.jpg" width="100" height="76" border="0" alt="Replay Effect Filter 26"></a></td>
+				<td width="100" height="76"><a href="javascript:popUprep('effect/pop_effect27.html')"><img src="effect/effect27_tb.jpg" width="100" height="76" border="0" alt="Replay Effect Filter 27"></a></td>
+				<td width="100" height="76"><a href="javascript:popUprep('effect/pop_effect28.html')"><img src="effect/effect28_tb.jpg" width="100" height="76" border="0" alt="Replay Effect Filter 28"></a></td>
+				<td width="100" height="76"><a href="javascript:popUprep('effect/pop_effect29.html')"><img src="effect/effect29_tb.jpg" width="100" height="76" border="0" alt="Replay Effect Filter 29"></a></td>
+				<td width="100" height="76"><a href="javascript:popUprep('effect/pop_effect30.html')"><img src="effect/effect30_tb.jpg" width="100" height="76" border="0" alt="Replay Effect Filter 30"></a></td>
+			</tr>
+			<tr>
+				<td width="100" height="15" valign="middle" align="center">Effect 26</td>
+				<td width="100" height="15" valign="middle" align="center">Effect 27</td>
+				<td width="100" height="15" valign="middle" align="center">Effect 28</td>
+				<td width="100" height="15" valign="middle" align="center">Effect 29</td>
+				<td width="100" height="15" valign="middle" align="center">Effect 30</td>
+			</tr>
+		</table>
+		</div>
+		<br>
+		<br>
+		<div class="H1">Additional Effect Comments</div>
+		Effect 04 - this effect can be useful for dark missions as it gives a "daylight filter" to the image onscreen.  During daylight missions or in firefights the image can be overly bright.<br>
+		<br>
+		Effect 10 - this effect removes all of the low frequency spectrum colour (the reds) leaving only blacks and blues.  Can be useful for seeing additional model detail.<br>
+		<br>
+		Effect 11 - A completely desaturated effect removing all colour from the image.  Allows for a large amount of line detail to be seen in the models and terrain.<br>
+		<br>
+		Effect 27 - Almost like an Overlay Burn effect with false-colour attributes.  Can be used to see interesting details that would otherwise be obscured by model self-shadowing and shading.<br>
+		<br>
+		Some of the effects are very similar to others (19 &amp; 20, 02 &amp; 05, 14 &amp; 29), others appear to be inverse versions of each other (12 &amp; 14, 11 &amp; 14, 16 &amp; 26).  One has to wonder why they spent development time on such an esoteric feature.
+		<br>
+		<div class="footer" align="right">This file was last updated Saturday, 29-Nov-2008 14:59:40 PST</div><br>
+		<!---end content area--->
+		</td>
+		<td>&nbsp;</td>
+	</tr>
+<!---begin footer include--->
+<!---start footer include--->
+<tr>
+	<td style="background-repeat: repeat-x;" bgcolor="#EEEEEE" background="image/bg_footer.gif">&nbsp;</td>
+	<td width="900" valign="top" height="50" style="background-repeat: repeat-x;" bgcolor="#EEEEEE" background="image/bg_footer.gif">
+	<div class="footer" align="center"><a class="footer" href="loc_vt.shtml">Vertical Tanks</a> &nbsp; || &nbsp; <a class="footer" href="loc_weapon.shtml">Weapons</a> &nbsp; || &nbsp; <a class="footer" href="loc_mission.shtml">Missions</a> &nbsp; || &nbsp; <a class="footer" href="loc_contact.shtml">Contact</a> &nbsp; || &nbsp; <a class="footer" href="loc_about.shtml">About</a> &nbsp; || &nbsp; <a class="footer" href="loc_sitemap.shtml">Sitemap</a> &nbsp; || &nbsp; <a class="footer" href="loc_main.shtml">Home</a></div>
+	</td>
+	<td style="background-repeat: repeat-x;" bgcolor="#EEEEEE" background="image/bg_footer.gif">&nbsp;</td>
+</tr>
+<!---end footer include--->
+<!---end footer include--->
+</table>
+
+</div>
+
+</body>
+
+
+<!-- Mirrored from lineofcontact.net/loc_replay.shtml by HTTrack Website Copier/3.x [XR&CO'2010], Thu, 06 May 2010 16:44:30 GMT -->
+</html>

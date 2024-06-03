@@ -1,0 +1,1944 @@
+<html>
+
+<!-- Mirrored from lineofcontact.net/loc_rangecompare.shtml by HTTrack Website Copier/3.x [XR&CO'2010], Thu, 06 May 2010 16:40:56 GMT -->
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<title>LINEOFCONTACT.NET :: STEEL BATTALION: LINE OF CONTACT INFORMATION</title>
+
+<link rel=StyleSheet href="css/locnet.css" TYPE="text/css" media="screen">
+
+<!--- page specific styles--->
+
+<style type="text/css">
+div#VITZH
+{margin: 5px 0px 5px 0px; height: 155px; width: 798px; z-index: 0; display: none;}
+div#VORTEX
+{margin: 5px 0px 5px 0px; height: 130px; width: 798px; z-index: 0; display: none;}
+div#SCAREFACE
+{margin: 5px 0px 5px 0px; height: 155px; width: 798px; z-index: 0; display: none;}
+div#M-VITZH
+{margin: 5px 0px 5px 0px; height: 155px; width: 798px; z-index: 0; display: none;}
+div#SCAREFACE-A1
+{margin: 5px 0px 5px 0px; height: 165px; width: 798px; z-index: 0; display: none;}
+div#SCAREFACE2
+{margin: 5px 0px 5px 0px; height: 170px; width: 798px; z-index: 0; display: none;}
+div#MAELSTROM
+{margin: 5px 0px 5px 0px; height: 170px; width: 798px; z-index: 0; display: none;}
+div#BEHEMOTH
+{margin: 5px 0px 5px 0px; height: 170px; width: 798px; z-index: 0; display: none;}
+div#GARPIKE
+{margin: 5px 0px 5px 0px; height: 200px; width: 798px; z-index: 0; display: none;}
+div#REGAL-A
+{margin: 5px 0px 5px 0px; height: 225px; width: 798px; z-index: 0; display: none;}
+div#REGAL-N
+{margin: 5px 0px 5px 0px; height: 210px; width: 798px; z-index: 0; display: none;}
+div#JUGGERNAUT
+{margin: 5px 0px 5px 0px; height: 210px; width: 798px; z-index: 0; display: none;}
+
+div#JAR-C
+{margin: 5px 0px 5px 0px; height: 210px; width: 798px; z-index: 0; display: none;}
+div#JAR-N
+{margin: 5px 0px 5px 0px; height: 270px; width: 798px; z-index: 0; display: none;}
+div#JAR-NSR
+{margin: 5px 0px 5px 0px; height: 290px; width: 798px; z-index: 0; display: none;}
+div#JAR-MAC
+{margin: 5px 0px 5px 0px; height: 320px; width: 825px; z-index: 0; display: none;}
+
+div#DECIDER
+{margin: 5px 0px 5px 0px; height: 140px; width: 798px; z-index: 0; display: none;}
+div#FALCHION
+{margin: 5px 0px 5px 0px; height: 140px; width: 798px; z-index: 0; display: none;}
+div#DECIDER-V
+{margin: 5px 0px 5px 0px; height: 130px; width: 798px; z-index: 0; display: none;}
+div#BLADE
+{margin: 5px 0px 5px 0px; height: 180px; width: 798px; z-index: 0; display: none;}
+div#RAPIER
+{margin: 5px 0px 5px 0px; height: 185px; width: 798px; z-index: 0; display: none;}
+div#PROM-M1
+{margin: 5px 0px 5px 0px; height: 180px; width: 798px; z-index: 0; display: none;}
+div#PROM-M2
+{margin: 5px 0px 5px 0px; height: 170px; width: 798px; z-index: 0; display: none;}
+div#PROM-M3
+{margin: 5px 0px 5px 0px; height: 240px; width: 798px; z-index: 0; display: none;}
+div#QUASAR
+{margin: 5px 0px 5px 0px; height: 210px; width: 798px; z-index: 0; display: none;}
+
+div#COLT
+{margin: 5px 0px 5px 0px; height: 180px; width: 798px; z-index: 0; display: none;}
+div#COLT-E
+{margin: 5px 0px 5px 0px; height: 225px; width: 798px; z-index: 0; display: none;}
+div#YJ
+{margin: 5px 0px 5px 0px; height: 210px; width: 798px; z-index: 0; display: none;}
+div#SIEGESZUG
+{margin: 5px 0px 5px 0px; height: 196px; width: 798px; z-index: 0; display: none;}
+div#SHEEPDOG
+{margin: 5px 0px 5px 0px; height: 182px; width: 798px; z-index: 0; display: none;}
+div#EARTHSHAKER
+{margin: 5px 0px 5px 0px; height: 225px; width: 798px; z-index: 0; display: none;}
+
+div#VITZH_270-RI
+{margin: 0px 0px 0px 0px; height: 11px; width: 798px; z-index: 0; background-image:url(range/range_270-RI.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#VITZH_4A-REC
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 10; background-image: url(range/range_4A-REC.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#VITZH_77-REC
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 12; background-image: url(range/range_77-REC.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#VITZH_120-MG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 15; background-image: url(range/range_120-MG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#VITZH_140-MG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 16; background-image: url(range/range_140-MG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#VITZH_GND
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 26; background-image: url(range/range_GND.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#VITZH_67-CG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 22; background-image: url(range/range_67-CG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+
+
+div#VORTEX_MK21-R
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 13; background-image: url(range/range_MK21-R.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#VORTEX_MK34-R
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 14; background-image: url(range/range_MK34-R.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#VORTEX_120-MG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 15; background-image: url(range/range_120-MG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#VORTEX_370-HW
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 44; background-image: url(range/range_370-HW.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#VORTEX_67-CG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 22; background-image: url(range/range_67-CG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+
+
+div#SCAREFACE_315-SB
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 1; background-image:url(range/range_315-SB.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#SCAREFACE_320-SR
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 6; background-image: url(range/range_320-SR.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#SCAREFACE_4A-REC
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 10; background-image: url(range/range_4A-REC.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#SCAREFACE_77-REC
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 12; background-image: url(range/range_77-REC.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#SCAREFACE_80-CG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 23; background-image: url(range/range_80-CG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#SCAREFACE_GND
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 26; background-image: url(range/range_GND.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#SCAREFACE_T-GND
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 27; background-image: url(range/range_T-GND.gif); background-repeat: no-repeat; background-position: center; display: none;}
+
+
+div#M-VITZH_270-RI
+{margin: 0px 0px 0px 0px; height: 11px; width: 798px; z-index: 0; background-image:url(range/range_270-RI.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#M-VITZH_4A-REC
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 10; background-image: url(range/range_4A-REC.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#M-VITZH_77-REC
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 12; background-image: url(range/range_77-REC.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#M-VITZH_120-MG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 15; background-image: url(range/range_120-MG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#M-VITZH_140-MG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 16; background-image: url(range/range_140-MG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#M-VITZH_GND
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 26; background-image: url(range/range_GND.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#M-VITZH_67-CG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 22; background-image: url(range/range_67-CG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+
+
+div#SCAREFACE-A1_315-SB
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 1; background-image:url(range/range_315-SB.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#SCAREFACE-A1_320-SR
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 6; background-image: url(range/range_320-SR.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#SCAREFACE-A1_4A-REC
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 10; background-image: url(range/range_4A-REC.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#SCAREFACE-A1_77-REC
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 12; background-image: url(range/range_77-REC.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#SCAREFACE-A1_MKR-LA
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 20; background-image: url(range/range_MKR-LA.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#SCAREFACE-A1_80-CG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 23; background-image: url(range/range_80-CG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#SCAREFACE-A1_GND
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 26; background-image: url(range/range_GND.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#SCAREFACE-A1_T-GND
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 27; background-image: url(range/range_T-GND.gif); background-repeat: no-repeat; background-position: center; display: none;}
+
+
+div#SCAREFACE2_315-SB
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 1; background-image:url(range/range_315-SB.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#SCAREFACE2_355-SB
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 2; position: absolute; top: 45px; background-image: url(range/range_355-SB.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#SCAREFACE2_320-SR
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 6; background-image: url(range/range_320-SR.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#SCAREFACE2_370-SR
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 7; background-image: url(range/range_370-SR.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#SCAREFACE2_PZ-MIS
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 18; background-image: url(range/range_PZ-MIS.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#SCAREFACE2_100-CG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 24; background-image: url(range/range_100-CG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#SCAREFACE2_GND
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 26; background-image: url(range/range_GND.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#SCAREFACE2_T-GND
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 27; background-image: url(range/range_T-GND.gif); background-repeat: no-repeat; background-position: center; display: none;}
+
+
+div#MAELSTROM_MK21-R
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 13; background-image: url(range/range_MK21-R.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#MAELSTROM_MK34-R
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 14; background-image: url(range/range_MK34-R.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#MAELSTROM_120-MG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 15; background-image: url(range/range_120-MG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#MAELSTROM_140-MG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 16; background-image: url(range/range_140-MG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#MAELSTROM_67-CG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 22; background-image: url(range/range_67-CG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#MAELSTROM_8-MLR
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 41; background-image: url(range/range_8-MLR.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#MAELSTROM_370-HW
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 44; background-image: url(range/range_370-HW.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#MAELSTROM_550-HW
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 45; background-image: url(range/range_550-HW.gif); background-repeat: no-repeat; background-position: center; display: none;}
+
+
+div#BEHEMOTH_HVM-LA
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 19; background-image: url(range/range_HVM-LA.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#BEHEMOTH_MK21-R
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 13; background-image: url(range/range_MK21-R.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#BEHEMOTH_MK34-R
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 14; background-image: url(range/range_MK34-R.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#BEHEMOTH_135-MG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 25; background-image: url(range/range_135-MG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#BEHEMOTH_AVTDV
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 31; background-image: url(range/range_AVTDV.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#BEHEMOTH_12-MLR
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 42; background-image: url(range/range_12-MLR.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#BEHEMOTH_550-HW
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 45; background-image: url(range/range_550-HW.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#BEHEMOTH_660-HW
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 46; background-image: url(range/range_660-HW.gif); background-repeat: no-repeat; background-position: center; display: none;}
+
+
+div#GARPIKE_200-AR
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 4; background-image: url(range/range_200-AR.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#GARPIKE_270-AR
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 5; background-image: url(range/range_270-AR.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#GARPIKE_120-MG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 15; background-image: url(range/range_120-MG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#GARPIKE_140-MG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 16; background-image: url(range/range_140-MG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#GARPIKE_100-CG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 24; background-image: url(range/range_100-CG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#GARPIKE_135-MG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 25; background-image: url(range/range_135-MG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#GARPIKE_NPM
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 38; background-image: url(range/range_NPM.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#GARPIKE_FMTHR
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 39; background-image: url(range/range_FMTHR.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#GARPIKE_AVTM
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 40; background-image: url(range/range_AVTM.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#GARPIKE_BANG-N
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 50; background-image: url(range/range_BANG-N.gif); background-repeat: no-repeat; background-position: center; display: none;}
+
+
+div#REGAL-A_MK21-R
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 13; background-image: url(range/range_MK21-R.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#REGAL-A_MK34-R
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 14; background-image: url(range/range_MK34-R.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#REGAL-A_120-MG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 15; background-image: url(range/range_120-MG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#REGAL-A_140-MG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 16; background-image: url(range/range_140-MG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#REGAL-A_100-CG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 24; background-image: url(range/range_100-CG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#REGAL-A_135-MG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 25; background-image: url(range/range_135-MG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#REGAL-A_GND
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 26; background-image: url(range/range_GND.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#REGAL-A_T-GND
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 27; background-image: url(range/range_T-GND.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#REGAL-A_SL-GM
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 29; background-image: url(range/range_SL-GM.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#REGAL-A_AVTDV
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 31; background-image: url(range/range_AVTDV.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#REGAL-A_12-MLR
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 42; background-image: url(range/range_12-MLR.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#REGAL-A_550-HW
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 45; background-image: url(range/range_550-HW.gif); background-repeat: no-repeat; background-position: center; display: none;}
+
+
+div#REGAL-N_355-SB
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 2; position: absolute; top: 45px; background-image: url(range/range_355-SB.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#REGAL-N_430-SB
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 3; background-image: url(range/range_430-SB.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#REGAL-N_320-SR
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 6; background-image: url(range/range_320-SR.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#REGAL-N_370-SR
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 7; background-image: url(range/range_370-SR.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#REGAL-N_PZ-MIS
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 18; background-image: url(range/range_PZ-MIS.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#REGAL-N_HVM-LA
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 19; background-image: url(range/range_HVM-LA.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#REGAL-N_100-CG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 24; background-image: url(range/range_100-CG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#REGAL-N_135-MG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 25; background-image: url(range/range_135-MG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#REGAL-N_GND
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 26; background-image: url(range/range_GND.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#REGAL-N_T-GND
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 27; background-image: url(range/range_T-GND.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#REGAL-N_SL-GM
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 29; background-image: url(range/range_SL-GM.gif); background-repeat: no-repeat; background-position: center; display: none;}
+
+
+div#JUGG_355-SB
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 2; position: absolute; top: 45px; background-image: url(range/range_355-SB.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JUGG_430-SB
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 3; background-image: url(range/range_430-SB.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JUGG_PZ-MIS
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 18; background-image: url(range/range_PZ-MIS.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JUGG_355-RF
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 9; background-image: url(range/range_355-RF.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JUGG_100-CG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 24; background-image: url(range/range_100-CG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JUGG_135-MG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 25; background-image: url(range/range_135-MG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JUGG_100-CG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 24; background-image: url(range/range_100-CG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JUGG_135-MG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 25; background-image: url(range/range_135-MG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JUGG_DL-GM
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 28; background-image: url(range/range_DL-GM.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JUGG_AVTDV
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 31; background-image: url(range/range_AVTDV.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JUGG_DP-MIS
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 32; background-image: url(range/range_DP-MIS.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JUGG_TP-MIS
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 33; background-image: url(range/range_TP-MIS.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JUGG_RAIL-Gb
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 35; background-image: url(range/range_RAIL-Gb.gif); background-repeat: no-repeat; background-position: center; display: none;}
+
+
+div#JAR-C_315-SB
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 1; background-image:url(range/range_315-SB.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-C_120-MG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 15; background-image: url(range/range_120-MG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-C_140-MG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 16; background-image: url(range/range_140-MG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-C_AS-MIS
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 17; background-image: url(range/range_AS-MIS.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-C_MKR-LA
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 20; background-image: url(range/range_MKR-LA.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-C_T-GND
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 27; background-image: url(range/range_T-GND.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-C_DL-GM
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 28; background-image: url(range/range_DL-GM.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-C_NPM
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 38; background-image: url(range/range_NPM.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-C_FMTHR
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 39; background-image: url(range/range_FMTHR.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-C_AVTM
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 40; background-image: url(range/range_AVTM.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-C_CUT-B
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 49; background-image: url(range/range_CUT-B.gif); background-repeat: no-repeat; background-position: center; display: none;}
+
+
+div#JAR-N_315-SB
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 1; background-image:url(range/range_315-SB.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-N_355-SB
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 2; position: absolute; top: 45px; background-image: url(range/range_355-SB.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-N_MK21-R
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 13; background-image: url(range/range_MK21-R.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-N_MK34-R
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 14; background-image: url(range/range_MK34-R.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-N_120-MG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 15; background-image: url(range/range_120-MG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-N_140-MG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 16; background-image: url(range/range_140-MG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-N_AS-MIS
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 17; background-image: url(range/range_AS-MIS.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-N_HVM-LA
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 19; background-image: url(range/range_HVM-LA.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-N_MKR-LA
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 20; background-image: url(range/range_MKR-LA.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-N_DL-GM
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 28; background-image: url(range/range_DL-GM.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-N_DP-MIS
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 32; background-image: url(range/range_DP-MIS.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-N_TP-MIS
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 33; background-image: url(range/range_TP-MIS.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-N_NPM
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 38; background-image: url(range/range_NPM.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-N_FMTHR
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 39; background-image: url(range/range_FMTHR.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-N_305-HW
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 43; background-image: url(range/range_305-HW.gif); background-repeat: no-repeat; background-position: center; display: none;}
+
+
+div#JAR-NSR_315-SB
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 1; background-image:url(range/range_315-SB.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-NSR_355-SB
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 2; position: absolute; top: 45px; background-image: url(range/range_355-SB.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-NSR_430-SB
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 2; position: absolute; top: 45px; background-image: url(range/range_430-SB.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-NSR_MK21-R
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 13; background-image: url(range/range_MK21-R.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-NSR_MK34-R
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 14; background-image: url(range/range_MK34-R.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-NSR_120-MG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 15; background-image: url(range/range_120-MG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-NSR_140-MG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 16; background-image: url(range/range_140-MG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-NSR_AS-MIS
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 17; background-image: url(range/range_AS-MIS.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-NSR_HVM-LA
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 19; background-image: url(range/range_HVM-LA.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-NSR_AVTM
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 40; background-image: url(range/range_AVTM.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-NSR_CUT-B
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 49; background-image: url(range/range_CUT-B.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-NSR_DL-GM
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 28; background-image: url(range/range_DL-GM.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-NSR_DP-MIS
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 32; background-image: url(range/range_DP-MIS.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-NSR_TP-MIS
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 33; background-image: url(range/range_TP-MIS.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-NSR_NPM
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 38; background-image: url(range/range_NPM.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-NSR_FMTHR
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 39; background-image: url(range/range_FMTHR.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-NSR_SL-GM
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 39; background-image: url(range/range_SL-GM.gif); background-repeat: no-repeat; background-position: center; display: none;}
+
+
+div#JAR-MAC_315-SB
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 1; background-image:url(range/range_315-SB.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-MAC_355-SB
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 2; position: absolute; top: 45px; background-image: url(range/range_355-SB.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-MAC_430-SB
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 2; position: absolute; top: 45px; background-image: url(range/range_430-SB.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-MAC_MK21-R
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 13; background-image: url(range/range_MK21-R.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-MAC_MK34-R
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 14; background-image: url(range/range_MK34-R.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-MAC_120-MG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 15; background-image: url(range/range_120-MG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-MAC_140-MG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 16; background-image: url(range/range_140-MG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-MAC_AS-MIS
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 17; background-image: url(range/range_AS-MIS.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-MAC_HVM-LA
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 19; background-image: url(range/range_HVM-LA.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-MAC_AVTM
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 40; background-image: url(range/range_AVTM.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-MAC_SHLD-B
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 49; background-image: url(range/range_SHLD-B.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-MAC_AVTGM
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 28; background-image: url(range/range_AVTGM.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-MAC_DL-GM
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 28; background-image: url(range/range_DL-GM.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-MAC_DP-MIS
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 32; background-image: url(range/range_DP-MIS.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-MAC_TP-MIS
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 33; background-image: url(range/range_TP-MIS.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-MAC_NPM
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 38; background-image: url(range/range_NPM.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-MAC_FMTHR
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 39; background-image: url(range/range_FMTHR.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-MAC_SL-GM
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 39; background-image: url(range/range_SL-GM.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#JAR-MAC_RAIL-Gb
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 39; background-image: url(range/range_RAIL-Gb.gif); background-repeat: no-repeat; background-position: center; display: none;}
+
+
+div#DECIDER_315-TR
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 9; background-image: url(range/range_315-TR.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#DECIDER_120-MG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 15; background-image: url(range/range_120-MG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#DECIDER_140-MG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 16; background-image: url(range/range_140-MG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#DECIDER_315-SB
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 1; background-image:url(range/range_315-SB.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#DECIDER_67-CG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 22; background-image: url(range/range_67-CG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#DECIDER_205-PT
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 47; background-image: url(range/range_205-PT.gif); background-repeat: no-repeat; background-position: center; display: none;}
+
+
+div#FALCHION_270-RI
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 1; background-image:url(range/range_270-RI.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#FALCHION_120-MG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 15; background-image: url(range/range_120-MG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#FALCHION_140-MG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 16; background-image: url(range/range_140-MG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#FALCHION_200-AR
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 1; background-image:url(range/range_200-AR.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#FALCHION_67-CG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 22; background-image: url(range/range_67-CG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#FALCHION_DP-MIS
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 22; background-image: url(range/range_DP-MIS.gif); background-repeat: no-repeat; background-position: center; display: none;}
+
+
+div#DECIDER-V_270-RI
+{margin: 0px 0px 0px 0px; height: 11px; width: 798px; z-index: 0; background-image:url(range/range_270-RI.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#DECIDER-V_120-MG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 15; background-image: url(range/range_120-MG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#DECIDER-V_140-MG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 16; background-image: url(range/range_140-MG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#DECIDER-V_67-CG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 22; background-image: url(range/range_67-CG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#DECIDER-V_305-HW
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 43; background-image: url(range/range_305-HW.gif); background-repeat: no-repeat; background-position: center; display: none;}
+
+
+div#BLADE_270-RI
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 1; background-image:url(range/range_270-RI.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#BLADE_120-MG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 15; background-image: url(range/range_120-MG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#BLADE_140-MG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 16; background-image: url(range/range_140-MG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#BLADE_200-AR
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 1; background-image:url(range/range_200-AR.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#BLADE_270-AR
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 1; background-image:url(range/range_270-AR.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#BLADE_67-CG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 22; background-image: url(range/range_67-CG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#BLADE_DP-MIS
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 22; background-image: url(range/range_DP-MIS.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#BLADE_TP-MIS
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 22; background-image: url(range/range_TP-MIS.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#BLADE_DL-GM
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 22; background-image: url(range/range_DL-GM.gif); background-repeat: no-repeat; background-position: center; display: none;}
+
+
+div#RAPIER_270-RI
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 1; background-image:url(range/range_270-RI.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#RAPIER_120-MG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 15; background-image: url(range/range_120-MG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#RAPIER_140-MG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 16; background-image: url(range/range_140-MG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#RAPIER_200-AR
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 1; background-image:url(range/range_200-AR.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#RAPIER_270-AR
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 1; background-image:url(range/range_270-AR.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#RAPIER_67-CG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 22; background-image: url(range/range_67-CG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#RAPIER_DP-MIS
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 22; background-image: url(range/range_DP-MIS.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#RAPIER_TP-MIS
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 22; background-image: url(range/range_TP-MIS.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#RAPIER_DL-GM
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 22; background-image: url(range/range_DL-GM.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#RAPIER_AVTGM
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 22; background-image: url(range/range_AVTGM.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#RAPIER_STUN-R
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 22; background-image: url(range/range_STUN-R.gif); background-repeat: no-repeat; background-position: center; display: none;}
+
+
+div#PROM-M1_315-TR
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 9; background-image: url(range/range_315-TR.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#PROM-M1_315-RF
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 1; background-image:url(range/range_315-RF.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#PROM-M1_315-SB
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 1; background-image:url(range/range_315-SB.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#PROM-M1_355-SB
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 1; background-image:url(range/range_355-SB.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#PROM-M1_AS-MIS
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 1; background-image:url(range/range_AS-MIS.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#PROM-M1_67-CG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 22; background-image: url(range/range_67-CG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#PROM-M1_80-CG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 22; background-image: url(range/range_80-CG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#PROM-M1_205-PT
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 47; background-image: url(range/range_205-PT.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#PROM-M1_22b-PT
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 47; background-image: url(range/range_22b-PT.gif); background-repeat: no-repeat; background-position: center; display: none;}
+
+
+div#PROM-M2_315-RF
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 1; background-image:url(range/range_315-RF.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#PROM-M2_315-SB
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 1; background-image:url(range/range_315-SB.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#PROM-M2_355-SB
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 1; background-image:url(range/range_355-SB.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#PROM-M2_AS-MIS
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 1; background-image:url(range/range_AS-MIS.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#PROM-M2_67-CG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 22; background-image: url(range/range_67-CG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#PROM-M2_80-CG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 22; background-image: url(range/range_80-CG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#PROM-M2_RAIL-Ga
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 34; background-image: url(range/range_RAIL-Ga.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#PROM-M2_MM
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 30; background-image: url(range/range_MM.gif); background-repeat: no-repeat; background-position: center; display: none;}
+
+
+div#PROM-M3_315-RF
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 1; background-image:url(range/range_315-RF.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#PROM-M3_355-RF
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 1; background-image:url(range/range_355-RF.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#PROM-M3_355-SB
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 1; background-image:url(range/range_355-SB.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#PROM-M3_430-SB
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 1; background-image:url(range/range_430-SB.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#PROM-M3_AS-MIS
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 1; background-image:url(range/range_AS-MIS.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#PROM-M3_67-CG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 22; background-image: url(range/range_67-CG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#PROM-M3_80-CG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 22; background-image: url(range/range_80-CG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#PROM-M3_RAIL-Ga
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 34; background-image: url(range/range_RAIL-Ga.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#PROM-M3_MM
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 30; background-image: url(range/range_MM.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#PROM-M3_SL-GM
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 30; background-image: url(range/range_SL-GM.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#PROM-M3_305-HW
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 30; background-image: url(range/range_305-HW.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#PROM-M3_205-PT
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 30; background-image: url(range/range_205-PT.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#PROM-M3_22b-PT
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 30; background-image: url(range/range_22b-PT.gif); background-repeat: no-repeat; background-position: center; display: none;}
+
+
+div#QUASAR_355-RF
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 1; background-image:url(range/range_355-RF.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#QUASAR_355-SB
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 1; background-image:url(range/range_355-SB.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#QUASAR_430-SB
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 1; background-image:url(range/range_430-SB.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#QUASAR_AS-MIS
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 1; background-image:url(range/range_AS-MIS.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#QUASAR_67-CG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 22; background-image: url(range/range_67-CG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#QUASAR_DP-MIS
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 22; background-image: url(range/range_DP-MIS.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#QUASAR_TP-MIS
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 22; background-image: url(range/range_TP-MIS.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#QUASAR_DL-GM
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 22; background-image: url(range/range_DL-GM.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#QUASAR_205-PT
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 30; background-image: url(range/range_205-PT.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#QUASAR_22b-PT
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 30; background-image: url(range/range_22b-PT.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#QUASAR_RAIL-Gb
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 30; background-image: url(range/range_RAIL-Gb.gif); background-repeat: no-repeat; background-position: center; display: none;}
+
+
+div#COLT_270-RI
+{margin: 0px 0px 0px 0px; height: 11px; width: 798px; z-index: 0; background-image:url(range/range_270-RI.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#COLT_4A-REC
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 10; background-image: url(range/range_4A-REC.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#COLT_77-REC
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 12; background-image: url(range/range_77-REC.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#COLT_120-MG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 15; background-image: url(range/range_120-MG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#COLT_140-MG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 16; background-image: url(range/range_140-MG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#COLT_MKR-LA
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 16; background-image: url(range/range_MKR-LA.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#COLT_GND
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 26; background-image: url(range/range_GND.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#COLT_67-CG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 22; background-image: url(range/range_67-CG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#COLT_DP-MIS
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 22; background-image: url(range/range_DP-MIS.gif); background-repeat: no-repeat; background-position: center; display: none;}
+
+
+div#COLT-E_270-RI
+{margin: 0px 0px 0px 0px; height: 11px; width: 798px; z-index: 0; background-image:url(range/range_270-RI.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#COLT-E_315-SB
+{margin: 0px 0px 0px 0px; height: 11px; width: 798px; z-index: 0; background-image:url(range/range_315-SB.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#COLT-E_4A-REC
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 10; background-image: url(range/range_4A-REC.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#COLT-E_77-REC
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 12; background-image: url(range/range_77-REC.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#COLT-E_120-MG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 15; background-image: url(range/range_120-MG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#COLT-E_140-MG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 16; background-image: url(range/range_140-MG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#COLT-E_MKR-LA
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 16; background-image: url(range/range_MKR-LA.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#COLT-E_GND
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 26; background-image: url(range/range_GND.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#COLT-E_T-GND
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 26; background-image: url(range/range_T-GND.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#COLT-E_67-CG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 22; background-image: url(range/range_67-CG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#COLT-E_80-CG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 22; background-image: url(range/range_80-CG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#COLT-E_DP-MIS
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 22; background-image: url(range/range_DP-MIS.gif); background-repeat: no-repeat; background-position: center; display: none;}
+
+
+div#YJ_315-SB
+{margin: 0px 0px 0px 0px; height: 11px; width: 798px; z-index: 0; background-image:url(range/range_315-SB.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#YJ_355-SB
+{margin: 0px 0px 0px 0px; height: 11px; width: 798px; z-index: 0; background-image:url(range/range_355-SB.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#YJ_315-TR
+{margin: 0px 0px 0px 0px; height: 11px; width: 798px; z-index: 0; background-image:url(range/range_315-TR.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#YJ_4A-REC
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 10; background-image: url(range/range_4A-REC.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#YJ_77-REC
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 12; background-image: url(range/range_77-REC.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#YJ_120-MG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 15; background-image: url(range/range_120-MG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#YJ_140-MG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 16; background-image: url(range/range_140-MG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#YJ_MKR-LA
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 16; background-image: url(range/range_MKR-LA.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#YJ_GND
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 26; background-image: url(range/range_GND.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#YJ_T-GND
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 26; background-image: url(range/range_T-GND.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#YJ_67-CG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 22; background-image: url(range/range_67-CG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+
+
+div#SHEEPDOG_PPNG-S
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 10; background-image: url(range/range_PPNG-S.gif); background-repeat: no-repeat; background-position: center; display: none;}
+
+div#SHEEPDOG_4A-REC
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 10; background-image: url(range/range_4A-REC.gif); background-repeat: no-repeat; background-position: center; display: none;}
+
+div#SHEEPDOG_77-REC
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 12; background-image: url(range/range_77-REC.gif); background-repeat: no-repeat; background-position: center; display: none;}
+
+div#SHEEPDOG_120-MG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 15; background-image: url(range/range_120-MG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+
+div#SHEEPDOG_140-MG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 16; background-image: url(range/range_140-MG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+
+div#SHEEPDOG_MKR-LA
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 16; background-image: url(range/range_MKR-LA.gif); background-repeat: no-repeat; background-position: center; display: none;}
+
+div#SHEEPDOG_GND
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 26; background-image: url(range/range_GND.gif); background-repeat: no-repeat; background-position: center; display: none;}
+
+div#SHEEPDOG_T-GND
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 26; background-image: url(range/range_T-GND.gif); background-repeat: no-repeat; background-position: center; display: none;}
+
+div#SHEEPDOG_67-CG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 22; background-image: url(range/range_67-CG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+
+
+div#SIEGESZUG_355-SB
+{margin: 0px 0px 0px 0px; height: 11px; width: 798px; z-index: 0; background-image:url(range/range_355-SB.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#SIEGESZUG_430-SB
+{margin: 0px 0px 0px 0px; height: 11px; width: 798px; z-index: 0; background-image:url(range/range_430-SB.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#SIEGESZUG_315-RF
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 10; background-image: url(range/range_315-RF.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#SIEGESZUG_355-RF
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 12; background-image: url(range/range_355-RF.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#SIEGESZUG_120-MG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 15; background-image: url(range/range_120-MG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#SIEGESZUG_140-MG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 16; background-image: url(range/range_140-MG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#SIEGESZUG_PZ-MIS
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 16; background-image: url(range/range_PZ-MIS.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#SIEGESZUG_SHLD-B
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 16; background-image: url(range/range_SHLD-B.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#SIEGESZUG_135-MG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 16; background-image: url(range/range_135-MG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#SIEGESZUG_SL-GM
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 16; background-image: url(range/range_SL-GM.gif); background-repeat: no-repeat; background-position: center; display: none;}
+
+
+div#ES_355-RF
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 1; background-image:url(range/range_355-RF.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#ES_355-SB
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 1; background-image:url(range/range_355-SB.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#ES_430-SB
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 1; background-image:url(range/range_430-SB.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#ES_HVM-LA
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 1; background-image:url(range/range_HVM-LA.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#ES_MKR-LA
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 1; background-image:url(range/range_MKR-LA.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#ES_67-CG
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 22; background-image: url(range/range_67-CG.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#ES_DP-MIS
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 22; background-image: url(range/range_DP-MIS.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#ES_TP-MIS
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 22; background-image: url(range/range_TP-MIS.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#ES_DL-GM
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 22; background-image: url(range/range_DL-GM.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#ES_SL-GM
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 22; background-image: url(range/range_SL-GM.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#ES_GAUSS
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 22; background-image: url(range/range_GAUSS.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#ES_AVTDV
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 22; background-image: url(range/range_AVTDV.gif); background-repeat: no-repeat; background-position: center; display: none;}
+div#ES_RAIL-Gb
+{margin: 0px 0px 0px 0px; width: 798px; height: 11px; z-index: 30; background-image: url(range/range_RAIL-Gb.gif); background-repeat: no-repeat; background-position: center; display: none;}
+</style>
+<!---end page specific styles--->
+</head>
+
+<body topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0">
+<!---begin navigation include--->
+<!---start header navigation include--->
+<a name="#top"></a>
+<script type='text/javascript'>
+function Go(){return}
+</script>
+<script type='text/javascript' src='_js/main.js'></script>
+
+<script language="JavaScript">
+// Menu tree
+//	MenuX=new Array(Text to show, Link, background image (optional), number of sub elements, height, width);
+//	For rollover images set "Text to show" to:  "rollover:Image1.jpg:Image2.jpg"
+
+Menu1=new Array("<img src='image/btn_tutorial.gif' width='51' height='11'>","","",13,11,51);
+	Menu1_1=new Array("Tutorial Overview","loc_tutorial.shtml","",0,20,120);
+	Menu1_2=new Array("Create A Pilot","loc_newpilot.shtml","",0,20,120);
+	Menu1_3=new Array("New Pilot Advice","loc_advice.shtml","",0,20,120);
+	Menu1_4=new Array("Controlling VTs","loc_vtcontrol.shtml","",0,20,120);
+	Menu1_5=new Array("Starting a Game","loc_newgame.shtml","",0,20,120);
+	Menu1_6=new Array("Chat & Trade Tutorial","loc_tradechat.shtml","",0,20,120);
+	Menu1_7=new Array("Communication Tutorial","loc_communication.shtml","",0,20,120);
+	Menu1_8=new Array("Artillery Tutorial","loc_tutorial_artillery.shtml","",0,20,120);
+	Menu1_9=new Array("Sniper Tutorial","loc_tutorial_sniper.shtml","",0,20,120);
+	Menu1_10=new Array("Repacking Tutorial","loc_tutorial_repack.shtml","",0,20,120);
+	Menu1_11=new Array("Foot Controller Repair","loc_footcontroller_repair.shtml","",0,20,120);
+	Menu1_12=new Array("Insignia Tool","loc_tutorial_insigniatool.shtml","",0,20,120);
+	Menu1_13=new Array("Unlock Code","loc_unlockcode.shtml","",0,20,120);
+
+Menu2=new Array("<img src='image/btn_vt.gif' width='82' height='11'>","","",9,11,82);
+	Menu2_1=new Array("VT Overview","loc_vt.shtml","",0,20,130);
+	Menu2_2=new Array("Hai Shi Dao VTs","","",3,20,130);
+		Menu2_2_1=new Array("1st Generation VTs","","",5,20,110);
+			Menu2_2_1_1=new Array("Vitzh","ds_vitzh.shtml","",0,20,100);
+			Menu2_2_1_2=new Array("Vortex","ds_vortex.shtml","",0,20,100);
+			Menu2_2_1_3=new Array("m-Vitzh","ds_m-vitzh.shtml","",0,20,100);
+			Menu2_2_1_4=new Array("Scare Face","ds_scareface.shtml","",0,20,100);
+			Menu2_2_1_5=new Array("Scare Face A1","ds_scarefacea1.shtml","",0,20,100);
+		Menu2_2_2=new Array("2nd Generation VTs","","",4,20,110);
+			Menu2_2_2_1=new Array("Scare Face II","ds_scareface2.shtml","",0,20,110);
+			Menu2_2_2_2=new Array("Maelstrom","ds_maelstrom.shtml","",0,20,110);
+			Menu2_2_2_3=new Array("Garpike","ds_garpike.shtml","",0,20,110);
+			Menu2_2_2_4=new Array("Behemoth","ds_behemoth.shtml","",0,20,110);
+		Menu2_2_3=new Array("3rd Generation VTs","","",3,20,130);
+			Menu2_2_3_1=new Array("Regal Dress N","ds_regaldress_N.shtml","",0,20,110);
+			Menu2_2_3_2=new Array("Regal Dress A","ds_regaldress_A.shtml","",0,20,110);
+			Menu2_2_3_3=new Array("Juggernaut","ds_juggernaut.shtml","",0,20,110);
+	Menu2_3=new Array("Pacific Rim Forces VTs","","",3,20,130);
+		Menu2_3_1=new Array("1st Generation VTs","","",3,20,110);
+			Menu2_3_1_1=new Array("Decider","ds_decider.shtml","",0,20,110);
+			Menu2_3_1_2=new Array("Falchion","ds_falchion.shtml","",0,20,110);
+			Menu2_3_1_3=new Array("Decider Volcanic","ds_decidervolcanic.shtml","",0,20,110);
+		Menu2_3_2=new Array("2nd Generation VTs","","",5,20,110);
+			Menu2_3_2_1=new Array("Blade","ds_blade.shtml","",0,20,110);
+			Menu2_3_2_2=new Array("Prominence M1","ds_prominenceM1.shtml","",0,20,110);
+			Menu2_3_2_3=new Array("Rapier","ds_rapier.shtml","",0,20,110);
+			Menu2_3_2_4=new Array("Prominence M2","ds_prominenceM2.shtml","",0,20,110);
+			Menu2_3_2_5=new Array("Prominence M3","ds_prominenceM3.shtml","",0,20,110);
+		Menu2_3_3=new Array("3rd Generation VTs","","",1,20,110);
+			Menu2_3_3_1=new Array("Quasar","ds_quasar.shtml","",0,20,110);
+	Menu2_4=new Array("Right Brothers VTs","","",3,20,130);
+		Menu2_4_1=new Array("1st Generation VTs","","",2,20,110);
+			Menu2_4_1_1=new Array("Colt","ds_colt.shtml","",0,20,110);
+			Menu2_4_1_2=new Array("Colt Executive","ds_coltexecutive.shtml","",0,20,110);
+		Menu2_4_2=new Array("2nd Generation VTs","","",3,20,110);
+			Menu2_4_2_1=new Array("Yellow Jacket","ds_yellowjacket.shtml","",0,20,110);
+			Menu2_4_2_2=new Array("Siegeszug","ds_siegeszug.shtml","",0,20,110);
+			Menu2_4_2_3=new Array("Sheepdog","ds_sheepdog.shtml","",0,20,110);
+		Menu2_4_3=new Array("3rd Generation VTs","","",1,20,110);
+			Menu2_4_3_1=new Array("Earthshaker","ds_earthshaker.shtml","",0,20,110);
+	Menu2_5=new Array("Jaralaccs Mercenary VTs","","",1,20,130);
+		Menu2_5_1=new Array("2nd Generation VTs","","",4,20,110);
+			Menu2_5_1_1=new Array("Jaralaccs C","ds_jaralaccsC.shtml","",0,20,110);
+			Menu2_5_1_2=new Array("Jaralaccs N","ds_jaralaccsN.shtml","",0,20,110);
+			Menu2_5_1_3=new Array("Jaralaccs NS-R","ds_jaralaccsNS-R.shtml","",0,20,110);
+			Menu2_5_1_4=new Array("Jaralaccs Macabre","ds_jaralaccs_macabre.shtml","",0,20,110);
+	Menu2_6=new Array("VT Manufacturers","loc_manunav.shtml","",0,20,130);
+	Menu2_7=new Array("VT Comparissons","loc_vtcompare.shtml","",0,20,130);
+	Menu2_8=new Array("Cockpit Reference","loc_cockpits.shtml","",6,20,130);
+		Menu2_8_1=new Array("1st Gen - Standard","loc_cockpits_g1.shtml","",0,20,120);
+		Menu2_8_2=new Array("1st Gen - Support","loc_cockpits_g1s.shtml","",0,20,120);
+		Menu2_8_3=new Array("2nd Gen - Standard","loc_cockpits_g2.shtml","",0,20,120);
+		Menu2_8_4=new Array("2nd Gen - Support","loc_cockpits_g2s.shtml","",0,20,120);
+		Menu2_8_5=new Array("2nd Gen - Jaralaccs","loc_cockpits_g2j.shtml","",0,20,120);
+		Menu2_8_6=new Array("3rd Gen - Standard","loc_cockpits_g3.shtml","",0,20,120);
+	Menu2_9=new Array("VT Customisation","loc_vtcustom.shtml","",0,20,130);
+	
+Menu3=new Array("<img src='image/btn_config.gif' width='81' height='11'>","","",5,11,81);
+	Menu3_1=new Array("Weapon Information","loc_weapon.shtml","",0,20,130);
+	Menu3_2=new Array("Weapon Summary","loc_weapon_summary.shtml","",0,20,130);
+	Menu3_3=new Array("Weapon Configuration","loc_weaponconfig.shtml","",0,20,130);
+	Menu3_4=new Array("Optional Parts","loc_optionalparts.shtml","",0,20,130);
+	Menu3_5=new Array("Weapon Range Compare","loc_rangecompare.shtml","",0,20,130);
+	
+Menu4=new Array("<img src='image/btn_testing.gif' width='55' height='11'>","","",9,11,55);
+	Menu4_1=new Array("Testing & Results","loc_testing.shtml","",0,20,200);
+	Menu4_2=new Array("Loadout Weight Effect on Turning","loc_testing_turnweighteffect.shtml","",0,20,200);
+	Menu4_3=new Array("Vertical Tank Rise Time","loc_testing_vt_risetime.shtml","",0,20,200);
+	Menu4_4=new Array("Platform and Leg Durability","loc_testing_dur.shtml","",0,20,200);
+	Menu4_5=new Array("Vertical Tank Distance Modifiers","loc_testing_distancemod.shtml","",0,20,200);
+	Menu4_6=new Array("Vertical Tank Turning Performance","loc_testing_turn.shtml","",0,20,200);
+	Menu4_7=new Array("Vertical Tank Acceleration Testing","loc_testing_speed.shtml","",0,20,200);
+	Menu4_8=new Array("Guided Missile Testing","loc_testing_guidedmissile.shtml","",0,20,200);
+	Menu4_9=new Array("Torque Performance on Terrain","loc_testing_crossgear.shtml","",0,20,200);
+	
+Menu5=new Array("<img src='image/btn_tactical.gif' width='94' height='11'>","","",3,11,94);
+	Menu5_1=new Array("Sortie Points","loc_sortiepoints.shtml","",0,20,120);
+	Menu5_2=new Array("Gameplay","loc_gameplay.shtml","",0,20,120);
+	Menu5_3=new Array("Mission Information","loc_mission.shtml","",25,20,120);
+		Menu5_3_1=new Array("Mission 00 - Live Ammunition Training Grounds","loc_mission00.shtml","",0,20,300);
+		Menu5_3_2=new Array("Mission 01 - Sha Wan Hills","loc_mission01.shtml","",0,20,300);
+		Menu5_3_3=new Array("Mission 02 - Dong Lai River Ford","loc_mission02.shtml","",0,20,300);
+		Menu5_3_4=new Array("Mission 03 - Capture of Outpost 8","loc_mission03.shtml","",0,20,300);
+		Menu5_3_5=new Array("Mission 04 - Occupation of Highland 33","loc_mission04.shtml","",0,20,300);
+		Menu5_3_6=new Array("Mission 05 - Ji Feng Military Base","loc_mission05.shtml","",0,20,300);
+		Menu5_3_7=new Array("Mission 06 - Hong Shan Military Base","loc_mission06.shtml","",0,20,300);
+		Menu5_3_8=new Array("Mission 07 - Battle of Jian Da Harbor","loc_mission07.shtml","",0,20,300);
+		Menu5_3_9=new Array("Mission 08 - Zhong Huan City","loc_mission08.shtml","",0,20,300);
+		Menu5_3_10=new Array("Mission 09 - Reserve Base Siege","loc_mission09.shtml","",0,20,300);
+		Menu5_3_11=new Array("Mission 10 - Jacalita Woodlands","loc_mission10.shtml","",0,20,300);
+		Menu5_3_12=new Array("Mission 11 - San Kuchen Subterranean Fortress","loc_mission11.shtml","",0,20,300);
+		Menu5_3_13=new Array("Mission 12 - Ji Feng Basin","loc_mission12.shtml","",0,20,300);
+		Menu5_3_14=new Array("Mission 13 - Airbase Assault","loc_mission13.shtml","",0,20,300);
+		Menu5_3_15=new Array("Mission 14 - Wei Gu Strike","loc_mission14.shtml","",0,20,300);
+		Menu5_3_16=new Array("Mission 15 - Container Extraction","loc_mission15.shtml","",0,20,300);
+		Menu5_3_17=new Array("Mission 16 - Nan Jiang Ravine","loc_mission16.shtml","",0,20,300);
+		Menu5_3_18=new Array("Mission 17 - New Nan Jiang Factory","loc_mission17.shtml","",0,20,300);
+		Menu5_3_19=new Array("Mission 18 - Battle of Meng Chung He","loc_mission18.shtml","",0,20,300);
+		Menu5_3_20=new Array("Mission 19 - Yun Kota Gorge","loc_mission19.shtml","",0,20,300);
+		Menu5_3_21=new Array("Mission 20 - Xen Feng Tian Corridor","loc_mission20.shtml","",0,20,300);
+		Menu5_3_22=new Array("Mission 21 - Yu Jai Woodlands","loc_mission21.shtml","",0,20,300);
+		Menu5_3_23=new Array("Mission 22 - Capture of Xen Feng Tian","loc_mission22.shtml","",0,20,300);
+		Menu5_3_24=new Array("Mission 23 - Er Ting Foothills","loc_mission23.shtml","",0,20,300);
+		Menu5_3_25=new Array("Mission 24 - Defense of Yu Jai Village","loc_mission24.shtml","",0,20,300);
+		
+Menu6=new Array("<img src='image/btn_intel.gif' width='86' height='11'>","","",10,11,86);
+	Menu6_1=new Array("Pilot Profile","loc_pilotprofile.shtml","",0,20,150);
+	Menu6_2=new Array("Rank","loc_rank.shtml","",0,20,150);
+	Menu6_3=new Array("Awards","loc_awards.shtml","",0,20,150);
+	Menu6_4=new Array("Professional Names","loc_professional.shtml","",0,20,150);
+	Menu6_5=new Array("Faction Intel","loc_faction.shtml","",0,20,150);
+	Menu6_6=new Array("Communication","loc_communication.shtml","",0,20,150);
+	Menu6_7=new Array("Glossary","loc_glossary.shtml","",0,20,150);
+	Menu6_8=new Array("Githon's Steel Battalion Guide","loc_sbt.shtml","",0,20,150);
+	Menu6_9=new Array("Frequently Asked Questions","loc_faq.shtml","",0,20,150);
+	Menu6_10=new Array("Exploits","loc_exploits.shtml","",0,20,150);
+	
+Menu7=new Array("<img src='image/btn_platform.gif' width='58' height='11'>","","",12,11,58);
+	Menu7_1=new Array("Platform Overview","loc_platform.shtml","",0,20,150);
+	Menu7_2=new Array("Game Specifications","loc_game.shtml","",0,20,150);
+	Menu7_3=new Array("Game Requirements","loc_requirements.shtml","",0,20,150);
+	Menu7_4=new Array("Controller Overview","loc_controller.shtml","",0,20,150);
+	Menu7_5=new Array("Controller Serial Archive","loc_serialarchive.shtml","",0,20,150);
+	Menu7_6=new Array("Controller Differences","loc_controllerdifferences.shtml","",0,20,150);
+	Menu7_7=new Array("Connection Issues","loc_connection.shtml","",0,20,150);
+	Menu7_8=new Array("Game History & Patches","loc_gamehistory.shtml","",0,20,150);
+	Menu7_9=new Array("Replay Information","loc_replay.shtml","",0,20,150);
+	Menu7_10=new Array("Custom Soundtracks","loc_boombox.shtml","",0,20,150);
+	Menu7_11=new Array("SB vs SB: LOC","loc_sbdifferences.shtml","",0,20,150);
+	Menu7_12=new Array("Cockpit Setups","loc_cockpit.shtml","",0,20,150);
+	
+Menu8=new Array("<img src='image/btn_media.gif' width='76' height='11'>","","",10,11,76);
+	Menu8_1=new Array("Media Overview","loc_media.shtml","",0,20,150);
+	Menu8_2=new Array("VT Open Cockpit Details","loc_media_cockpit.shtml","",0,20,150);
+	Menu8_3=new Array("Hai Shi Dao VTs","","",12,20,150);
+		Menu8_3_1=new Array("Vitzh","loc_media_vitzh.shtml","",0,20,100);
+		Menu8_3_2=new Array("Vortex","loc_media_vortex.shtml","",0,20,100);
+		Menu8_3_3=new Array("Scare Face","loc_media_scareface.shtml","",0,20,100);
+		Menu8_3_4=new Array("m-Vitzh","loc_media_mvitzh.shtml","",0,20,100);
+		Menu8_3_5=new Array("Scare Face A1","loc_media_scarefacea1.shtml","",0,20,100);
+		Menu8_3_6=new Array("Scare Face II","loc_media_scareface2.shtml","",0,20,100);
+		Menu8_3_7=new Array("Maelstrom","loc_media_maelstrom.shtml","",0,20,100);
+		Menu8_3_8=new Array("Behemoth","loc_media_behemoth.shtml","",0,20,100);
+		Menu8_3_9=new Array("Garpike","loc_media_garpike.shtml","",0,20,100);
+		Menu8_3_10=new Array("Regal Dress A","loc_media_regaldressa.shtml","",0,20,100);
+		Menu8_3_11=new Array("Regal Dress N","loc_media_regaldressn.shtml","",0,20,100);
+		Menu8_3_12=new Array("Juggernaut","loc_media_juggernaut.shtml","",0,20,100);
+	Menu8_4=new Array("Pacific Rim Forces VTs","","",9,20,150);
+		Menu8_4_1=new Array("Decider","loc_media_decider.shtml","",0,20,100);
+		Menu8_4_2=new Array("Falchion","loc_media_falchion.shtml","",0,20,100);
+		Menu8_4_3=new Array("Decider Volcanic","loc_media_decidervolcanic.shtml","",0,20,100);
+		Menu8_4_4=new Array("Prominence M1","loc_media_prominencem1.shtml","",0,20,100);
+		Menu8_4_5=new Array("Prominence M2","loc_media_prominencem2.shtml","",0,20,100);
+		Menu8_4_6=new Array("Prominence M3","loc_media_prominencem3.shtml","",0,20,100);
+		Menu8_4_7=new Array("Blade","loc_media_blade.shtml","",0,20,100);
+		Menu8_4_8=new Array("Rapier","loc_media_rapier.shtml","",0,20,100);
+		Menu8_4_9=new Array("Quasar","loc_media_quasar.shtml","",0,20,100);
+	Menu8_5=new Array("Right Brothers VTs","","",6,20,150);
+		Menu8_5_1=new Array("Colt","loc_media_colt.shtml","",0,20,100);
+		Menu8_5_2=new Array("Colt Executive","loc_media_coltexecutive.shtml","",0,20,100);
+		Menu8_5_3=new Array("Yellow Jacket","loc_media_yellowjacket.shtml","",0,20,100);
+		Menu8_5_4=new Array("Sheepdog","loc_media_sheepdog.shtml","",0,20,100);
+		Menu8_5_5=new Array("Siegeszug","loc_media_siegeszug.shtml","",0,20,100);
+		Menu8_5_6=new Array("Earthshaker","loc_media_earthshaker.shtml","",0,20,100);
+	Menu8_6=new Array("Jaralaccs Mercenary VTs","","",4,20,150);
+		Menu8_6_1=new Array("Jaralaccs C","loc_media_jaralaccsc.shtml","",0,20,100);
+		Menu8_6_2=new Array("Jaralaccs N","loc_media_jaralaccsn.shtml","",0,20,100);
+		Menu8_6_3=new Array("Jaralaccs NS-R","loc_media_jaralaccsnsr.shtml","",0,20,100);
+		Menu8_6_4=new Array("Jaralaccs Macabre","loc_media_jaralaccsmacabre.shtml","",0,20,100);
+	Menu8_7=new Array("Battle Images","","",6,20,150);
+		Menu8_7_1=new Array("Battle 01","loc_media_battle.shtml","",0,20,100);
+		Menu8_7_2=new Array("Battle 02","loc_media_battle2.shtml","",0,20,100);
+		Menu8_7_3=new Array("Battle 03","loc_media_battle3.shtml","",0,20,100);
+		Menu8_7_4=new Array("Battle 04","loc_media_battle4.shtml","",0,20,100);
+		Menu8_7_5=new Array("Battle 05","loc_media_battle5.shtml","",0,20,100);
+		Menu8_7_6=new Array("Battle 06","loc_media_battle6.shtml","",0,20,100);
+	Menu8_8=new Array("Chaff Deployment Details","loc_media_chaff.shtml","",0,20,150);
+	Menu8_9=new Array("Gameplay Movies","loc_media_movies.shtml","",0,20,150);
+	Menu8_10=new Array("Action Replay Files","loc_media_actionreplay.shtml","",0,20,150);
+
+Menu9=new Array("<img src='image/btn_misc.gif' width='83' height='11'>","","",3,11,83);
+	Menu9_1=new Array("BoxLOC","loc_boxloc.shtml","",0,20,150);
+	Menu9_2=new Array("Order of Garpike","loc_orderofpike.shtml","",0,20,150);
+	Menu9_3=new Array("Random VT Selector","loc_randomvtselector.shtml","",0,20,150);
+
+Menu10=new Array("<img src='image/btn_comm.gif' width='49' height='11'>","","",2,11,49);
+	Menu10_1=new Array("Contact Us","loc_contact.shtml","",0,20,150);
+	Menu10_2=new Array("Links of Interest","loc_discuss.shtml","",0,20,150);
+
+Menu11=new Array("<img src='image/btn_about.gif' width='63' height='11'>","","",3,11,63);
+	Menu11_1=new Array("About the Site","loc_about.shtml","",0,20,150);
+	Menu11_2=new Array("Site Credits","loc_about.shtml#credits","",0,20,150);
+	Menu11_3=new Array("Sitemap","loc_sitemap.shtml","",0,20,150);
+</script>
+
+<div align="center">
+
+<table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td>&nbsp;</td>
+		<td width="900" height="88" valign="top">
+		
+		<!---begin header and navigation--->
+		<table width="900" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="9" height="79"><img src="image/bg_navhd01.gif" width="9" height="79" border="0" alt=""></td>
+				<td width="105" height="79"><a href="loc_main.shtml"><img src="image/header01.gif" width="105" height="79" border="0" alt="LINEOFCONTACT.NET"></a></td>
+				<td width="8" height="79"><img src="image/bg_navhd02.gif" width="8" height="79" border="0" alt=""></td>
+				<td width="778" height="79">
+				<table width="778" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td width="778" height="41">
+						<table width="778" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="425" height="41" align="left"><img src="image/hdr_icons.gif" width="22" height="41" border="0" alt=""></td>
+								<td width="353" height="41" align="right"><img src="image/hdr_locnet.gif" width="353" height="41" border="0" alt="LINEOFCONTACT.NET - Your Source for Steel Battalion: Line of Contact Information"></td>
+							</tr>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td width="778" height="11">
+						<span id="dropmenu">
+						<table width="778" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="51" height="11"><img src="image/btn_tutorial.gif" width="51" height="11" border="0" alt="TUTORIAL"></td>
+								<td width="82" height="11"><img src="image/btn_vt.gif" width="82" height="11" border="0" alt="VERTICAL TANKS"></td>
+								<td width="81" height="11"><img src="image/btn_config.gif" width="81" height="11" border="0" alt="CONFIGURATION"></td>
+								<td width="55" height="11"><img src="image/btn_testing.gif" width="55" height="11" border="0" alt="TESTING"></td>
+								<td width="94" height="11"><img src="image/btn_tactical.gif" width="94" height="11" border="0" alt="TACTICAL ANALYSIS"></td>
+								<td width="86" height="11"><img src="image/btn_intel.gif" width="86" height="11" border="0" alt="INTEL &amp; BRIEFING"></td>
+								<td width="58" height="11"><img src="image/btn_platform.gif" width="58" height="11" border="0" alt="PLATFORM"></td>
+								<td width="76" height="11"><img src="image/btn_media.gif" width="76" height="11" border="0" alt="MEDIA UPLINK"></td>
+								<td width="83" height="11"><img src="image/btn_misc.gif" width="83" height="11" border="0" alt="MISCELLANEOUS"></td>
+								<td width="49" height="11"><img src="image/btn_comm.gif" width="49" height="11" border="0" alt="COMLINK"></td>
+								<td width="63" height="11"><img src="image/btn_about.gif" width="63" height="11" border="0" alt="ABOUT SITE"></td>
+							</tr>
+						</table>
+						</span>
+						</td>
+					</tr>
+					<tr>
+						<td width="778" height="18">
+						<table width="778" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="51" height="18" background="image/bg_navhd07.gif"></td>
+								<td style="padding-top: 2px; padding-left: 3px;" width="725" height="18" background="image/bg_navhd08_splice.gif"><span class="headline">LATEST NEWS:</span> KEEBLER ON FIRE AGAIN - <span style="font-size: 9px;">Regular LOC times Wed from 8:30pmEST, Sun from 3pm EST</span></td>
+								<td width="2" height="18" background="image/bg_navhd08.gif"></td>
+							</tr>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td width="778" height="9" background="image/bg_navhd05_runner.gif"></td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+			<tr>
+				<td width="9" height="9"><img src="image/bg_navhd03.gif" width="9" height="9" border="0" alt=""></td>
+				<td width="105" height="9" background="image/bg_navhd03_splice.gif"></td>
+				<td width="8" height="9"><img src="image/bg_navhd04.gif" width="8" height="9" border="0" alt=""></td>
+				<td width="778" height="9" align="left"><img src="image/bg_navhd06.gif" width="5" height="9" border="0" alt=""></td>
+			</tr>
+		</table>
+		<!---end header and navigation--->
+		</td>
+		<td>&nbsp;</td>
+	</tr>
+<!---end header navigation include--->
+<!---end navigation include--->
+	<tr>
+		<td>&nbsp;</td>
+		<td width="900" height="40">
+		<div style="height: 9px;"></div>
+		<table width="900" cellspacing="0" cellpadding="0" style="border-style: solid; border-width: 1px; border-color: #000000;">
+			<tr>
+				<td width="106" height="13" background="image/bg_currentdoc.gif"></td>
+				<td class="crumbs" style="padding-left: 5px;" width="794" height="13" bgcolor="#E4E4E4"><a class="crumbs" href="loc_main.shtml">Home</a> &gt; Configuration &gt; <a class="crumbs" href="loc_rangecompare.shtml">Weapon Range Comparator</a></td>
+			</tr>
+		</table>
+		<div style="height: 18px;"></div>
+		</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td width="900" valign="top">
+		<!---start content area--->
+		<div align="center">
+		<table width="600" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td colspan="4"><span class="crumbs">Click each VT name to view the coresponding Weapon Comparator Chart</span></td>
+			</tr>
+			<tr>
+				<td width="150" valign="top"><div class="H1">Hai Shi Dao VTs</div>
+				<a href="javascript:toggleLayer('VITZH');">Vitzh</a><br><a href="javascript:toggleLayer('VORTEX');">Vortex</a><br><a href="javascript:toggleLayer('SCAREFACE');">Scare Face</a><br><a href="javascript:toggleLayer('M-VITZH');">m-Vitzh</a><br><a href="javascript:toggleLayer('SCAREFACE-A1');">Scare Face A1</a><br><a href="javascript:toggleLayer('SCAREFACE2');">Scare Face II</a><br><a href="javascript:toggleLayer('MAELSTROM');">Maelstrom</a><br><a href="javascript:toggleLayer('BEHEMOTH');">Behemoth</a><br><a href="javascript:toggleLayer('GARPIKE');">Garpike</a><br><a href="javascript:toggleLayer('REGAL-A');">Regal Dress A</a><br><a href="javascript:toggleLayer('REGAL-N');">Regal Dress N</a><br><a href="javascript:toggleLayer('JUGGERNAUT');">Juggernaut</a><br>
+				</td>
+				<td width="150" valign="top"><div class="H1">Pacific Rim Forces VTs</div>
+				<a href="javascript:toggleLayer('DECIDER');">Decider</a><br><a href="javascript:toggleLayer('FALCHION');">Falchion</a><br><a href="javascript:toggleLayer('DECIDER-V');">Decider Volcanic</a><br><a href="javascript:toggleLayer('BLADE');">Blade</a><br><a href="javascript:toggleLayer('RAPIER');">Rapier</a><br><a href="javascript:toggleLayer('PROM-M1');">Prominence M1</a><br><a href="javascript:toggleLayer('PROM-M2');">Prominence M2</a><br><a href="javascript:toggleLayer('PROM-M3');">Prominence M3</a><br><a href="javascript:toggleLayer('QUASAR');">Quasar</a><br>
+				</td>
+				<td width="150" valign="top"><div class="H1">Right Brothers VTs</div>
+				<a href="javascript:toggleLayer('COLT');">Colt</a><br><a href="javascript:toggleLayer('COLT-E');">Colt Executive</a><br><a href="javascript:toggleLayer('YJ');">Yellow Jacket</a><br><a href="javascript:toggleLayer('SHEEPDOG');">Sheepdog</a><br><a href="javascript:toggleLayer('SIEGESZUG');">Siegeszug</a><br><a href="javascript:toggleLayer('EARTHSHAKER');">Earthshaker</a><br>
+				</td>
+				<td width="150" valign="top"><div class="H1">Jaralaccs Mercenary VTs</div>
+				<a href="javascript:toggleLayer('JAR-N');">Jaralaccs N</a><br><a href="javascript:toggleLayer('JAR-C');">Jaralaccs C</a><br><a href="javascript:toggleLayer('JAR-NSR');">Jaralaccs NS-R</a><br><a href="javascript:toggleLayer('JAR-MAC');">Jaralaccs Macabre</a><br>
+				</td>
+			</tr>
+		</table>
+		</div>
+		
+		<div id="VITZH">
+		<div class="H1" style="float: left;">Vitzh</div>
+		<div style="float: right;"><a href="javascript:toggleLayer('VITZH');">close</a></div><br>
+		<table width="800" border="1" bordercolor="#000000" cellspacing="0" cellpadding="0">
+			<tr>
+				<td style="background-repeat: repeat-y;" valign="top" height="102" background="range/range_bgnd.gif">
+				<div id="VITZH_270-RI" style="position: relative; top: 0px;"></div>
+				<div id="VITZH_4A-REC" style="position: relative; top: 0px;"></div>
+				<div id="VITZH_77-REC" style="position: relative; top: 0px;"></div>
+				<div id="VITZH_120-MG" style="position: relative; top: 0px;"></div>
+				<div id="VITZH_140-MG" style="position: relative; top: 0px;"></div>
+				<div id="VITZH_67-CG" style="position: relative; top: 0px;"></div>
+				<div id="VITZH_GND" style="position: relative; top: 0px;"></div>
+				</td>
+			</tr>
+			<tr>
+				<td width="800" height="9"><img src="range/range_ind.gif" width="798" height="9" border="0" alt=""></td>
+			</tr>
+		</table>
+		<div class="redtext">Click each weapon name to display or hide the associated effective range.</div>
+		<a href="javascript:toggleLayer('VITZH_270-RI');">270-RI</a> | <a href="javascript:toggleLayer('VITZH_4A-REC');">4A-REC</a> | <a href="javascript:toggleLayer('VITZH_77-REC');">77-REC</a> | <a href="javascript:toggleLayer('VITZH_120-MG');">120-MG</a> | <a href="javascript:toggleLayer('VITZH_140-MG');">140-MG</a> | <a href="javascript:toggleLayer('VITZH_67-CG');">67-CG</a> | <a href="javascript:toggleLayer('VITZH_GND');">GND</a>
+		</div>
+		
+		<div id="VORTEX">
+		<div class="H1" style="float: left;">Vortex</div>
+		<div style="float: right;"><a href="javascript:toggleLayer('VORTEX');">close</a></div><br>
+		<table width="800" border="1" bordercolor="#000000" cellspacing="0" cellpadding="0">
+			<tr>
+				<td style="background-repeat: repeat-y;" valign="top" height="75" background="range/range_bgnd.gif">
+				<div id="VORTEX_MK21-R" style="position: relative; top: 0px;"></div>
+				<div id="VORTEX_MK34-R" style="position: relative; top: 0px;"></div>
+				<div id="VORTEX_120-MG" style="position: relative; top: 0px;"></div>
+				<div id="VORTEX_67-CG" style="position: relative; top: 0px;"></div>
+				<div id="VORTEX_370-HW" style="position: relative; top: 0px;"></div>
+				</td>
+			</tr>
+			<tr>
+				<td width="800" height="9"><img src="range/range_ind.gif" width="798" height="9" border="0" alt=""></td>
+			</tr>
+		</table>
+		<div class="redtext">Click each weapon name to display or hide the associated effective range.</div>
+		<a href="javascript:toggleLayer('VORTEX_MK21-R');">MK21-R</a> | <a href="javascript:toggleLayer('VORTEX_MK34-R');">MK34-R</a> | <a href="javascript:toggleLayer('VORTEX_120-MG');">120-MG</a> | <a href="javascript:toggleLayer('VORTEX_67-CG');">67-CG</a> | <a href="javascript:toggleLayer('VORTEX_370-HW');">370-HW</a>
+		</div>
+		
+		<div id="SCAREFACE">
+		<div class="H1" style="float: left;">Scare Face</div>
+		<div style="float: right;"><a href="javascript:toggleLayer('SCAREFACE');">close</a></div><br>
+		<table width="800" border="1" bordercolor="#000000" cellspacing="0" cellpadding="0">
+			<tr>
+				<td style="background-repeat: repeat-y;" valign="top" height="103" background="range/range_bgnd.gif">
+				<div id="SCAREFACE_315-SB" style="position: relative; top: 0px;"></div>
+				<div id="SCAREFACE_320-SR" style="position: relative; top: 0px;"></div>
+				<div id="SCAREFACE_4A-REC" style="position: relative; top: 0px;"></div>
+				<div id="SCAREFACE_77-REC" style="position: relative; top: 0px;"></div>
+				<div id="SCAREFACE_80-CG" style="position: relative; top: 0px;"></div>
+				<div id="SCAREFACE_GND" style="position: relative; top: 0px;"></div>
+				<div id="SCAREFACE_T-GND" style="position: relative; top: 0px;"></div>
+				</td>
+			</tr>
+			<tr>
+				<td width="800" height="9"><img src="range/range_ind.gif" width="798" height="9" border="0" alt=""></td>
+			</tr>
+		</table>
+		<div class="redtext">Click each weapon name to display or hide the associated effective range.</div>
+		<a href="javascript:toggleLayer('SCAREFACE_315-SB');">315-SB</a> | <a href="javascript:toggleLayer('SCAREFACE_320-SR');">320-SR</a> | <a href="javascript:toggleLayer('SCAREFACE_4A-REC');">4A-REC</a> | <a href="javascript:toggleLayer('SCAREFACE_77-REC');">77-REC</a> | <a href="javascript:toggleLayer('SCAREFACE_80-CG');">80-CG</a> | <a href="javascript:toggleLayer('SCAREFACE_GND');">GND</a> | <a href="javascript:toggleLayer('SCAREFACE_T-GND');">T-GND</a>
+		</div>
+		
+		<div id="M-VITZH">
+		<div class="H1" style="float: left;">m-Vitzh</div>
+		<div style="float: right;"><a href="javascript:toggleLayer('M-VITZH');">close</a></div><br>
+		<table width="800" border="1" bordercolor="#000000" cellspacing="0" cellpadding="0">
+			<tr>
+				<td style="background-repeat: repeat-y;" valign="top" height="102" background="range/range_bgnd.gif">
+				<div id="M-VITZH_270-RI" style="position: relative; top: 0px;"></div>
+				<div id="M-VITZH_4A-REC" style="position: relative; top: 0px;"></div>
+				<div id="M-VITZH_77-REC" style="position: relative; top: 0px;"></div>
+				<div id="M-VITZH_120-MG" style="position: relative; top: 0px;"></div>
+				<div id="M-VITZH_140-MG" style="position: relative; top: 0px;"></div>
+				<div id="M-VITZH_67-CG" style="position: relative; top: 0px;"></div>
+				<div id="M-VITZH_GND" style="position: relative; top: 0px;"></div>
+				</td>
+			</tr>
+			<tr>
+				<td width="800" height="9"><img src="range/range_ind.gif" width="798" height="9" border="0" alt=""></td>
+			</tr>
+		</table>
+		<div class="redtext">Click each weapon name to display or hide the associated effective range.</div>
+		<a href="javascript:toggleLayer('M-VITZH_270-RI');">270-RI</a> | <a href="javascript:toggleLayer('M-VITZH_4A-REC');">4A-REC</a> | <a href="javascript:toggleLayer('M-VITZH_77-REC');">77-REC</a> | <a href="javascript:toggleLayer('M-VITZH_120-MG');">120-MG</a> | <a href="javascript:toggleLayer('M-VITZH_140-MG');">140-MG</a> | <a href="javascript:toggleLayer('M-VITZH_67-CG');">67-CG</a> | <a href="javascript:toggleLayer('M-VITZH_GND');">GND</a>
+		</div>
+		
+		<div id="SCAREFACE-A1">
+		<div class="H1" style="float: left;">Scare Face A1</div>
+		<div style="float: right;"><a href="javascript:toggleLayer('SCAREFACE-A1');">close</a></div><br>
+		<table width="800" border="1" bordercolor="#000000" cellspacing="0" cellpadding="0">
+			<tr>
+				<td style="background-repeat: repeat-y;" valign="top" height="116" background="range/range_bgnd.gif">
+				<div id="SCAREFACE-A1_315-SB" style="position: relative; top: 0px;"></div>
+				<div id="SCAREFACE-A1_320-SR" style="position: relative; top: 0px;"></div>
+				<div id="SCAREFACE-A1_4A-REC" style="position: relative; top: 0px;"></div>
+				<div id="SCAREFACE-A1_77-REC" style="position: relative; top: 0px;"></div>
+				<div id="SCAREFACE-A1_MKR-LA" style="position: relative; top: 0px;"></div>
+				<div id="SCAREFACE-A1_80-CG" style="position: relative; top: 0px;"></div>
+				<div id="SCAREFACE-A1_GND" style="position: relative; top: 0px;"></div>
+				<div id="SCAREFACE-A1_T-GND" style="position: relative; top: 0px;"></div>
+				</td>
+			</tr>
+			<tr>
+				<td width="800" height="9"><img src="range/range_ind.gif" width="798" height="9" border="0" alt=""></td>
+			</tr>
+		</table>
+		<div class="redtext">Click each weapon name to display or hide the associated effective range.</div>
+		<a href="javascript:toggleLayer('SCAREFACE-A1_315-SB');">315-SB</a> | <a href="javascript:toggleLayer('SCAREFACE-A1_320-SR');">320-SR</a> | <a href="javascript:toggleLayer('SCAREFACE-A1_4A-REC');">4A-REC</a> | <a href="javascript:toggleLayer('SCAREFACE-A1_77-REC');">77-REC</a> | <a href="javascript:toggleLayer('SCAREFACE-A1_MKR-LA');">MKR-LA</a> | <a href="javascript:toggleLayer('SCAREFACE-A1_80-CG');">80-CG</a> | <a href="javascript:toggleLayer('SCAREFACE-A1_GND');">GND</a> | <a href="javascript:toggleLayer('SCAREFACE-A1_T-GND');">T-GND</a>
+		</div>
+		
+		<div id="SCAREFACE2">
+		<div class="H1" style="float: left;">Scare Face II</div>
+		<div style="float: right;"><a href="javascript:toggleLayer('SCAREFACE2');">close</a></div><br>
+		<table width="800" border="1" bordercolor="#000000" cellspacing="0" cellpadding="0">
+			<tr>
+				<td style="background-repeat: repeat-y;" valign="top" height="118" background="range/range_bgnd.gif">
+				<div id="SCAREFACE2_320-SR" style="position: relative; top: 0px;"></div>
+				<div id="SCAREFACE2_370-SR" style="position: relative; top: 0px;"></div>
+				<div id="SCAREFACE2_315-SB" style="position: relative; top: 0px;"></div>
+				<div id="SCAREFACE2_355-SB" style="position: relative; top: 0px;"></div>
+				<div id="SCAREFACE2_PZ-MIS" style="position: relative; top: 0px;"></div>
+				<div id="SCAREFACE2_100-CG" style="position: relative; top: 0px;"></div>
+				<div id="SCAREFACE2_GND" style="position: relative; top: 0px;"></div>
+				<div id="SCAREFACE2_T-GND" style="position: relative; top: 0px;"></div>
+				</td>
+			</tr>
+			<tr>
+				<td width="800" height="9"><img src="range/range_ind.gif" width="798" height="9" border="0" alt=""></td>
+			</tr>
+		</table>
+		<div class="redtext">Click each weapon name to display or hide the associated effective range.</div>
+		<a href="javascript:toggleLayer('SCAREFACE2_320-SR');">320-SR</a> | <a href="javascript:toggleLayer('SCAREFACE2_370-SR');">370-SR</a> | <a href="javascript:toggleLayer('SCAREFACE2_315-SB');">315-SB</a> | <a href="javascript:toggleLayer('SCAREFACE2_355-SB');">355-SB</a> | <a href="javascript:toggleLayer('SCAREFACE2_PZ-MIS');">PZ-MIS</a> | <a href="javascript:toggleLayer('SCAREFACE2_100-CG');">100-CG</a> | <a href="javascript:toggleLayer('SCAREFACE2_GND');">GND</a> | <a href="javascript:toggleLayer('SCAREFACE2_T-GND');">T-GND</a>
+		</div>
+		
+		<div id="MAELSTROM">
+		<div class="H1" style="float: left;">Maelstrom</div>
+		<div style="float: right;"><a href="javascript:toggleLayer('MAELSTROM');">close</a></div><br>
+		<table width="800" border="1" bordercolor="#000000" cellspacing="0" cellpadding="0">
+			<tr>
+				<td style="background-repeat: repeat-y;" valign="top" height="118" background="range/range_bgnd.gif">
+				<div id="MAELSTROM_MK21-R" style="position: relative; top: 0px;"></div>
+				<div id="MAELSTROM_MK34-R" style="position: relative; top: 0px;"></div>
+				<div id="MAELSTROM_120-MG" style="position: relative; top: 0px;"></div>
+				<div id="MAELSTROM_140-MG" style="position: relative; top: 0px;"></div>
+				<div id="MAELSTROM_67-CG" style="position: relative; top: 0px;"></div>
+				<div id="MAELSTROM_370-HW" style="position: relative; top: 0px;"></div>
+				<div id="MAELSTROM_550-HW" style="position: relative; top: 0px;"></div>
+				<div id="MAELSTROM_8-MLR" style="position: relative; top: 0px;"></div>
+				</td>
+			</tr>
+			<tr>
+				<td width="800" height="9"><img src="range/range_ind.gif" width="798" height="9" border="0" alt=""></td>
+			</tr>
+		</table>
+		<div class="redtext">Click each weapon name to display or hide the associated effective range.</div>
+		<a href="javascript:toggleLayer('MAELSTROM_MK21-R');">MK21-R</a> | <a href="javascript:toggleLayer('MAELSTROM_MK34-R');">MK34-R</a> | <a href="javascript:toggleLayer('MAELSTROM_120-MG');">120-MG</a> | <a href="javascript:toggleLayer('MAELSTROM_140-MG');">140-MG</a> | <a href="javascript:toggleLayer('MAELSTROM_67-CG');">67-CG</a> | <a href="javascript:toggleLayer('MAELSTROM_370-HW');">370-HW</a> | <a href="javascript:toggleLayer('MAELSTROM_550-HW');">550-HW</a> | <a href="javascript:toggleLayer('MAELSTROM_8-MLR');">8-MLR</a>
+		</div>
+		
+		<div id="BEHEMOTH">
+		<div class="H1" style="float: left;">Behemoth</div>
+		<div style="float: right;"><a href="javascript:toggleLayer('BEHEMOTH');">close</a></div><br>
+		<table width="800" border="1" bordercolor="#000000" cellspacing="0" cellpadding="0">
+			<tr>
+				<td style="background-repeat: repeat-y;" valign="top" height="118" background="range/range_bgnd.gif">
+				<div id="BEHEMOTH_MK21-R" style="position: relative; top: 0px;"></div>
+				<div id="BEHEMOTH_MK34-R" style="position: relative; top: 0px;"></div>
+				<div id="BEHEMOTH_HVM-LA" style="position: relative; top: 0px;"></div>
+				<div id="BEHEMOTH_135-MG" style="position: relative; top: 0px;"></div>
+				<div id="BEHEMOTH_550-HW" style="position: relative; top: 0px;"></div>
+				<div id="BEHEMOTH_660-HW" style="position: relative; top: 0px;"></div>
+				<div id="BEHEMOTH_12-MLR" style="position: relative; top: 0px;"></div>
+				<div id="BEHEMOTH_AVTDV" style="position: relative; top: 0px;"></div>
+				</td>
+			</tr>
+			<tr>
+				<td width="800" height="9"><img src="range/range_ind.gif" width="798" height="9" border="0" alt=""></td>
+			</tr>
+		</table>
+		<div class="redtext">Click each weapon name to display or hide the associated effective range.</div>
+		<a href="javascript:toggleLayer('BEHEMOTH_MK21-R');">MK21-R</a> | <a href="javascript:toggleLayer('BEHEMOTH_MK34-R');">MK34-R</a> | <a href="javascript:toggleLayer('BEHEMOTH_HVM-LA');">HVM-LA</a> | <a href="javascript:toggleLayer('BEHEMOTH_135-MG');">135-MG</a> | <a href="javascript:toggleLayer('BEHEMOTH_550-HW');">550-HW</a> | <a href="javascript:toggleLayer('BEHEMOTH_660-HW');">660-HW</a> | <a href="javascript:toggleLayer('BEHEMOTH_12-MLR');">12-MLR</a> | <a href="javascript:toggleLayer('BEHEMOTH_AVTDV');">AVTDV</a>
+		</div>
+		
+		<div id="GARPIKE">
+		<div class="H1" style="float: left;">Garpike</div>
+		<div style="float: right;"><a href="javascript:toggleLayer('GARPIKE');">close</a></div><br>
+		<table width="800" border="1" bordercolor="#000000" cellspacing="0" cellpadding="0">
+			<tr>
+				<td style="background-repeat: repeat-y;" valign="top" height="145" background="range/range_bgnd.gif">
+				<div id="GARPIKE_200-AR" style="position: relative; top: 0px;"></div>
+				<div id="GARPIKE_270-AR" style="position: relative; top: 0px;"></div>
+				<div id="GARPIKE_120-MG" style="position: relative; top: 0px;"></div>
+				<div id="GARPIKE_140-MG" style="position: relative; top: 0px;"></div>
+				<div id="GARPIKE_BANG-N" style="position: relative; top: 0px;"></div>
+				<div id="GARPIKE_100-CG" style="position: relative; top: 0px;"></div>
+				<div id="GARPIKE_135-MG" style="position: relative; top: 0px;"></div>
+				<div id="GARPIKE_AVTM" style="position: relative; top: 0px;"></div>
+				<div id="GARPIKE_FMTHR" style="position: relative; top: 0px;"></div>
+				<div id="GARPIKE_NPM" style="position: relative; top: 0px;"></div>
+				</td>
+			</tr>
+			<tr>
+				<td width="800" height="9"><img src="range/range_ind.gif" width="798" height="9" border="0" alt=""></td>
+			</tr>
+		</table>
+		<div class="redtext">Click each weapon name to display or hide the associated effective range.</div>
+		<a href="javascript:toggleLayer('GARPIKE_200-AR');">200-AR</a> | <a href="javascript:toggleLayer('GARPIKE_270-AR');">270-AR</a> | <a href="javascript:toggleLayer('GARPIKE_120-MG');">120-MG</a> | <a href="javascript:toggleLayer('GARPIKE_140-MG');">140-MG</a> | <a href="javascript:toggleLayer('GARPIKE_BANG-N');">BANG-N</a> | <a href="javascript:toggleLayer('GARPIKE_100-CG');">100-CG</a> | <a href="javascript:toggleLayer('GARPIKE_135-MG');">135-MG</a> | <a href="javascript:toggleLayer('GARPIKE_AVTM');">AVTM</a> | <a href="javascript:toggleLayer('GARPIKE_FMTHR');">FMTHR</a> | <a href="javascript:toggleLayer('GARPIKE_NPM');">NPM</a>
+		</div>
+		
+		<div id="REGAL-A">
+		<div class="H1" style="float: left;">Regal Dress A</div>
+		<div style="float: right;"><a href="javascript:toggleLayer('REGAL-A');">close</a></div><br>
+		<table width="800" border="1" bordercolor="#000000" cellspacing="0" cellpadding="0">
+			<tr>
+				<td style="background-repeat: repeat-y;" valign="top" height="170" background="range/range_bgnd.gif">
+				<div id="REGAL-A_MK21-R" style="position: relative; top: 0px;"></div>
+				<div id="REGAL-A_MK34-R" style="position: relative; top: 0px;"></div>
+				<div id="REGAL-A_120-MG" style="position: relative; top: 0px;"></div>
+				<div id="REGAL-A_140-MG" style="position: relative; top: 0px;"></div>
+				<div id="REGAL-A_100-CG" style="position: relative; top: 0px;"></div>
+				<div id="REGAL-A_135-MG" style="position: relative; top: 0px;"></div>
+				<div id="REGAL-A_550-HW" style="position: relative; top: 0px;"></div>
+				<div id="REGAL-A_12-MLR" style="position: relative; top: 0px;"></div>
+				<div id="REGAL-A_AVTDV" style="position: relative; top: 0px;"></div>
+				<div id="REGAL-A_SL-GM" style="position: relative; top: 0px;"></div>
+				<div id="REGAL-A_GND" style="position: relative; top: 0px;"></div>
+				<div id="REGAL-A_T-GND" style="position: relative; top: 0px;"></div>
+				</td>
+			</tr>
+			<tr>
+				<td width="800" height="9"><img src="range/range_ind.gif" width="798" height="9" border="0" alt=""></td>
+			</tr>
+		</table>
+		<div class="redtext">Click each weapon name to display or hide the associated effective range.</div>
+		<a href="javascript:toggleLayer('REGAL-A_MK21-R');">MK21-R</a> | <a href="javascript:toggleLayer('REGAL-A_MK34-R');">MK34-R</a> | <a href="javascript:toggleLayer('REGAL-A_120-MG');">120-MG</a> | <a href="javascript:toggleLayer('REGAL-A_140-MG');">140-MG</a> | <a href="javascript:toggleLayer('REGAL-A_100-CG');">100-CG</a> | <a href="javascript:toggleLayer('REGAL-A_135-MG');">135-MG</a> | <a href="javascript:toggleLayer('REGAL-A_550-HW');">550-HW</a> | <a href="javascript:toggleLayer('REGAL-A_12-MLR');">12-MLR</a> | <a href="javascript:toggleLayer('REGAL-A_AVTDV');">AVTDV</a> | <a href="javascript:toggleLayer('REGAL-A_SL-GM');">SL-GM</a> | <a href="javascript:toggleLayer('REGAL-A_GND');">GND</a> | <a href="javascript:toggleLayer('REGAL-A_T-GND');">T-GND</a>
+		</div>
+		
+		<div id="REGAL-N">
+		<div class="H1" style="float: left;">Regal Dress N</div>
+		<div style="float: right;"><a href="javascript:toggleLayer('REGAL-N');">close</a></div><br>
+		<table width="800" border="1" bordercolor="#000000" cellspacing="0" cellpadding="0">
+			<tr>
+				<td style="background-repeat: repeat-y;" valign="top" height="158" background="range/range_bgnd.gif">
+				<div id="REGAL-N_355-SB" style="position: relative; top: 0px;"></div>
+				<div id="REGAL-N_430-SB" style="position: relative; top: 0px;"></div>
+				<div id="REGAL-N_320-SR" style="position: relative; top: 0px;"></div>
+				<div id="REGAL-N_370-SR" style="position: relative; top: 0px;"></div>
+				<div id="REGAL-N_HVM-LA" style="position: relative; top: 0px;"></div>
+				<div id="REGAL-N_PZ-MIS" style="position: relative; top: 0px;"></div>
+				<div id="REGAL-N_100-CG" style="position: relative; top: 0px;"></div>
+				<div id="REGAL-N_135-MG" style="position: relative; top: 0px;"></div>
+				<div id="REGAL-N_GND" style="position: relative; top: 0px;"></div>
+				<div id="REGAL-N_T-GND" style="position: relative; top: 0px;"></div>
+				<div id="REGAL-N_SL-GM" style="position: relative; top: 0px;"></div>
+				</td>
+			</tr>
+			<tr>
+				<td width="800" height="9"><img src="range/range_ind.gif" width="798" height="9" border="0" alt=""></td>
+			</tr>
+		</table>
+		<div class="redtext">Click each weapon name to display or hide the associated effective range.</div>
+		<a href="javascript:toggleLayer('REGAL-N_355-SB');">355-SB</a> | <a href="javascript:toggleLayer('REGAL-N_430-SB');">430-SB</a> | <a href="javascript:toggleLayer('REGAL-N_320-SR');">320-SR</a> | <a href="javascript:toggleLayer('REGAL-N_370-SR');">370-SR</a> | <a href="javascript:toggleLayer('REGAL-N_HVM-LA');">HVM-LA</a> | <a href="javascript:toggleLayer('REGAL-N_PZ-MIS');">PZ-MIS</a> | <a href="javascript:toggleLayer('REGAL-N_100-CG');">100-CG</a> | <a href="javascript:toggleLayer('REGAL-N_135-MG');">135-MG</a> | <a href="javascript:toggleLayer('REGAL-N_GND');">GND</a> | <a href="javascript:toggleLayer('REGAL-N_T-GND');">T-GND</a> | <a href="javascript:toggleLayer('REGAL-N_SL-GM');">SL-GM</a>
+		</div>
+		
+		<div id="JUGGERNAUT">
+		<div class="H1" style="float: left;">Juggernaut</div>
+		<div style="float: right;"><a href="javascript:toggleLayer('JUGGERNAUT');">close</a></div><br>
+		<table width="800" border="1" bordercolor="#000000" cellspacing="0" cellpadding="0">
+			<tr>
+				<td style="background-repeat: repeat-y;" valign="top" height="158" background="range/range_bgnd.gif">
+				<div id="JUGG_355-SB" style="position: relative; top: 0px;"></div>
+				<div id="JUGG_430-SB" style="position: relative; top: 0px;"></div>
+				<div id="JUGG_355-RF" style="position: relative; top: 0px;"></div>
+				<div id="JUGG_PZ-MIS" style="position: relative; top: 0px;"></div>
+				<div id="JUGG_100-CG" style="position: relative; top: 0px;"></div>
+				<div id="JUGG_135-MG" style="position: relative; top: 0px;"></div>
+				<div id="JUGG_DP-MIS" style="position: relative; top: 0px;"></div>
+				<div id="JUGG_TP-MIS" style="position: relative; top: 0px;"></div>
+				<div id="JUGG_DL-GM" style="position: relative; top: 0px;"></div>
+				<div id="JUGG_AVTDV" style="position: relative; top: 0px;"></div>
+				<div id="JUGG_RAIL-Gb" style="position: relative; top: 0px;"></div>
+				</td>
+			</tr>
+			<tr>
+				<td width="800" height="9"><img src="range/range_ind.gif" width="798" height="9" border="0" alt=""></td>
+			</tr>
+		</table>
+		<div class="redtext">Click each weapon name to display or hide the associated effective range.</div>
+		<a href="javascript:toggleLayer('JUGG_355-SB');">355-SB</a> | <a href="javascript:toggleLayer('JUGG_430-SB');">430-SB</a> | <a href="javascript:toggleLayer('JUGG_355-RF');">355-RF</a> | <a href="javascript:toggleLayer('JUGG_PZ-MIS');">PZ-MIS</a> | <a href="javascript:toggleLayer('JUGG_100-CG');">100-CG</a> | <a href="javascript:toggleLayer('JUGG_135-MG');">135-MG</a> | <a href="javascript:toggleLayer('JUGG_DP-MIS');">DP-MIS</a> | <a href="javascript:toggleLayer('JUGG_TP-MIS');">TP-MIS</a> | <a href="javascript:toggleLayer('JUGG_DL-GM');">DL-GM</a> | <a href="javascript:toggleLayer('JUGG_AVTDV');">AVTDV</a> | <a href="javascript:toggleLayer('JUGG_RAIL-Gb');">RAIL-Gb</a>
+		</div>
+		
+		<div id="JAR-C">
+		<div class="H1" style="float: left;">Jaralaccs C</div>
+		<div style="float: right;"><a href="javascript:toggleLayer('JAR-C');">close</a></div><br>
+		<table width="800" border="1" bordercolor="#000000" cellspacing="0" cellpadding="0">
+			<tr>
+				<td style="background-repeat: repeat-y;" valign="top" height="157" background="range/range_bgnd.gif">
+				<div id="JAR-C_315-SB" style="position: relative; top: 0px;"></div>
+				<div id="JAR-C_120-MG" style="position: relative; top: 0px;"></div>
+				<div id="JAR-C_140-MG" style="position: relative; top: 0px;"></div>
+				<div id="JAR-C_MKR-LA" style="position: relative; top: 0px;"></div>
+				<div id="JAR-C_AS-MIS" style="position: relative; top: 0px;"></div>
+				<div id="JAR-C_CUT-B" style="position: relative; top: 0px;"></div>
+				<div id="JAR-C_FMTHR" style="position: relative; top: 0px;"></div>
+				<div id="JAR-C_NPM" style="position: relative; top: 0px;"></div>
+				<div id="JAR-C_DP-MIS" style="position: relative; top: 0px;"></div>
+				<div id="JAR-C_AVTM" style="position: relative; top: 0px;"></div>
+				<div id="JAR-C_T-GND" style="position: relative; top: 0px;"></div>
+				<div id="JAR-C_DL-GM" style="position: relative; top: 0px;"></div>		
+				</td>
+			</tr>
+			<tr>
+				<td width="800" height="9"><img src="range/range_ind.gif" width="798" height="9" border="0" alt=""></td>
+			</tr>
+		</table>
+		<div class="redtext">Click each weapon name to display or hide the associated effective range.</div>
+		<a href="javascript:toggleLayer('JAR-C_315-SB');">315-SB</a> | <a href="javascript:toggleLayer('JAR-C_120-MG');">120-MG</a> | <a href="javascript:toggleLayer('JAR-C_140-MG');">140-MG</a> | <a href="javascript:toggleLayer('JAR-C_MKR-LA');">MKR-LA</a> | <a href="javascript:toggleLayer('JAR-C_AS-MIS');">AS-MIS</a> | <a href="javascript:toggleLayer('JAR-C_CUT-B');">CUT-B</a> | <a href="javascript:toggleLayer('JAR-C_FMTHR');">FMTHR</a> | <a href="javascript:toggleLayer('JAR-C_NPM');">NPM</a> | <a href="javascript:toggleLayer('JAR-C_AVTM');">AVTM</a> | <a href="javascript:toggleLayer('JAR-C_T-GND');">T-GND</a> | <a href="javascript:toggleLayer('JAR-C_DL-GM');">DL-GM</a>
+		</div>
+		
+		<div id="JAR-N">
+		<div class="H1" style="float: left;">Jaralaccs N</div>
+		<div style="float: right;"><a href="javascript:toggleLayer('JAR-N');">close</a></div><br>
+		<table width="800" border="1" bordercolor="#000000" cellspacing="0" cellpadding="0">
+			<tr>
+				<td style="background-repeat: repeat-y;" valign="top" height="215" background="range/range_bgnd.gif">
+				<div id="JAR-N_315-SB" style="position: relative; top: 0px;"></div>
+				<div id="JAR-N_355-SB" style="position: relative; top: 0px;"></div>
+				<div id="JAR-N_120-MG" style="position: relative; top: 0px;"></div>
+				<div id="JAR-N_140-MG" style="position: relative; top: 0px;"></div>
+				<div id="JAR-N_MK21-R" style="position: relative; top: 0px;"></div>
+				<div id="JAR-N_MK34-R" style="position: relative; top: 0px;"></div>
+				<div id="JAR-N_AS-MIS" style="position: relative; top: 0px;"></div>
+				<div id="JAR-N_HVM-LA" style="position: relative; top: 0px;"></div>
+				<div id="JAR-N_MKR-LA" style="position: relative; top: 0px;"></div>
+				<div id="JAR-N_305-HW" style="position: relative; top: 0px;"></div>
+				<div id="JAR-N_FMTHR" style="position: relative; top: 0px;"></div>
+				<div id="JAR-N_NPM" style="position: relative; top: 0px;"></div>
+				<div id="JAR-N_DP-MIS" style="position: relative; top: 0px;"></div>
+				<div id="JAR-N_TP-MIS" style="position: relative; top: 0px;"></div>
+				<div id="JAR-N_DL-GM" style="position: relative; top: 0px;"></div>		
+				</td>
+			</tr>
+			<tr>
+				<td width="800" height="9"><img src="range/range_ind.gif" width="798" height="9" border="0" alt=""></td>
+			</tr>
+		</table>
+		<div class="redtext">Click each weapon name to display or hide the associated effective range.</div>
+		<a href="javascript:toggleLayer('JAR-N_315-SB');">315-SB</a> | <a href="javascript:toggleLayer('JAR-N_355-SB');">355-SB</a> | <a href="javascript:toggleLayer('JAR-N_120-MG');">120-MG</a> | <a href="javascript:toggleLayer('JAR-N_140-MG');">140-MG</a> | <a href="javascript:toggleLayer('JAR-N_MK21-R');">MK21-R</a> | <a href="javascript:toggleLayer('JAR-N_MK34-R');">MK34-R</a> | <a href="javascript:toggleLayer('JAR-N_AS-MIS');">AS-MIS</a> | <a href="javascript:toggleLayer('JAR-N_HVM-LA');">HVM-LA</a> | <a href="javascript:toggleLayer('JAR-N_MKR-LA');">MKR-LA</a> | <a href="javascript:toggleLayer('JAR-N_305-HW');">305-HW</a> | <a href="javascript:toggleLayer('JAR-N_FMTHR');">FMTHR</a> | <a href="javascript:toggleLayer('JAR-N_NPM');">NPM</a> | <a href="javascript:toggleLayer('JAR-N_DP-MIS');">DP-MIS</a> | <a href="javascript:toggleLayer('JAR-N_TP-MIS');">TP-MIS</a> | <a href="javascript:toggleLayer('JAR-N_DL-GM');">DL-GM</a>
+		</div>
+		
+		<div id="JAR-NSR">
+		<div class="H1" style="float: left;">Jaralaccs NS-R</div>
+		<div style="float: right;"><a href="javascript:toggleLayer('JAR-NSR');">close</a></div><br>
+		<table width="800" border="1" bordercolor="#000000" cellspacing="0" cellpadding="0">
+			<tr>
+				<td style="background-repeat: repeat-y;" valign="top" height="242" background="range/range_bgnd.gif">
+				<div id="JAR-NSR_315-SB" style="position: relative; top: 0px;"></div>
+				<div id="JAR-NSR_355-SB" style="position: relative; top: 0px;"></div>
+				<div id="JAR-NSR_430-SB" style="position: relative; top: 0px;"></div>
+				<div id="JAR-NSR_120-MG" style="position: relative; top: 0px;"></div>
+				<div id="JAR-NSR_140-MG" style="position: relative; top: 0px;"></div>
+				<div id="JAR-NSR_MK21-R" style="position: relative; top: 0px;"></div>
+				<div id="JAR-NSR_MK34-R" style="position: relative; top: 0px;"></div>
+				<div id="JAR-NSR_HVM-LA" style="position: relative; top: 0px;"></div>
+				<div id="JAR-NSR_AS-MIS" style="position: relative; top: 0px;"></div>
+				<div id="JAR-NSR_CUT-B" style="position: relative; top: 0px;"></div>
+				<div id="JAR-NSR_FMTHR" style="position: relative; top: 0px;"></div>
+				<div id="JAR-NSR_NPM" style="position: relative; top: 0px;"></div>
+				<div id="JAR-NSR_DP-MIS" style="position: relative; top: 0px;"></div>
+				<div id="JAR-NSR_TP-MIS" style="position: relative; top: 0px;"></div>
+				<div id="JAR-NSR_AVTM" style="position: relative; top: 0px;"></div>
+				<div id="JAR-NSR_DL-GM" style="position: relative; top: 0px;"></div>
+				<div id="JAR-NSR_SL-GM" style="position: relative; top: 0px;"></div>
+				</td>
+			</tr>
+			<tr>
+				<td width="800" height="9"><img src="range/range_ind.gif" width="798" height="9" border="0" alt=""></td>
+			</tr>
+		</table>
+		<div class="redtext">Click each weapon name to display or hide the associated effective range.</div>
+		<a href="javascript:toggleLayer('JAR-NSR_315-SB');">315-SB</a> | <a href="javascript:toggleLayer('JAR-NSR_355-SB');">355-SB</a> | <a href="javascript:toggleLayer('JAR-NSR_430-SB');">430-SB</a> | <a href="javascript:toggleLayer('JAR-NSR_120-MG');">120-MG</a> | <a href="javascript:toggleLayer('JAR-NSR_140-MG');">140-MG</a> | <a href="javascript:toggleLayer('JAR-NSR_MK21-R');">MK21-R</a> | <a href="javascript:toggleLayer('JAR-NSR_MK34-R');">MK34-R</a> | <a href="javascript:toggleLayer('JAR-NSR_HVM-LA');">HVM-LA</a> | <a href="javascript:toggleLayer('JAR-NSR_AS-MIS');">AS-MIS</a> | <a href="javascript:toggleLayer('JAR-NSR_CUT-B');">CUT-B</a> | <a href="javascript:toggleLayer('JAR-NSR_FMTHR');">FMTHR</a> | <a href="javascript:toggleLayer('JAR-NSR_NPM');">NPM</a> | 
+		<a href="javascript:toggleLayer('JAR-NSR_AVTM');">AVTM</a> | <a href="javascript:toggleLayer('JAR-NSR_DP-MIS');">DP-MIS</a> | <a href="javascript:toggleLayer('JAR-NSR_TP-MIS');">TP-MIS</a> | <a href="javascript:toggleLayer('JAR-NSR_DL-GM');">DL-GM</a> | <a href="javascript:toggleLayer('JAR-NSR_SL-GM');">SL-GM</a>
+		</div>
+		
+		<div id="JAR-MAC">
+		<div class="H1" style="float: left;">Jaralaccs Macabre</div>
+		<div style="float: right;"><a href="javascript:toggleLayer('JAR-MAC');">close</a> <span style="width: 20px;">&nbsp;</span></div><br>
+		<table width="800" border="1" bordercolor="#000000" cellspacing="0" cellpadding="0">
+			<tr>
+				<td style="background-repeat: repeat-y;" valign="top" height="270" background="range/range_bgnd.gif">
+				<div id="JAR-MAC_315-SB" style="position: relative; top: 0px;"></div>
+				<div id="JAR-MAC_355-SB" style="position: relative; top: 0px;"></div>
+				<div id="JAR-MAC_430-SB" style="position: relative; top: 0px;"></div>
+				<div id="JAR-MAC_HVM-LA" style="position: relative; top: 0px;"></div>
+				<div id="JAR-MAC_120-MG" style="position: relative; top: 0px;"></div>
+				<div id="JAR-MAC_140-MG" style="position: relative; top: 0px;"></div>
+				<div id="JAR-MAC_MK21-R" style="position: relative; top: 0px;"></div>
+				<div id="JAR-MAC_MK34-R" style="position: relative; top: 0px;"></div>
+				<div id="JAR-MAC_AS-MIS" style="position: relative; top: 0px;"></div>
+				<div id="JAR-MAC_SHLD-B" style="position: relative; top: 0px;"></div>
+				<div id="JAR-MAC_RAIL-Gb" style="position: relative; top: 0px;"></div>
+				<div id="JAR-MAC_AVTGM" style="position: relative; top: 0px;"></div>
+				<div id="JAR-MAC_SL-GM" style="position: relative; top: 0px;"></div>
+				<div id="JAR-MAC_DL-GM" style="position: relative; top: 0px;"></div>
+				<div id="JAR-MAC_DP-MIS" style="position: relative; top: 0px;"></div>
+				<div id="JAR-MAC_TP-MIS" style="position: relative; top: 0px;"></div>
+				<div id="JAR-MAC_AVTM" style="position: relative; top: 0px;"></div>
+				<div id="JAR-MAC_NPM" style="position: relative; top: 0px;"></div>
+				<div id="JAR-MAC_FMTHR" style="position: relative; top: 0px;"></div>
+				</td>
+			</tr>
+			<tr>
+				<td width="800" height="9"><img src="range/range_ind.gif" width="798" height="9" border="0" alt=""></td>
+			</tr>
+		</table>
+		<div class="redtext">Click each weapon name to display or hide the associated effective range.</div>
+		<a href="javascript:toggleLayer('JAR-MAC_315-SB');">315-SB</a> | <a href="javascript:toggleLayer('JAR-MAC_355-SB');">355-SB</a> | <a href="javascript:toggleLayer('JAR-MAC_430-SB');">430-SB</a> | <a href="javascript:toggleLayer('JAR-MAC_HVM-LA');">HVM-LA</a> | <a href="javascript:toggleLayer('JAR-MAC_120-MG');">120-MG</a> | <a href="javascript:toggleLayer('JAR-MAC_140-MG');">140-MG</a> | <a href="javascript:toggleLayer('JAR-MAC_MK21-R');">MK21-R</a> | <a href="javascript:toggleLayer('JAR-MAC_MK34-R');">MK34-R</a> | <a href="javascript:toggleLayer('JAR-MAC_AS-MIS');">AS-MIS</a> | <a href="javascript:toggleLayer('JAR-MAC_SHLD-B');">SHLD-B</a> | <a href="javascript:toggleLayer('JAR-MAC_RAIL-Gb');">RAIL-Gb</a> | <a href="javascript:toggleLayer('JAR-MAC_AVTGM');">AVTGM</a> | <a href="javascript:toggleLayer('JAR-MAC_SL-GM');">SL-GM</a> | <a href="javascript:toggleLayer('JAR-MAC_DL-GM');">DL-GM</a> | <a href="javascript:toggleLayer('JAR-MAC_DP-MIS');">DP-MIS</a> | 
+		<a href="javascript:toggleLayer('JAR-MAC_TP-MIS');">TP-MIS</a> | <a href="javascript:toggleLayer('JAR-MAC_AVTM');">AVTM</a> | <a href="javascript:toggleLayer('JAR-MAC_NPM');">NPM</a> | <a href="javascript:toggleLayer('JAR-MAC_FMTHR');">FMTHR</a>
+		</div>
+		
+		<div id="DECIDER">
+		<div class="H1" style="float: left;">Decider</div>
+		<div style="float: right;"><a href="javascript:toggleLayer('DECIDER');">close</a></div><br>
+		<table width="800" border="1" bordercolor="#000000" cellspacing="0" cellpadding="0">
+			<tr>
+				<td style="background-repeat: repeat-y;" valign="top" height="90" background="range/range_bgnd.gif">
+				<div id="DECIDER_315-SB" style="position: relative; top: 0px;"></div>
+				<div id="DECIDER_315-TR" style="position: relative; top: 0px;"></div>
+				<div id="DECIDER_120-MG" style="position: relative; top: 0px;"></div>
+				<div id="DECIDER_140-MG" style="position: relative; top: 0px;"></div>
+				<div id="DECIDER_205-PT" style="position: relative; top: 0px;"></div>
+				<div id="DECIDER_67-CG" style="position: relative; top: 0px;"></div>
+				</td>
+			</tr>
+			<tr>
+				<td width="800" height="9"><img src="range/range_ind.gif" width="798" height="9" border="0" alt=""></td>
+			</tr>
+		</table>
+		<div class="redtext">Click each weapon name to display or hide the associated effective range.</div>
+		<a href="javascript:toggleLayer('DECIDER_315-SB');">315-SB</a> | <a href="javascript:toggleLayer('DECIDER_315-TR');">315-TR</a> | <a href="javascript:toggleLayer('DECIDER_120-MG');">120-MG</a> | <a href="javascript:toggleLayer('DECIDER_140-MG');">140-MG</a> | <a href="javascript:toggleLayer('DECIDER_205-PT');">205-PT</a> | <a href="javascript:toggleLayer('DECIDER_67-CG');">67-CG</a>
+		</div>
+		
+		<div id="FALCHION">
+		<div class="H1" style="float: left;">Falchion</div>
+		<div style="float: right;"><a href="javascript:toggleLayer('FALCHION');">close</a></div><br>
+		<table width="800" border="1" bordercolor="#000000" cellspacing="0" cellpadding="0">
+			<tr>
+				<td style="background-repeat: repeat-y;" valign="top" height="87" background="range/range_bgnd.gif">
+				<div id="FALCHION_270-RI" style="position: relative; top: 0px;"></div>
+				<div id="FALCHION_200-AR" style="position: relative; top: 0px;"></div>
+				<div id="FALCHION_120-MG" style="position: relative; top: 0px;"></div>
+				<div id="FALCHION_140-MG" style="position: relative; top: 0px;"></div>
+				<div id="FALCHION_DP-MIS" style="position: relative; top: 0px;"></div>
+				<div id="FALCHION_67-CG" style="position: relative; top: 0px;"></div>
+				</td>
+			</tr>
+			<tr>
+				<td width="800" height="9"><img src="range/range_ind.gif" width="798" height="9" border="0" alt=""></td>
+			</tr>
+		</table>
+		<div class="redtext">Click each weapon name to display or hide the associated effective range.</div>
+		<a href="javascript:toggleLayer('FALCHION_270-RI');">270-RI</a> | <a href="javascript:toggleLayer('FALCHION_200-AR');">200-AR</a> | <a href="javascript:toggleLayer('FALCHION_120-MG');">120-MG</a> | <a href="javascript:toggleLayer('FALCHION_140-MG');">140-MG</a> | <a href="javascript:toggleLayer('FALCHION_DP-MIS');">DP-MIS</a> | <a href="javascript:toggleLayer('FALCHION_67-CG');">67-CG</a>
+		</div>
+		
+		<div id="DECIDER-V">
+		<div class="H1" style="float: left;">Decider Volcanic</div>
+		<div style="float: right;"><a href="javascript:toggleLayer('DECIDER-V');">close</a></div><br>
+		<table width="800" border="1" bordercolor="#000000" cellspacing="0" cellpadding="0">
+			<tr>
+				<td style="background-repeat: repeat-y;" valign="top" height="76" background="range/range_bgnd.gif">
+				<div id="DECIDER-V_270-RI" style="position: relative; top: 0px;"></div>
+				<div id="DECIDER-V_120-MG" style="position: relative; top: 0px;"></div>
+				<div id="DECIDER-V_140-MG" style="position: relative; top: 0px;"></div>
+				<div id="DECIDER-V_305-HW" style="position: relative; top: 0px;"></div>
+				<div id="DECIDER-V_67-CG" style="position: relative; top: 0px;"></div>
+				</td>
+			</tr>
+			<tr>
+				<td width="800" height="9"><img src="range/range_ind.gif" width="798" height="9" border="0" alt=""></td>
+			</tr>
+		</table>
+		<div class="redtext">Click each weapon name to display or hide the associated effective range.</div>
+		<a href="javascript:toggleLayer('DECIDER-V_270-RI');">270-RI</a> | <a href="javascript:toggleLayer('DECIDER-V_120-MG');">120-MG</a> | <a href="javascript:toggleLayer('DECIDER-V_140-MG');">140-MG</a> | <a href="javascript:toggleLayer('DECIDER-V_305-HW');">305-HW</a> | <a href="javascript:toggleLayer('DECIDER-V_67-CG');">67-CG</a>
+		</div>
+		
+		<div id="BLADE">
+		<div class="H1" style="float: left;">Blade</div>
+		<div style="float: right;"><a href="javascript:toggleLayer('BLADE');">close</a></div><br>
+		<table width="800" border="1" bordercolor="#000000" cellspacing="0" cellpadding="0">
+			<tr>
+				<td style="background-repeat: repeat-y;" valign="top" height="130" background="range/range_bgnd.gif">
+				<div id="BLADE_270-RI" style="position: relative; top: 0px;"></div>
+				<div id="BLADE_200-AR" style="position: relative; top: 0px;"></div>
+				<div id="BLADE_270-AR" style="position: relative; top: 0px;"></div>
+				<div id="BLADE_120-MG" style="position: relative; top: 0px;"></div>
+				<div id="BLADE_140-MG" style="position: relative; top: 0px;"></div>
+				<div id="BLADE_DL-GM" style="position: relative; top: 0px;"></div>
+				<div id="BLADE_DP-MIS" style="position: relative; top: 0px;"></div>
+				<div id="BLADE_TP-MIS" style="position: relative; top: 0px;"></div>
+				<div id="BLADE_67-CG" style="position: relative; top: 0px;"></div>
+				</td>
+			</tr>
+			<tr>
+				<td width="800" height="9"><img src="range/range_ind.gif" width="798" height="9" border="0" alt=""></td>
+			</tr>
+		</table>
+		<div class="redtext">Click each weapon name to display or hide the associated effective range.</div>
+		<a href="javascript:toggleLayer('BLADE_270-RI');">270-RI</a> | <a href="javascript:toggleLayer('BLADE_200-AR');">200-AR</a> | <a href="javascript:toggleLayer('BLADE_270-AR');">270-AR</a> | <a href="javascript:toggleLayer('BLADE_120-MG');">120-MG</a> | <a href="javascript:toggleLayer('BLADE_140-MG');">140-MG</a> | <a href="javascript:toggleLayer('BLADE_DL-GM');">DL-GM</a> | <a href="javascript:toggleLayer('BLADE_DP-MIS');">DP-MIS</a> | <a href="javascript:toggleLayer('BLADE_TP-MIS');">TP-MIS</a> | <a href="javascript:toggleLayer('BLADE_67-CG');">67-CG</a>
+		</div>
+		
+		<div id="RAPIER">
+		<div class="H1" style="float: left;">Rapier</div>
+		<div style="float: right;"><a href="javascript:toggleLayer('RAPIER');">close</a></div><br>
+		<table width="800" border="1" bordercolor="#000000" cellspacing="0" cellpadding="0">
+			<tr>
+				<td style="background-repeat: repeat-y;" valign="top" height="143" background="range/range_bgnd.gif">
+				<div id="RAPIER_200-AR" style="position: relative; top: 0px;"></div>
+				<div id="RAPIER_270-AR" style="position: relative; top: 0px;"></div>
+				<div id="RAPIER_270-RI" style="position: relative; top: 0px;"></div>
+				<div id="RAPIER_120-MG" style="position: relative; top: 0px;"></div>
+				<div id="RAPIER_140-MG" style="position: relative; top: 0px;"></div>
+				<div id="RAPIER_STUN-R" style="position: relative; top: 0px;"></div>
+				<div id="RAPIER_DP-MIS" style="position: relative; top: 0px;"></div>
+				<div id="RAPIER_TP-MIS" style="position: relative; top: 0px;"></div>
+				<div id="RAPIER_DL-GM" style="position: relative; top: 0px;"></div>
+				<div id="RAPIER_AVTGM" style="position: relative; top: 0px;"></div>
+				</td>
+			</tr>
+			<tr>
+				<td width="800" height="9"><img src="range/range_ind.gif" width="798" height="9" border="0" alt=""></td>
+			</tr>
+		</table>
+		<div class="redtext">Click each weapon name to display or hide the associated effective range.</div>
+		<a href="javascript:toggleLayer('RAPIER_200-AR');">200-AR</a> | <a href="javascript:toggleLayer('RAPIER_270-AR');">270-AR</a> | <a href="javascript:toggleLayer('RAPIER_270-RI');">270-RI</a> | <a href="javascript:toggleLayer('RAPIER_120-MG');">120-MG</a> | <a href="javascript:toggleLayer('RAPIER_140-MG');">140-MG</a> | <a href="javascript:toggleLayer('RAPIER_STUN-R');">STUN-R</a> | <a href="javascript:toggleLayer('RAPIER_DP-MIS');">DP-MIS</a> | <a href="javascript:toggleLayer('RAPIER_TP-MIS');">TP-MIS</a> | <a href="javascript:toggleLayer('RAPIER_DL-GM');">DL-GM</a> | <a href="javascript:toggleLayer('RAPIER_AVTGM');">AVTGM</a>
+		</div>
+		
+		<div id="PROM-M1">
+		<div class="H1" style="float: left;">Prominence M1</div>
+		<div style="float: right;"><a href="javascript:toggleLayer('PROM-M1');">close</a></div><br>
+		<table width="800" border="1" bordercolor="#000000" cellspacing="0" cellpadding="0">
+			<tr>
+				<td style="background-repeat: repeat-y;" valign="top" height="130" background="range/range_bgnd.gif">
+				<div id="PROM-M1_315-SB" style="position: relative; top: 0px;"></div>
+				<div id="PROM-M1_355-SB" style="position: relative; top: 0px;"></div>
+				<div id="PROM-M1_315-TR" style="position: relative; top: 0px;"></div>
+				<div id="PROM-M1_315-RF" style="position: relative; top: 0px;"></div>
+				<div id="PROM-M1_AS-MIS" style="position: relative; top: 0px;"></div>
+				<div id="PROM-M1_67-CG" style="position: relative; top: 0px;"></div>
+				<div id="PROM-M1_80-CG" style="position: relative; top: 0px;"></div>
+				<div id="PROM-M1_205-PT" style="position: relative; top: 0px;"></div>
+				<div id="PROM-M1_22b-PT" style="position: relative; top: 0px;"></div>
+				</td>
+			</tr>
+			<tr>
+				<td width="800" height="9"><img src="range/range_ind.gif" width="798" height="9" border="0" alt=""></td>
+			</tr>
+		</table>
+		<div class="redtext">Click each weapon name to display or hide the associated effective range.</div>
+		<a href="javascript:toggleLayer('PROM-M1_315-SB');">315-SB</a> | <a href="javascript:toggleLayer('PROM-M1_355-SB');">355-SB</a> | <a href="javascript:toggleLayer('PROM-M1_315-TR');">315-TR</a> | <a href="javascript:toggleLayer('PROM-M1_315-RF');">315-RF</a> | <a href="javascript:toggleLayer('PROM-M1_AS-MIS');">AS-MIS</a> | <a href="javascript:toggleLayer('PROM-M1_67-CG');">67-CG</a> | <a href="javascript:toggleLayer('PROM-M1_80-CG');">80-CG</a> | <a href="javascript:toggleLayer('PROM-M1_205-PT');">205-PT</a> | <a href="javascript:toggleLayer('PROM-M1_22b-PT');">22b-PT</a>
+		</div>
+		
+		<div id="PROM-M2">
+		<div class="H1" style="float: left;">Prominence M2</div>
+		<div style="float: right;"><a href="javascript:toggleLayer('PROM-M2');">close</a></div><br>
+		<table width="800" border="1" bordercolor="#000000" cellspacing="0" cellpadding="0">
+			<tr>
+				<td style="background-repeat: repeat-y;" valign="top" height="117" background="range/range_bgnd.gif">
+				<div id="PROM-M2_315-SB" style="position: relative; top: 0px;"></div>
+				<div id="PROM-M2_355-SB" style="position: relative; top: 0px;"></div>
+				<div id="PROM-M2_315-RF" style="position: relative; top: 0px;"></div>
+				<div id="PROM-M2_AS-MIS" style="position: relative; top: 0px;"></div>
+				<div id="PROM-M2_67-CG" style="position: relative; top: 0px;"></div>
+				<div id="PROM-M2_80-CG" style="position: relative; top: 0px;"></div>
+				<div id="PROM-M2_PROM-M2_80-CG" style="position: relative; top: 0px;"></div>
+				<div id="PROM-M2_MM" style="position: relative; top: 0px;"></div>
+				<div id="PROM-M2_RAIL-Ga" style="position: relative; top: 0px;"></div>
+				</td>
+			</tr>
+			<tr>
+				<td width="800" height="9"><img src="range/range_ind.gif" width="798" height="9" border="0" alt=""></td>
+			</tr>
+		</table>
+		<div class="redtext">Click each weapon name to display or hide the associated effective range.</div>
+		<a href="javascript:toggleLayer('PROM-M2_315-SB');">315-SB</a> | <a href="javascript:toggleLayer('PROM-M2_355-SB');">355-SB</a> | <a href="javascript:toggleLayer('PROM-M2_315-RF');">315-RF</a> | <a href="javascript:toggleLayer('PROM-M2_AS-MIS');">AS-MIS</a> | <a href="javascript:toggleLayer('PROM-M2_67-CG');">67-CG</a> | <a href="javascript:toggleLayer('PROM-M2_80-CG');">80-CG</a> | <a href="javascript:toggleLayer('PROM-M2_MM');">MM</a> | <a href="javascript:toggleLayer('PROM-M2_RAIL-Ga');">RAIL-Ga</a>
+		</div>
+		
+		<div id="PROM-M3">
+		<div class="H1" style="float: left;">Prominence M3</div>
+		<div style="float: right;"><a href="javascript:toggleLayer('PROM-M3');">close</a></div><br>
+		<table width="800" border="1" bordercolor="#000000" cellspacing="0" cellpadding="0">
+			<tr>
+				<td style="background-repeat: repeat-y;" valign="top" height="186" background="range/range_bgnd.gif">
+				<div id="PROM-M3_355-SB" style="position: relative; top: 0px;"></div>
+				<div id="PROM-M3_430-SB" style="position: relative; top: 0px;"></div>
+				<div id="PROM-M3_315-RF" style="position: relative; top: 0px;"></div>
+				<div id="PROM-M3_355-RF" style="position: relative; top: 0px;"></div>
+				<div id="PROM-M3_AS-MIS" style="position: relative; top: 0px;"></div>
+				<div id="PROM-M3_67-CG" style="position: relative; top: 0px;"></div>
+				<div id="PROM-M3_80-CG" style="position: relative; top: 0px;"></div>
+				<div id="PROM-M3_305-HW" style="position: relative; top: 0px;"></div>
+				<div id="PROM-M3_205-PT" style="position: relative; top: 0px;"></div>
+				<div id="PROM-M3_22b-PT" style="position: relative; top: 0px;"></div>
+				<div id="PROM-M3_SL-GM" style="position: relative; top: 0px;"></div>
+				<div id="PROM-M3_RAIL-Ga" style="position: relative; top: 0px;"></div>
+				<div id="PROM-M3_MM" style="position: relative; top: 0px;"></div>
+				</td>
+			</tr>
+			<tr>
+				<td width="800" height="9"><img src="range/range_ind.gif" width="798" height="9" border="0" alt=""></td>
+			</tr>
+		</table>
+		<div class="redtext">Click each weapon name to display or hide the associated effective range.</div>
+		<a href="javascript:toggleLayer('PROM-M3_355-SB');">315-SB</a> | <a href="javascript:toggleLayer('PROM-M3_430-SB');">355-SB</a> | <a href="javascript:toggleLayer('PROM-M3_315-RF');">315-RF</a> | <a href="javascript:toggleLayer('PROM-M3_355-RF');">315-RF</a> | <a href="javascript:toggleLayer('PROM-M3_AS-MIS');">AS-MIS</a> | <a href="javascript:toggleLayer('PROM-M3_67-CG');">67-CG</a> | <a href="javascript:toggleLayer('PROM-M3_80-CG');">80-CG</a> | <a href="javascript:toggleLayer('PROM-M3_305-HW');">305-HW</a> | <a href="javascript:toggleLayer('PROM-M3_205-PT');">205-PT</a> | <a href="javascript:toggleLayer('PROM-M3_22b-PT');">22b-PT</a> | <a href="javascript:toggleLayer('PROM-M3_SL-GM');">SL-GM</a> | <a href="javascript:toggleLayer('PROM-M3_RAIL-Ga');">RAIL-Ga</a> | <a href="javascript:toggleLayer('PROM-M3_MM');">MM</a>
+		</div>
+		
+		<div id="QUASAR">
+		<div class="H1" style="float: left;">Quasar</div>
+		<div style="float: right;"><a href="javascript:toggleLayer('QUASAR');">close</a></div><br>
+		<table width="800" border="1" bordercolor="#000000" cellspacing="0" cellpadding="0">
+			<tr>
+				<td style="background-repeat: repeat-y;" valign="top" height="158" background="range/range_bgnd.gif">
+				<div id="QUASAR_355-SB" style="position: relative; top: 0px;"></div>
+				<div id="QUASAR_430-SB" style="position: relative; top: 0px;"></div>
+				<div id="QUASAR_355-RF" style="position: relative; top: 0px;"></div>
+				<div id="QUASAR_AS-MIS" style="position: relative; top: 0px;"></div>
+				<div id="QUASAR_67-CG" style="position: relative; top: 0px;"></div>
+				<div id="QUASAR_DP-MIS" style="position: relative; top: 0px;"></div>
+				<div id="QUASAR_TP-MIS" style="position: relative; top: 0px;"></div>
+				<div id="QUASAR_DL-GM" style="position: relative; top: 0px;"></div>
+				<div id="QUASAR_205-PT" style="position: relative; top: 0px;"></div>
+				<div id="QUASAR_22b-PT" style="position: relative; top: 0px;"></div>
+				<div id="QUASAR_RAIL-Gb" style="position: relative; top: 0px;"></div>
+				</td>
+			</tr>
+			<tr>
+				<td width="800" height="9"><img src="range/range_ind.gif" width="798" height="9" border="0" alt=""></td>
+			</tr>
+		</table>
+		<div class="redtext">Click each weapon name to display or hide the associated effective range.</div>
+		<a href="javascript:toggleLayer('QUASAR_355-SB');">355-SB</a> | <a href="javascript:toggleLayer('QUASAR_430-SB');">430-SB</a> | <a href="javascript:toggleLayer('QUASAR_355-RF');">355-RF</a> | <a href="javascript:toggleLayer('QUASAR_AS-MIS');">AS-MIS</a> | <a href="javascript:toggleLayer('QUASAR_67-CG');">67-CG</a> | <a href="javascript:toggleLayer('QUASAR_DP-MIS');">DP-MIS</a> | <a href="javascript:toggleLayer('QUASAR_TP-MIS');">TP-MIS</a> | <a href="javascript:toggleLayer('QUASAR_DL-GM');">DL-GM</a> | <a href="javascript:toggleLayer('QUASAR_205-PT');">205-PT</a> | <a href="javascript:toggleLayer('QUASAR_22b-PT');">22b-PT</a> | <a href="javascript:toggleLayer('QUASAR_RAIL-Gb');">RAIL-Gb</a>
+		</div>
+		
+		<div id="COLT">
+		<div class="H1" style="float: left;">Colt</div>
+		<div style="float: right;"><a href="javascript:toggleLayer('COLT');">close</a></div><br>
+		<table width="800" border="1" bordercolor="#000000" cellspacing="0" cellpadding="0">
+			<tr>
+				<td style="background-repeat: repeat-y;" valign="top" height="130" background="range/range_bgnd.gif">
+				<div id="COLT_270-RI" style="position: relative; top: 0px;"></div>
+				<div id="COLT_4A-REC" style="position: relative; top: 0px;"></div>
+				<div id="COLT_77-REC" style="position: relative; top: 0px;"></div>
+				<div id="COLT_120-MG" style="position: relative; top: 0px;"></div>
+				<div id="COLT_140-MG" style="position: relative; top: 0px;"></div>
+				<div id="COLT_MKR-LA" style="position: relative; top: 0px;"></div>
+				<div id="COLT_DP-MIS" style="position: relative; top: 0px;"></div>
+				<div id="COLT_GND" style="position: relative; top: 0px;"></div>
+				<div id="COLT_67-CG" style="position: relative; top: 0px;"></div>
+				</td>
+			</tr>
+			<tr>
+				<td width="800" height="9"><img src="range/range_ind.gif" width="798" height="9" border="0" alt=""></td>
+			</tr>
+		</table>
+		<div class="redtext">Click each weapon name to display or hide the associated effective range.</div>
+		<a href="javascript:toggleLayer('COLT_270-RI');">270-RI</a> | <a href="javascript:toggleLayer('COLT_4A-REC');">4A-REC</a> | <a href="javascript:toggleLayer('COLT_77-REC');">77-REC</a> | <a href="javascript:toggleLayer('COLT_120-MG');">120-MG</a> | <a href="javascript:toggleLayer('COLT_140-MG');">140-MG</a> | <a href="javascript:toggleLayer('COLT_MKR-LA');">MKR-LA</a> | <a href="javascript:toggleLayer('COLT_DP-MIS');">DP-MIS</a> | <a href="javascript:toggleLayer('COLT_GND');">GND</a> | <a href="javascript:toggleLayer('COLT_67-CG');">67-CG</a>
+		</div>
+		
+		<div id="COLT-E">
+		<div class="H1" style="float: left;">Colt Executive</div>
+		<div style="float: right;"><a href="javascript:toggleLayer('COLT-E');">close</a></div><br>
+		<table width="800" border="1" bordercolor="#000000" cellspacing="0" cellpadding="0">
+			<tr>
+				<td style="background-repeat: repeat-y;" valign="top" height="172" background="range/range_bgnd.gif">
+				<div id="COLT-E_315-SB" style="position: relative; top: 0px;"></div>
+				<div id="COLT-E_270-RI" style="position: relative; top: 0px;"></div>
+				<div id="COLT-E_4A-REC" style="position: relative; top: 0px;"></div>
+				<div id="COLT-E_77-REC" style="position: relative; top: 0px;"></div>
+				<div id="COLT-E_120-MG" style="position: relative; top: 0px;"></div>
+				<div id="COLT-E_140-MG" style="position: relative; top: 0px;"></div>
+				<div id="COLT-E_MKR-LA" style="position: relative; top: 0px;"></div>
+				<div id="COLT-E_DP-MIS" style="position: relative; top: 0px;"></div>
+				<div id="COLT-E_GND" style="position: relative; top: 0px;"></div>
+				<div id="COLT-E_T-GND" style="position: relative; top: 0px;"></div>
+				<div id="COLT-E_67-CG" style="position: relative; top: 0px;"></div>
+				<div id="COLT-E_80-CG" style="position: relative; top: 0px;"></div>
+				</td>
+			</tr>
+			<tr>
+				<td width="800" height="9"><img src="range/range_ind.gif" width="798" height="9" border="0" alt=""></td>
+			</tr>
+		</table>
+		<div class="redtext">Click each weapon name to display or hide the associated effective range.</div>
+		<a href="javascript:toggleLayer('COLT-E_315-SB');">315-SB</a> | <a href="javascript:toggleLayer('COLT-E_270-RI');">270-RI</a> | <a href="javascript:toggleLayer('COLT-E_4A-REC');">4A-REC</a> | <a href="javascript:toggleLayer('COLT-E_77-REC');">77-REC</a> | <a href="javascript:toggleLayer('COLT-E_120-MG');">120-MG</a> | <a href="javascript:toggleLayer('COLT-E_140-MG');">140-MG</a> | <a href="javascript:toggleLayer('COLT-E_MKR-LA');">MKR-LA</a> | <a href="javascript:toggleLayer('COLT-E_DP-MIS');">DP-MIS</a> | <a href="javascript:toggleLayer('COLT-E_GND');">GND</a> | <a href="javascript:toggleLayer('COLT-E_T-GND');">T-GND</a> | <a href="javascript:toggleLayer('COLT-E_67-CG');">67-CG</a> | <a href="javascript:toggleLayer('COLT-E_80-CG');">80-CG</a>
+		</div>
+		
+		<div id="YJ">
+		<div class="H1" style="float: left;">Yellow Jacket</div>
+		<div style="float: right;"><a href="javascript:toggleLayer('YJ');">close</a></div><br>
+		<table width="800" border="1" bordercolor="#000000" cellspacing="0" cellpadding="0">
+			<tr>
+				<td style="background-repeat: repeat-y;" valign="top" height="160" background="range/range_bgnd.gif">
+				<div id="YJ_315-TR" style="position: relative; top: 0px;"></div>
+				<div id="YJ_315-SB" style="position: relative; top: 0px;"></div>
+				<div id="YJ_355-SB" style="position: relative; top: 0px;"></div>
+				<div id="YJ_120-MG" style="position: relative; top: 0px;"></div>
+				<div id="YJ_140-MG" style="position: relative; top: 0px;"></div>
+				<div id="YJ_4A-REC" style="position: relative; top: 0px;"></div>
+				<div id="YJ_77-REC" style="position: relative; top: 0px;"></div>
+				<div id="YJ_MKR-LA" style="position: relative; top: 0px;"></div>
+				<div id="YJ_67-CG" style="position: relative; top: 0px;"></div>
+				<div id="YJ_GND" style="position: relative; top: 0px;"></div>
+				<div id="YJ_T-GND" style="position: relative; top: 0px;"></div>
+				</td>
+			</tr>
+			<tr>
+				<td width="800" height="9"><img src="range/range_ind.gif" width="798" height="9" border="0" alt=""></td>
+			</tr>
+		</table>
+		<div class="redtext">Click each weapon name to display or hide the associated effective range.</div>
+		<a href="javascript:toggleLayer('YJ_315-TR');">315-TR</a> | <a href="javascript:toggleLayer('YJ_315-SB');">315-SB</a> | <a href="javascript:toggleLayer('YJ_355-SB');">355-SB</a> | <a href="javascript:toggleLayer('YJ_120-MG');">120-MG</a> | <a href="javascript:toggleLayer('YJ_140-MG');">140-MG</a> | <a href="javascript:toggleLayer('YJ_4A-REC');">4A-REC</a> | <a href="javascript:toggleLayer('YJ_77-REC');">77-REC</a> | <a href="javascript:toggleLayer('YJ_MKR-LA');">MKR-LA</a> | <a href="javascript:toggleLayer('YJ_67-CG');">67-CG</a> | <a href="javascript:toggleLayer('YJ_GND');">GND</a> | <a href="javascript:toggleLayer('YJ_T-GND');">T-GND</a>
+		</div>
+		
+		<div id="SHEEPDOG">
+		<div class="H1" style="float: left;">Sheepdog</div>
+		<div style="float: right;"><a href="javascript:toggleLayer('SHEEPDOG');">close</a></div><br>
+		<table width="800" border="1" bordercolor="#000000" cellspacing="0" cellpadding="0">
+			<tr>
+				<td style="background-repeat: repeat-y;" valign="top" height="132" background="range/range_bgnd.gif">
+				<div id="SHEEPDOG_PPNG-S" style="position: relative; top: 0px;"></div>
+				<div id="SHEEPDOG_MKR-LA" style="position: relative; top: 0px;"></div>
+				<div id="SHEEPDOG_120-MG" style="position: relative; top: 0px;"></div>
+				<div id="SHEEPDOG_140-MG" style="position: relative; top: 0px;"></div>
+				<div id="SHEEPDOG_4A-REC" style="position: relative; top: 0px;"></div>
+				<div id="SHEEPDOG_77-REC" style="position: relative; top: 0px;"></div>
+				<div id="SHEEPDOG_67-CG" style="position: relative; top: 0px;"></div>
+				<div id="SHEEPDOG_GND" style="position: relative; top: 0px;"></div>
+				<div id="SHEEPDOG_T-GND" style="position: relative; top: 0px;"></div>
+				</td>
+			</tr>
+			<tr>
+				<td width="800" height="9"><img src="range/range_ind.gif" width="798" height="9" border="0" alt=""></td>
+			</tr>
+		</table>
+		<div class="redtext">Click each weapon name to display or hide the associated effective range.</div>
+		<a href="javascript:toggleLayer('SHEEPDOG_PPNG-S');">PPNG-S</a> | <a href="javascript:toggleLayer('SHEEPDOG_MKR-LA');">MKR-LA</a> | <a href="javascript:toggleLayer('SHEEPDOG_120-MG');">120-MG</a> | 
+		<a href="javascript:toggleLayer('SHEEPDOG_140-MG');">140-MG</a> | <a href="javascript:toggleLayer('SHEEPDOG_4A-REC');">4A-REC</a> | <a href="javascript:toggleLayer('SHEEPDOG_77-REC');">77-REC</a> | 
+		<a href="javascript:toggleLayer('SHEEPDOG_67-CG');">67-CG</a> | <a href="javascript:toggleLayer('SHEEPDOG_GND');">GND</a> | <a href="javascript:toggleLayer('SHEEPDOG_T-GND');">T-GND</a>
+		</div>
+		
+		<div id="SIEGESZUG">
+		<div class="H1" style="float: left;">Siegeszug</div>
+		<div style="float: right;"><a href="javascript:toggleLayer('SIEGESZUG');">close</a></div><br>
+		<table width="800" border="1" bordercolor="#000000" cellspacing="0" cellpadding="0">
+			<tr>
+				<td style="background-repeat: repeat-y;" valign="top" height="146" background="range/range_bgnd.gif">
+				<div id="SIEGESZUG_355-SB" style="position: relative; top: 0px;"></div>
+				<div id="SIEGESZUG_430-SB" style="position: relative; top: 0px;"></div>
+				<div id="SIEGESZUG_315-RF" style="position: relative; top: 0px;"></div>
+				<div id="SIEGESZUG_355-RF" style="position: relative; top: 0px;"></div>
+				<div id="SIEGESZUG_120-MG" style="position: relative; top: 0px;"></div>
+				<div id="SIEGESZUG_140-MG" style="position: relative; top: 0px;"></div>
+				<div id="SIEGESZUG_PZ-MIS" style="position: relative; top: 0px;"></div>
+				<div id="SIEGESZUG_SHLD-B" style="position: relative; top: 0px;"></div>
+				<div id="SIEGESZUG_135-MG" style="position: relative; top: 0px;"></div>
+				<div id="SIEGESZUG_SL-GM" style="position: relative; top: 0px;"></div>
+				</td>
+			</tr>
+			<tr>
+				<td width="800" height="9"><img src="range/range_ind.gif" width="798" height="9" border="0" alt=""></td>
+			</tr>
+		</table>
+		<div class="redtext">Click each weapon name to display or hide the associated effective range.</div>
+		<a href="javascript:toggleLayer('SIEGESZUG_355-SB');">355-SB</a> | <a href="javascript:toggleLayer('SIEGESZUG_430-SB');">430-SB</a> | <a href="javascript:toggleLayer('SIEGESZUG_315-RF');">315-RF</a> | 
+		<a href="javascript:toggleLayer('SIEGESZUG_355-RF');">355-RF</a> | <a href="javascript:toggleLayer('SIEGESZUG_120-MG');">120-MG</a> | <a href="javascript:toggleLayer('SIEGESZUG_140-MG');">140-MG</a> | 
+		<a href="javascript:toggleLayer('SIEGESZUG_PZ-MIS');">PZ-MIS</a> | <a href="javascript:toggleLayer('SIEGESZUG_SHLD-B');">SHLD-B</a> | <a href="javascript:toggleLayer('SIEGESZUG_135-MG');">135-MG</a> | 
+		<a href="javascript:toggleLayer('SIEGESZUG_SL-GM');">SL-GM</a>
+		</div>
+		
+		<div id="EARTHSHAKER">
+		<div class="H1" style="float: left;">Earthshaker</div>
+		<div style="float: right;"><a href="javascript:toggleLayer('EARTHSHAKER');">close</a></div><br>
+		<table width="800" border="1" bordercolor="#000000" cellspacing="0" cellpadding="0">
+			<tr>
+				<td style="background-repeat: repeat-y;" valign="top" height="172" background="range/range_bgnd.gif">
+				<div id="ES_355-SB" style="position: relative; top: 0px;"></div>
+				<div id="ES_430-SB" style="position: relative; top: 0px;"></div>
+				<div id="ES_355-RF" style="position: relative; top: 0px;"></div>
+				<div id="ES_HVM-LA" style="position: relative; top: 0px;"></div>
+				<div id="ES_MKR-LA" style="position: relative; top: 0px;"></div>
+				<div id="ES_GAUSS" style="position: relative; top: 0px;"></div>
+				<div id="ES_67-CG" style="position: relative; top: 0px;"></div>
+				<div id="ES_RAIL-Gb" style="position: relative; top: 0px;"></div>
+				<div id="ES_AVTDV" style="position: relative; top: 0px;"></div>
+				<div id="ES_SL-GM" style="position: relative; top: 0px;"></div>
+				<div id="ES_DL-GM" style="position: relative; top: 0px;"></div>
+				<div id="ES_DP-MIS" style="position: relative; top: 0px;"></div>
+				<div id="ES_TP-MIS" style="position: relative; top: 0px;"></div>
+				</td>
+			</tr>
+			<tr>
+				<td width="800" height="9"><img src="range/range_ind.gif" width="798" height="9" border="0" alt=""></td>
+			</tr>
+		</table>
+		<div class="redtext">Click each weapon name to display or hide the associated effective range.</div>
+		<a href="javascript:toggleLayer('ES_355-SB');">355-SB</a> | <a href="javascript:toggleLayer('ES_430-SB');">430-SB</a> | <a href="javascript:toggleLayer('ES_355-RF');">355-RF</a> | <a href="javascript:toggleLayer('ES_HVM-LA');">HVM-LA</a> | <a href="javascript:toggleLayer('ES_MKR-LA');">MKR-LA</a> | <a href="javascript:toggleLayer('ES_67-CG');">67-CG</a> | <a href="javascript:toggleLayer('ES_RAIL-Gb');">RAIL-Gb</a> | <a href="javascript:toggleLayer('ES_AVTDV');">AVTDV</a> | <a href="javascript:toggleLayer('ES_SL-GM');">SL-GM</a> | <a href="javascript:toggleLayer('ES_DL-GM');">DL-GM</a> | <a href="javascript:toggleLayer('ES_DP-MIS');">DP-MIS</a> | <a href="javascript:toggleLayer('ES_TP-MIS');">TP-MIS</a>
+		</div>
+		<br>
+		<div class="footer" align="right">This file was last updated Saturday, 29-Nov-2008 14:59:38 PST</div><br>
+		<!---end content area--->
+		</td>
+		<td>&nbsp;</td>
+	</tr>
+<!---begin footer include--->
+<!---start footer include--->
+<tr>
+	<td style="background-repeat: repeat-x;" bgcolor="#EEEEEE" background="image/bg_footer.gif">&nbsp;</td>
+	<td width="900" valign="top" height="50" style="background-repeat: repeat-x;" bgcolor="#EEEEEE" background="image/bg_footer.gif">
+	<div class="footer" align="center"><a class="footer" href="loc_vt.shtml">Vertical Tanks</a> &nbsp; || &nbsp; <a class="footer" href="loc_weapon.shtml">Weapons</a> &nbsp; || &nbsp; <a class="footer" href="loc_mission.shtml">Missions</a> &nbsp; || &nbsp; <a class="footer" href="loc_contact.shtml">Contact</a> &nbsp; || &nbsp; <a class="footer" href="loc_about.shtml">About</a> &nbsp; || &nbsp; <a class="footer" href="loc_sitemap.shtml">Sitemap</a> &nbsp; || &nbsp; <a class="footer" href="loc_main.shtml">Home</a></div>
+	</td>
+	<td style="background-repeat: repeat-x;" bgcolor="#EEEEEE" background="image/bg_footer.gif">&nbsp;</td>
+</tr>
+<!---end footer include--->
+<!---end footer include--->
+</table>
+
+</div>
+
+</body>
+
+
+<!-- Mirrored from lineofcontact.net/loc_rangecompare.shtml by HTTrack Website Copier/3.x [XR&CO'2010], Thu, 06 May 2010 16:40:56 GMT -->
+</html>

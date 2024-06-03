@@ -1,0 +1,912 @@
+<html>
+
+<!-- Mirrored from lineofcontact.net/loc_media_beta.shtml by HTTrack Website Copier/3.x [XR&CO'2010], Thu, 06 May 2010 18:50:54 GMT -->
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<title>LINEOFCONTACT.NET :: STEEL BATTALION: LINE OF CONTACT INFORMATION</title>
+
+<link rel=StyleSheet href="css/locnet.css" TYPE="text/css" media="screen">
+
+</head>
+
+<body topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0">
+<!---begin navigation include--->
+<!---start header navigation include--->
+<a name="#top"></a>
+<script type='text/javascript'>
+function Go(){return}
+</script>
+<script type='text/javascript' src='_js/main.js'></script>
+
+<script language="JavaScript">
+// Menu tree
+//	MenuX=new Array(Text to show, Link, background image (optional), number of sub elements, height, width);
+//	For rollover images set "Text to show" to:  "rollover:Image1.jpg:Image2.jpg"
+
+Menu1=new Array("<img src='image/btn_tutorial.gif' width='51' height='11'>","","",13,11,51);
+	Menu1_1=new Array("Tutorial Overview","loc_tutorial.shtml","",0,20,120);
+	Menu1_2=new Array("Create A Pilot","loc_newpilot.shtml","",0,20,120);
+	Menu1_3=new Array("New Pilot Advice","loc_advice.shtml","",0,20,120);
+	Menu1_4=new Array("Controlling VTs","loc_vtcontrol.shtml","",0,20,120);
+	Menu1_5=new Array("Starting a Game","loc_newgame.shtml","",0,20,120);
+	Menu1_6=new Array("Chat & Trade Tutorial","loc_tradechat.shtml","",0,20,120);
+	Menu1_7=new Array("Communication Tutorial","loc_communication.shtml","",0,20,120);
+	Menu1_8=new Array("Artillery Tutorial","loc_tutorial_artillery.shtml","",0,20,120);
+	Menu1_9=new Array("Sniper Tutorial","loc_tutorial_sniper.shtml","",0,20,120);
+	Menu1_10=new Array("Repacking Tutorial","loc_tutorial_repack.shtml","",0,20,120);
+	Menu1_11=new Array("Foot Controller Repair","loc_footcontroller_repair.shtml","",0,20,120);
+	Menu1_12=new Array("Insignia Tool","loc_tutorial_insigniatool.shtml","",0,20,120);
+	Menu1_13=new Array("Unlock Code","loc_unlockcode.shtml","",0,20,120);
+
+Menu2=new Array("<img src='image/btn_vt.gif' width='82' height='11'>","","",9,11,82);
+	Menu2_1=new Array("VT Overview","loc_vt.shtml","",0,20,130);
+	Menu2_2=new Array("Hai Shi Dao VTs","","",3,20,130);
+		Menu2_2_1=new Array("1st Generation VTs","","",5,20,110);
+			Menu2_2_1_1=new Array("Vitzh","ds_vitzh.shtml","",0,20,100);
+			Menu2_2_1_2=new Array("Vortex","ds_vortex.shtml","",0,20,100);
+			Menu2_2_1_3=new Array("m-Vitzh","ds_m-vitzh.shtml","",0,20,100);
+			Menu2_2_1_4=new Array("Scare Face","ds_scareface.shtml","",0,20,100);
+			Menu2_2_1_5=new Array("Scare Face A1","ds_scarefacea1.shtml","",0,20,100);
+		Menu2_2_2=new Array("2nd Generation VTs","","",4,20,110);
+			Menu2_2_2_1=new Array("Scare Face II","ds_scareface2.shtml","",0,20,110);
+			Menu2_2_2_2=new Array("Maelstrom","ds_maelstrom.shtml","",0,20,110);
+			Menu2_2_2_3=new Array("Garpike","ds_garpike.shtml","",0,20,110);
+			Menu2_2_2_4=new Array("Behemoth","ds_behemoth.shtml","",0,20,110);
+		Menu2_2_3=new Array("3rd Generation VTs","","",3,20,130);
+			Menu2_2_3_1=new Array("Regal Dress N","ds_regaldress_N.shtml","",0,20,110);
+			Menu2_2_3_2=new Array("Regal Dress A","ds_regaldress_A.shtml","",0,20,110);
+			Menu2_2_3_3=new Array("Juggernaut","ds_juggernaut.shtml","",0,20,110);
+	Menu2_3=new Array("Pacific Rim Forces VTs","","",3,20,130);
+		Menu2_3_1=new Array("1st Generation VTs","","",3,20,110);
+			Menu2_3_1_1=new Array("Decider","ds_decider.shtml","",0,20,110);
+			Menu2_3_1_2=new Array("Falchion","ds_falchion.shtml","",0,20,110);
+			Menu2_3_1_3=new Array("Decider Volcanic","ds_decidervolcanic.shtml","",0,20,110);
+		Menu2_3_2=new Array("2nd Generation VTs","","",5,20,110);
+			Menu2_3_2_1=new Array("Blade","ds_blade.shtml","",0,20,110);
+			Menu2_3_2_2=new Array("Prominence M1","ds_prominenceM1.shtml","",0,20,110);
+			Menu2_3_2_3=new Array("Rapier","ds_rapier.shtml","",0,20,110);
+			Menu2_3_2_4=new Array("Prominence M2","ds_prominenceM2.shtml","",0,20,110);
+			Menu2_3_2_5=new Array("Prominence M3","ds_prominenceM3.shtml","",0,20,110);
+		Menu2_3_3=new Array("3rd Generation VTs","","",1,20,110);
+			Menu2_3_3_1=new Array("Quasar","ds_quasar.shtml","",0,20,110);
+	Menu2_4=new Array("Right Brothers VTs","","",3,20,130);
+		Menu2_4_1=new Array("1st Generation VTs","","",2,20,110);
+			Menu2_4_1_1=new Array("Colt","ds_colt.shtml","",0,20,110);
+			Menu2_4_1_2=new Array("Colt Executive","ds_coltexecutive.shtml","",0,20,110);
+		Menu2_4_2=new Array("2nd Generation VTs","","",3,20,110);
+			Menu2_4_2_1=new Array("Yellow Jacket","ds_yellowjacket.shtml","",0,20,110);
+			Menu2_4_2_2=new Array("Siegeszug","ds_siegeszug.shtml","",0,20,110);
+			Menu2_4_2_3=new Array("Sheepdog","ds_sheepdog.shtml","",0,20,110);
+		Menu2_4_3=new Array("3rd Generation VTs","","",1,20,110);
+			Menu2_4_3_1=new Array("Earthshaker","ds_earthshaker.shtml","",0,20,110);
+	Menu2_5=new Array("Jaralaccs Mercenary VTs","","",1,20,130);
+		Menu2_5_1=new Array("2nd Generation VTs","","",4,20,110);
+			Menu2_5_1_1=new Array("Jaralaccs C","ds_jaralaccsC.shtml","",0,20,110);
+			Menu2_5_1_2=new Array("Jaralaccs N","ds_jaralaccsN.shtml","",0,20,110);
+			Menu2_5_1_3=new Array("Jaralaccs NS-R","ds_jaralaccsNS-R.shtml","",0,20,110);
+			Menu2_5_1_4=new Array("Jaralaccs Macabre","ds_jaralaccs_macabre.shtml","",0,20,110);
+	Menu2_6=new Array("VT Manufacturers","loc_manunav.shtml","",0,20,130);
+	Menu2_7=new Array("VT Comparissons","loc_vtcompare.shtml","",0,20,130);
+	Menu2_8=new Array("Cockpit Reference","loc_cockpits.shtml","",6,20,130);
+		Menu2_8_1=new Array("1st Gen - Standard","loc_cockpits_g1.shtml","",0,20,120);
+		Menu2_8_2=new Array("1st Gen - Support","loc_cockpits_g1s.shtml","",0,20,120);
+		Menu2_8_3=new Array("2nd Gen - Standard","loc_cockpits_g2.shtml","",0,20,120);
+		Menu2_8_4=new Array("2nd Gen - Support","loc_cockpits_g2s.shtml","",0,20,120);
+		Menu2_8_5=new Array("2nd Gen - Jaralaccs","loc_cockpits_g2j.shtml","",0,20,120);
+		Menu2_8_6=new Array("3rd Gen - Standard","loc_cockpits_g3.shtml","",0,20,120);
+	Menu2_9=new Array("VT Customisation","loc_vtcustom.shtml","",0,20,130);
+	
+Menu3=new Array("<img src='image/btn_config.gif' width='81' height='11'>","","",5,11,81);
+	Menu3_1=new Array("Weapon Information","loc_weapon.shtml","",0,20,130);
+	Menu3_2=new Array("Weapon Summary","loc_weapon_summary.shtml","",0,20,130);
+	Menu3_3=new Array("Weapon Configuration","loc_weaponconfig.shtml","",0,20,130);
+	Menu3_4=new Array("Optional Parts","loc_optionalparts.shtml","",0,20,130);
+	Menu3_5=new Array("Weapon Range Compare","loc_rangecompare.shtml","",0,20,130);
+	
+Menu4=new Array("<img src='image/btn_testing.gif' width='55' height='11'>","","",9,11,55);
+	Menu4_1=new Array("Testing & Results","loc_testing.shtml","",0,20,200);
+	Menu4_2=new Array("Loadout Weight Effect on Turning","loc_testing_turnweighteffect.shtml","",0,20,200);
+	Menu4_3=new Array("Vertical Tank Rise Time","loc_testing_vt_risetime.shtml","",0,20,200);
+	Menu4_4=new Array("Platform and Leg Durability","loc_testing_dur.shtml","",0,20,200);
+	Menu4_5=new Array("Vertical Tank Distance Modifiers","loc_testing_distancemod.shtml","",0,20,200);
+	Menu4_6=new Array("Vertical Tank Turning Performance","loc_testing_turn.shtml","",0,20,200);
+	Menu4_7=new Array("Vertical Tank Acceleration Testing","loc_testing_speed.shtml","",0,20,200);
+	Menu4_8=new Array("Guided Missile Testing","loc_testing_guidedmissile.shtml","",0,20,200);
+	Menu4_9=new Array("Torque Performance on Terrain","loc_testing_crossgear.shtml","",0,20,200);
+	
+Menu5=new Array("<img src='image/btn_tactical.gif' width='94' height='11'>","","",3,11,94);
+	Menu5_1=new Array("Sortie Points","loc_sortiepoints.shtml","",0,20,120);
+	Menu5_2=new Array("Gameplay","loc_gameplay.shtml","",0,20,120);
+	Menu5_3=new Array("Mission Information","loc_mission.shtml","",25,20,120);
+		Menu5_3_1=new Array("Mission 00 - Live Ammunition Training Grounds","loc_mission00.shtml","",0,20,300);
+		Menu5_3_2=new Array("Mission 01 - Sha Wan Hills","loc_mission01.shtml","",0,20,300);
+		Menu5_3_3=new Array("Mission 02 - Dong Lai River Ford","loc_mission02.shtml","",0,20,300);
+		Menu5_3_4=new Array("Mission 03 - Capture of Outpost 8","loc_mission03.shtml","",0,20,300);
+		Menu5_3_5=new Array("Mission 04 - Occupation of Highland 33","loc_mission04.shtml","",0,20,300);
+		Menu5_3_6=new Array("Mission 05 - Ji Feng Military Base","loc_mission05.shtml","",0,20,300);
+		Menu5_3_7=new Array("Mission 06 - Hong Shan Military Base","loc_mission06.shtml","",0,20,300);
+		Menu5_3_8=new Array("Mission 07 - Battle of Jian Da Harbor","loc_mission07.shtml","",0,20,300);
+		Menu5_3_9=new Array("Mission 08 - Zhong Huan City","loc_mission08.shtml","",0,20,300);
+		Menu5_3_10=new Array("Mission 09 - Reserve Base Siege","loc_mission09.shtml","",0,20,300);
+		Menu5_3_11=new Array("Mission 10 - Jacalita Woodlands","loc_mission10.shtml","",0,20,300);
+		Menu5_3_12=new Array("Mission 11 - San Kuchen Subterranean Fortress","loc_mission11.shtml","",0,20,300);
+		Menu5_3_13=new Array("Mission 12 - Ji Feng Basin","loc_mission12.shtml","",0,20,300);
+		Menu5_3_14=new Array("Mission 13 - Airbase Assault","loc_mission13.shtml","",0,20,300);
+		Menu5_3_15=new Array("Mission 14 - Wei Gu Strike","loc_mission14.shtml","",0,20,300);
+		Menu5_3_16=new Array("Mission 15 - Container Extraction","loc_mission15.shtml","",0,20,300);
+		Menu5_3_17=new Array("Mission 16 - Nan Jiang Ravine","loc_mission16.shtml","",0,20,300);
+		Menu5_3_18=new Array("Mission 17 - New Nan Jiang Factory","loc_mission17.shtml","",0,20,300);
+		Menu5_3_19=new Array("Mission 18 - Battle of Meng Chung He","loc_mission18.shtml","",0,20,300);
+		Menu5_3_20=new Array("Mission 19 - Yun Kota Gorge","loc_mission19.shtml","",0,20,300);
+		Menu5_3_21=new Array("Mission 20 - Xen Feng Tian Corridor","loc_mission20.shtml","",0,20,300);
+		Menu5_3_22=new Array("Mission 21 - Yu Jai Woodlands","loc_mission21.shtml","",0,20,300);
+		Menu5_3_23=new Array("Mission 22 - Capture of Xen Feng Tian","loc_mission22.shtml","",0,20,300);
+		Menu5_3_24=new Array("Mission 23 - Er Ting Foothills","loc_mission23.shtml","",0,20,300);
+		Menu5_3_25=new Array("Mission 24 - Defense of Yu Jai Village","loc_mission24.shtml","",0,20,300);
+		
+Menu6=new Array("<img src='image/btn_intel.gif' width='86' height='11'>","","",10,11,86);
+	Menu6_1=new Array("Pilot Profile","loc_pilotprofile.shtml","",0,20,150);
+	Menu6_2=new Array("Rank","loc_rank.shtml","",0,20,150);
+	Menu6_3=new Array("Awards","loc_awards.shtml","",0,20,150);
+	Menu6_4=new Array("Professional Names","loc_professional.shtml","",0,20,150);
+	Menu6_5=new Array("Faction Intel","loc_faction.shtml","",0,20,150);
+	Menu6_6=new Array("Communication","loc_communication.shtml","",0,20,150);
+	Menu6_7=new Array("Glossary","loc_glossary.shtml","",0,20,150);
+	Menu6_8=new Array("Githon's Steel Battalion Guide","loc_sbt.shtml","",0,20,150);
+	Menu6_9=new Array("Frequently Asked Questions","loc_faq.shtml","",0,20,150);
+	Menu6_10=new Array("Exploits","loc_exploits.shtml","",0,20,150);
+	
+Menu7=new Array("<img src='image/btn_platform.gif' width='58' height='11'>","","",12,11,58);
+	Menu7_1=new Array("Platform Overview","loc_platform.shtml","",0,20,150);
+	Menu7_2=new Array("Game Specifications","loc_game.shtml","",0,20,150);
+	Menu7_3=new Array("Game Requirements","loc_requirements.shtml","",0,20,150);
+	Menu7_4=new Array("Controller Overview","loc_controller.shtml","",0,20,150);
+	Menu7_5=new Array("Controller Serial Archive","loc_serialarchive.shtml","",0,20,150);
+	Menu7_6=new Array("Controller Differences","loc_controllerdifferences.shtml","",0,20,150);
+	Menu7_7=new Array("Connection Issues","loc_connection.shtml","",0,20,150);
+	Menu7_8=new Array("Game History & Patches","loc_gamehistory.shtml","",0,20,150);
+	Menu7_9=new Array("Replay Information","loc_replay.shtml","",0,20,150);
+	Menu7_10=new Array("Custom Soundtracks","loc_boombox.shtml","",0,20,150);
+	Menu7_11=new Array("SB vs SB: LOC","loc_sbdifferences.shtml","",0,20,150);
+	Menu7_12=new Array("Cockpit Setups","loc_cockpit.shtml","",0,20,150);
+	
+Menu8=new Array("<img src='image/btn_media.gif' width='76' height='11'>","","",10,11,76);
+	Menu8_1=new Array("Media Overview","loc_media.shtml","",0,20,150);
+	Menu8_2=new Array("VT Open Cockpit Details","loc_media_cockpit.shtml","",0,20,150);
+	Menu8_3=new Array("Hai Shi Dao VTs","","",12,20,150);
+		Menu8_3_1=new Array("Vitzh","loc_media_vitzh.shtml","",0,20,100);
+		Menu8_3_2=new Array("Vortex","loc_media_vortex.shtml","",0,20,100);
+		Menu8_3_3=new Array("Scare Face","loc_media_scareface.shtml","",0,20,100);
+		Menu8_3_4=new Array("m-Vitzh","loc_media_mvitzh.shtml","",0,20,100);
+		Menu8_3_5=new Array("Scare Face A1","loc_media_scarefacea1.shtml","",0,20,100);
+		Menu8_3_6=new Array("Scare Face II","loc_media_scareface2.shtml","",0,20,100);
+		Menu8_3_7=new Array("Maelstrom","loc_media_maelstrom.shtml","",0,20,100);
+		Menu8_3_8=new Array("Behemoth","loc_media_behemoth.shtml","",0,20,100);
+		Menu8_3_9=new Array("Garpike","loc_media_garpike.shtml","",0,20,100);
+		Menu8_3_10=new Array("Regal Dress A","loc_media_regaldressa.shtml","",0,20,100);
+		Menu8_3_11=new Array("Regal Dress N","loc_media_regaldressn.shtml","",0,20,100);
+		Menu8_3_12=new Array("Juggernaut","loc_media_juggernaut.shtml","",0,20,100);
+	Menu8_4=new Array("Pacific Rim Forces VTs","","",9,20,150);
+		Menu8_4_1=new Array("Decider","loc_media_decider.shtml","",0,20,100);
+		Menu8_4_2=new Array("Falchion","loc_media_falchion.shtml","",0,20,100);
+		Menu8_4_3=new Array("Decider Volcanic","loc_media_decidervolcanic.shtml","",0,20,100);
+		Menu8_4_4=new Array("Prominence M1","loc_media_prominencem1.shtml","",0,20,100);
+		Menu8_4_5=new Array("Prominence M2","loc_media_prominencem2.shtml","",0,20,100);
+		Menu8_4_6=new Array("Prominence M3","loc_media_prominencem3.shtml","",0,20,100);
+		Menu8_4_7=new Array("Blade","loc_media_blade.shtml","",0,20,100);
+		Menu8_4_8=new Array("Rapier","loc_media_rapier.shtml","",0,20,100);
+		Menu8_4_9=new Array("Quasar","loc_media_quasar.shtml","",0,20,100);
+	Menu8_5=new Array("Right Brothers VTs","","",6,20,150);
+		Menu8_5_1=new Array("Colt","loc_media_colt.shtml","",0,20,100);
+		Menu8_5_2=new Array("Colt Executive","loc_media_coltexecutive.shtml","",0,20,100);
+		Menu8_5_3=new Array("Yellow Jacket","loc_media_yellowjacket.shtml","",0,20,100);
+		Menu8_5_4=new Array("Sheepdog","loc_media_sheepdog.shtml","",0,20,100);
+		Menu8_5_5=new Array("Siegeszug","loc_media_siegeszug.shtml","",0,20,100);
+		Menu8_5_6=new Array("Earthshaker","loc_media_earthshaker.shtml","",0,20,100);
+	Menu8_6=new Array("Jaralaccs Mercenary VTs","","",4,20,150);
+		Menu8_6_1=new Array("Jaralaccs C","loc_media_jaralaccsc.shtml","",0,20,100);
+		Menu8_6_2=new Array("Jaralaccs N","loc_media_jaralaccsn.shtml","",0,20,100);
+		Menu8_6_3=new Array("Jaralaccs NS-R","loc_media_jaralaccsnsr.shtml","",0,20,100);
+		Menu8_6_4=new Array("Jaralaccs Macabre","loc_media_jaralaccsmacabre.shtml","",0,20,100);
+	Menu8_7=new Array("Battle Images","","",6,20,150);
+		Menu8_7_1=new Array("Battle 01","loc_media_battle.shtml","",0,20,100);
+		Menu8_7_2=new Array("Battle 02","loc_media_battle2.shtml","",0,20,100);
+		Menu8_7_3=new Array("Battle 03","loc_media_battle3.shtml","",0,20,100);
+		Menu8_7_4=new Array("Battle 04","loc_media_battle4.shtml","",0,20,100);
+		Menu8_7_5=new Array("Battle 05","loc_media_battle5.shtml","",0,20,100);
+		Menu8_7_6=new Array("Battle 06","loc_media_battle6.shtml","",0,20,100);
+	Menu8_8=new Array("Chaff Deployment Details","loc_media_chaff.shtml","",0,20,150);
+	Menu8_9=new Array("Gameplay Movies","loc_media_movies.shtml","",0,20,150);
+	Menu8_10=new Array("Action Replay Files","loc_media_actionreplay.shtml","",0,20,150);
+
+Menu9=new Array("<img src='image/btn_misc.gif' width='83' height='11'>","","",3,11,83);
+	Menu9_1=new Array("BoxLOC","loc_boxloc.shtml","",0,20,150);
+	Menu9_2=new Array("Order of Garpike","loc_orderofpike.shtml","",0,20,150);
+	Menu9_3=new Array("Random VT Selector","loc_randomvtselector.shtml","",0,20,150);
+
+Menu10=new Array("<img src='image/btn_comm.gif' width='49' height='11'>","","",2,11,49);
+	Menu10_1=new Array("Contact Us","loc_contact.shtml","",0,20,150);
+	Menu10_2=new Array("Links of Interest","loc_discuss.shtml","",0,20,150);
+
+Menu11=new Array("<img src='image/btn_about.gif' width='63' height='11'>","","",3,11,63);
+	Menu11_1=new Array("About the Site","loc_about.shtml","",0,20,150);
+	Menu11_2=new Array("Site Credits","loc_about.shtml#credits","",0,20,150);
+	Menu11_3=new Array("Sitemap","loc_sitemap.shtml","",0,20,150);
+</script>
+
+<div align="center">
+
+<table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td>&nbsp;</td>
+		<td width="900" height="88" valign="top">
+		
+		<!---begin header and navigation--->
+		<table width="900" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="9" height="79"><img src="image/bg_navhd01.gif" width="9" height="79" border="0" alt=""></td>
+				<td width="105" height="79"><a href="loc_main.shtml"><img src="image/header01.gif" width="105" height="79" border="0" alt="LINEOFCONTACT.NET"></a></td>
+				<td width="8" height="79"><img src="image/bg_navhd02.gif" width="8" height="79" border="0" alt=""></td>
+				<td width="778" height="79">
+				<table width="778" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td width="778" height="41">
+						<table width="778" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="425" height="41" align="left"><img src="image/hdr_icons.gif" width="22" height="41" border="0" alt=""></td>
+								<td width="353" height="41" align="right"><img src="image/hdr_locnet.gif" width="353" height="41" border="0" alt="LINEOFCONTACT.NET - Your Source for Steel Battalion: Line of Contact Information"></td>
+							</tr>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td width="778" height="11">
+						<span id="dropmenu">
+						<table width="778" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="51" height="11"><img src="image/btn_tutorial.gif" width="51" height="11" border="0" alt="TUTORIAL"></td>
+								<td width="82" height="11"><img src="image/btn_vt.gif" width="82" height="11" border="0" alt="VERTICAL TANKS"></td>
+								<td width="81" height="11"><img src="image/btn_config.gif" width="81" height="11" border="0" alt="CONFIGURATION"></td>
+								<td width="55" height="11"><img src="image/btn_testing.gif" width="55" height="11" border="0" alt="TESTING"></td>
+								<td width="94" height="11"><img src="image/btn_tactical.gif" width="94" height="11" border="0" alt="TACTICAL ANALYSIS"></td>
+								<td width="86" height="11"><img src="image/btn_intel.gif" width="86" height="11" border="0" alt="INTEL &amp; BRIEFING"></td>
+								<td width="58" height="11"><img src="image/btn_platform.gif" width="58" height="11" border="0" alt="PLATFORM"></td>
+								<td width="76" height="11"><img src="image/btn_media.gif" width="76" height="11" border="0" alt="MEDIA UPLINK"></td>
+								<td width="83" height="11"><img src="image/btn_misc.gif" width="83" height="11" border="0" alt="MISCELLANEOUS"></td>
+								<td width="49" height="11"><img src="image/btn_comm.gif" width="49" height="11" border="0" alt="COMLINK"></td>
+								<td width="63" height="11"><img src="image/btn_about.gif" width="63" height="11" border="0" alt="ABOUT SITE"></td>
+							</tr>
+						</table>
+						</span>
+						</td>
+					</tr>
+					<tr>
+						<td width="778" height="18">
+						<table width="778" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="51" height="18" background="image/bg_navhd07.gif"></td>
+								<td style="padding-top: 2px; padding-left: 3px;" width="725" height="18" background="image/bg_navhd08_splice.gif"><span class="headline">LATEST NEWS:</span> KEEBLER ON FIRE AGAIN - <span style="font-size: 9px;">Regular LOC times Wed from 8:30pmEST, Sun from 3pm EST</span></td>
+								<td width="2" height="18" background="image/bg_navhd08.gif"></td>
+							</tr>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td width="778" height="9" background="image/bg_navhd05_runner.gif"></td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+			<tr>
+				<td width="9" height="9"><img src="image/bg_navhd03.gif" width="9" height="9" border="0" alt=""></td>
+				<td width="105" height="9" background="image/bg_navhd03_splice.gif"></td>
+				<td width="8" height="9"><img src="image/bg_navhd04.gif" width="8" height="9" border="0" alt=""></td>
+				<td width="778" height="9" align="left"><img src="image/bg_navhd06.gif" width="5" height="9" border="0" alt=""></td>
+			</tr>
+		</table>
+		<!---end header and navigation--->
+		</td>
+		<td>&nbsp;</td>
+	</tr>
+<!---end header navigation include--->
+<!---end navigation include--->
+	<tr>
+		<td>&nbsp;</td>
+		<td width="900" height="40">
+		<div style="height: 9px;"></div>
+		<table width="900" cellspacing="0" cellpadding="0" style="border-style: solid; border-width: 1px; border-color: #000000;">
+			<tr>
+				<td width="106" height="13" background="image/bg_currentdoc.gif"></td>
+				<td class="crumbs" style="padding-left: 5px;" width="794" height="13" bgcolor="#E4E4E4"><a class="crumbs" href="loc_main.shtml">Home</a> &gt; <a class="crumbs" href="loc_media.shtml">Media Overview</a> &gt; <a class="crumbs" href="loc_media_beta.shtml">LOC BETA Screenshots</a></td>
+			</tr>
+		</table>
+		<div style="height: 18px;"></div>
+		</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td width="900" valign="top">
+		<!---start content area--->
+		<script language="JavaScript" type="text/JavaScript">
+			<!--
+			// Opens window and builds page for large view
+			function ShowMe(imgSrc) // pass image file name without extension
+			{
+			newWindow=window.open('image/loading.gif','newWin','location=no,menubar=no,directories=no,toolbar=no,status=no,personalbar=no,titlebar=no,scrollbars=no,dependent=yes,resizable=no,width=640,height=480'); // define window size and chrome
+			newWindow.document.write('<html><head><title>Large View<\/title><style type="text/css" media="all">@import url("css/locnet.css");<\/style><\/head><body style="margin:0em; background-repeat:no-repeat; background-position:top center; background-color:#000000;"><table width="640" border="0" cellspacing="0" cellpadding="0"><tr><td width="640" background="http://www.orderofgarpike.com/_media/beta/'+imgSrc+'.jpg"><a href="javascript:window.close()"><img src="image/spacer.gif" width="640" height="480" border="0" alt="close window"><\/a><\/td><\/tr><\/table><\/body><\/html>');  // write HTML for new window contents
+			newWindow.document.close();  // finalize document
+			newWindow.focus();  // bring to front
+			}
+			//-->
+		</script>
+		<br>
+		<div align="right"><a href="javascript:toggleLayer('safari');">Safari Mac Users</a><br>
+		<div align="right" id="safari">
+		<a href="../www.orderofgarpike.com/_media/beta/0001.html" target="_blank">0001</a> | <a href="../www.orderofgarpike.com/_media/beta/0002.html" target="_blank">0002</a> | <a href="../www.orderofgarpike.com/_media/beta/0003.html" target="_blank">0003</a> | <a href="../www.orderofgarpike.com/_media/beta/0004.html" target="_blank">0004</a> | <a href="../www.orderofgarpike.com/_media/beta/0005.html" target="_blank">0005</a><br>
+		<a href="../www.orderofgarpike.com/_media/beta/0006.html" target="_blank">0006</a> | <a href="../www.orderofgarpike.com/_media/beta/0007.html" target="_blank">0007</a> | <a href="../www.orderofgarpike.com/_media/beta/0008.html" target="_blank">0008</a> | <a href="../www.orderofgarpike.com/_media/beta/0009.html" target="_blank">0009</a> | <a href="../www.orderofgarpike.com/_media/beta/0010.html" target="_blank">0010</a><br>
+		<a href="../www.orderofgarpike.com/_media/beta/0011.html" target="_blank">0011</a> | <a href="../www.orderofgarpike.com/_media/beta/0012.html" target="_blank">0012</a> | <a href="../www.orderofgarpike.com/_media/beta/0013.html" target="_blank">0013</a> | <a href="../www.orderofgarpike.com/_media/beta/0014.html" target="_blank">0014</a> | <a href="../www.orderofgarpike.com/_media/beta/0015.html" target="_blank">0015</a><br>
+		<a href="../www.orderofgarpike.com/_media/beta/0016.html" target="_blank">0016</a> | <a href="../www.orderofgarpike.com/_media/beta/0017.html" target="_blank">0017</a> | <a href="../www.orderofgarpike.com/_media/beta/0018.html" target="_blank">0018</a> | <a href="../www.orderofgarpike.com/_media/beta/0019.html" target="_blank">0019</a> | <a href="../www.orderofgarpike.com/_media/beta/0020.html" target="_blank">0020</a><br>
+		<a href="../www.orderofgarpike.com/_media/beta/0021.html" target="_blank">0021</a> | <a href="../www.orderofgarpike.com/_media/beta/0022.html" target="_blank">0022</a> | <a href="../www.orderofgarpike.com/_media/beta/0023.html" target="_blank">0023</a> | <a href="../www.orderofgarpike.com/_media/beta/0024.html" target="_blank">0024</a> | <a href="../www.orderofgarpike.com/_media/beta/0025.html" target="_blank">0025</a><br>
+		<a href="../www.orderofgarpike.com/_media/beta/0026.html" target="_blank">0026</a> | <a href="../www.orderofgarpike.com/_media/beta/0027.html" target="_blank">0027</a> | <a href="../www.orderofgarpike.com/_media/beta/0028.html" target="_blank">0028</a> | <a href="../www.orderofgarpike.com/_media/beta/0029.html" target="_blank">0029</a> | <a href="../www.orderofgarpike.com/_media/beta/0030.html" target="_blank">0030</a><br>
+		<a href="../www.orderofgarpike.com/_media/beta/0031.html" target="_blank">0031</a> | <a href="../www.orderofgarpike.com/_media/beta/0032.html" target="_blank">0032</a> | <a href="../www.orderofgarpike.com/_media/beta/0033.html" target="_blank">0033</a> | <a href="../www.orderofgarpike.com/_media/beta/0034.html" target="_blank">0034</a> | <a href="../www.orderofgarpike.com/_media/beta/0035.html" target="_blank">0035</a><br>
+		<a href="../www.orderofgarpike.com/_media/beta/0036.html" target="_blank">0036</a> | <a href="../www.orderofgarpike.com/_media/beta/0037.html" target="_blank">0037</a> | <a href="../www.orderofgarpike.com/_media/beta/0038.html" target="_blank">0038</a> | <a href="../www.orderofgarpike.com/_media/beta/0039.html" target="_blank">0039</a> | <a href="../www.orderofgarpike.com/_media/beta/0040.html" target="_blank">0040</a><br>
+		<a href="../www.orderofgarpike.com/_media/beta/0041.html" target="_blank">0041</a> | <a href="../www.orderofgarpike.com/_media/beta/0042.html" target="_blank">0042</a> | <a href="../www.orderofgarpike.com/_media/beta/0043.html" target="_blank">0043</a> | <a href="../www.orderofgarpike.com/_media/beta/0044.html" target="_blank">0034</a> | <a href="../www.orderofgarpike.com/_media/beta/0045.html" target="_blank">0035</a><br>
+		<a href="../www.orderofgarpike.com/_media/beta/0046.html" target="_blank">0046</a> | <a href="../www.orderofgarpike.com/_media/beta/0047.html" target="_blank">0047</a> | <a href="../www.orderofgarpike.com/_media/beta/0048.html" target="_blank">0048</a> | <a href="../www.orderofgarpike.com/_media/beta/0049.html" target="_blank">0039</a> | <a href="../www.orderofgarpike.com/_media/beta/0050.html" target="_blank">0040</a><br>
+		<a href="../www.orderofgarpike.com/_media/beta/0051.html" target="_blank">0051</a> | <a href="../www.orderofgarpike.com/_media/beta/0052.html" target="_blank">0052</a> | <a href="../www.orderofgarpike.com/_media/beta/0053.html" target="_blank">0053</a> | <a href="../www.orderofgarpike.com/_media/beta/0054.html" target="_blank">0054</a> | <a href="../www.orderofgarpike.com/_media/beta/0055.html" target="_blank">0055</a><br>
+		<a href="../www.orderofgarpike.com/_media/beta/0056.html" target="_blank">0056</a> | <a href="../www.orderofgarpike.com/_media/beta/0057.html" target="_blank">0057</a> | <a href="../www.orderofgarpike.com/_media/beta/0058.html" target="_blank">0058</a> | <a href="../www.orderofgarpike.com/_media/beta/0059.html" target="_blank">0059</a> | <a href="../www.orderofgarpike.com/_media/beta/0060.html" target="_blank">0060</a><br>
+		<a href="../www.orderofgarpike.com/_media/beta/0061.html" target="_blank">0061</a> | <a href="../www.orderofgarpike.com/_media/beta/0062.html" target="_blank">0062</a> | <a href="../www.orderofgarpike.com/_media/beta/0063.html" target="_blank">0063</a> | <a href="../www.orderofgarpike.com/_media/beta/0064.html" target="_blank">0064</a> | <a href="../www.orderofgarpike.com/_media/beta/0065.html" target="_blank">0065</a><br>
+		<a href="../www.orderofgarpike.com/_media/beta/0066.html" target="_blank">0066</a> | <a href="../www.orderofgarpike.com/_media/beta/0067.html" target="_blank">0067</a> | <a href="../www.orderofgarpike.com/_media/beta/0068.html" target="_blank">0068</a> | <a href="../www.orderofgarpike.com/_media/beta/0069.html" target="_blank">0069</a> | <a href="../www.orderofgarpike.com/_media/beta/0070.html" target="_blank">0070</a><br>
+		<a href="../www.orderofgarpike.com/_media/beta/0071.html" target="_blank">0071</a> | <a href="../www.orderofgarpike.com/_media/beta/0072.html" target="_blank">0072</a> | <a href="../www.orderofgarpike.com/_media/beta/0073.html" target="_blank">0073</a> | <a href="../www.orderofgarpike.com/_media/beta/0074.html" target="_blank">0074</a> | <a href="../www.orderofgarpike.com/_media/beta/0075.html" target="_blank">0075</a><br>
+		<a href="../www.orderofgarpike.com/_media/beta/0076.html" target="_blank">0076</a> | <a href="../www.orderofgarpike.com/_media/beta/0077.html" target="_blank">0077</a> | <a href="../www.orderofgarpike.com/_media/beta/0078.html" target="_blank">0078</a> | <a href="../www.orderofgarpike.com/_media/beta/0079.html" target="_blank">0079</a> | <a href="../www.orderofgarpike.com/_media/beta/0080.html" target="_blank">0080</a><br>
+		<a href="../www.orderofgarpike.com/_media/beta/0081.html" target="_blank">0081</a> | <a href="../www.orderofgarpike.com/_media/beta/0082.html" target="_blank">0082</a> | <a href="../www.orderofgarpike.com/_media/beta/0083.html" target="_blank">0083</a> | <a href="../www.orderofgarpike.com/_media/beta/0084.html" target="_blank">0084</a> | <a href="../www.orderofgarpike.com/_media/beta/0085.html" target="_blank">0085</a><br>
+		<a href="../www.orderofgarpike.com/_media/beta/0086.html" target="_blank">0086</a> | <a href="../www.orderofgarpike.com/_media/beta/0087.html" target="_blank">0087</a> | <a href="../www.orderofgarpike.com/_media/beta/0088.html" target="_blank">0088</a> | <a href="../www.orderofgarpike.com/_media/beta/0089.html" target="_blank">0089</a> | <a href="../www.orderofgarpike.com/_media/beta/0090.html" target="_blank">0090</a><br>
+		<a href="../www.orderofgarpike.com/_media/beta/0091.html" target="_blank">0091</a> | <a href="../www.orderofgarpike.com/_media/beta/0092.html" target="_blank">0092</a> | <a href="../www.orderofgarpike.com/_media/beta/0093.html" target="_blank">0093</a> | <a href="../www.orderofgarpike.com/_media/beta/0094.html" target="_blank">0094</a> | <a href="../www.orderofgarpike.com/_media/beta/0095.html" target="_blank">0095</a><br>
+		<a href="../www.orderofgarpike.com/_media/beta/0096.html" target="_blank">0096</a> | <a href="../www.orderofgarpike.com/_media/beta/0097.html" target="_blank">0097</a> | <a href="../www.orderofgarpike.com/_media/beta/0098.html" target="_blank">0098</a> | <a href="../www.orderofgarpike.com/_media/beta/0099.html" target="_blank">0099</a> | <a href="../www.orderofgarpike.com/_media/beta/0100.html" target="_blank">0100</a><br>
+		<a href="../www.orderofgarpike.com/_media/beta/0101.html" target="_blank">0101</a> | <a href="../www.orderofgarpike.com/_media/beta/0102.html" target="_blank">0102</a> | <a href="../www.orderofgarpike.com/_media/beta/0103.html" target="_blank">0103</a> | <a href="../www.orderofgarpike.com/_media/beta/0104.html" target="_blank">0104</a> | <a href="../www.orderofgarpike.com/_media/beta/0105.html" target="_blank">0105</a><br>
+		<a href="../www.orderofgarpike.com/_media/beta/0106.html" target="_blank">0106</a> | <a href="../www.orderofgarpike.com/_media/beta/0107.html" target="_blank">0107</a> | <a href="../www.orderofgarpike.com/_media/beta/0108.html" target="_blank">0108</a> | <a href="../www.orderofgarpike.com/_media/beta/0109.html" target="_blank">0109</a> | <a href="../www.orderofgarpike.com/_media/beta/0110.html" target="_blank">0110</a><br>
+		<a href="../www.orderofgarpike.com/_media/beta/0111.html" target="_blank">0111</a> | <a href="../www.orderofgarpike.com/_media/beta/0112.html" target="_blank">0112</a> | <a href="../www.orderofgarpike.com/_media/beta/0113.html" target="_blank">0113</a> | <a href="../www.orderofgarpike.com/_media/beta/0114.html" target="_blank">0114</a> | <a href="../www.orderofgarpike.com/_media/beta/0115.html" target="_blank">0115</a><br>
+		<a href="../www.orderofgarpike.com/_media/beta/0116.html" target="_blank">0116</a> | <a href="../www.orderofgarpike.com/_media/beta/0117.html" target="_blank">0117</a> | <a href="../www.orderofgarpike.com/_media/beta/0118.html" target="_blank">0118</a> | <a href="../www.orderofgarpike.com/_media/beta/0119.html" target="_blank">0119</a> | <a href="../www.orderofgarpike.com/_media/beta/0120.html" target="_blank">0120</a><br>
+		<a href="../www.orderofgarpike.com/_media/beta/0121.html" target="_blank">0121</a> | <a href="../www.orderofgarpike.com/_media/beta/0122.html" target="_blank">0122</a> | <a href="../www.orderofgarpike.com/_media/beta/0123.html" target="_blank">0123</a> | <a href="../www.orderofgarpike.com/_media/beta/0124.html" target="_blank">0124</a> | <a href="../www.orderofgarpike.com/_media/beta/0125.html" target="_blank">0125</a><br>
+		<a href="../www.orderofgarpike.com/_media/beta/0126.html" target="_blank">0126</a> | <a href="../www.orderofgarpike.com/_media/beta/0127.html" target="_blank">0127</a> | <a href="../www.orderofgarpike.com/_media/beta/0128.html" target="_blank">0128</a> | <a href="../www.orderofgarpike.com/_media/beta/0129.html" target="_blank">0129</a> | <a href="../www.orderofgarpike.com/_media/beta/0130.html" target="_blank">0130</a><br>
+		<a href="../www.orderofgarpike.com/_media/beta/0131.html" target="_blank">0131</a> | <a href="../www.orderofgarpike.com/_media/beta/0132.html" target="_blank">0132</a> | <a href="../www.orderofgarpike.com/_media/beta/0133.html" target="_blank">0133</a> | <a href="../www.orderofgarpike.com/_media/beta/0134.html" target="_blank">0134</a> | <a href="../www.orderofgarpike.com/_media/beta/0135.html" target="_blank">0135</a><br>
+		<a href="../www.orderofgarpike.com/_media/beta/0136.html" target="_blank">0136</a> | <a href="../www.orderofgarpike.com/_media/beta/0137.html" target="_blank">0137</a> | <a href="../www.orderofgarpike.com/_media/beta/0138.html" target="_blank">0138</a> | <a href="../www.orderofgarpike.com/_media/beta/0139.html" target="_blank">0139</a> | <a href="../www.orderofgarpike.com/_media/beta/0140.html" target="_blank">0140</a><br>
+		<a href="../www.orderofgarpike.com/_media/beta/0141.html" target="_blank">0141</a> | <a href="../www.orderofgarpike.com/_media/beta/0142.html" target="_blank">0142</a> | <a href="../www.orderofgarpike.com/_media/beta/0143.html" target="_blank">0143</a> | <a href="../www.orderofgarpike.com/_media/beta/0144.html" target="_blank">0134</a> | <a href="../www.orderofgarpike.com/_media/beta/0145.html" target="_blank">0135</a><br>
+		<a href="../www.orderofgarpike.com/_media/beta/0146.html" target="_blank">0146</a> | <a href="../www.orderofgarpike.com/_media/beta/0147.html" target="_blank">0147</a> | <a href="../www.orderofgarpike.com/_media/beta/0148.html" target="_blank">0148</a> | <a href="../www.orderofgarpike.com/_media/beta/0149.html" target="_blank">0139</a> | <a href="../www.orderofgarpike.com/_media/beta/0150.html" target="_blank">0140</a><br>
+		<a href="../www.orderofgarpike.com/_media/beta/0151.html" target="_blank">0151</a> | <a href="../www.orderofgarpike.com/_media/beta/0152.html" target="_blank">0152</a> | <a href="../www.orderofgarpike.com/_media/beta/0153.html" target="_blank">0153</a> | <a href="../www.orderofgarpike.com/_media/beta/0154.html" target="_blank">0154</a> | <a href="../www.orderofgarpike.com/_media/beta/0155.html" target="_blank">0155</a><br>
+		<a href="../www.orderofgarpike.com/_media/beta/0156.html" target="_blank">0156</a> | <a href="../www.orderofgarpike.com/_media/beta/0157.html" target="_blank">0157</a> | <a href="../www.orderofgarpike.com/_media/beta/0158.html" target="_blank">0158</a> | <a href="../www.orderofgarpike.com/_media/beta/0159.html" target="_blank">0159</a> | <a href="../www.orderofgarpike.com/_media/beta/0160.html" target="_blank">0160</a><br>
+		<a href="../www.orderofgarpike.com/_media/beta/0161.html" target="_blank">0161</a> | <a href="../www.orderofgarpike.com/_media/beta/0162.html" target="_blank">0162</a> | <a href="../www.orderofgarpike.com/_media/beta/0163.html" target="_blank">0163</a> | <a href="../www.orderofgarpike.com/_media/beta/0164.html" target="_blank">0164</a> | <a href="../www.orderofgarpike.com/_media/beta/0165.html" target="_blank">0165</a><br>
+		<a href="../www.orderofgarpike.com/_media/beta/0166.html" target="_blank">0166</a> | <a href="../www.orderofgarpike.com/_media/beta/0167.html" target="_blank">0167</a> | <a href="../www.orderofgarpike.com/_media/beta/0168.html" target="_blank">0168</a> | <a href="../www.orderofgarpike.com/_media/beta/0169.html" target="_blank">0169</a> | <a href="../www.orderofgarpike.com/_media/beta/0170.html" target="_blank">0170</a><br>
+		<a href="../www.orderofgarpike.com/_media/beta/0171.html" target="_blank">0171</a> | <a href="../www.orderofgarpike.com/_media/beta/0172.html" target="_blank">0172</a> | <a href="../www.orderofgarpike.com/_media/beta/0173.html" target="_blank">0173</a> | <a href="../www.orderofgarpike.com/_media/beta/0174.html" target="_blank">0174</a><br>
+		</div>
+		</div>
+		<br>
+		<div align="center">
+		<table width="500" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td colspan="5"><div class="H1">Screenshots from the Steel Battalion: Line of Contact BETA test period.</div><br>
+				The majority of these screens are courtesy of player "Parias" and were<br>
+				originally taken for the now-defunct Steel Battalion Central (SBC), may she rest in peace.<br>
+				<br>
+				</td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0001'); return false;"><img src="media/thumb/beta/0001.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0002'); return false;"><img src="media/thumb/beta/0002.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0003'); return false;"><img src="media/thumb/beta/0003.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0004'); return false;"><img src="media/thumb/beta/0004.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0005'); return false;"><img src="media/thumb/beta/0005.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0006'); return false;"><img src="media/thumb/beta/0006.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0007'); return false;"><img src="media/thumb/beta/0007.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0008'); return false;"><img src="media/thumb/beta/0008.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0009'); return false;"><img src="media/thumb/beta/0009.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0010'); return false;"><img src="media/thumb/beta/0010.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0011'); return false;"><img src="media/thumb/beta/0011.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0012'); return false;"><img src="media/thumb/beta/0012.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0013'); return false;"><img src="media/thumb/beta/0013.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0014'); return false;"><img src="media/thumb/beta/0014.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0015'); return false;"><img src="media/thumb/beta/0015.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0016'); return false;"><img src="media/thumb/beta/0016.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0017'); return false;"><img src="media/thumb/beta/0017.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0018'); return false;"><img src="media/thumb/beta/0018.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0019'); return false;"><img src="media/thumb/beta/0019.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0020'); return false;"><img src="media/thumb/beta/0020.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0021'); return false;"><img src="media/thumb/beta/0021.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0022'); return false;"><img src="media/thumb/beta/0022.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0023'); return false;"><img src="media/thumb/beta/0023.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0024'); return false;"><img src="media/thumb/beta/0024.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0025'); return false;"><img src="media/thumb/beta/0025.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0026'); return false;"><img src="media/thumb/beta/0026.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0027'); return false;"><img src="media/thumb/beta/0027.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0028'); return false;"><img src="media/thumb/beta/0028.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0029'); return false;"><img src="media/thumb/beta/0029.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0030'); return false;"><img src="media/thumb/beta/0030.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0031'); return false;"><img src="media/thumb/beta/0031.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0032'); return false;"><img src="media/thumb/beta/0032.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0033'); return false;"><img src="media/thumb/beta/0033.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0034'); return false;"><img src="media/thumb/beta/0034.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0035'); return false;"><img src="media/thumb/beta/0035.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0036'); return false;"><img src="media/thumb/beta/0036.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0037'); return false;"><img src="media/thumb/beta/0037.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0038'); return false;"><img src="media/thumb/beta/0038.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0039'); return false;"><img src="media/thumb/beta/0039.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0040'); return false;"><img src="media/thumb/beta/0030.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0041'); return false;"><img src="media/thumb/beta/0041.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0042'); return false;"><img src="media/thumb/beta/0042.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0043'); return false;"><img src="media/thumb/beta/0043.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0044'); return false;"><img src="media/thumb/beta/0044.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0045'); return false;"><img src="media/thumb/beta/0045.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0046'); return false;"><img src="media/thumb/beta/0046.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0047'); return false;"><img src="media/thumb/beta/0047.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0048'); return false;"><img src="media/thumb/beta/0048.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0049'); return false;"><img src="media/thumb/beta/0049.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0050'); return false;"><img src="media/thumb/beta/0050.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0051'); return false;"><img src="media/thumb/beta/0051.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0052'); return false;"><img src="media/thumb/beta/0052.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0053'); return false;"><img src="media/thumb/beta/0053.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0054'); return false;"><img src="media/thumb/beta/0054.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0055'); return false;"><img src="media/thumb/beta/0055.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0056'); return false;"><img src="media/thumb/beta/0056.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0057'); return false;"><img src="media/thumb/beta/0057.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0058'); return false;"><img src="media/thumb/beta/0058.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0059'); return false;"><img src="media/thumb/beta/0059.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0060'); return false;"><img src="media/thumb/beta/0060.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0061'); return false;"><img src="media/thumb/beta/0061.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0062'); return false;"><img src="media/thumb/beta/0062.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0063'); return false;"><img src="media/thumb/beta/0063.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0064'); return false;"><img src="media/thumb/beta/0064.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0065'); return false;"><img src="media/thumb/beta/0065.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0066'); return false;"><img src="media/thumb/beta/0066.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0067'); return false;"><img src="media/thumb/beta/0067.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0068'); return false;"><img src="media/thumb/beta/0068.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0069'); return false;"><img src="media/thumb/beta/0069.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0070'); return false;"><img src="media/thumb/beta/0070.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0071'); return false;"><img src="media/thumb/beta/0071.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0072'); return false;"><img src="media/thumb/beta/0072.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0073'); return false;"><img src="media/thumb/beta/0073.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0074'); return false;"><img src="media/thumb/beta/0074.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0075'); return false;"><img src="media/thumb/beta/0075.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0076'); return false;"><img src="media/thumb/beta/0076.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0077'); return false;"><img src="media/thumb/beta/0077.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0078'); return false;"><img src="media/thumb/beta/0078.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0079'); return false;"><img src="media/thumb/beta/0079.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0080'); return false;"><img src="media/thumb/beta/0080.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0081'); return false;"><img src="media/thumb/beta/0081.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0082'); return false;"><img src="media/thumb/beta/0082.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0083'); return false;"><img src="media/thumb/beta/0083.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0084'); return false;"><img src="media/thumb/beta/0084.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0085'); return false;"><img src="media/thumb/beta/0085.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0086'); return false;"><img src="media/thumb/beta/0086.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0087'); return false;"><img src="media/thumb/beta/0087.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0088'); return false;"><img src="media/thumb/beta/0088.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0089'); return false;"><img src="media/thumb/beta/0089.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0090'); return false;"><img src="media/thumb/beta/0090.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0091'); return false;"><img src="media/thumb/beta/0091.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0092'); return false;"><img src="media/thumb/beta/0092.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0093'); return false;"><img src="media/thumb/beta/0093.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0094'); return false;"><img src="media/thumb/beta/0094.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0095'); return false;"><img src="media/thumb/beta/0095.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0096'); return false;"><img src="media/thumb/beta/0096.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0097'); return false;"><img src="media/thumb/beta/0097.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0098'); return false;"><img src="media/thumb/beta/0098.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0099'); return false;"><img src="media/thumb/beta/0099.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0100'); return false;"><img src="media/thumb/beta/0100.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0101'); return false;"><img src="media/thumb/beta/0101.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0102'); return false;"><img src="media/thumb/beta/0102.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0103'); return false;"><img src="media/thumb/beta/0103.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0104'); return false;"><img src="media/thumb/beta/0104.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0105'); return false;"><img src="media/thumb/beta/0105.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0106'); return false;"><img src="media/thumb/beta/0106.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0107'); return false;"><img src="media/thumb/beta/0107.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0108'); return false;"><img src="media/thumb/beta/0108.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0109'); return false;"><img src="media/thumb/beta/0109.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0110'); return false;"><img src="media/thumb/beta/0110.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0111'); return false;"><img src="media/thumb/beta/0111.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0112'); return false;"><img src="media/thumb/beta/0112.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0113'); return false;"><img src="media/thumb/beta/0113.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0114'); return false;"><img src="media/thumb/beta/0114.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0115'); return false;"><img src="media/thumb/beta/0115.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0116'); return false;"><img src="media/thumb/beta/0116.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0117'); return false;"><img src="media/thumb/beta/0117.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0118'); return false;"><img src="media/thumb/beta/0118.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0119'); return false;"><img src="media/thumb/beta/0119.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0120'); return false;"><img src="media/thumb/beta/0120.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0121'); return false;"><img src="media/thumb/beta/0121.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0122'); return false;"><img src="media/thumb/beta/0122.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0123'); return false;"><img src="media/thumb/beta/0123.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0124'); return false;"><img src="media/thumb/beta/0124.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0125'); return false;"><img src="media/thumb/beta/0125.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0126'); return false;"><img src="media/thumb/beta/0126.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0127'); return false;"><img src="media/thumb/beta/0127.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0128'); return false;"><img src="media/thumb/beta/0128.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0129'); return false;"><img src="media/thumb/beta/0129.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0130'); return false;"><img src="media/thumb/beta/0130.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0131'); return false;"><img src="media/thumb/beta/0131.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0132'); return false;"><img src="media/thumb/beta/0132.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0133'); return false;"><img src="media/thumb/beta/0133.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0134'); return false;"><img src="media/thumb/beta/0134.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0135'); return false;"><img src="media/thumb/beta/0135.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0136'); return false;"><img src="media/thumb/beta/0136.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0137'); return false;"><img src="media/thumb/beta/0137.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0138'); return false;"><img src="media/thumb/beta/0138.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0139'); return false;"><img src="media/thumb/beta/0139.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0140'); return false;"><img src="media/thumb/beta/0140.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0141'); return false;"><img src="media/thumb/beta/0141.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0142'); return false;"><img src="media/thumb/beta/0142.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0143'); return false;"><img src="media/thumb/beta/0143.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0144'); return false;"><img src="media/thumb/beta/0144.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0145'); return false;"><img src="media/thumb/beta/0145.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0146'); return false;"><img src="media/thumb/beta/0146.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0147'); return false;"><img src="media/thumb/beta/0147.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0148'); return false;"><img src="media/thumb/beta/0148.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0149'); return false;"><img src="media/thumb/beta/0149.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0150'); return false;"><img src="media/thumb/beta/0150.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0151'); return false;"><img src="media/thumb/beta/0151.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0152'); return false;"><img src="media/thumb/beta/0152.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0153'); return false;"><img src="media/thumb/beta/0153.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0154'); return false;"><img src="media/thumb/beta/0154.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0155'); return false;"><img src="media/thumb/beta/0155.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0156'); return false;"><img src="media/thumb/beta/0156.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0157'); return false;"><img src="media/thumb/beta/0157.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0158'); return false;"><img src="media/thumb/beta/0158.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0159'); return false;"><img src="media/thumb/beta/0159.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0160'); return false;"><img src="media/thumb/beta/0160.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0161'); return false;"><img src="media/thumb/beta/0161.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0162'); return false;"><img src="media/thumb/beta/0162.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0163'); return false;"><img src="media/thumb/beta/0163.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0164'); return false;"><img src="media/thumb/beta/0164.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0165'); return false;"><img src="media/thumb/beta/0165.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0166'); return false;"><img src="media/thumb/beta/0166.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0167'); return false;"><img src="media/thumb/beta/0167.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0168'); return false;"><img src="media/thumb/beta/0168.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0169'); return false;"><img src="media/thumb/beta/0169.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0170'); return false;"><img src="media/thumb/beta/0170.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+			</tr>
+			<tr>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+			</tr>
+			<tr>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0171'); return false;"><img src="media/thumb/beta/0171.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0172'); return false;"><img src="media/thumb/beta/0172.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0173'); return false;"><img src="media/thumb/beta/0173.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center"><a href="javascript:;" onClick="ShowMe('0174'); return false;"><img src="media/thumb/beta/0174.jpg" width="85" height="65" border="0" alt="click to view larger image"></a></td>
+				<td width="125" height="80" valign="top" align="center">&nbsp;</td>
+			</tr>
+			<tr>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+				<td width="125" align="center"></td>
+			</tr>
+		</table>
+		</div>
+		<br>
+		<div class="footer" align="right">This file was last updated Saturday, 29-Nov-2008 14:57:45 PST</div><br>
+		<!---end content area--->
+		</td>
+		<td>&nbsp;</td>
+	</tr>
+<!---begin footer include--->
+<!---start footer include--->
+<tr>
+	<td style="background-repeat: repeat-x;" bgcolor="#EEEEEE" background="image/bg_footer.gif">&nbsp;</td>
+	<td width="900" valign="top" height="50" style="background-repeat: repeat-x;" bgcolor="#EEEEEE" background="image/bg_footer.gif">
+	<div class="footer" align="center"><a class="footer" href="loc_vt.shtml">Vertical Tanks</a> &nbsp; || &nbsp; <a class="footer" href="loc_weapon.shtml">Weapons</a> &nbsp; || &nbsp; <a class="footer" href="loc_mission.shtml">Missions</a> &nbsp; || &nbsp; <a class="footer" href="loc_contact.shtml">Contact</a> &nbsp; || &nbsp; <a class="footer" href="loc_about.shtml">About</a> &nbsp; || &nbsp; <a class="footer" href="loc_sitemap.shtml">Sitemap</a> &nbsp; || &nbsp; <a class="footer" href="loc_main.shtml">Home</a></div>
+	</td>
+	<td style="background-repeat: repeat-x;" bgcolor="#EEEEEE" background="image/bg_footer.gif">&nbsp;</td>
+</tr>
+<!---end footer include--->
+<!---end footer include--->
+</table>
+
+</div>
+
+</body>
+
+
+<!-- Mirrored from lineofcontact.net/loc_media_beta.shtml by HTTrack Website Copier/3.x [XR&CO'2010], Thu, 06 May 2010 18:52:10 GMT -->
+</html>

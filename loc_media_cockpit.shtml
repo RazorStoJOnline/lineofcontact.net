@@ -1,0 +1,650 @@
+<html>
+
+<!-- Mirrored from lineofcontact.net/loc_media_cockpit.shtml by HTTrack Website Copier/3.x [XR&CO'2010], Thu, 06 May 2010 16:45:23 GMT -->
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<title>LINEOFCONTACT.NET :: STEEL BATTALION: LINE OF CONTACT INFORMATION</title>
+
+<link rel=StyleSheet href="css/locnet.css" TYPE="text/css" media="screen">
+
+</head>
+
+<body topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0">
+<!---begin navigation include--->
+<!---start header navigation include--->
+<a name="#top"></a>
+<script type='text/javascript'>
+function Go(){return}
+</script>
+<script type='text/javascript' src='_js/main.js'></script>
+
+<script language="JavaScript">
+// Menu tree
+//	MenuX=new Array(Text to show, Link, background image (optional), number of sub elements, height, width);
+//	For rollover images set "Text to show" to:  "rollover:Image1.jpg:Image2.jpg"
+
+Menu1=new Array("<img src='image/btn_tutorial.gif' width='51' height='11'>","","",13,11,51);
+	Menu1_1=new Array("Tutorial Overview","loc_tutorial.shtml","",0,20,120);
+	Menu1_2=new Array("Create A Pilot","loc_newpilot.shtml","",0,20,120);
+	Menu1_3=new Array("New Pilot Advice","loc_advice.shtml","",0,20,120);
+	Menu1_4=new Array("Controlling VTs","loc_vtcontrol.shtml","",0,20,120);
+	Menu1_5=new Array("Starting a Game","loc_newgame.shtml","",0,20,120);
+	Menu1_6=new Array("Chat & Trade Tutorial","loc_tradechat.shtml","",0,20,120);
+	Menu1_7=new Array("Communication Tutorial","loc_communication.shtml","",0,20,120);
+	Menu1_8=new Array("Artillery Tutorial","loc_tutorial_artillery.shtml","",0,20,120);
+	Menu1_9=new Array("Sniper Tutorial","loc_tutorial_sniper.shtml","",0,20,120);
+	Menu1_10=new Array("Repacking Tutorial","loc_tutorial_repack.shtml","",0,20,120);
+	Menu1_11=new Array("Foot Controller Repair","loc_footcontroller_repair.shtml","",0,20,120);
+	Menu1_12=new Array("Insignia Tool","loc_tutorial_insigniatool.shtml","",0,20,120);
+	Menu1_13=new Array("Unlock Code","loc_unlockcode.shtml","",0,20,120);
+
+Menu2=new Array("<img src='image/btn_vt.gif' width='82' height='11'>","","",9,11,82);
+	Menu2_1=new Array("VT Overview","loc_vt.shtml","",0,20,130);
+	Menu2_2=new Array("Hai Shi Dao VTs","","",3,20,130);
+		Menu2_2_1=new Array("1st Generation VTs","","",5,20,110);
+			Menu2_2_1_1=new Array("Vitzh","ds_vitzh.shtml","",0,20,100);
+			Menu2_2_1_2=new Array("Vortex","ds_vortex.shtml","",0,20,100);
+			Menu2_2_1_3=new Array("m-Vitzh","ds_m-vitzh.shtml","",0,20,100);
+			Menu2_2_1_4=new Array("Scare Face","ds_scareface.shtml","",0,20,100);
+			Menu2_2_1_5=new Array("Scare Face A1","ds_scarefacea1.shtml","",0,20,100);
+		Menu2_2_2=new Array("2nd Generation VTs","","",4,20,110);
+			Menu2_2_2_1=new Array("Scare Face II","ds_scareface2.shtml","",0,20,110);
+			Menu2_2_2_2=new Array("Maelstrom","ds_maelstrom.shtml","",0,20,110);
+			Menu2_2_2_3=new Array("Garpike","ds_garpike.shtml","",0,20,110);
+			Menu2_2_2_4=new Array("Behemoth","ds_behemoth.shtml","",0,20,110);
+		Menu2_2_3=new Array("3rd Generation VTs","","",3,20,130);
+			Menu2_2_3_1=new Array("Regal Dress N","ds_regaldress_N.shtml","",0,20,110);
+			Menu2_2_3_2=new Array("Regal Dress A","ds_regaldress_A.shtml","",0,20,110);
+			Menu2_2_3_3=new Array("Juggernaut","ds_juggernaut.shtml","",0,20,110);
+	Menu2_3=new Array("Pacific Rim Forces VTs","","",3,20,130);
+		Menu2_3_1=new Array("1st Generation VTs","","",3,20,110);
+			Menu2_3_1_1=new Array("Decider","ds_decider.shtml","",0,20,110);
+			Menu2_3_1_2=new Array("Falchion","ds_falchion.shtml","",0,20,110);
+			Menu2_3_1_3=new Array("Decider Volcanic","ds_decidervolcanic.shtml","",0,20,110);
+		Menu2_3_2=new Array("2nd Generation VTs","","",5,20,110);
+			Menu2_3_2_1=new Array("Blade","ds_blade.shtml","",0,20,110);
+			Menu2_3_2_2=new Array("Prominence M1","ds_prominenceM1.shtml","",0,20,110);
+			Menu2_3_2_3=new Array("Rapier","ds_rapier.shtml","",0,20,110);
+			Menu2_3_2_4=new Array("Prominence M2","ds_prominenceM2.shtml","",0,20,110);
+			Menu2_3_2_5=new Array("Prominence M3","ds_prominenceM3.shtml","",0,20,110);
+		Menu2_3_3=new Array("3rd Generation VTs","","",1,20,110);
+			Menu2_3_3_1=new Array("Quasar","ds_quasar.shtml","",0,20,110);
+	Menu2_4=new Array("Right Brothers VTs","","",3,20,130);
+		Menu2_4_1=new Array("1st Generation VTs","","",2,20,110);
+			Menu2_4_1_1=new Array("Colt","ds_colt.shtml","",0,20,110);
+			Menu2_4_1_2=new Array("Colt Executive","ds_coltexecutive.shtml","",0,20,110);
+		Menu2_4_2=new Array("2nd Generation VTs","","",3,20,110);
+			Menu2_4_2_1=new Array("Yellow Jacket","ds_yellowjacket.shtml","",0,20,110);
+			Menu2_4_2_2=new Array("Siegeszug","ds_siegeszug.shtml","",0,20,110);
+			Menu2_4_2_3=new Array("Sheepdog","ds_sheepdog.shtml","",0,20,110);
+		Menu2_4_3=new Array("3rd Generation VTs","","",1,20,110);
+			Menu2_4_3_1=new Array("Earthshaker","ds_earthshaker.shtml","",0,20,110);
+	Menu2_5=new Array("Jaralaccs Mercenary VTs","","",1,20,130);
+		Menu2_5_1=new Array("2nd Generation VTs","","",4,20,110);
+			Menu2_5_1_1=new Array("Jaralaccs C","ds_jaralaccsC.shtml","",0,20,110);
+			Menu2_5_1_2=new Array("Jaralaccs N","ds_jaralaccsN.shtml","",0,20,110);
+			Menu2_5_1_3=new Array("Jaralaccs NS-R","ds_jaralaccsNS-R.shtml","",0,20,110);
+			Menu2_5_1_4=new Array("Jaralaccs Macabre","ds_jaralaccs_macabre.shtml","",0,20,110);
+	Menu2_6=new Array("VT Manufacturers","loc_manunav.shtml","",0,20,130);
+	Menu2_7=new Array("VT Comparissons","loc_vtcompare.shtml","",0,20,130);
+	Menu2_8=new Array("Cockpit Reference","loc_cockpits.shtml","",6,20,130);
+		Menu2_8_1=new Array("1st Gen - Standard","loc_cockpits_g1.shtml","",0,20,120);
+		Menu2_8_2=new Array("1st Gen - Support","loc_cockpits_g1s.shtml","",0,20,120);
+		Menu2_8_3=new Array("2nd Gen - Standard","loc_cockpits_g2.shtml","",0,20,120);
+		Menu2_8_4=new Array("2nd Gen - Support","loc_cockpits_g2s.shtml","",0,20,120);
+		Menu2_8_5=new Array("2nd Gen - Jaralaccs","loc_cockpits_g2j.shtml","",0,20,120);
+		Menu2_8_6=new Array("3rd Gen - Standard","loc_cockpits_g3.shtml","",0,20,120);
+	Menu2_9=new Array("VT Customisation","loc_vtcustom.shtml","",0,20,130);
+	
+Menu3=new Array("<img src='image/btn_config.gif' width='81' height='11'>","","",5,11,81);
+	Menu3_1=new Array("Weapon Information","loc_weapon.shtml","",0,20,130);
+	Menu3_2=new Array("Weapon Summary","loc_weapon_summary.shtml","",0,20,130);
+	Menu3_3=new Array("Weapon Configuration","loc_weaponconfig.shtml","",0,20,130);
+	Menu3_4=new Array("Optional Parts","loc_optionalparts.shtml","",0,20,130);
+	Menu3_5=new Array("Weapon Range Compare","loc_rangecompare.shtml","",0,20,130);
+	
+Menu4=new Array("<img src='image/btn_testing.gif' width='55' height='11'>","","",9,11,55);
+	Menu4_1=new Array("Testing & Results","loc_testing.shtml","",0,20,200);
+	Menu4_2=new Array("Loadout Weight Effect on Turning","loc_testing_turnweighteffect.shtml","",0,20,200);
+	Menu4_3=new Array("Vertical Tank Rise Time","loc_testing_vt_risetime.shtml","",0,20,200);
+	Menu4_4=new Array("Platform and Leg Durability","loc_testing_dur.shtml","",0,20,200);
+	Menu4_5=new Array("Vertical Tank Distance Modifiers","loc_testing_distancemod.shtml","",0,20,200);
+	Menu4_6=new Array("Vertical Tank Turning Performance","loc_testing_turn.shtml","",0,20,200);
+	Menu4_7=new Array("Vertical Tank Acceleration Testing","loc_testing_speed.shtml","",0,20,200);
+	Menu4_8=new Array("Guided Missile Testing","loc_testing_guidedmissile.shtml","",0,20,200);
+	Menu4_9=new Array("Torque Performance on Terrain","loc_testing_crossgear.shtml","",0,20,200);
+	
+Menu5=new Array("<img src='image/btn_tactical.gif' width='94' height='11'>","","",3,11,94);
+	Menu5_1=new Array("Sortie Points","loc_sortiepoints.shtml","",0,20,120);
+	Menu5_2=new Array("Gameplay","loc_gameplay.shtml","",0,20,120);
+	Menu5_3=new Array("Mission Information","loc_mission.shtml","",25,20,120);
+		Menu5_3_1=new Array("Mission 00 - Live Ammunition Training Grounds","loc_mission00.shtml","",0,20,300);
+		Menu5_3_2=new Array("Mission 01 - Sha Wan Hills","loc_mission01.shtml","",0,20,300);
+		Menu5_3_3=new Array("Mission 02 - Dong Lai River Ford","loc_mission02.shtml","",0,20,300);
+		Menu5_3_4=new Array("Mission 03 - Capture of Outpost 8","loc_mission03.shtml","",0,20,300);
+		Menu5_3_5=new Array("Mission 04 - Occupation of Highland 33","loc_mission04.shtml","",0,20,300);
+		Menu5_3_6=new Array("Mission 05 - Ji Feng Military Base","loc_mission05.shtml","",0,20,300);
+		Menu5_3_7=new Array("Mission 06 - Hong Shan Military Base","loc_mission06.shtml","",0,20,300);
+		Menu5_3_8=new Array("Mission 07 - Battle of Jian Da Harbor","loc_mission07.shtml","",0,20,300);
+		Menu5_3_9=new Array("Mission 08 - Zhong Huan City","loc_mission08.shtml","",0,20,300);
+		Menu5_3_10=new Array("Mission 09 - Reserve Base Siege","loc_mission09.shtml","",0,20,300);
+		Menu5_3_11=new Array("Mission 10 - Jacalita Woodlands","loc_mission10.shtml","",0,20,300);
+		Menu5_3_12=new Array("Mission 11 - San Kuchen Subterranean Fortress","loc_mission11.shtml","",0,20,300);
+		Menu5_3_13=new Array("Mission 12 - Ji Feng Basin","loc_mission12.shtml","",0,20,300);
+		Menu5_3_14=new Array("Mission 13 - Airbase Assault","loc_mission13.shtml","",0,20,300);
+		Menu5_3_15=new Array("Mission 14 - Wei Gu Strike","loc_mission14.shtml","",0,20,300);
+		Menu5_3_16=new Array("Mission 15 - Container Extraction","loc_mission15.shtml","",0,20,300);
+		Menu5_3_17=new Array("Mission 16 - Nan Jiang Ravine","loc_mission16.shtml","",0,20,300);
+		Menu5_3_18=new Array("Mission 17 - New Nan Jiang Factory","loc_mission17.shtml","",0,20,300);
+		Menu5_3_19=new Array("Mission 18 - Battle of Meng Chung He","loc_mission18.shtml","",0,20,300);
+		Menu5_3_20=new Array("Mission 19 - Yun Kota Gorge","loc_mission19.shtml","",0,20,300);
+		Menu5_3_21=new Array("Mission 20 - Xen Feng Tian Corridor","loc_mission20.shtml","",0,20,300);
+		Menu5_3_22=new Array("Mission 21 - Yu Jai Woodlands","loc_mission21.shtml","",0,20,300);
+		Menu5_3_23=new Array("Mission 22 - Capture of Xen Feng Tian","loc_mission22.shtml","",0,20,300);
+		Menu5_3_24=new Array("Mission 23 - Er Ting Foothills","loc_mission23.shtml","",0,20,300);
+		Menu5_3_25=new Array("Mission 24 - Defense of Yu Jai Village","loc_mission24.shtml","",0,20,300);
+		
+Menu6=new Array("<img src='image/btn_intel.gif' width='86' height='11'>","","",10,11,86);
+	Menu6_1=new Array("Pilot Profile","loc_pilotprofile.shtml","",0,20,150);
+	Menu6_2=new Array("Rank","loc_rank.shtml","",0,20,150);
+	Menu6_3=new Array("Awards","loc_awards.shtml","",0,20,150);
+	Menu6_4=new Array("Professional Names","loc_professional.shtml","",0,20,150);
+	Menu6_5=new Array("Faction Intel","loc_faction.shtml","",0,20,150);
+	Menu6_6=new Array("Communication","loc_communication.shtml","",0,20,150);
+	Menu6_7=new Array("Glossary","loc_glossary.shtml","",0,20,150);
+	Menu6_8=new Array("Githon's Steel Battalion Guide","loc_sbt.shtml","",0,20,150);
+	Menu6_9=new Array("Frequently Asked Questions","loc_faq.shtml","",0,20,150);
+	Menu6_10=new Array("Exploits","loc_exploits.shtml","",0,20,150);
+	
+Menu7=new Array("<img src='image/btn_platform.gif' width='58' height='11'>","","",12,11,58);
+	Menu7_1=new Array("Platform Overview","loc_platform.shtml","",0,20,150);
+	Menu7_2=new Array("Game Specifications","loc_game.shtml","",0,20,150);
+	Menu7_3=new Array("Game Requirements","loc_requirements.shtml","",0,20,150);
+	Menu7_4=new Array("Controller Overview","loc_controller.shtml","",0,20,150);
+	Menu7_5=new Array("Controller Serial Archive","loc_serialarchive.shtml","",0,20,150);
+	Menu7_6=new Array("Controller Differences","loc_controllerdifferences.shtml","",0,20,150);
+	Menu7_7=new Array("Connection Issues","loc_connection.shtml","",0,20,150);
+	Menu7_8=new Array("Game History & Patches","loc_gamehistory.shtml","",0,20,150);
+	Menu7_9=new Array("Replay Information","loc_replay.shtml","",0,20,150);
+	Menu7_10=new Array("Custom Soundtracks","loc_boombox.shtml","",0,20,150);
+	Menu7_11=new Array("SB vs SB: LOC","loc_sbdifferences.shtml","",0,20,150);
+	Menu7_12=new Array("Cockpit Setups","loc_cockpit.shtml","",0,20,150);
+	
+Menu8=new Array("<img src='image/btn_media.gif' width='76' height='11'>","","",10,11,76);
+	Menu8_1=new Array("Media Overview","loc_media.shtml","",0,20,150);
+	Menu8_2=new Array("VT Open Cockpit Details","loc_media_cockpit.shtml","",0,20,150);
+	Menu8_3=new Array("Hai Shi Dao VTs","","",12,20,150);
+		Menu8_3_1=new Array("Vitzh","loc_media_vitzh.shtml","",0,20,100);
+		Menu8_3_2=new Array("Vortex","loc_media_vortex.shtml","",0,20,100);
+		Menu8_3_3=new Array("Scare Face","loc_media_scareface.shtml","",0,20,100);
+		Menu8_3_4=new Array("m-Vitzh","loc_media_mvitzh.shtml","",0,20,100);
+		Menu8_3_5=new Array("Scare Face A1","loc_media_scarefacea1.shtml","",0,20,100);
+		Menu8_3_6=new Array("Scare Face II","loc_media_scareface2.shtml","",0,20,100);
+		Menu8_3_7=new Array("Maelstrom","loc_media_maelstrom.shtml","",0,20,100);
+		Menu8_3_8=new Array("Behemoth","loc_media_behemoth.shtml","",0,20,100);
+		Menu8_3_9=new Array("Garpike","loc_media_garpike.shtml","",0,20,100);
+		Menu8_3_10=new Array("Regal Dress A","loc_media_regaldressa.shtml","",0,20,100);
+		Menu8_3_11=new Array("Regal Dress N","loc_media_regaldressn.shtml","",0,20,100);
+		Menu8_3_12=new Array("Juggernaut","loc_media_juggernaut.shtml","",0,20,100);
+	Menu8_4=new Array("Pacific Rim Forces VTs","","",9,20,150);
+		Menu8_4_1=new Array("Decider","loc_media_decider.shtml","",0,20,100);
+		Menu8_4_2=new Array("Falchion","loc_media_falchion.shtml","",0,20,100);
+		Menu8_4_3=new Array("Decider Volcanic","loc_media_decidervolcanic.shtml","",0,20,100);
+		Menu8_4_4=new Array("Prominence M1","loc_media_prominencem1.shtml","",0,20,100);
+		Menu8_4_5=new Array("Prominence M2","loc_media_prominencem2.shtml","",0,20,100);
+		Menu8_4_6=new Array("Prominence M3","loc_media_prominencem3.shtml","",0,20,100);
+		Menu8_4_7=new Array("Blade","loc_media_blade.shtml","",0,20,100);
+		Menu8_4_8=new Array("Rapier","loc_media_rapier.shtml","",0,20,100);
+		Menu8_4_9=new Array("Quasar","loc_media_quasar.shtml","",0,20,100);
+	Menu8_5=new Array("Right Brothers VTs","","",6,20,150);
+		Menu8_5_1=new Array("Colt","loc_media_colt.shtml","",0,20,100);
+		Menu8_5_2=new Array("Colt Executive","loc_media_coltexecutive.shtml","",0,20,100);
+		Menu8_5_3=new Array("Yellow Jacket","loc_media_yellowjacket.shtml","",0,20,100);
+		Menu8_5_4=new Array("Sheepdog","loc_media_sheepdog.shtml","",0,20,100);
+		Menu8_5_5=new Array("Siegeszug","loc_media_siegeszug.shtml","",0,20,100);
+		Menu8_5_6=new Array("Earthshaker","loc_media_earthshaker.shtml","",0,20,100);
+	Menu8_6=new Array("Jaralaccs Mercenary VTs","","",4,20,150);
+		Menu8_6_1=new Array("Jaralaccs C","loc_media_jaralaccsc.shtml","",0,20,100);
+		Menu8_6_2=new Array("Jaralaccs N","loc_media_jaralaccsn.shtml","",0,20,100);
+		Menu8_6_3=new Array("Jaralaccs NS-R","loc_media_jaralaccsnsr.shtml","",0,20,100);
+		Menu8_6_4=new Array("Jaralaccs Macabre","loc_media_jaralaccsmacabre.shtml","",0,20,100);
+	Menu8_7=new Array("Battle Images","","",6,20,150);
+		Menu8_7_1=new Array("Battle 01","loc_media_battle.shtml","",0,20,100);
+		Menu8_7_2=new Array("Battle 02","loc_media_battle2.shtml","",0,20,100);
+		Menu8_7_3=new Array("Battle 03","loc_media_battle3.shtml","",0,20,100);
+		Menu8_7_4=new Array("Battle 04","loc_media_battle4.shtml","",0,20,100);
+		Menu8_7_5=new Array("Battle 05","loc_media_battle5.shtml","",0,20,100);
+		Menu8_7_6=new Array("Battle 06","loc_media_battle6.shtml","",0,20,100);
+	Menu8_8=new Array("Chaff Deployment Details","loc_media_chaff.shtml","",0,20,150);
+	Menu8_9=new Array("Gameplay Movies","loc_media_movies.shtml","",0,20,150);
+	Menu8_10=new Array("Action Replay Files","loc_media_actionreplay.shtml","",0,20,150);
+
+Menu9=new Array("<img src='image/btn_misc.gif' width='83' height='11'>","","",3,11,83);
+	Menu9_1=new Array("BoxLOC","loc_boxloc.shtml","",0,20,150);
+	Menu9_2=new Array("Order of Garpike","loc_orderofpike.shtml","",0,20,150);
+	Menu9_3=new Array("Random VT Selector","loc_randomvtselector.shtml","",0,20,150);
+
+Menu10=new Array("<img src='image/btn_comm.gif' width='49' height='11'>","","",2,11,49);
+	Menu10_1=new Array("Contact Us","loc_contact.shtml","",0,20,150);
+	Menu10_2=new Array("Links of Interest","loc_discuss.shtml","",0,20,150);
+
+Menu11=new Array("<img src='image/btn_about.gif' width='63' height='11'>","","",3,11,63);
+	Menu11_1=new Array("About the Site","loc_about.shtml","",0,20,150);
+	Menu11_2=new Array("Site Credits","loc_about.shtml#credits","",0,20,150);
+	Menu11_3=new Array("Sitemap","loc_sitemap.shtml","",0,20,150);
+</script>
+
+<div align="center">
+
+<table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td>&nbsp;</td>
+		<td width="900" height="88" valign="top">
+		
+		<!---begin header and navigation--->
+		<table width="900" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="9" height="79"><img src="image/bg_navhd01.gif" width="9" height="79" border="0" alt=""></td>
+				<td width="105" height="79"><a href="loc_main.shtml"><img src="image/header01.gif" width="105" height="79" border="0" alt="LINEOFCONTACT.NET"></a></td>
+				<td width="8" height="79"><img src="image/bg_navhd02.gif" width="8" height="79" border="0" alt=""></td>
+				<td width="778" height="79">
+				<table width="778" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td width="778" height="41">
+						<table width="778" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="425" height="41" align="left"><img src="image/hdr_icons.gif" width="22" height="41" border="0" alt=""></td>
+								<td width="353" height="41" align="right"><img src="image/hdr_locnet.gif" width="353" height="41" border="0" alt="LINEOFCONTACT.NET - Your Source for Steel Battalion: Line of Contact Information"></td>
+							</tr>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td width="778" height="11">
+						<span id="dropmenu">
+						<table width="778" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="51" height="11"><img src="image/btn_tutorial.gif" width="51" height="11" border="0" alt="TUTORIAL"></td>
+								<td width="82" height="11"><img src="image/btn_vt.gif" width="82" height="11" border="0" alt="VERTICAL TANKS"></td>
+								<td width="81" height="11"><img src="image/btn_config.gif" width="81" height="11" border="0" alt="CONFIGURATION"></td>
+								<td width="55" height="11"><img src="image/btn_testing.gif" width="55" height="11" border="0" alt="TESTING"></td>
+								<td width="94" height="11"><img src="image/btn_tactical.gif" width="94" height="11" border="0" alt="TACTICAL ANALYSIS"></td>
+								<td width="86" height="11"><img src="image/btn_intel.gif" width="86" height="11" border="0" alt="INTEL &amp; BRIEFING"></td>
+								<td width="58" height="11"><img src="image/btn_platform.gif" width="58" height="11" border="0" alt="PLATFORM"></td>
+								<td width="76" height="11"><img src="image/btn_media.gif" width="76" height="11" border="0" alt="MEDIA UPLINK"></td>
+								<td width="83" height="11"><img src="image/btn_misc.gif" width="83" height="11" border="0" alt="MISCELLANEOUS"></td>
+								<td width="49" height="11"><img src="image/btn_comm.gif" width="49" height="11" border="0" alt="COMLINK"></td>
+								<td width="63" height="11"><img src="image/btn_about.gif" width="63" height="11" border="0" alt="ABOUT SITE"></td>
+							</tr>
+						</table>
+						</span>
+						</td>
+					</tr>
+					<tr>
+						<td width="778" height="18">
+						<table width="778" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="51" height="18" background="image/bg_navhd07.gif"></td>
+								<td style="padding-top: 2px; padding-left: 3px;" width="725" height="18" background="image/bg_navhd08_splice.gif"><span class="headline">LATEST NEWS:</span> KEEBLER ON FIRE AGAIN - <span style="font-size: 9px;">Regular LOC times Wed from 8:30pmEST, Sun from 3pm EST</span></td>
+								<td width="2" height="18" background="image/bg_navhd08.gif"></td>
+							</tr>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td width="778" height="9" background="image/bg_navhd05_runner.gif"></td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+			<tr>
+				<td width="9" height="9"><img src="image/bg_navhd03.gif" width="9" height="9" border="0" alt=""></td>
+				<td width="105" height="9" background="image/bg_navhd03_splice.gif"></td>
+				<td width="8" height="9"><img src="image/bg_navhd04.gif" width="8" height="9" border="0" alt=""></td>
+				<td width="778" height="9" align="left"><img src="image/bg_navhd06.gif" width="5" height="9" border="0" alt=""></td>
+			</tr>
+		</table>
+		<!---end header and navigation--->
+		</td>
+		<td>&nbsp;</td>
+	</tr>
+<!---end header navigation include--->
+<!---end navigation include--->
+	<tr>
+		<td>&nbsp;</td>
+		<td width="900" height="40">
+		<div style="height: 9px;"></div>
+		<table width="900" cellspacing="0" cellpadding="0" style="border-style: solid; border-width: 1px; border-color: #000000;">
+			<tr>
+				<td width="106" height="13" background="image/bg_currentdoc.gif"></td>
+				<td class="crumbs" style="padding-left: 5px;" width="794" height="13" bgcolor="#E4E4E4"><a class="crumbs" href="loc_main.shtml">Home</a> &gt; <a class="crumbs" href="loc_media.shtml">Media Overview</a> &gt; <a class="crumbs" href="loc_media_cockpit.shtml">Open Cockpit Detail Images</a></td>
+			</tr>
+		</table>
+		<div style="height: 18px;"></div>
+		</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td width="900" valign="top">
+		<!---start content area--->
+		<div class="H1">::&nbsp; Open Cockpit Details &nbsp;::</div>
+		<br>
+		<span class="italic">Steel Battalion: Line of Contact</span> has an impressive amount of model detail on the VTs that seems almost excessive considering that fact that the only time player would likely see it would be while watching a Replay using Free Camera.  Presented below are a number of images taken during the intial VT "startup" sequence from an external view.  Several of the VT models have impressively detailed cockpit interiors and starup animations.<br>
+		<br>
+		<div class="H1">A huge thanks to Nemesis8722 for generating all this image data.</div>
+		<br>
+		<br>
+		<table width="100%"  border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td valign="top" width="50%">
+				<div class="H1">Behemoth</div>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvbehemoth001.html')">Behemoth 001</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvbehemoth002.html')">Behemoth 002</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvbehemoth003.html')">Behemoth 003</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvbehemoth004.html')">Behemoth 004</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvbehemoth005.html')">Behemoth 005</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvbehemoth006.html')">Behemoth 006</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvbehemoth007.html')">Behemoth 007</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvbehemoth008.html')">Behemoth 008</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvbehemoth009.html')">Behemoth 009</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvbehemoth010.html')">Behemoth 010</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvbehemoth011.html')">Behemoth 011</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvbehemoth012.html')">Behemoth 012</a><br>
+				<br>
+				<div class="H1">Blade</div>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvblade001.html')">Blade 001</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvblade002.html')">Blade 002</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvblade003.html')">Blade 003</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvblade004.html')">Blade 004</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvblade005.html')">Blade 005</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvblade006.html')">Blade 006</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvblade007.html')">Blade 007</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvblade008.html')">Blade 008</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvblade009.html')">Blade 009</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvblade010.html')">Blade 010</a><br>
+				<br>
+				<div class="H1">Colt</div>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvcolt001.html')">Colt 001</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvcolt002.html')">Colt 002</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvcolt003.html')">Colt 003</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvcolt004.html')">Colt 004</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvcolt005.html')">Colt 005</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvcolt006.html')">Colt 006</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvcolt007.html')">Colt 007</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvcolt008.html')">Colt 008</a><br>
+				<br>
+				<div class="H1">Colt Executive</div>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvcoltexecutive001.html')">Colt Executive 001</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvcoltexecutive002.html')">Colt Executive 002</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvcoltexecutive003.html')">Colt Executive 003</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvcoltexecutive004.html')">Colt Executive 004</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvcoltexecutive005.html')">Colt Executive 005</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvcoltexecutive006.html')">Colt Executive 006</a><br>
+				<br>
+				<div class="H1">Decider</div>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvdecider001.html')">Decider 001</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvdecider002.html')">Decider 002</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvdecider003.html')">Decider 003</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvdecider004.html')">Decider 004</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvdecider005.html')">Decider 005</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvdecider006.html')">Decider 006</a><br>
+				<br>
+				<div class="H1">Decider Volcanic</div>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvdecidervolcanic001.html')">Decider Volcanic 001</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvdecidervolcanic002.html')">Decider Volcanic 002</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvdecidervolcanic003.html')">Decider Volcanic 003</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvdecidervolcanic004.html')">Decider Volcanic 004</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvdecidervolcanic005.html')">Decider Volcanic 005</a><br>
+				<br>
+				<div class="H1">Earthshaker</div>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvearthshaker001.html')">Earthshaker 001</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvearthshaker002.html')">Earthshaker 002</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvearthshaker003.html')">Earthshaker 003</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvearthshaker004.html')">Earthshaker 004</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvearthshaker005.html')">Earthshaker 005</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvearthshaker006.html')">Earthshaker 006</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvearthshaker007.html')">Earthshaker 007</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvearthshaker008.html')">Earthshaker 008</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvearthshaker009.html')">Earthshaker 009</a><br>
+				<br>
+				<div class="H1">Falchion</div>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvfalchion001.html')">Falchion 001</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvfalchion002.html')">Falchion 002</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvfalchion003.html')">Falchion 003</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvfalchion004.html')">Falchion 004</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvfalchion005.html')">Falchion 005</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvfalchion006.html')">Falchion 006</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvfalchion007.html')">Falchion 007</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvfalchion008.html')">Falchion 008</a><br>
+				<br>
+				<div class="H1">Garpike</div>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvgarpike001.html')">Garpike 001</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvgarpike002.html')">Garpike 002</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvgarpike003.html')">Garpike 003</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvgarpike004.html')">Garpike 004</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvgarpike005.html')">Garpike 005</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvgarpike006.html')">Garpike 006</a><br>
+				<br>
+				<div class="H1">Jaralaccs C</div>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvjaralaccsc001.html')">Jaralaccs C 001</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvjaralaccsc002.html')">Jaralaccs C 002</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvjaralaccsc003.html')">Jaralaccs C 003</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvjaralaccsc004.html')">Jaralaccs C 004</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvjaralaccsc005.html')">Jaralaccs C 005</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvjaralaccsc006.html')">Jaralaccs C 006</a><br>
+				<br>
+				<div class="H1">Jaralaccs N</div>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvjaralaccsn001.html')">Jaralaccs N 001</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvjaralaccsn002.html')">Jaralaccs N 002</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvjaralaccsn003.html')">Jaralaccs N 003</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvjaralaccsn004.html')">Jaralaccs N 004</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvjaralaccsn005.html')">Jaralaccs N 005</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvjaralaccsn006.html')">Jaralaccs N 006</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvjaralaccsn007.html')">Jaralaccs N 007</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvjaralaccsn008.html')">Jaralaccs N 008</a><br>
+				<br>
+				<div class="H1">Jaralaccs NS-R</div>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvjaralaccsnsr001.html')">Jaralaccs NS-R 001</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvjaralaccsnsr002.html')">Jaralaccs NS-R 002</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvjaralaccsnsr003.html')">Jaralaccs NS-R 003</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvjaralaccsnsr004.html')">Jaralaccs NS-R 004</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvjaralaccsnsr005.html')">Jaralaccs NS-R 005</a><br>
+				<br>
+				<div class="H1">Jaralaccs Macabre</div>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvjaralaccsmacabre001.html')">Jaralaccs Macabre 001</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvjaralaccsmacabre002.html')">Jaralaccs Macabre 002</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvjaralaccsmacabre003.html')">Jaralaccs Macabre 003</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvjaralaccsmacabre004.html')">Jaralaccs Macabre 004</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvjaralaccsmacabre005.html')">Jaralaccs Macabre 005</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvjaralaccsmacabre005.html')">Jaralaccs Macabre 006</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvjaralaccsmacabre005.html')">Jaralaccs Macabre 007</a><br>
+				<br>
+				<div class="H1">Juggernaut</div>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvjuggernaut001.html')">Juggernaut 001</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvjuggernaut002.html')">Juggernaut 002</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvjuggernaut003.html')">Juggernaut 003</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvjuggernaut004.html')">Juggernaut 004</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvjuggernaut005.html')">Juggernaut 005</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvjuggernaut006.html')">Juggernaut 006</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvjuggernaut007.html')">Juggernaut 007</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvjuggernaut008.html')">Juggernaut 008</a><br>
+				<br>
+				<div class="H1">m-Vitzh</div>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvmvitzh001.html')">m-Vitzh 001</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvmvitzh002.html')">m-Vitzh 002</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvmvitzh003.html')">m-Vitzh 003</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvmvitzh004.html')">m-Vitzh 004</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvmvitzh005.html')">m-Vitzh 005</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvmvitzh006.html')">m-Vitzh 006</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvmvitzh007.html')">m-Vitzh 007</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvmvitzh008.html')">m-Vitzh 008</a><br>
+				<br>
+				<div class="H1">Maelstrom</div>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvmaelstrom001.html')">Maelstrom 001</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvmaelstrom002.html')">Maelstrom 002</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvmaelstrom003.html')">Maelstrom 003</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvmaelstrom004.html')">Maelstrom 004</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvmaelstrom005.html')">Maelstrom 005</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvmaelstrom006.html')">Maelstrom 006</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvmaelstrom007.html')">Maelstrom 007</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvmaelstrom008.html')">Maelstrom 008</a><br>
+				<br>
+				</td>
+				<td valign="top" width="50%">
+				<div class="H1">Prominence M1</div>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvprominencem1001.html')">Prominence M1 001</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvprominencem1002.html')">Prominence M1 002</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvprominencem1003.html')">Prominence M1 003</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvprominencem1004.html')">Prominence M1 004</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvprominencem1005.html')">Prominence M1 005</a><br>
+				<br>
+				<div class="H1">Prominence M2</div>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvprominencem2001.html')">Prominence M2 001</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvprominencem2002.html')">Prominence M2 002</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvprominencem2003.html')">Prominence M2 003</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvprominencem2004.html')">Prominence M2 004</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvprominencem2005.html')">Prominence M2 005</a><br>
+				<br>
+				<div class="H1">Prominence M3</div>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvprominencem3001.html')">Prominence M3 001</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvprominencem3002.html')">Prominence M3 002</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvprominencem3003.html')">Prominence M3 003</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvprominencem3004.html')">Prominence M3 004</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvprominencem3005.html')">Prominence M3 005</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvprominencem3006.html')">Prominence M3 006</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvprominencem3007.html')">Prominence M3 007</a><br>
+				<br>
+				<div class="H1">Quasar</div>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvquasar001.html')">Quasar 001</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvquasar002.html')">Quasar 002</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvquasar003.html')">Quasar 003</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvquasar004.html')">Quasar 004</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvquasar005.html')">Quasar 005</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvquasar006.html')">Quasar 006</a><br>
+				<br>
+				<div class="H1">Rapier</div>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvrapier001.html')">Rapier 001</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvrapier002.html')">Rapier 002</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvrapier003.html')">Rapier 003</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvrapier004.html')">Rapier 004</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvrapier005.html')">Rapier 005</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvrapier006.html')">Rapier 006</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvrapier007.html')">Rapier 007</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvrapier008.html')">Rapier 008</a><br>
+				<br>
+				<div class="H1">Regal Dress A</div>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvregaldressa001.html')">Regal Dress A 001</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvregaldressa002.html')">Regal Dress A 002</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvregaldressa003.html')">Regal Dress A 003</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvregaldressa004.html')">Regal Dress A 004</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvregaldressa005.html')">Regal Dress A 005</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvregaldressa006.html')">Regal Dress A 006</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvregaldressa007.html')">Regal Dress A 007</a><br>
+				<br>
+				<div class="H1">Regal Dress N</div>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvregaldressn001.html')">Regal Dress N 001</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvregaldressn002.html')">Regal Dress N 002</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvregaldressn003.html')">Regal Dress N 003</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvregaldressn004.html')">Regal Dress N 004</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvregaldressn005.html')">Regal Dress N 005</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvregaldressn006.html')">Regal Dress N 006</a><br>
+				<br>
+				<div class="H1">Scare Face</div>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvscareface001.html')">Scare Face 001</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvscareface002.html')">Scare Face 002</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvscareface003.html')">Scare Face 003</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvscareface004.html')">Scare Face 004</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvscareface005.html')">Scare Face 005</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvscareface006.html')">Scare Face 006</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvscareface007.html')">Scare Face 007</a><br>
+				<br>
+				<div class="H1">Scare Face A1</div>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvscarefacea1001.html')">Scare Face A1 001</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvscarefacea1002.html')">Scare Face A1 002</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvscarefacea1003.html')">Scare Face A1 003</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvscarefacea1004.html')">Scare Face A1 004</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvscarefacea1005.html')">Scare Face A1 005</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvscarefacea1006.html')">Scare Face A1 006</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvscarefacea1007.html')">Scare Face A1 007</a><br>
+				<br>
+				<div class="H1">Scare Face II</div>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvscareface2001.html')">Scare Face II 001</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvscareface2002.html')">Scare Face II 002</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvscareface2003.html')">Scare Face II 003</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvscareface2004.html')">Scare Face II 004</a><br>
+				<br>
+				<div class="H1">Sheepdog</div>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvsheepdog001.html')">Sheepdog 001</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvsheepdog002.html')">Sheepdog 002</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvsheepdog003.html')">Sheepdog 003</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvsheepdog004.html')">Sheepdog 004</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvsheepdog005.html')">Sheepdog 005</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvsheepdog006.html')">Sheepdog 006</a><br>
+				<br>
+				<div class="H1">Siegeszug</div>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvsiegeszug001.html')">Siegeszug 001</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvsiegeszug002.html')">Siegeszug 002</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvsiegeszug003.html')">Siegeszug 003</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvsiegeszug004.html')">Siegeszug 004</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvsiegeszug005.html')">Siegeszug 005</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvsiegeszug006.html')">Siegeszug 006</a><br>
+				<br>
+				<div class="H1">Vitzh</div>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvvitzh001.html')">Vitzh 001</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvvitzh002.html')">Vitzh 002</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvvitzh003.html')">Vitzh 003</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvvitzh004.html')">Vitzh 004</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvvitzh005.html')">Vitzh 005</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvvitzh006.html')">Vitzh 006</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvvitzh007.html')">Vitzh 007</a><br>
+				<br>
+				<div class="H1">Vortex</div>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvvortex001.html')">Vortex 001</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvvortex002.html')">Vortex 002</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvvortex003.html')">Vortex 003</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvvortex004.html')">Vortex 004</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvvortex005.html')">Vortex 005</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvvortex006.html')">Vortex 006</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvvortex007.html')">Vortex 007</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvvortex008.html')">Vortex 008</a><br>
+				<br>
+				<div class="H1">Yellow Jacket</div>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvyellowjacket001.html')">Yellow Jacket 001</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvyellowjacket002.html')">Yellow Jacket 002</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvyellowjacket003.html')">Yellow Jacket 003</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvyellowjacket004.html')">Yellow Jacket 004</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvyellowjacket005.html')">Yellow Jacket 005</a><br>
+				<a href="javascript:popUpcpt('media/_cockpit/pop_cpvyellowjacket006.html')">Yellow Jacket 006</a><br>
+				<br>
+				</td>
+			</tr>
+		</table>
+		<br>
+		<div class="footer" align="right">This file was last updated Saturday, 29-Nov-2008 14:57:50 PST</div><br>
+		<!---end content area--->
+		</td>
+		<td>&nbsp;</td>
+	</tr>
+<!---begin footer include--->
+<!---start footer include--->
+<tr>
+	<td style="background-repeat: repeat-x;" bgcolor="#EEEEEE" background="image/bg_footer.gif">&nbsp;</td>
+	<td width="900" valign="top" height="50" style="background-repeat: repeat-x;" bgcolor="#EEEEEE" background="image/bg_footer.gif">
+	<div class="footer" align="center"><a class="footer" href="loc_vt.shtml">Vertical Tanks</a> &nbsp; || &nbsp; <a class="footer" href="loc_weapon.shtml">Weapons</a> &nbsp; || &nbsp; <a class="footer" href="loc_mission.shtml">Missions</a> &nbsp; || &nbsp; <a class="footer" href="loc_contact.shtml">Contact</a> &nbsp; || &nbsp; <a class="footer" href="loc_about.shtml">About</a> &nbsp; || &nbsp; <a class="footer" href="loc_sitemap.shtml">Sitemap</a> &nbsp; || &nbsp; <a class="footer" href="loc_main.shtml">Home</a></div>
+	</td>
+	<td style="background-repeat: repeat-x;" bgcolor="#EEEEEE" background="image/bg_footer.gif">&nbsp;</td>
+</tr>
+<!---end footer include--->
+<!---end footer include--->
+</table>
+
+</div>
+
+</body>
+
+
+<!-- Mirrored from lineofcontact.net/loc_media_cockpit.shtml by HTTrack Website Copier/3.x [XR&CO'2010], Thu, 06 May 2010 16:46:10 GMT -->
+</html>

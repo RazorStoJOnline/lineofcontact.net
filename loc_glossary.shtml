@@ -1,0 +1,879 @@
+<html>
+
+<!-- Mirrored from lineofcontact.net/loc_glossary.shtml by HTTrack Website Copier/3.x [XR&CO'2010], Thu, 06 May 2010 16:43:23 GMT -->
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<title>LINEOFCONTACT.NET :: STEEL BATTALION: LINE OF CONTACT INFORMATION</title>
+
+<link rel=StyleSheet href="css/locnet.css" TYPE="text/css" media="screen">
+
+</head>
+
+<body topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0">
+<!---begin navigation include--->
+<!---start header navigation include--->
+<a name="#top"></a>
+<script type='text/javascript'>
+function Go(){return}
+</script>
+<script type='text/javascript' src='_js/main.js'></script>
+
+<script language="JavaScript">
+// Menu tree
+//	MenuX=new Array(Text to show, Link, background image (optional), number of sub elements, height, width);
+//	For rollover images set "Text to show" to:  "rollover:Image1.jpg:Image2.jpg"
+
+Menu1=new Array("<img src='image/btn_tutorial.gif' width='51' height='11'>","","",13,11,51);
+	Menu1_1=new Array("Tutorial Overview","loc_tutorial.shtml","",0,20,120);
+	Menu1_2=new Array("Create A Pilot","loc_newpilot.shtml","",0,20,120);
+	Menu1_3=new Array("New Pilot Advice","loc_advice.shtml","",0,20,120);
+	Menu1_4=new Array("Controlling VTs","loc_vtcontrol.shtml","",0,20,120);
+	Menu1_5=new Array("Starting a Game","loc_newgame.shtml","",0,20,120);
+	Menu1_6=new Array("Chat & Trade Tutorial","loc_tradechat.shtml","",0,20,120);
+	Menu1_7=new Array("Communication Tutorial","loc_communication.shtml","",0,20,120);
+	Menu1_8=new Array("Artillery Tutorial","loc_tutorial_artillery.shtml","",0,20,120);
+	Menu1_9=new Array("Sniper Tutorial","loc_tutorial_sniper.shtml","",0,20,120);
+	Menu1_10=new Array("Repacking Tutorial","loc_tutorial_repack.shtml","",0,20,120);
+	Menu1_11=new Array("Foot Controller Repair","loc_footcontroller_repair.shtml","",0,20,120);
+	Menu1_12=new Array("Insignia Tool","loc_tutorial_insigniatool.shtml","",0,20,120);
+	Menu1_13=new Array("Unlock Code","loc_unlockcode.shtml","",0,20,120);
+
+Menu2=new Array("<img src='image/btn_vt.gif' width='82' height='11'>","","",9,11,82);
+	Menu2_1=new Array("VT Overview","loc_vt.shtml","",0,20,130);
+	Menu2_2=new Array("Hai Shi Dao VTs","","",3,20,130);
+		Menu2_2_1=new Array("1st Generation VTs","","",5,20,110);
+			Menu2_2_1_1=new Array("Vitzh","ds_vitzh.shtml","",0,20,100);
+			Menu2_2_1_2=new Array("Vortex","ds_vortex.shtml","",0,20,100);
+			Menu2_2_1_3=new Array("m-Vitzh","ds_m-vitzh.shtml","",0,20,100);
+			Menu2_2_1_4=new Array("Scare Face","ds_scareface.shtml","",0,20,100);
+			Menu2_2_1_5=new Array("Scare Face A1","ds_scarefacea1.shtml","",0,20,100);
+		Menu2_2_2=new Array("2nd Generation VTs","","",4,20,110);
+			Menu2_2_2_1=new Array("Scare Face II","ds_scareface2.shtml","",0,20,110);
+			Menu2_2_2_2=new Array("Maelstrom","ds_maelstrom.shtml","",0,20,110);
+			Menu2_2_2_3=new Array("Garpike","ds_garpike.shtml","",0,20,110);
+			Menu2_2_2_4=new Array("Behemoth","ds_behemoth.shtml","",0,20,110);
+		Menu2_2_3=new Array("3rd Generation VTs","","",3,20,130);
+			Menu2_2_3_1=new Array("Regal Dress N","ds_regaldress_N.shtml","",0,20,110);
+			Menu2_2_3_2=new Array("Regal Dress A","ds_regaldress_A.shtml","",0,20,110);
+			Menu2_2_3_3=new Array("Juggernaut","ds_juggernaut.shtml","",0,20,110);
+	Menu2_3=new Array("Pacific Rim Forces VTs","","",3,20,130);
+		Menu2_3_1=new Array("1st Generation VTs","","",3,20,110);
+			Menu2_3_1_1=new Array("Decider","ds_decider.shtml","",0,20,110);
+			Menu2_3_1_2=new Array("Falchion","ds_falchion.shtml","",0,20,110);
+			Menu2_3_1_3=new Array("Decider Volcanic","ds_decidervolcanic.shtml","",0,20,110);
+		Menu2_3_2=new Array("2nd Generation VTs","","",5,20,110);
+			Menu2_3_2_1=new Array("Blade","ds_blade.shtml","",0,20,110);
+			Menu2_3_2_2=new Array("Prominence M1","ds_prominenceM1.shtml","",0,20,110);
+			Menu2_3_2_3=new Array("Rapier","ds_rapier.shtml","",0,20,110);
+			Menu2_3_2_4=new Array("Prominence M2","ds_prominenceM2.shtml","",0,20,110);
+			Menu2_3_2_5=new Array("Prominence M3","ds_prominenceM3.shtml","",0,20,110);
+		Menu2_3_3=new Array("3rd Generation VTs","","",1,20,110);
+			Menu2_3_3_1=new Array("Quasar","ds_quasar.shtml","",0,20,110);
+	Menu2_4=new Array("Right Brothers VTs","","",3,20,130);
+		Menu2_4_1=new Array("1st Generation VTs","","",2,20,110);
+			Menu2_4_1_1=new Array("Colt","ds_colt.shtml","",0,20,110);
+			Menu2_4_1_2=new Array("Colt Executive","ds_coltexecutive.shtml","",0,20,110);
+		Menu2_4_2=new Array("2nd Generation VTs","","",3,20,110);
+			Menu2_4_2_1=new Array("Yellow Jacket","ds_yellowjacket.shtml","",0,20,110);
+			Menu2_4_2_2=new Array("Siegeszug","ds_siegeszug.shtml","",0,20,110);
+			Menu2_4_2_3=new Array("Sheepdog","ds_sheepdog.shtml","",0,20,110);
+		Menu2_4_3=new Array("3rd Generation VTs","","",1,20,110);
+			Menu2_4_3_1=new Array("Earthshaker","ds_earthshaker.shtml","",0,20,110);
+	Menu2_5=new Array("Jaralaccs Mercenary VTs","","",1,20,130);
+		Menu2_5_1=new Array("2nd Generation VTs","","",4,20,110);
+			Menu2_5_1_1=new Array("Jaralaccs C","ds_jaralaccsC.shtml","",0,20,110);
+			Menu2_5_1_2=new Array("Jaralaccs N","ds_jaralaccsN.shtml","",0,20,110);
+			Menu2_5_1_3=new Array("Jaralaccs NS-R","ds_jaralaccsNS-R.shtml","",0,20,110);
+			Menu2_5_1_4=new Array("Jaralaccs Macabre","ds_jaralaccs_macabre.shtml","",0,20,110);
+	Menu2_6=new Array("VT Manufacturers","loc_manunav.shtml","",0,20,130);
+	Menu2_7=new Array("VT Comparissons","loc_vtcompare.shtml","",0,20,130);
+	Menu2_8=new Array("Cockpit Reference","loc_cockpits.shtml","",6,20,130);
+		Menu2_8_1=new Array("1st Gen - Standard","loc_cockpits_g1.shtml","",0,20,120);
+		Menu2_8_2=new Array("1st Gen - Support","loc_cockpits_g1s.shtml","",0,20,120);
+		Menu2_8_3=new Array("2nd Gen - Standard","loc_cockpits_g2.shtml","",0,20,120);
+		Menu2_8_4=new Array("2nd Gen - Support","loc_cockpits_g2s.shtml","",0,20,120);
+		Menu2_8_5=new Array("2nd Gen - Jaralaccs","loc_cockpits_g2j.shtml","",0,20,120);
+		Menu2_8_6=new Array("3rd Gen - Standard","loc_cockpits_g3.shtml","",0,20,120);
+	Menu2_9=new Array("VT Customisation","loc_vtcustom.shtml","",0,20,130);
+	
+Menu3=new Array("<img src='image/btn_config.gif' width='81' height='11'>","","",5,11,81);
+	Menu3_1=new Array("Weapon Information","loc_weapon.shtml","",0,20,130);
+	Menu3_2=new Array("Weapon Summary","loc_weapon_summary.shtml","",0,20,130);
+	Menu3_3=new Array("Weapon Configuration","loc_weaponconfig.shtml","",0,20,130);
+	Menu3_4=new Array("Optional Parts","loc_optionalparts.shtml","",0,20,130);
+	Menu3_5=new Array("Weapon Range Compare","loc_rangecompare.shtml","",0,20,130);
+	
+Menu4=new Array("<img src='image/btn_testing.gif' width='55' height='11'>","","",9,11,55);
+	Menu4_1=new Array("Testing & Results","loc_testing.shtml","",0,20,200);
+	Menu4_2=new Array("Loadout Weight Effect on Turning","loc_testing_turnweighteffect.shtml","",0,20,200);
+	Menu4_3=new Array("Vertical Tank Rise Time","loc_testing_vt_risetime.shtml","",0,20,200);
+	Menu4_4=new Array("Platform and Leg Durability","loc_testing_dur.shtml","",0,20,200);
+	Menu4_5=new Array("Vertical Tank Distance Modifiers","loc_testing_distancemod.shtml","",0,20,200);
+	Menu4_6=new Array("Vertical Tank Turning Performance","loc_testing_turn.shtml","",0,20,200);
+	Menu4_7=new Array("Vertical Tank Acceleration Testing","loc_testing_speed.shtml","",0,20,200);
+	Menu4_8=new Array("Guided Missile Testing","loc_testing_guidedmissile.shtml","",0,20,200);
+	Menu4_9=new Array("Torque Performance on Terrain","loc_testing_crossgear.shtml","",0,20,200);
+	
+Menu5=new Array("<img src='image/btn_tactical.gif' width='94' height='11'>","","",3,11,94);
+	Menu5_1=new Array("Sortie Points","loc_sortiepoints.shtml","",0,20,120);
+	Menu5_2=new Array("Gameplay","loc_gameplay.shtml","",0,20,120);
+	Menu5_3=new Array("Mission Information","loc_mission.shtml","",25,20,120);
+		Menu5_3_1=new Array("Mission 00 - Live Ammunition Training Grounds","loc_mission00.shtml","",0,20,300);
+		Menu5_3_2=new Array("Mission 01 - Sha Wan Hills","loc_mission01.shtml","",0,20,300);
+		Menu5_3_3=new Array("Mission 02 - Dong Lai River Ford","loc_mission02.shtml","",0,20,300);
+		Menu5_3_4=new Array("Mission 03 - Capture of Outpost 8","loc_mission03.shtml","",0,20,300);
+		Menu5_3_5=new Array("Mission 04 - Occupation of Highland 33","loc_mission04.shtml","",0,20,300);
+		Menu5_3_6=new Array("Mission 05 - Ji Feng Military Base","loc_mission05.shtml","",0,20,300);
+		Menu5_3_7=new Array("Mission 06 - Hong Shan Military Base","loc_mission06.shtml","",0,20,300);
+		Menu5_3_8=new Array("Mission 07 - Battle of Jian Da Harbor","loc_mission07.shtml","",0,20,300);
+		Menu5_3_9=new Array("Mission 08 - Zhong Huan City","loc_mission08.shtml","",0,20,300);
+		Menu5_3_10=new Array("Mission 09 - Reserve Base Siege","loc_mission09.shtml","",0,20,300);
+		Menu5_3_11=new Array("Mission 10 - Jacalita Woodlands","loc_mission10.shtml","",0,20,300);
+		Menu5_3_12=new Array("Mission 11 - San Kuchen Subterranean Fortress","loc_mission11.shtml","",0,20,300);
+		Menu5_3_13=new Array("Mission 12 - Ji Feng Basin","loc_mission12.shtml","",0,20,300);
+		Menu5_3_14=new Array("Mission 13 - Airbase Assault","loc_mission13.shtml","",0,20,300);
+		Menu5_3_15=new Array("Mission 14 - Wei Gu Strike","loc_mission14.shtml","",0,20,300);
+		Menu5_3_16=new Array("Mission 15 - Container Extraction","loc_mission15.shtml","",0,20,300);
+		Menu5_3_17=new Array("Mission 16 - Nan Jiang Ravine","loc_mission16.shtml","",0,20,300);
+		Menu5_3_18=new Array("Mission 17 - New Nan Jiang Factory","loc_mission17.shtml","",0,20,300);
+		Menu5_3_19=new Array("Mission 18 - Battle of Meng Chung He","loc_mission18.shtml","",0,20,300);
+		Menu5_3_20=new Array("Mission 19 - Yun Kota Gorge","loc_mission19.shtml","",0,20,300);
+		Menu5_3_21=new Array("Mission 20 - Xen Feng Tian Corridor","loc_mission20.shtml","",0,20,300);
+		Menu5_3_22=new Array("Mission 21 - Yu Jai Woodlands","loc_mission21.shtml","",0,20,300);
+		Menu5_3_23=new Array("Mission 22 - Capture of Xen Feng Tian","loc_mission22.shtml","",0,20,300);
+		Menu5_3_24=new Array("Mission 23 - Er Ting Foothills","loc_mission23.shtml","",0,20,300);
+		Menu5_3_25=new Array("Mission 24 - Defense of Yu Jai Village","loc_mission24.shtml","",0,20,300);
+		
+Menu6=new Array("<img src='image/btn_intel.gif' width='86' height='11'>","","",10,11,86);
+	Menu6_1=new Array("Pilot Profile","loc_pilotprofile.shtml","",0,20,150);
+	Menu6_2=new Array("Rank","loc_rank.shtml","",0,20,150);
+	Menu6_3=new Array("Awards","loc_awards.shtml","",0,20,150);
+	Menu6_4=new Array("Professional Names","loc_professional.shtml","",0,20,150);
+	Menu6_5=new Array("Faction Intel","loc_faction.shtml","",0,20,150);
+	Menu6_6=new Array("Communication","loc_communication.shtml","",0,20,150);
+	Menu6_7=new Array("Glossary","loc_glossary.shtml","",0,20,150);
+	Menu6_8=new Array("Githon's Steel Battalion Guide","loc_sbt.shtml","",0,20,150);
+	Menu6_9=new Array("Frequently Asked Questions","loc_faq.shtml","",0,20,150);
+	Menu6_10=new Array("Exploits","loc_exploits.shtml","",0,20,150);
+	
+Menu7=new Array("<img src='image/btn_platform.gif' width='58' height='11'>","","",12,11,58);
+	Menu7_1=new Array("Platform Overview","loc_platform.shtml","",0,20,150);
+	Menu7_2=new Array("Game Specifications","loc_game.shtml","",0,20,150);
+	Menu7_3=new Array("Game Requirements","loc_requirements.shtml","",0,20,150);
+	Menu7_4=new Array("Controller Overview","loc_controller.shtml","",0,20,150);
+	Menu7_5=new Array("Controller Serial Archive","loc_serialarchive.shtml","",0,20,150);
+	Menu7_6=new Array("Controller Differences","loc_controllerdifferences.shtml","",0,20,150);
+	Menu7_7=new Array("Connection Issues","loc_connection.shtml","",0,20,150);
+	Menu7_8=new Array("Game History & Patches","loc_gamehistory.shtml","",0,20,150);
+	Menu7_9=new Array("Replay Information","loc_replay.shtml","",0,20,150);
+	Menu7_10=new Array("Custom Soundtracks","loc_boombox.shtml","",0,20,150);
+	Menu7_11=new Array("SB vs SB: LOC","loc_sbdifferences.shtml","",0,20,150);
+	Menu7_12=new Array("Cockpit Setups","loc_cockpit.shtml","",0,20,150);
+	
+Menu8=new Array("<img src='image/btn_media.gif' width='76' height='11'>","","",10,11,76);
+	Menu8_1=new Array("Media Overview","loc_media.shtml","",0,20,150);
+	Menu8_2=new Array("VT Open Cockpit Details","loc_media_cockpit.shtml","",0,20,150);
+	Menu8_3=new Array("Hai Shi Dao VTs","","",12,20,150);
+		Menu8_3_1=new Array("Vitzh","loc_media_vitzh.shtml","",0,20,100);
+		Menu8_3_2=new Array("Vortex","loc_media_vortex.shtml","",0,20,100);
+		Menu8_3_3=new Array("Scare Face","loc_media_scareface.shtml","",0,20,100);
+		Menu8_3_4=new Array("m-Vitzh","loc_media_mvitzh.shtml","",0,20,100);
+		Menu8_3_5=new Array("Scare Face A1","loc_media_scarefacea1.shtml","",0,20,100);
+		Menu8_3_6=new Array("Scare Face II","loc_media_scareface2.shtml","",0,20,100);
+		Menu8_3_7=new Array("Maelstrom","loc_media_maelstrom.shtml","",0,20,100);
+		Menu8_3_8=new Array("Behemoth","loc_media_behemoth.shtml","",0,20,100);
+		Menu8_3_9=new Array("Garpike","loc_media_garpike.shtml","",0,20,100);
+		Menu8_3_10=new Array("Regal Dress A","loc_media_regaldressa.shtml","",0,20,100);
+		Menu8_3_11=new Array("Regal Dress N","loc_media_regaldressn.shtml","",0,20,100);
+		Menu8_3_12=new Array("Juggernaut","loc_media_juggernaut.shtml","",0,20,100);
+	Menu8_4=new Array("Pacific Rim Forces VTs","","",9,20,150);
+		Menu8_4_1=new Array("Decider","loc_media_decider.shtml","",0,20,100);
+		Menu8_4_2=new Array("Falchion","loc_media_falchion.shtml","",0,20,100);
+		Menu8_4_3=new Array("Decider Volcanic","loc_media_decidervolcanic.shtml","",0,20,100);
+		Menu8_4_4=new Array("Prominence M1","loc_media_prominencem1.shtml","",0,20,100);
+		Menu8_4_5=new Array("Prominence M2","loc_media_prominencem2.shtml","",0,20,100);
+		Menu8_4_6=new Array("Prominence M3","loc_media_prominencem3.shtml","",0,20,100);
+		Menu8_4_7=new Array("Blade","loc_media_blade.shtml","",0,20,100);
+		Menu8_4_8=new Array("Rapier","loc_media_rapier.shtml","",0,20,100);
+		Menu8_4_9=new Array("Quasar","loc_media_quasar.shtml","",0,20,100);
+	Menu8_5=new Array("Right Brothers VTs","","",6,20,150);
+		Menu8_5_1=new Array("Colt","loc_media_colt.shtml","",0,20,100);
+		Menu8_5_2=new Array("Colt Executive","loc_media_coltexecutive.shtml","",0,20,100);
+		Menu8_5_3=new Array("Yellow Jacket","loc_media_yellowjacket.shtml","",0,20,100);
+		Menu8_5_4=new Array("Sheepdog","loc_media_sheepdog.shtml","",0,20,100);
+		Menu8_5_5=new Array("Siegeszug","loc_media_siegeszug.shtml","",0,20,100);
+		Menu8_5_6=new Array("Earthshaker","loc_media_earthshaker.shtml","",0,20,100);
+	Menu8_6=new Array("Jaralaccs Mercenary VTs","","",4,20,150);
+		Menu8_6_1=new Array("Jaralaccs C","loc_media_jaralaccsc.shtml","",0,20,100);
+		Menu8_6_2=new Array("Jaralaccs N","loc_media_jaralaccsn.shtml","",0,20,100);
+		Menu8_6_3=new Array("Jaralaccs NS-R","loc_media_jaralaccsnsr.shtml","",0,20,100);
+		Menu8_6_4=new Array("Jaralaccs Macabre","loc_media_jaralaccsmacabre.shtml","",0,20,100);
+	Menu8_7=new Array("Battle Images","","",6,20,150);
+		Menu8_7_1=new Array("Battle 01","loc_media_battle.shtml","",0,20,100);
+		Menu8_7_2=new Array("Battle 02","loc_media_battle2.shtml","",0,20,100);
+		Menu8_7_3=new Array("Battle 03","loc_media_battle3.shtml","",0,20,100);
+		Menu8_7_4=new Array("Battle 04","loc_media_battle4.shtml","",0,20,100);
+		Menu8_7_5=new Array("Battle 05","loc_media_battle5.shtml","",0,20,100);
+		Menu8_7_6=new Array("Battle 06","loc_media_battle6.shtml","",0,20,100);
+	Menu8_8=new Array("Chaff Deployment Details","loc_media_chaff.shtml","",0,20,150);
+	Menu8_9=new Array("Gameplay Movies","loc_media_movies.shtml","",0,20,150);
+	Menu8_10=new Array("Action Replay Files","loc_media_actionreplay.shtml","",0,20,150);
+
+Menu9=new Array("<img src='image/btn_misc.gif' width='83' height='11'>","","",3,11,83);
+	Menu9_1=new Array("BoxLOC","loc_boxloc.shtml","",0,20,150);
+	Menu9_2=new Array("Order of Garpike","loc_orderofpike.shtml","",0,20,150);
+	Menu9_3=new Array("Random VT Selector","loc_randomvtselector.shtml","",0,20,150);
+
+Menu10=new Array("<img src='image/btn_comm.gif' width='49' height='11'>","","",2,11,49);
+	Menu10_1=new Array("Contact Us","loc_contact.shtml","",0,20,150);
+	Menu10_2=new Array("Links of Interest","loc_discuss.shtml","",0,20,150);
+
+Menu11=new Array("<img src='image/btn_about.gif' width='63' height='11'>","","",3,11,63);
+	Menu11_1=new Array("About the Site","loc_about.shtml","",0,20,150);
+	Menu11_2=new Array("Site Credits","loc_about.shtml#credits","",0,20,150);
+	Menu11_3=new Array("Sitemap","loc_sitemap.shtml","",0,20,150);
+</script>
+
+<div align="center">
+
+<table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td>&nbsp;</td>
+		<td width="900" height="88" valign="top">
+		
+		<!---begin header and navigation--->
+		<table width="900" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="9" height="79"><img src="image/bg_navhd01.gif" width="9" height="79" border="0" alt=""></td>
+				<td width="105" height="79"><a href="loc_main.shtml"><img src="image/header01.gif" width="105" height="79" border="0" alt="LINEOFCONTACT.NET"></a></td>
+				<td width="8" height="79"><img src="image/bg_navhd02.gif" width="8" height="79" border="0" alt=""></td>
+				<td width="778" height="79">
+				<table width="778" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td width="778" height="41">
+						<table width="778" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="425" height="41" align="left"><img src="image/hdr_icons.gif" width="22" height="41" border="0" alt=""></td>
+								<td width="353" height="41" align="right"><img src="image/hdr_locnet.gif" width="353" height="41" border="0" alt="LINEOFCONTACT.NET - Your Source for Steel Battalion: Line of Contact Information"></td>
+							</tr>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td width="778" height="11">
+						<span id="dropmenu">
+						<table width="778" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="51" height="11"><img src="image/btn_tutorial.gif" width="51" height="11" border="0" alt="TUTORIAL"></td>
+								<td width="82" height="11"><img src="image/btn_vt.gif" width="82" height="11" border="0" alt="VERTICAL TANKS"></td>
+								<td width="81" height="11"><img src="image/btn_config.gif" width="81" height="11" border="0" alt="CONFIGURATION"></td>
+								<td width="55" height="11"><img src="image/btn_testing.gif" width="55" height="11" border="0" alt="TESTING"></td>
+								<td width="94" height="11"><img src="image/btn_tactical.gif" width="94" height="11" border="0" alt="TACTICAL ANALYSIS"></td>
+								<td width="86" height="11"><img src="image/btn_intel.gif" width="86" height="11" border="0" alt="INTEL &amp; BRIEFING"></td>
+								<td width="58" height="11"><img src="image/btn_platform.gif" width="58" height="11" border="0" alt="PLATFORM"></td>
+								<td width="76" height="11"><img src="image/btn_media.gif" width="76" height="11" border="0" alt="MEDIA UPLINK"></td>
+								<td width="83" height="11"><img src="image/btn_misc.gif" width="83" height="11" border="0" alt="MISCELLANEOUS"></td>
+								<td width="49" height="11"><img src="image/btn_comm.gif" width="49" height="11" border="0" alt="COMLINK"></td>
+								<td width="63" height="11"><img src="image/btn_about.gif" width="63" height="11" border="0" alt="ABOUT SITE"></td>
+							</tr>
+						</table>
+						</span>
+						</td>
+					</tr>
+					<tr>
+						<td width="778" height="18">
+						<table width="778" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="51" height="18" background="image/bg_navhd07.gif"></td>
+								<td style="padding-top: 2px; padding-left: 3px;" width="725" height="18" background="image/bg_navhd08_splice.gif"><span class="headline">LATEST NEWS:</span> KEEBLER ON FIRE AGAIN - <span style="font-size: 9px;">Regular LOC times Wed from 8:30pmEST, Sun from 3pm EST</span></td>
+								<td width="2" height="18" background="image/bg_navhd08.gif"></td>
+							</tr>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td width="778" height="9" background="image/bg_navhd05_runner.gif"></td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+			<tr>
+				<td width="9" height="9"><img src="image/bg_navhd03.gif" width="9" height="9" border="0" alt=""></td>
+				<td width="105" height="9" background="image/bg_navhd03_splice.gif"></td>
+				<td width="8" height="9"><img src="image/bg_navhd04.gif" width="8" height="9" border="0" alt=""></td>
+				<td width="778" height="9" align="left"><img src="image/bg_navhd06.gif" width="5" height="9" border="0" alt=""></td>
+			</tr>
+		</table>
+		<!---end header and navigation--->
+		</td>
+		<td>&nbsp;</td>
+	</tr>
+<!---end header navigation include--->
+<!---end navigation include--->
+	<tr>
+		<td>&nbsp;</td>
+		<td width="900" height="40">
+		<div style="height: 9px;"></div>
+		<table width="900" cellspacing="0" cellpadding="0" style="border-style: solid; border-width: 1px; border-color: #000000;">
+			<tr>
+				<td width="106" height="13" background="image/bg_currentdoc.gif"></td>
+				<td class="crumbs" style="padding-left: 5px;" width="794" height="13" bgcolor="#E4E4E4"><a class="crumbs" href="loc_main.shtml">Home</a> &gt; Intel &amp; Briefing &gt; <a class="crumbs" href="loc_glossary.shtml">Glossary</a></td>
+			</tr>
+		</table>
+		<div style="height: 18px;"></div>
+		</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td width="900" valign="top">
+		<!---start content area--->
+		<div class="H1">Glossary of Terms</div>
+		<br>
+		I have collected some of the more common terms for <span class="italic">Steel Battalion: Line of Contact</span> that are not defined elsewhere on this site or in the game manual.  This list is constantly evolving as the game matures and more terms are derived.
+		<br>
+		<br>
+		For a lighter take on some of the terminology in the game, I suggest:<br>
+		<span class="H1"><a href="loc_sbt.shtml">Githon's Steel Battalion Terminology Guide</a></span>
+		<br>
+		<br>
+		<img src="image/spacer3.gif" width="500" height="1">
+		<br>
+			<table width="700" border="0">
+				<tr>
+					<td valign="top">
+					<span class="bold"><a href="#ambush">AMBUSH MODE</a></span><br>
+					<br>
+					<span class="bold"><a href="#bee">BEE</a></span><br>
+					<span class="bold"><a href="#bin">BIN</a></span><br>
+					<span class="bold"><a href="#bincamping">BIN CAMPING</a></span><br>
+					<span class="bold"><a href="#br">BR</a></span><br>
+					<span class="bold"><a href="#briefing">BRIEFING</a></span><br>
+					<br>
+					<span class="bold"><a href="#campaign">CAMPAIGN</a></span><br>
+					<span class="bold"><a href="#capcom">CAPCOM</a></span><br>
+					<span class="bold"><a href="#carpike">CARPIKE</a></span><br>
+					<span class="bold"><a href="#chaff">CHAFF</a></span><br>
+					<span class="bold"><a href="#check">CHECK</a></span><br>
+					<span class="bold"><a href="#cheddar">CHEDDAR</a></span><br>
+					<span class="bold"><a href="#clipdumping">CLIP DUMPING</a></span><br>
+					<span class="bold"><a href="#commandpoints">COMMAND POINTS</a></span><br>
+					<span class="bold"><a href="#connectionerror">CONNECTION ERROR</a></span><br>
+					<span class="bold"><a href="#crab">CRAB</a></span><br>
+					<span class="bold"><a href="#ctc">CTC</a></span><br>
+					<span class="bold"><a href="#cutterboom">CUTTER BOOM</a></span><br>
+					<br>
+					<span class="bold"><a href="#d3eye">D3EYE</a></span><br>
+					<span class="bold"><a href="#debriefing">DEBRIEFING</a></span><br>
+					<span class="bold"><a href="#distancemod">DISTANCE MODIFIER</a></span><br>
+					<span class="bold"><a href="#dodge">DODGE</a></span><br>
+					<span class="bold"><a href="#drill">DRILL</a></span><br>
+					<span class="bold"><a href="#drop">DROP</a></span><br>
+					<span class="bold"><a href="#dsodapop">D-SODA POP</a></span><br>
+					<span class="bold"><a href="#dummyaccount">DUMMY ACCOUNT</a></span><br>
+					<span class="bold"><a href="#duping">DUPING</a></span><br>
+					<br>
+					<span class="bold"><a href="#fss">F.S.S.</a></span><br>
+					<span class="bold"><a href="#freehanding">FREEHANDING</a></span><br>
+					<span class="bold"><a href="#friendlyfire">FRIENDLY FIRE</a></span><br>
+					<br>
+					<span class="bold"><a href="#gauss">GAUSS</a></span><br>
+					<span class="bold"><a href="#genviolation">GEN VIOLTATION</a></span><br>
+					</td>
+					<td valign="top">
+					<span class="bold"><a href="#haishidao">HAI SHI DAO</a></span><br>
+					<span class="bold"><a href="#hsd">HSD</a></span><br>
+					<span class="bold"><a href="#host">HOST</a></span><br>
+					<br>
+					<span class="bold"><a href="#inaba">INABA</a></span><br>
+					<br>
+					<span class="bold"><a href="#jar">JAR</a></span><br>
+					<span class="bold"><a href="#jaralaccs">JARALACCS</a></span><br>
+					<span class="bold"><a href="#jarheads">JARHEADS</a></span><br>
+					<br>
+					<span class="bold"><a href="#kasaiisland">KASAI ISLAND</a></span><br>
+					<span class="bold"><a href="#kia">KIA</a></span><br>
+					<span class="bold"><a href="#kicked">KICKED</a></span><br>
+					<span class="bold"><a href="#killedinaction">KILLED IN ACTION</a></span><br>
+					<br>
+					<span class="bold"><a href="#lag">LAG</a></span><br>
+					<span class="bold"><a href="#lineofcontact">LINE OF CONTACT</a></span><br>
+					<span class="bold"><a href="#loc">LOC</a></span><br>
+					<span class="bold"><a href="#lovewagon">LOVE WAGON</a></span><br>
+					<br>
+					<span class="bold"><a href="#map">MAP</a></span><br>
+					<span class="bold"><a href="#magrush">MAGAZINE RUSH</a></span><br>
+					<span class="bold"><a href="#marker">MARKER</a></span><br>
+					<span class="bold"><a href="#mission">MISSION</a></span><br>
+					<span class="bold"><a href="#mlr">MLR</a></span><br>
+					<span class="bold"><a href="#moneymatch">MONEY MATCH</a></span><br>
+					<span class="bold"><a href="#mute">MUTE</a></span><br>
+					<br>
+					<span class="bold"><a href="#nato">NATO PHONETIC CODE</a></span><br>
+					<span class="bold"><a href="#neutralzone">NEUTRAL ZONE</a></span><br>
+					<span class="bold"><a href="#newbie">NEWBIE</a></span><br>
+					<span class="bold"><a href="#newbiehunting">NEWBIE HUNTING</a></span><br>
+					<span class="bold"><a href="#noob">NOOB</a></span><br>
+					<span class="bold"><a href="#nudemaker">NUDEMAKER</a></span><br>
+					<br>
+					<span class="bold"><a href="#onedot">ONE DOT</a></span><br>
+					<span class="bold"><a href="#optionals">OPTIONALS</a></span><br>
+					<span class="bold"><a href="#ovr">OVR</a></span><br>
+					<span class="bold"><a href="#override">OVERRIDE</a></span><br>
+					</td>
+					<td valign="top">
+					<span class="bold"><a href="#pacificrimforces">PACIFIC RIM FORCES</a></span><br>
+					<span class="bold"><a href="#patch">PATCH</a></span><br>
+					<span class="bold"><a href="#pike">PIKE</a></span><br>
+					<span class="bold"><a href="#prematureeject">PREMATURE EJECTION</a></span><br>
+					<span class="bold"><a href="#prf">PRF</a></span><br>
+					<span class="bold"><a href="#professionalname">PROFESSIONAL NAME</a></span><br>
+					<span class="bold"><a href="#pulltheplug">PULL THE PLUG</a></span><br>
+					<br>
+					<span class="bold"><a href="#railed">RAILED</a></span><br>
+					<span class="bold"><a href="#rank">RANK</a></span><br>
+					<span class="bold"><a href="#rb">RB</a></span><br>
+					<span class="bold"><a href="#replay">REPLAY</a></span><br>
+					<span class="bold"><a href="#rightbrothers">RIGHT BROTHERS</a></span><br>
+					<span class="bold"><a href="#round">ROUND</a></span><br>
+					<br>
+					<span class="bold"><a href="#salmon">SALMON</a></span><br>
+					<span class="bold"><a href="#shutdown">SHUT DOWN</a></span><br>
+					<span class="bold"><a href="#slidestep">SLIDESTEP</a></span><br>
+					<span class="bold"><a href="#shouldercheck">SHOULDER CHECK</a></span><br>
+					<span class="bold"><a href="#sniping">SNIPING</a></span><br>
+					<span class="bold"><a href="#spyaccounts">SPY ACCOUNTS</a></span><br>
+					<span class="bold"><a href="#steelbattalion">STEEL BATTALION</a></span><br>
+					<span class="bold"><a href="#strafe">STRAFE (MANUAL)</a></span><br>
+					<span class="bold"><a href="#supplypoints">SUPPLY POINTS</a></span><br>
+					<span class="bold"><a href="#systemlink">SYSTEM LINK</a></span><br>
+					<br>
+					<span class="bold"><a href="#tekki">TEKKI</a></span><br>
+					<span class="bold"><a href="#tekkitaisen">TEKKI TAISEN</a></span><br>
+					<span class="bold"><a href="#toggles">TOGGLES</a></span><br>
+					<span class="bold"><a href="#touching">TOUCHING</a></span><br>
+					<span class="bold"><a href="#trip">TRIP</a></span><br>
+					<span class="bold"><a href="#turn">TURN</a></span><br>
+					<br>
+					<span class="bold"><a href="#verticaltank">VERTICAL TANK</a></span><br>
+					<span class="bold"><a href="#vt">VT</a></span><br>
+					<br>
+					<span class="bold"><a href="#wheelmode">WHEEL MODE</a></span><br>
+					</td>
+				</tr>
+			</table>
+		<br>
+		<div class="H1"><a name="ambush"></a>AMBUSH MODE</div>
+		A "stealth" mode which is enabled by deactivating all of the startup toggle switches.  In this mode, enemy targetting will not display the red "active" display or audible signal when the VT is swept over with the targeting reticule.  When Ambush Mode is enabled, movement or weapons firing is not possible.  Also note that with the OXYGEN supply shut off, a pilot will die in 30 seconds if it is not toggled back on again.  The screen will start to go white and a gasping sound gradually increases in volume.
+		<br>
+		<br>
+		<div class="H1"><a name="bee"></a>BEE</div>
+		How the Japanese refer to the <a href="ds_yellowjacket.shtml">Yellow Jacket</a> VT in casual conversation.
+		<br>
+		<br>
+		<div class="H1"><a name="bin"></a>BIN</div>
+		Shorthand for the Supply Bin, where VTs are purchased.
+		<br>
+		<br>
+		<div class="H1"><a name="bincamping"></a>BIN CAMPING</div>
+		The tactic of waiting until the :50 mark countdown on the Campaign Timer and then entering the Supply Bin at that exact moment to try and acquire rare release VTs.
+		<br>
+		<br>
+		<div class="H1"><a name="br"></a>BR</div>
+		Abbreviation for <a href="loc_gameplay.shtml">Battle Royale</a> gameplay mode.
+		<br>
+		<br>
+		<div class="H1"><a name="briefing"></a>BRIEFING</div>
+		The time between the end of the Sortie/Waiting Room and the beginning of the Mission/Map session.  During this time, pilots quickly discuss tactics and make VT selections and weapon loadout modifications as necessary.
+		<br>
+		<br>
+		<div class="H1"><a name="campaign"></a>CAMPAIGN</div>
+		The primary <a href="loc_gameplay.shtml">gameplay mode</a> for <span class="italic">Steel Battalion: Line of Contact</span>.  Played as a series of eight Rounds, each of which lasts eight Turns.  Each Turn lasts a week, during which 3 maps/missions are available for play.  Campaign also involves a complex economy, ranking system and persistent territorial control.
+		<br>
+		<br>
+		<div class="H1"><a name="capcom"></a>CAPCOM</div>
+		The publisher for both <span class="italic">Steel Battalion</span> and <span class="italic">Steel Battalion: Line of Contact</span>.
+		<br>
+		<br>
+		<div class="H1"><a name="carpike"></a>CARPIKE</div>
+		The <a href="image/WrathOfTheGithon.jpg" target="_blank">joke</a> is on you Githon.
+		<br>
+		<br>
+		<div class="H1"><a name="chaff"></a>CHAFF</div>
+		A combination of metalic particles and heat flares which can be deployed around a VT to confuse the targeting systems of guided missiles.  Each chaff unit is only effective against a single missile salvo.
+		<br>
+		<br>
+		<div class="H1"><a name="check"></a>CHECK</div>
+		Shorthand for <a href="#shouldercheck">SHOULDER CHECK</a>.
+		<br>
+		<br>
+		<div class="H1"><a name="cheddar"></a>CHEDDAR</div>
+		A slang term/inside joke regarding artillery fire (howitzers).  This originated from the 2003 E3 preview movie Capcom was distributing for <span class="italic">Steel Battalion: Line of Contact</span>.  In the movie, a pilot codenamed "FOX4" gleefully exclaims "Cheddar coming boys!" as he fires a howitzer round at enemy positions.  Likely, this was bad translation from the original Japanese conversation, but it has gone on to become part of the folklore of the game.
+		<br>
+		<br>
+		<div class="H1"><a name="clipdumping"></a>CLIP DUMPING</div>
+		An <a href="loc_exploits.html">exploit</a> in the game which circumvents the normal reload time between rounds for magazined weapons.  Performed by holding down the MAIN WEAPON FIRE button on the AIMING LEVER (right joystick) and rapidly pressing the MAGAZINE CHANGE button on the CENTER BLOCK.  Almost universally disliked by North American and EU players (and will result in banning from future game sessions), but most Japanese players see the tactic as valid.  This should be noted if ever playing against or with a Japanese player.  They refer to it as "Magazine Rush" pronounced "mag&uacute; -r&uacute;sh-eh."
+		<br>
+		<br>
+		<div class="H1"><a name="commandpoints"></a>COMMAND POINTS</div>
+		The "currency" of <a href="loc_rank.shtml">rank</a> in the game.  Command Points are earned by participation in missions.  Higher kills and kills against more advanced VTs will earn a pilot more points than losses or kills against inferior VTs.  Note that even a mission loss will still net a player 5000 "participation" command points.
+		<br>
+		<br>
+		<div class="H1"><a name="connectionerror"></a>CONNECTION ERROR</div>
+		A loss of connection to a game session due to flawed network code withing the game.  Connection Errors will usually result in the loss of whatever VT is currently selected in a mission if the session has already started.  Typically, the best method to try and prevent connection errors is to  only allow players with SUPERIOR connections join a room session and to keep the maximum players at six or below.  Many more details regarding this subject are available on the <a href="loc_connection.shtml">Connection Issues</a> page.
+		<br>
+		<br>
+		<div class="H1"><a name="crab"></a>CRAB</div>
+		A term used by the Japanese in reference to the PRF <a href="ds_decider.shtml">Decider</a> VT.
+		<br>
+		<br>
+		<div class="H1"><a name="ctc"></a>CTC</div>
+		An acronym for the <a href="loc_gameplay.shtml">Capture the Container</a> gameplay mode.
+		<br>
+		<br>
+		<div class="H1"><a name="cutterboom"></a>CUTTER BOOM</div>
+		The devastating melee weapon of the <a href="ds_jaralaccsC.shtml">Jaralaccs C</a> and <a href="ds_jaralaccsNS-R.shtml">Jaralaccs NS-R</a> VTs.  Often used as a descriptive as in: "I was cutter boomed."  The weapon does a massive amount of damage per contact unit of time, see the <a href="loc_weapon.shtml#CUT-B">weapon information</a> page for more details.
+		<br>
+		<br>
+		<div class="H1"><a name="d3eye"></a>D3EYE</div>
+		The "boss" VT/weapons platform in the hangar at the end of Level 23 in the original <span class="italic">Steel Battalion</span> game.  Not present in <span class="italic">Steel Battalion: Line of Contact</span>, but its Gauss weapon returns in a modified form on the <a href="ds_earthshaker.shtml">Earthshaker</a> VT.
+		<br>
+		<br>
+		<div class="H1"><a name="debriefing"></a>DEBRIEFING</div>
+		At the conclusion of a Mission, each players stats are displayed, along with Supply and Command points earned, any captured VTs and any Optional Parts earned.  Pilots have the opportunity to trade items with each other or save the <a href="loc_replay.shtml">Replay</a> data from the mission.
+		<br>
+		<br>
+		<div class="H1"><a name="distancemod"></a>DISTANCE MODIFIER</div>
+		For a long time this was suspected to be in the game but never proven until recently.  The armour thickness for certain VTs enables a reduction in the effective distance of an attacking VT's weaponry.  Each VT may have three independent armour modifier values, for Front, Side, and Rear.  A full list for each VT is available <a href="loc_testing_distancemod.shtml">here</a>.  It should also be noted that the Advanced Armour <a href="loc_optionalparts.shtml">optional part</a> enables a 200m additional modifier to any VT it is equipped on.
+		<br>
+		<br>
+		<div class="H1"><a name="dodge"></a>DODGE</div>
+		A less fancy reference to <a href="#slidestep">slidestep</a>.
+		<br>
+		<br>
+		<div class="H1"><a name="drill"></a>DRILL</div>
+		See also: <a href="#cutterboom">Cutter Boom</a>.
+		<br>
+		<br>
+		<div class="H1"><a name="drop"></a>DROP</div>
+		A word with dual meaning within the game:<br>
+		01.&nbsp;&nbsp;A common term reference to the :50 minute mark Campaign time when rare VTs are replenished to the Supply Bin; "the drop"<br>
+		02.&nbsp;<a href="#connectionerror">Connection Error</a> - when a member of the team is lost due to a Connection Error; dropped.
+		
+		<br>
+		<br>
+		<div class="H1"><a name="dsodapop"></a>D-SODA POP</div>
+		An example of bad <a href="http://www.babelfish.com/" target="_blank">Babelfish</a> translation attempting to handle the word "Decider."  Essentially breaking the word down into two elements "D" and "Cider" of which, the "Cider" becomes "Soda Pop."  Get it?
+		<br>
+		<br>
+		<div class="H1"><a name="dummyaccount"></a>DUMMY ACCOUNT</div>
+		See also: <a href="#spyaccounts">SPY ACCOUNTS</a>
+		<br>
+		<br>
+		<div class="H1"><a name="duping"></a>DUPING</div>
+		Duping was probably the single most devastating <a href="loc_exploits.shtml">exploit</a> to <span class="italic">Steel Battalion: Line of Contact</span>.  Simply put, it was a loophole in the TRADE process in which both items and money could be duplicated by disconnecting from the trade dialogue in mid-transit.  Although VTs could be temporarily duplicated by this exploit, they would disappear after a single use in a mission due to their serial numbers.  <a href="loc_optionalparts.shtml">Optional Parts</a> and Supply Points are not serialised and this resulted in thousands of high-level Optional Parts pervading the remaining playerbase.  This utterly destroyed the economy of the game and has almost permanently devalued Supply Points as a currency.  Capcom/Nudemaker did reset Optional Parts for Campaign Mode accounts on November 3rd, 2004 after the duplication fix patch was applied in September 2004.
+		<br>
+		<br>
+		<div class="H1"><a name="fss"></a>F.S.S.</div>
+		An acronym for Forecast Shooting System.  This function, found only on 2nd and 3rd generation VTs, attempts to predict the lateral movement of locked targets by leading weaponry aim.  The system is only intended for medium to short range applications and will not function properly for long range or indirect fire weapons like howitzers and multi-launch rocket systems.  F.S.S. does not work when <a href="#sniping">sniper mode</a> is engaged.
+		<br>
+		<br>
+		<div class="H1"><a name="freehanding"></a>FREEHANDING</div>
+		The process of manually leading a shot on a moving target without a lock or the use of F.S.S.  A difficult skill to master, but highly useful both to increase hit percentage and not sound a warning in the targetted VTs cockpit.  Sometimes very difficult to do effectively due to latency.
+		<br>
+		<br>
+		<div class="H1"><a name="friendlyfire"></a>FRIENDLY FIRE</div>
+		Hitting team mates with offensive fire by accident.  In Campaign this causes no damage to friendly units but will result in a deduction from earned Supply and Command points.  In Free Mission mode, Friendly Fire can by turned on (off by default) as an option.
+		<br>
+		<br>
+		<div class="H1"><a name="gauss"></a>GAUSS</div>
+		A massive electromagnetic emitter system used to shut down enemy VTs on the battlefield.  The <a href="loc_weapon.html#GAUSS">gauss</a> was originally found on the <a href="#D3EYE">D3EYE</a> in the original <span class="italic">Steel Battalion</span> game, now field deployable as a fixed mount weapon on the <a href="ds_earthshaker.shtml">Earthshaker</a> VT.
+		<br>
+		<br>
+		<div class="H1"><a name="genviolation"></a>GEN VIOLTATION</div>
+		Sometimes considered an <a href="loc_exploits.shtml">exploit</a>, generational violation is the unsportsmanlike process of taking a high generation VT into a session/mission specified only for lower generation VTs.  This gives the respective pilot an advantage.  Unfortunately, the Session setup options only implement the VT Generation setting as a "suggestion" rather than a hard filter.
+		<br>
+		<br>
+		<div class="H1"><a name="haishidao"></a>HAI SHI DAO</div>
+		A term with dual meanings:<br>
+		&nbsp;01. Hai Shi Dao is a <a href="loc_faction.shtml">faction</a> in the overall conflict.<br>
+		&nbsp;02. Hai Shi Dao is also the name of the island on which the conflict is being fought.  The island is also referred to as <a href="#kasaiisland">Kasaii Island</a> or Ocean City Island depending on context.  They all refer to the same thing.
+		<br>
+		<br>
+		<div class="H1"><a name="hsd"></a>HSD</div>
+		As above, but usually the acronym is used to describe players of the <a href="#haishidao">Hai Shi Dao</a> faction.
+		<br>
+		<br>
+		<div class="H1"><a name="host"></a>HOST</div>
+		The player/pilot who initiates a mission/session.  This pilot will appear in the "first" slot of the Sortie Room on either the top or bottom halves, depending on which side the entering player chooses.  The Host Name is displayed as Pilot Name when viewing Available Sessions.
+		<br>
+		<br>
+		<div class="H1"><a name="inaba"></a>INABA</div>
+		Atsushi Inaba, the executive producer from <a href="#nudemaker">Nudemaker</a> Studios responsible for both <span class="italic">Steel Battalion</span> amd <span class="italic">Steel Battalion: Line of Contact</span>. Often decried for not taking any active interest in his past projects.
+		<br>
+		<br>
+		<div class="H1"><a name="jar"></a>JAR</div>
+		Typically used to refer to a member of the <a href="#jaralaccs">Jaralaccs</a> faction.  Occasionally used to refer to the Jaralaccs class VTs.
+		<br>
+		<br>
+		<div class="H1"><a name="jaralaccs"></a>JARALACCS</div>
+		A mercenary <a href="loc_faction.shtml">faction</a> in the Hai Shi Dao conflict.  This faction is unique in that its members may fight for any side, and it does not garner any territory for itself on the Campaign map.
+		<br>
+		<br>
+		<div class="H1"><a name="jarheads"></a>JARHEADS</div>
+		A slang term used to refer to both members of the <a href="#jaralaccs">Jaralaccs</a> faction and the Jaralaccs class VTs.
+		<br>
+		<br>
+		<div class="H1"><a name="kasaiisland"></a>KASAI ISLAND</div>
+		Another name (usually from a Japanese context) for <a href="#haishidao">Hai Shi Dao</a> island.
+		<br>
+		<br>
+		<div class="H1"><a name="kia"></a>KIA</div>
+		Acronym for <a href="#killedinaction">Killed In Action</a>, what happens when a pilot does not eject in time from a critical VT.  
+		<br>
+		<br>
+		<div class="H1"><a name="kicked"></a>KICKED</div>
+		When a player is removed from a Sortie Room prior to mission start by the room host.
+		<br>
+		<br>
+		<div class="H1"><a name="killedinaction"></a>KILLED IN ACTION</div>
+		Killed In Action, what happens when a pilot does not eject in time from a critical VT.
+		<br>
+		<br>
+		<div class="H1"><a name="lag"></a>LAG</div>
+		Technically, delays in data transmission over a network connection.  This is expressed in a game session as pauses or inconsistencies in location for players over a period of time.  In <span class="italic">Steel Battalion: Line of Contact</span>, lag is a persistent problem due to the faulty network code utilised by the game.  As such, players are advised to do everything possible to ensure the soundness of their broadband connections, and when hosting, limit access to only those with Superior connections and low latency.  More information on connection issues may be found <a href="loc_connection.html">here</a>.
+		<br>
+		<br>
+		<div class="H1"><a name="lineofcontact"></a>LINE OF CONTACT</div>
+		The online only sequel to the original <span class="italic">Steel Battalion</span> Microsoft XBox game.  <span class="italic">Steel Battalion: Line of Contact</span> builds upon the success of its forerunner with multiplayer team-based tactical combat.
+		<br>
+		<br>
+		<div class="H1"><a name="loc"></a>LOC</div>
+		An acronym for <span class="italic">Steel Battalion: Line of Contact</span>.
+		<br>
+		<br>
+		<div class="H1"><a name="lovewagon"></a>LOVE WAGON</div>
+		A playful moniker for one of the most horrendous VTs to ever take the field.  Conceived by Parias, named by KingLeerUK and <a href="image/love_wagon.jpg" target="_blank">blinding to all who look upon it</a>.
+		<br>
+		<br>
+		<div class="H1"><a name="map"></a>MAP</div>
+		The terrain played for each Mission.  Three Maps are available for each Turn in a Round.  There are a total of 24 Campaign/Conquest maps, with an additional "training" map (Mission 00) available only in Free Mission mode.  See the <a href="loc_mission.shtml">mission information</a> pages for more detail.
+		<br>
+		<br>
+		<div class="H1"><a name="magrush"></a>MAGAZINE RUSH</div>
+		What the Japanese pilots call <a href="#clipdumping">Clip Dumping</a>.  More accepted as a tactic amongst Japanese players, but still frowned upon even by some of them.  Pronounced "mag&uacute; -r&uacute;sh-eh."
+		<br>
+		<br>
+		<div class="H1"><a name="marker"></a>MARKER</div>
+		Rounds fired by the <a href="loc_weapon.shtml#MKR-LA">Marker Launcher</a> which tag an enemy VT with a radar signature visible by all teammates for two minutes.  Very useful for marking VTs for artillery placement or rear attack strategies.  Can only be equipped by a limited number of VTs, the majority of which belong to the <a href="#rightbrothers">Right Brothers</a> faction.
+		<br>
+		<br>
+		<div class="H1"><a name="mission"></a>MISSION</div>
+		The same as <a href="#map">map</a>.
+		<br>
+		<br>
+		<div class="H1"><a name="mlr"></a>MLR</div>
+		Multiple Launch Rocket system available only on support class second and third generation VTs.  Launches a salvo of rockets containing highly explosive bomblets which disperse over targeted VTs.  Can be manually strafed to concentrate the destructive payload dispersal.
+		<br>
+		<br>
+		<div class="H1"><a name="moneymatch"></a>MONEY MATCH</div>
+		A method of exploiting the Supply and Command point award system by setting up arranged matches between teams for the sole purpose of legging VTs.  Typically, one team will take base level VTs and the other team will take advanced VTs.  The team with base level VTs shoot the opposing team, legging their VTs, enabling capture of the VT model, a large number of Supply and Command points, and artificially inflated stats.  Roles are then reversed to allow the opposing team to reciprocate.  Lame and pathetic behaviour for stat whores.
+		<br>
+		<br>
+		<div class="H1"><a name="mute"></a>MUTE</div>
+		A button available on the XBox Live communicator interface which disables a players microphone.  Should be used (but isn't) when players are putting on (or taking off) their headset to avoid annoying other players in a session lobby.  Can also refer to the act of muting an annoying player via the Friends list functionality of XBox Live.
+		<br>
+		<br>
+		<div class="H1"><a name="nato"></a>NATO PHONETIC CODE</div>
+		The NATO phonetic alphabet assigns words to the letters of the English alphabet so that critical combinations of letters may be pronounced and understood by aircrew and air traffic controllers regardless of their native language.  Often used within <span class="italic">Steel Battalion: Line of Contact</span> to give map quadrant coordinates.  Learn more <a href="http://en.wikipedia.org/wiki/NATO_phonetic_alphabet" target="_blank">here</a>.
+		<br>
+		<br>
+		<div class="H1"><a name="neutralzone"></a>NEUTRAL ZONE</div>
+		The "common ground" used between factions to allow Chat and Trade activites.  Chat and Trade rooms are available for within factions, but these are hardly ever used in favour of the Neutral rooms.  This menu space is also used for Awards and to check Campaign progress.
+		<br>
+		<br>
+		<div class="H1"><a name="newbie"></a>NEWBIE</div>
+		A new player to the game.  Usually identified by having a low rank, little currency and few missions of experience.  However, experienced players are often ranked low due to having been <a href="#killedinaction">Killed in Action</a> or simply starting a new pilot.
+		<br>
+		<br>
+		<div class="H1"><a name="newbiehunting"></a>NEWBIE HUNTING</div>
+		Unsportsmanlike behaviour of hosting rooms with the intent of playing against new players only, even going so far as to deny entry to higher ranked players.  This tactic typically guarantees victory for the more experienced Veteran players.  New players are advised to be aware of this situation and understand the possible outcomes.
+		<br>
+		<br>
+		<div class="H1"><a name="noob"></a>N00B</div>
+		"L33t" speak reference to new, or <a href="#newbie">newbie</a> players.
+		<br>
+		<br>
+		<div class="H1"><a name="nudemaker"></a>NUDEMAKER</div>
+		The developer of <span class="italic">Steel Battalion: Line of Contact</span> XBox title.  Not to be confused with <a href="#capcom">Capcom</a>, the publisher of the title.
+		<br>
+		<br>
+		<div class="H1"><a name="onedot"></a>ONE DOT</div>
+		Slang reference to a player of the lowest <a href="loc_rank.html">rank</a> in <span class="italic">Steel Battalion: Line of Contact</span>, a Corporal.
+		<br>
+		<br>
+		<div class="H1"><a name="optionals"></a>OPTIONALS</div>
+		A single word term for <a href="loc_optionalparts.shtml">Optional Parts</a>, relatively rare items which can add specific functions or additional performance when equipped to a pilots VT.
+		<br>
+		<br>
+		<div class="H1"><a name="ovr"></a>OVR</div>
+		Abbreviation for <a href="#override">Override</a>.
+		<br>
+		<br>
+		<div class="H1"><a name="override"></a>OVERRIDE</div>
+		A function on second and third generation VTs which disables the safety limiters on a VT allowing for faster movement and quicker battery recharge time.  When enabled, the VT will consume fuel at 10 times the normal rate.
+		<br>
+		<br>
+		<div class="H1"><a name="pacificrimforces"></a>PACIFIC RIM FORCES</div>
+		The protagonists from the first <span class="italic">Steel Battalion</span> game return as invading conquerors attempting to stop the secession of the Hai Shi Dao.  The majority of Pacific Rim Forces VTs are optimised for close combat roles.
+		<br>
+		<br>
+		<div class="H1"><a name="patch"></a>PATCH</div>
+		A software fix which is applied to a deployed application, or in this case, game.  <span class="italic">Steel Battalion: Line of Contact</span> has been patched once via XBox Live to fix the duplication of items exploit.
+		<br>
+		<br>
+		<div class="H1"><a name="pike"></a>PIKE</div>
+		Slang reference to the <a href="loc_weapon.shtml#BANG-N">Bang Needle</a> attack of the Garpike VT.
+		<br>
+		<br>
+		<div class="H1"><a name="prematureeject"></a>PREMATURE EJECTION</div>
+		Hitting the eject button before critical damage is inflicted on a VT requiring ejection.  This process "steals kills" from enemy pilots and is generally frowned upon.
+		<br>
+		<br>
+		<div class="H1"><a name="prf"></a>PRF</div>
+		Abbreviation for the <a href="#pacificrimforces">Pacific Rim Forces</a> faction.
+		<br>
+		<br>
+		<div class="H1"><a name="professionalname"></a>PROFESSIONAL NAME</div>
+		A "nickname" denoting combat preference and performance.  Earned by using specific VTs or through exceptional battlefield performance.  A full discussion of professional names is available <a href="loc_professional.shtml">here</a>.
+		<br>
+		<br>
+		<div class="H1"><a name="pulltheplug"></a>PULL THE PLUG</div>
+		The extremely unsportsmanlike practise of turning off the XBox console, or even removing the network cable, when a player is about to be destroyed or lose a mission.  What this effectively does is cancel the "negative performance" statistic from being recorded against a pilot profile.  Unfortunately, it also tends to lag out a session, causing other players to drop and lose their allocated VTs.  Being caught doing this can result in being shunned from future matches.
+		<br>
+		<br>
+		<div class="H1"><a name="railed"></a>RAILED</div>
+		Slang reference to being hit with a Rail-Gun.
+		<br>
+		<br>
+		<div class="H1"><a name="rank"></a>RANK</div>
+		One quantifiable statistic for experience within <span class="italic">Steel Battalion: Line of Contact</span>.  Rank increases over time with participation in missions.  A full discussion of rank is available <a href="loc_rank.shtml">here</a>.
+		<br>
+		<br>
+		<div class="H1"><a name="rb"></a>RB</div>
+		An abbreviation for the <a href="#rightbrothers">Right Brothers</a> faction.
+		<br>
+		<br>
+		<div class="H1"><a name="replay"></a>REPLAY</div>
+		Can be used to refer to either a replay file or the replay mode itself.  <span class="italic">Steel Battalion: Line of Contact</span> offers very detailed replay functionality, suitable for the creation of gameplay movies.  A full discussion of replay functions is available <a href="loc_replay.shtml">here</a>.
+		<br>
+		<br>
+		<div class="H1"><a name="rightbrothers"></a>RIGHT BROTHERS</div>
+		Separatist rebels from the Northern Central highlands of Hai Shi Dao.  They make their appearance in the 3rd Turn of every Round.  The majority of their VTs are very specialised and nearly all may carry the <a href="loc_weapon.shtml#MKR-LA">Marker Launcher</a>.
+		<br>
+		<br>
+		<div class="H1"><a name="round"></a>ROUND</div>
+		A time required to complete on set of eight Turns, each Turn lasting one week.  At the end of a Round, all the maps are reset back to their starting factions (HSD and PRF) and all pilots may re-sign with the faction of their choice.
+		<br>
+		<br>
+		<div class="H1"><a name="salmon"></a>SALMON</div>
+		<br>
+		<br>
+		<div class="H1"><a name="shutdown"></a>SHUT DOWN</div>
+		If a player VT is hit with either a Stun Rod or Gauss discharge then all control systems will be shut down and the VT will need to be restarted.  This can be very disconcerting in the middle of a battle and will usually result in the loss of the current VT to enemy attack.  In order to get restarted, the same steps required to initially start a VT are followed, with the exception of closing the cockpit hatch, which is already closed.  Note that if a VT is not restarted within 30 seconds a pilot will die of asphyxiation.
+		<br>
+		<br>
+		<div class="H1"><a name="slidestep"></a>SLIDESTEP</div>
+		A fancy word for "dodge" used in <span class="italic">Steel Battalion: Line of Contact</span>.  Initiated using the SLIDESTEP PEDAL on the foot controller block.  Slidesteps use up battery power and cannot be performed if the battery reserve is below the necessary charge.
+		<br>
+		<br>
+		<div class="H1"><a name="shouldercheck"></a>SHOULDER CHECK</div>
+		A slidestep move used to place a VT in the path of an enemy VT travelling in 5th gear wheel mode.  If the enemy VT should collide with the slower moving "checker" VT, it will be knocked off balance and tip over, effectively stopping it.  This move is particularly effective against Light class VTs which rely on their speed and maneuverability for safety.
+		<br>
+		<br>
+		<div class="H1"><a name="sniping"></a>SNIPING</div>
+		This a manually aimed sniping mode which is only available on sniper rifle equipped VTs (<a href="ds_scareface.shtml">Scare Face</a>, <a href="ds_scarefaceA1-2.shtml">Scare Face A1</a>, <a href="ds_scareface2.shtml">Scare Face II</a> and <a href="ds_regaldress_N.shtml">Regal Dress N</a>.  With a sniper rifle selected, the F1 button is pressed to enable the zoomed view.  The AIMING LOCK is disabled in this mode.  Aiming is accomplished via the VIEW HAT thumbstick on the ROTATION LEVER.
+		<br>
+		<br>
+		<div class="H1"><a name="spyaccounts"></a>SPY ACCOUNTS</div>
+		Secondary XBox Live accounts used by players to access Supply Bins of factions for which they do not actually fight for in Campaign mode.  The objective here is to obtain limited or rare VTs for use on the primary account.  Although not technically cheating, this process has contributed to the overall problem of limited numbers of rare VTs being available.
+		<br>
+		<br>
+		<div class="H1"><a name="steelbattalion"></a>STEEL BATTALION</div>
+		The original game released in the Fall of 2002 for the Microsoft XBox console.  Very similar to <span class="italic">Steel Battalion: Line of Contact</span> but differnt in a number of key areas.  Often used as a "training ground" for new players prior to joining the ranks of <span class="italic">Steel Battalion: Line of Contact</span>, which is exactly what the game producer <a href="#inaba">Atsushi Inaba</a> intended.
+		<br>
+		<br>
+		<div class="H1"><a name="strafe"></a>STRAFE (MANUAL)</div>
+		The highly valued skill of manually aiming shots without the help of either LOCK or F.S.S.  Very useful for leading shots in the absence of F.S.S. (as in first generation VTs) and also to hit targets without giving them a visual or audible cockpit warning of the incoming shot.
+		<br>
+		<br>
+		<div class="H1"><a name="supplypoints"></a>SUPPLY POINTS</div>
+		The "currency" of the Campaign mode environment used to purchase VTs from the supply bin, as well as for trade of items with other players.  Supply points are earned by participation in Campaign mode missions.
+		<br>
+		<br>
+		<div class="H1"><a name="systemlink"></a>SYSTEM LINK</div>
+		A type of Local Area Network game connection between XBox consoles.  <span class="italic">Steel Battalion: Line of Contact</span> supports System Link for up to 10 players, and it is rumoured to be relatively lag-free.  The downside is the massive logistical and expense requirement of assembling 10 individual gaming stations (XBox console, Steel Battalion controller, standard XBox controller, game disc, monitor, headset, sound system) for each player.
+		<br>
+		<br>
+		<div class="H1"><a name="tekki"></a>TEKKI</div>
+		The Japanese name for the original <span class="italic">Steel Battalion</span> game.  Literally translates as "Iron Horseman"
+		<br>
+		<br>
+		<div class="H1"><a name="tekkitaisen"></a>TEKKI TAISEN</div>
+		The Japanese name for <span class="italic">Steel Battalion: Line of Contact</span>.  Literally translates as "Iron Horseman: Great War"
+		<br>
+		<br>
+		<div class="H1"><a name="toggles"></a>TOGGLES</div>
+		The five toggle switches on the left block of the <span class="italic">Steel Battalion</span> controller which are flipped in order to complete the startup sequence for a VT.  If all are turned off while a VT is operating, it will enable an "ambush mode" where the VT cannot be locked onto by enemy units, but is also incapable of movement or firing of weapons.  Turning off each toggle independently will have varied negative effects on VT performance.
+		<br>
+		<br>
+		<div class="H1"><a name="touching"></a>TOUCHING</div>
+		The process of trading a VT (in a Campaign mode Chat/Trade session) to one player and then sending the VT unit directly back to the original owner.  This "touching" of the VT unlocks the model for use in Free Mission mode from that point on.
+		<br>
+		<br>
+		<div class="H1"><a name="trip"></a>TRIP</div>
+		Another term to reference <a href="#shouldercheck">Shoulder Checking</a>.
+		<br>
+		<br>
+		<div class="H1"><a name="turn"></a>TURN</div>
+		A period of 1 week within a Campaign Round.  During each Turn, 3 maps are available for Campaign play.  New VTs and factions may be introduced at the start of each new Turn.
+		<br>
+		<br>
+		<div class="H1"><a name="verticaltank"></a>VERTICAL TANK</div>
+.		The large bipedal vehicles used for combat within <span class="italic">Steel Battalion: Line of Contact</span>.  Vertical Tanks are not "robots" as they have human pilots.  They are also not powered armour.  The closest approximate literary reference would be "mecha."  Vertical Tanks come in three unique developmental generations, each with increasing abilities and performance.  Within each generation, there are sub-genres of combat type and weight class which greatly influence the performance, appearance, and combat role played by a given VT.
+		<br>
+		<br>
+		<div class="H1"><a name="vt"></a>VT</div>
+		Abbreviation for Vertical Tank.
+		<br>
+		<br>
+		<div class="H1"><a name="wheelmode"></a>WHEEL MODE</div>
+		A mode of rapid locomotion achieved by building up sufficient torque and changing the gear shift to 5th gear.  Wheel Mode allows a VT to rapidly traverse large areas of open terrain, but also limits the turning ability and greatly increases the chance of tipping.
+		<br>
+		<div class="footer" align="right">This file was last updated Saturday, 29-Nov-2008 14:56:15 PST</div><br>
+		<!---end content area--->
+		</td>
+		<td>&nbsp;</td>
+	</tr>
+<!---begin footer include--->
+<!---start footer include--->
+<tr>
+	<td style="background-repeat: repeat-x;" bgcolor="#EEEEEE" background="image/bg_footer.gif">&nbsp;</td>
+	<td width="900" valign="top" height="50" style="background-repeat: repeat-x;" bgcolor="#EEEEEE" background="image/bg_footer.gif">
+	<div class="footer" align="center"><a class="footer" href="loc_vt.shtml">Vertical Tanks</a> &nbsp; || &nbsp; <a class="footer" href="loc_weapon.shtml">Weapons</a> &nbsp; || &nbsp; <a class="footer" href="loc_mission.shtml">Missions</a> &nbsp; || &nbsp; <a class="footer" href="loc_contact.shtml">Contact</a> &nbsp; || &nbsp; <a class="footer" href="loc_about.shtml">About</a> &nbsp; || &nbsp; <a class="footer" href="loc_sitemap.shtml">Sitemap</a> &nbsp; || &nbsp; <a class="footer" href="loc_main.shtml">Home</a></div>
+	</td>
+	<td style="background-repeat: repeat-x;" bgcolor="#EEEEEE" background="image/bg_footer.gif">&nbsp;</td>
+</tr>
+<!---end footer include--->
+<!---end footer include--->
+</table>
+
+</div>
+
+</body>
+
+
+<!-- Mirrored from lineofcontact.net/loc_glossary.shtml by HTTrack Website Copier/3.x [XR&CO'2010], Thu, 06 May 2010 16:43:24 GMT -->
+</html>

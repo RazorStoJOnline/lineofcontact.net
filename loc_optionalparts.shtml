@@ -1,0 +1,1623 @@
+<html>
+
+<!-- Mirrored from lineofcontact.net/loc_optionalparts.shtml by HTTrack Website Copier/3.x [XR&CO'2010], Thu, 06 May 2010 16:40:41 GMT -->
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<title>LINEOFCONTACT.NET :: STEEL BATTALION: LINE OF CONTACT INFORMATION</title>
+
+<link rel=StyleSheet href="css/locnet.css" TYPE="text/css" media="screen">
+
+</head>
+
+<body topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0">
+<!---begin navigation include--->
+<!---start header navigation include--->
+<a name="#top"></a>
+<script type='text/javascript'>
+function Go(){return}
+</script>
+<script type='text/javascript' src='_js/main.js'></script>
+
+<script language="JavaScript">
+// Menu tree
+//	MenuX=new Array(Text to show, Link, background image (optional), number of sub elements, height, width);
+//	For rollover images set "Text to show" to:  "rollover:Image1.jpg:Image2.jpg"
+
+Menu1=new Array("<img src='image/btn_tutorial.gif' width='51' height='11'>","","",13,11,51);
+	Menu1_1=new Array("Tutorial Overview","loc_tutorial.shtml","",0,20,120);
+	Menu1_2=new Array("Create A Pilot","loc_newpilot.shtml","",0,20,120);
+	Menu1_3=new Array("New Pilot Advice","loc_advice.shtml","",0,20,120);
+	Menu1_4=new Array("Controlling VTs","loc_vtcontrol.shtml","",0,20,120);
+	Menu1_5=new Array("Starting a Game","loc_newgame.shtml","",0,20,120);
+	Menu1_6=new Array("Chat & Trade Tutorial","loc_tradechat.shtml","",0,20,120);
+	Menu1_7=new Array("Communication Tutorial","loc_communication.shtml","",0,20,120);
+	Menu1_8=new Array("Artillery Tutorial","loc_tutorial_artillery.shtml","",0,20,120);
+	Menu1_9=new Array("Sniper Tutorial","loc_tutorial_sniper.shtml","",0,20,120);
+	Menu1_10=new Array("Repacking Tutorial","loc_tutorial_repack.shtml","",0,20,120);
+	Menu1_11=new Array("Foot Controller Repair","loc_footcontroller_repair.shtml","",0,20,120);
+	Menu1_12=new Array("Insignia Tool","loc_tutorial_insigniatool.shtml","",0,20,120);
+	Menu1_13=new Array("Unlock Code","loc_unlockcode.shtml","",0,20,120);
+
+Menu2=new Array("<img src='image/btn_vt.gif' width='82' height='11'>","","",9,11,82);
+	Menu2_1=new Array("VT Overview","loc_vt.shtml","",0,20,130);
+	Menu2_2=new Array("Hai Shi Dao VTs","","",3,20,130);
+		Menu2_2_1=new Array("1st Generation VTs","","",5,20,110);
+			Menu2_2_1_1=new Array("Vitzh","ds_vitzh.shtml","",0,20,100);
+			Menu2_2_1_2=new Array("Vortex","ds_vortex.shtml","",0,20,100);
+			Menu2_2_1_3=new Array("m-Vitzh","ds_m-vitzh.shtml","",0,20,100);
+			Menu2_2_1_4=new Array("Scare Face","ds_scareface.shtml","",0,20,100);
+			Menu2_2_1_5=new Array("Scare Face A1","ds_scarefacea1.shtml","",0,20,100);
+		Menu2_2_2=new Array("2nd Generation VTs","","",4,20,110);
+			Menu2_2_2_1=new Array("Scare Face II","ds_scareface2.shtml","",0,20,110);
+			Menu2_2_2_2=new Array("Maelstrom","ds_maelstrom.shtml","",0,20,110);
+			Menu2_2_2_3=new Array("Garpike","ds_garpike.shtml","",0,20,110);
+			Menu2_2_2_4=new Array("Behemoth","ds_behemoth.shtml","",0,20,110);
+		Menu2_2_3=new Array("3rd Generation VTs","","",3,20,130);
+			Menu2_2_3_1=new Array("Regal Dress N","ds_regaldress_N.shtml","",0,20,110);
+			Menu2_2_3_2=new Array("Regal Dress A","ds_regaldress_A.shtml","",0,20,110);
+			Menu2_2_3_3=new Array("Juggernaut","ds_juggernaut.shtml","",0,20,110);
+	Menu2_3=new Array("Pacific Rim Forces VTs","","",3,20,130);
+		Menu2_3_1=new Array("1st Generation VTs","","",3,20,110);
+			Menu2_3_1_1=new Array("Decider","ds_decider.shtml","",0,20,110);
+			Menu2_3_1_2=new Array("Falchion","ds_falchion.shtml","",0,20,110);
+			Menu2_3_1_3=new Array("Decider Volcanic","ds_decidervolcanic.shtml","",0,20,110);
+		Menu2_3_2=new Array("2nd Generation VTs","","",5,20,110);
+			Menu2_3_2_1=new Array("Blade","ds_blade.shtml","",0,20,110);
+			Menu2_3_2_2=new Array("Prominence M1","ds_prominenceM1.shtml","",0,20,110);
+			Menu2_3_2_3=new Array("Rapier","ds_rapier.shtml","",0,20,110);
+			Menu2_3_2_4=new Array("Prominence M2","ds_prominenceM2.shtml","",0,20,110);
+			Menu2_3_2_5=new Array("Prominence M3","ds_prominenceM3.shtml","",0,20,110);
+		Menu2_3_3=new Array("3rd Generation VTs","","",1,20,110);
+			Menu2_3_3_1=new Array("Quasar","ds_quasar.shtml","",0,20,110);
+	Menu2_4=new Array("Right Brothers VTs","","",3,20,130);
+		Menu2_4_1=new Array("1st Generation VTs","","",2,20,110);
+			Menu2_4_1_1=new Array("Colt","ds_colt.shtml","",0,20,110);
+			Menu2_4_1_2=new Array("Colt Executive","ds_coltexecutive.shtml","",0,20,110);
+		Menu2_4_2=new Array("2nd Generation VTs","","",3,20,110);
+			Menu2_4_2_1=new Array("Yellow Jacket","ds_yellowjacket.shtml","",0,20,110);
+			Menu2_4_2_2=new Array("Siegeszug","ds_siegeszug.shtml","",0,20,110);
+			Menu2_4_2_3=new Array("Sheepdog","ds_sheepdog.shtml","",0,20,110);
+		Menu2_4_3=new Array("3rd Generation VTs","","",1,20,110);
+			Menu2_4_3_1=new Array("Earthshaker","ds_earthshaker.shtml","",0,20,110);
+	Menu2_5=new Array("Jaralaccs Mercenary VTs","","",1,20,130);
+		Menu2_5_1=new Array("2nd Generation VTs","","",4,20,110);
+			Menu2_5_1_1=new Array("Jaralaccs C","ds_jaralaccsC.shtml","",0,20,110);
+			Menu2_5_1_2=new Array("Jaralaccs N","ds_jaralaccsN.shtml","",0,20,110);
+			Menu2_5_1_3=new Array("Jaralaccs NS-R","ds_jaralaccsNS-R.shtml","",0,20,110);
+			Menu2_5_1_4=new Array("Jaralaccs Macabre","ds_jaralaccs_macabre.shtml","",0,20,110);
+	Menu2_6=new Array("VT Manufacturers","loc_manunav.shtml","",0,20,130);
+	Menu2_7=new Array("VT Comparissons","loc_vtcompare.shtml","",0,20,130);
+	Menu2_8=new Array("Cockpit Reference","loc_cockpits.shtml","",6,20,130);
+		Menu2_8_1=new Array("1st Gen - Standard","loc_cockpits_g1.shtml","",0,20,120);
+		Menu2_8_2=new Array("1st Gen - Support","loc_cockpits_g1s.shtml","",0,20,120);
+		Menu2_8_3=new Array("2nd Gen - Standard","loc_cockpits_g2.shtml","",0,20,120);
+		Menu2_8_4=new Array("2nd Gen - Support","loc_cockpits_g2s.shtml","",0,20,120);
+		Menu2_8_5=new Array("2nd Gen - Jaralaccs","loc_cockpits_g2j.shtml","",0,20,120);
+		Menu2_8_6=new Array("3rd Gen - Standard","loc_cockpits_g3.shtml","",0,20,120);
+	Menu2_9=new Array("VT Customisation","loc_vtcustom.shtml","",0,20,130);
+	
+Menu3=new Array("<img src='image/btn_config.gif' width='81' height='11'>","","",5,11,81);
+	Menu3_1=new Array("Weapon Information","loc_weapon.shtml","",0,20,130);
+	Menu3_2=new Array("Weapon Summary","loc_weapon_summary.shtml","",0,20,130);
+	Menu3_3=new Array("Weapon Configuration","loc_weaponconfig.shtml","",0,20,130);
+	Menu3_4=new Array("Optional Parts","loc_optionalparts.shtml","",0,20,130);
+	Menu3_5=new Array("Weapon Range Compare","loc_rangecompare.shtml","",0,20,130);
+	
+Menu4=new Array("<img src='image/btn_testing.gif' width='55' height='11'>","","",9,11,55);
+	Menu4_1=new Array("Testing & Results","loc_testing.shtml","",0,20,200);
+	Menu4_2=new Array("Loadout Weight Effect on Turning","loc_testing_turnweighteffect.shtml","",0,20,200);
+	Menu4_3=new Array("Vertical Tank Rise Time","loc_testing_vt_risetime.shtml","",0,20,200);
+	Menu4_4=new Array("Platform and Leg Durability","loc_testing_dur.shtml","",0,20,200);
+	Menu4_5=new Array("Vertical Tank Distance Modifiers","loc_testing_distancemod.shtml","",0,20,200);
+	Menu4_6=new Array("Vertical Tank Turning Performance","loc_testing_turn.shtml","",0,20,200);
+	Menu4_7=new Array("Vertical Tank Acceleration Testing","loc_testing_speed.shtml","",0,20,200);
+	Menu4_8=new Array("Guided Missile Testing","loc_testing_guidedmissile.shtml","",0,20,200);
+	Menu4_9=new Array("Torque Performance on Terrain","loc_testing_crossgear.shtml","",0,20,200);
+	
+Menu5=new Array("<img src='image/btn_tactical.gif' width='94' height='11'>","","",3,11,94);
+	Menu5_1=new Array("Sortie Points","loc_sortiepoints.shtml","",0,20,120);
+	Menu5_2=new Array("Gameplay","loc_gameplay.shtml","",0,20,120);
+	Menu5_3=new Array("Mission Information","loc_mission.shtml","",25,20,120);
+		Menu5_3_1=new Array("Mission 00 - Live Ammunition Training Grounds","loc_mission00.shtml","",0,20,300);
+		Menu5_3_2=new Array("Mission 01 - Sha Wan Hills","loc_mission01.shtml","",0,20,300);
+		Menu5_3_3=new Array("Mission 02 - Dong Lai River Ford","loc_mission02.shtml","",0,20,300);
+		Menu5_3_4=new Array("Mission 03 - Capture of Outpost 8","loc_mission03.shtml","",0,20,300);
+		Menu5_3_5=new Array("Mission 04 - Occupation of Highland 33","loc_mission04.shtml","",0,20,300);
+		Menu5_3_6=new Array("Mission 05 - Ji Feng Military Base","loc_mission05.shtml","",0,20,300);
+		Menu5_3_7=new Array("Mission 06 - Hong Shan Military Base","loc_mission06.shtml","",0,20,300);
+		Menu5_3_8=new Array("Mission 07 - Battle of Jian Da Harbor","loc_mission07.shtml","",0,20,300);
+		Menu5_3_9=new Array("Mission 08 - Zhong Huan City","loc_mission08.shtml","",0,20,300);
+		Menu5_3_10=new Array("Mission 09 - Reserve Base Siege","loc_mission09.shtml","",0,20,300);
+		Menu5_3_11=new Array("Mission 10 - Jacalita Woodlands","loc_mission10.shtml","",0,20,300);
+		Menu5_3_12=new Array("Mission 11 - San Kuchen Subterranean Fortress","loc_mission11.shtml","",0,20,300);
+		Menu5_3_13=new Array("Mission 12 - Ji Feng Basin","loc_mission12.shtml","",0,20,300);
+		Menu5_3_14=new Array("Mission 13 - Airbase Assault","loc_mission13.shtml","",0,20,300);
+		Menu5_3_15=new Array("Mission 14 - Wei Gu Strike","loc_mission14.shtml","",0,20,300);
+		Menu5_3_16=new Array("Mission 15 - Container Extraction","loc_mission15.shtml","",0,20,300);
+		Menu5_3_17=new Array("Mission 16 - Nan Jiang Ravine","loc_mission16.shtml","",0,20,300);
+		Menu5_3_18=new Array("Mission 17 - New Nan Jiang Factory","loc_mission17.shtml","",0,20,300);
+		Menu5_3_19=new Array("Mission 18 - Battle of Meng Chung He","loc_mission18.shtml","",0,20,300);
+		Menu5_3_20=new Array("Mission 19 - Yun Kota Gorge","loc_mission19.shtml","",0,20,300);
+		Menu5_3_21=new Array("Mission 20 - Xen Feng Tian Corridor","loc_mission20.shtml","",0,20,300);
+		Menu5_3_22=new Array("Mission 21 - Yu Jai Woodlands","loc_mission21.shtml","",0,20,300);
+		Menu5_3_23=new Array("Mission 22 - Capture of Xen Feng Tian","loc_mission22.shtml","",0,20,300);
+		Menu5_3_24=new Array("Mission 23 - Er Ting Foothills","loc_mission23.shtml","",0,20,300);
+		Menu5_3_25=new Array("Mission 24 - Defense of Yu Jai Village","loc_mission24.shtml","",0,20,300);
+		
+Menu6=new Array("<img src='image/btn_intel.gif' width='86' height='11'>","","",10,11,86);
+	Menu6_1=new Array("Pilot Profile","loc_pilotprofile.shtml","",0,20,150);
+	Menu6_2=new Array("Rank","loc_rank.shtml","",0,20,150);
+	Menu6_3=new Array("Awards","loc_awards.shtml","",0,20,150);
+	Menu6_4=new Array("Professional Names","loc_professional.shtml","",0,20,150);
+	Menu6_5=new Array("Faction Intel","loc_faction.shtml","",0,20,150);
+	Menu6_6=new Array("Communication","loc_communication.shtml","",0,20,150);
+	Menu6_7=new Array("Glossary","loc_glossary.shtml","",0,20,150);
+	Menu6_8=new Array("Githon's Steel Battalion Guide","loc_sbt.shtml","",0,20,150);
+	Menu6_9=new Array("Frequently Asked Questions","loc_faq.shtml","",0,20,150);
+	Menu6_10=new Array("Exploits","loc_exploits.shtml","",0,20,150);
+	
+Menu7=new Array("<img src='image/btn_platform.gif' width='58' height='11'>","","",12,11,58);
+	Menu7_1=new Array("Platform Overview","loc_platform.shtml","",0,20,150);
+	Menu7_2=new Array("Game Specifications","loc_game.shtml","",0,20,150);
+	Menu7_3=new Array("Game Requirements","loc_requirements.shtml","",0,20,150);
+	Menu7_4=new Array("Controller Overview","loc_controller.shtml","",0,20,150);
+	Menu7_5=new Array("Controller Serial Archive","loc_serialarchive.shtml","",0,20,150);
+	Menu7_6=new Array("Controller Differences","loc_controllerdifferences.shtml","",0,20,150);
+	Menu7_7=new Array("Connection Issues","loc_connection.shtml","",0,20,150);
+	Menu7_8=new Array("Game History & Patches","loc_gamehistory.shtml","",0,20,150);
+	Menu7_9=new Array("Replay Information","loc_replay.shtml","",0,20,150);
+	Menu7_10=new Array("Custom Soundtracks","loc_boombox.shtml","",0,20,150);
+	Menu7_11=new Array("SB vs SB: LOC","loc_sbdifferences.shtml","",0,20,150);
+	Menu7_12=new Array("Cockpit Setups","loc_cockpit.shtml","",0,20,150);
+	
+Menu8=new Array("<img src='image/btn_media.gif' width='76' height='11'>","","",10,11,76);
+	Menu8_1=new Array("Media Overview","loc_media.shtml","",0,20,150);
+	Menu8_2=new Array("VT Open Cockpit Details","loc_media_cockpit.shtml","",0,20,150);
+	Menu8_3=new Array("Hai Shi Dao VTs","","",12,20,150);
+		Menu8_3_1=new Array("Vitzh","loc_media_vitzh.shtml","",0,20,100);
+		Menu8_3_2=new Array("Vortex","loc_media_vortex.shtml","",0,20,100);
+		Menu8_3_3=new Array("Scare Face","loc_media_scareface.shtml","",0,20,100);
+		Menu8_3_4=new Array("m-Vitzh","loc_media_mvitzh.shtml","",0,20,100);
+		Menu8_3_5=new Array("Scare Face A1","loc_media_scarefacea1.shtml","",0,20,100);
+		Menu8_3_6=new Array("Scare Face II","loc_media_scareface2.shtml","",0,20,100);
+		Menu8_3_7=new Array("Maelstrom","loc_media_maelstrom.shtml","",0,20,100);
+		Menu8_3_8=new Array("Behemoth","loc_media_behemoth.shtml","",0,20,100);
+		Menu8_3_9=new Array("Garpike","loc_media_garpike.shtml","",0,20,100);
+		Menu8_3_10=new Array("Regal Dress A","loc_media_regaldressa.shtml","",0,20,100);
+		Menu8_3_11=new Array("Regal Dress N","loc_media_regaldressn.shtml","",0,20,100);
+		Menu8_3_12=new Array("Juggernaut","loc_media_juggernaut.shtml","",0,20,100);
+	Menu8_4=new Array("Pacific Rim Forces VTs","","",9,20,150);
+		Menu8_4_1=new Array("Decider","loc_media_decider.shtml","",0,20,100);
+		Menu8_4_2=new Array("Falchion","loc_media_falchion.shtml","",0,20,100);
+		Menu8_4_3=new Array("Decider Volcanic","loc_media_decidervolcanic.shtml","",0,20,100);
+		Menu8_4_4=new Array("Prominence M1","loc_media_prominencem1.shtml","",0,20,100);
+		Menu8_4_5=new Array("Prominence M2","loc_media_prominencem2.shtml","",0,20,100);
+		Menu8_4_6=new Array("Prominence M3","loc_media_prominencem3.shtml","",0,20,100);
+		Menu8_4_7=new Array("Blade","loc_media_blade.shtml","",0,20,100);
+		Menu8_4_8=new Array("Rapier","loc_media_rapier.shtml","",0,20,100);
+		Menu8_4_9=new Array("Quasar","loc_media_quasar.shtml","",0,20,100);
+	Menu8_5=new Array("Right Brothers VTs","","",6,20,150);
+		Menu8_5_1=new Array("Colt","loc_media_colt.shtml","",0,20,100);
+		Menu8_5_2=new Array("Colt Executive","loc_media_coltexecutive.shtml","",0,20,100);
+		Menu8_5_3=new Array("Yellow Jacket","loc_media_yellowjacket.shtml","",0,20,100);
+		Menu8_5_4=new Array("Sheepdog","loc_media_sheepdog.shtml","",0,20,100);
+		Menu8_5_5=new Array("Siegeszug","loc_media_siegeszug.shtml","",0,20,100);
+		Menu8_5_6=new Array("Earthshaker","loc_media_earthshaker.shtml","",0,20,100);
+	Menu8_6=new Array("Jaralaccs Mercenary VTs","","",4,20,150);
+		Menu8_6_1=new Array("Jaralaccs C","loc_media_jaralaccsc.shtml","",0,20,100);
+		Menu8_6_2=new Array("Jaralaccs N","loc_media_jaralaccsn.shtml","",0,20,100);
+		Menu8_6_3=new Array("Jaralaccs NS-R","loc_media_jaralaccsnsr.shtml","",0,20,100);
+		Menu8_6_4=new Array("Jaralaccs Macabre","loc_media_jaralaccsmacabre.shtml","",0,20,100);
+	Menu8_7=new Array("Battle Images","","",6,20,150);
+		Menu8_7_1=new Array("Battle 01","loc_media_battle.shtml","",0,20,100);
+		Menu8_7_2=new Array("Battle 02","loc_media_battle2.shtml","",0,20,100);
+		Menu8_7_3=new Array("Battle 03","loc_media_battle3.shtml","",0,20,100);
+		Menu8_7_4=new Array("Battle 04","loc_media_battle4.shtml","",0,20,100);
+		Menu8_7_5=new Array("Battle 05","loc_media_battle5.shtml","",0,20,100);
+		Menu8_7_6=new Array("Battle 06","loc_media_battle6.shtml","",0,20,100);
+	Menu8_8=new Array("Chaff Deployment Details","loc_media_chaff.shtml","",0,20,150);
+	Menu8_9=new Array("Gameplay Movies","loc_media_movies.shtml","",0,20,150);
+	Menu8_10=new Array("Action Replay Files","loc_media_actionreplay.shtml","",0,20,150);
+
+Menu9=new Array("<img src='image/btn_misc.gif' width='83' height='11'>","","",3,11,83);
+	Menu9_1=new Array("BoxLOC","loc_boxloc.shtml","",0,20,150);
+	Menu9_2=new Array("Order of Garpike","loc_orderofpike.shtml","",0,20,150);
+	Menu9_3=new Array("Random VT Selector","loc_randomvtselector.shtml","",0,20,150);
+
+Menu10=new Array("<img src='image/btn_comm.gif' width='49' height='11'>","","",2,11,49);
+	Menu10_1=new Array("Contact Us","loc_contact.shtml","",0,20,150);
+	Menu10_2=new Array("Links of Interest","loc_discuss.shtml","",0,20,150);
+
+Menu11=new Array("<img src='image/btn_about.gif' width='63' height='11'>","","",3,11,63);
+	Menu11_1=new Array("About the Site","loc_about.shtml","",0,20,150);
+	Menu11_2=new Array("Site Credits","loc_about.shtml#credits","",0,20,150);
+	Menu11_3=new Array("Sitemap","loc_sitemap.shtml","",0,20,150);
+</script>
+
+<div align="center">
+
+<table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td>&nbsp;</td>
+		<td width="900" height="88" valign="top">
+		
+		<!---begin header and navigation--->
+		<table width="900" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="9" height="79"><img src="image/bg_navhd01.gif" width="9" height="79" border="0" alt=""></td>
+				<td width="105" height="79"><a href="loc_main.shtml"><img src="image/header01.gif" width="105" height="79" border="0" alt="LINEOFCONTACT.NET"></a></td>
+				<td width="8" height="79"><img src="image/bg_navhd02.gif" width="8" height="79" border="0" alt=""></td>
+				<td width="778" height="79">
+				<table width="778" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td width="778" height="41">
+						<table width="778" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="425" height="41" align="left"><img src="image/hdr_icons.gif" width="22" height="41" border="0" alt=""></td>
+								<td width="353" height="41" align="right"><img src="image/hdr_locnet.gif" width="353" height="41" border="0" alt="LINEOFCONTACT.NET - Your Source for Steel Battalion: Line of Contact Information"></td>
+							</tr>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td width="778" height="11">
+						<span id="dropmenu">
+						<table width="778" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="51" height="11"><img src="image/btn_tutorial.gif" width="51" height="11" border="0" alt="TUTORIAL"></td>
+								<td width="82" height="11"><img src="image/btn_vt.gif" width="82" height="11" border="0" alt="VERTICAL TANKS"></td>
+								<td width="81" height="11"><img src="image/btn_config.gif" width="81" height="11" border="0" alt="CONFIGURATION"></td>
+								<td width="55" height="11"><img src="image/btn_testing.gif" width="55" height="11" border="0" alt="TESTING"></td>
+								<td width="94" height="11"><img src="image/btn_tactical.gif" width="94" height="11" border="0" alt="TACTICAL ANALYSIS"></td>
+								<td width="86" height="11"><img src="image/btn_intel.gif" width="86" height="11" border="0" alt="INTEL &amp; BRIEFING"></td>
+								<td width="58" height="11"><img src="image/btn_platform.gif" width="58" height="11" border="0" alt="PLATFORM"></td>
+								<td width="76" height="11"><img src="image/btn_media.gif" width="76" height="11" border="0" alt="MEDIA UPLINK"></td>
+								<td width="83" height="11"><img src="image/btn_misc.gif" width="83" height="11" border="0" alt="MISCELLANEOUS"></td>
+								<td width="49" height="11"><img src="image/btn_comm.gif" width="49" height="11" border="0" alt="COMLINK"></td>
+								<td width="63" height="11"><img src="image/btn_about.gif" width="63" height="11" border="0" alt="ABOUT SITE"></td>
+							</tr>
+						</table>
+						</span>
+						</td>
+					</tr>
+					<tr>
+						<td width="778" height="18">
+						<table width="778" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="51" height="18" background="image/bg_navhd07.gif"></td>
+								<td style="padding-top: 2px; padding-left: 3px;" width="725" height="18" background="image/bg_navhd08_splice.gif"><span class="headline">LATEST NEWS:</span> KEEBLER ON FIRE AGAIN - <span style="font-size: 9px;">Regular LOC times Wed from 8:30pmEST, Sun from 3pm EST</span></td>
+								<td width="2" height="18" background="image/bg_navhd08.gif"></td>
+							</tr>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td width="778" height="9" background="image/bg_navhd05_runner.gif"></td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+			<tr>
+				<td width="9" height="9"><img src="image/bg_navhd03.gif" width="9" height="9" border="0" alt=""></td>
+				<td width="105" height="9" background="image/bg_navhd03_splice.gif"></td>
+				<td width="8" height="9"><img src="image/bg_navhd04.gif" width="8" height="9" border="0" alt=""></td>
+				<td width="778" height="9" align="left"><img src="image/bg_navhd06.gif" width="5" height="9" border="0" alt=""></td>
+			</tr>
+		</table>
+		<!---end header and navigation--->
+		</td>
+		<td>&nbsp;</td>
+	</tr>
+<!---end header navigation include--->
+<!---end navigation include--->
+	<tr>
+		<td>&nbsp;</td>
+		<td width="900" height="40">
+		<div style="height: 9px;"></div>
+		<table width="900" cellspacing="0" cellpadding="0" style="border-style: solid; border-width: 1px; border-color: #000000;">
+			<tr>
+				<td width="106" height="13" background="image/bg_currentdoc.gif"></td>
+				<td class="crumbs" style="padding-left: 5px;" width="794" height="13" bgcolor="#E4E4E4"><a class="crumbs" href="loc_main.shtml">Home</a> &gt; Configuration &gt; <a class="crumbs" href="loc_optionalparts.shtml">Optional Parts</a></td>
+			</tr>
+		</table>
+		<div style="height: 18px;"></div>
+		</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td width="900" valign="top">
+		<!---start content area--->
+		<div class="H1">Optional Parts</div>
+		<br>
+		Optional Parts allow the addition of special capabilities or enhanced performance to a players Vertical Tank.  There are two main categories of Optional Parts, those that are permanent and those that can be lost through usage or VT destruction.  My terminology for these is "Durable" and "Transient" respectively.  Durable parts cannot be lost to connection errors or VT destruction and remain with a pilot profile until traded or deleted.  Transient parts tend to be available only until the current VT on which they are mounted is destroyed.  Additionally, certain parts seem to have maximum use limitations, after which they disappear from a pilot inventory.
+		<br>
+		<br>
+		The circumstances under which Optional Parts are "won" is not completely understood and has never been fully explained by the game developer.  The general theory is that optional parts are awarded to a team when the results of a given mission increment the map percentage holding of their faction.
+		In an interview, one of the game developers was asked about optional parts, and his statement was "After a victory, parts are distributed at random, however, the type of part which can be received is decided by combat/war situational results."  It has been observed that more parts become available as Turns within a Round progress.  A matrix of availability is available here.
+		<br>
+		<br>
+		Optional Parts may be traded amongst players, and along with rare VTs, are the only true valuable commodity in the game.<br>
+		<br>
+		<div class="H1">Durable Optional Parts</div>
+		<br>
+		<div style="width: 800px; border-style: solid; border-color: #000000; border-width: 1px; padding: 5px; padding-right: 1px;">
+		<table width="794" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100" valign="top"><img src="image/optpartico_addmount.jpg" width="100" height="100"></td>
+				<td width="5"><!---spacer---></td>
+				<td width="689" valign="top">
+				<table width="689" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td style="background-repeat: repeat-x;" width="689" height="21" background="image/opname_spacer1.jpg"><img src="image/opname_addmount.jpg" height="21"></td>
+					</tr>
+					<tr>
+						<td width="689" valign="top">
+						<table width="689" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="500" valign="top">Increases the MAX weight amount that a VT can equip. The VT would still be OVR STD (over standard) and thus more unbalanced, but the additional loadout capacity may be more beneficial than any detrimental instability incurred.  Both Additional and Advanced Mount optional parts help to offset weight overloading effects on <a href="loc_testing_turnweighteffect.shtml">Turning Performance</a>.</td>
+								<td width="189" valign="top">
+								<table width="189" border="1" cellspacing="0" cellpadding="2" bordercolor="#6B6B6B">
+									<tr>
+										<td width="40" bgcolor="#EEEEEE">Level 1</td>
+										<td>Weight MAX +2 units</td>
+									</tr>
+									<tr>
+										<td width="40" bgcolor="#DDDDDD">Level 2</td>
+										<td>Weight MAX +4 units</td>
+									</tr>
+									<tr>
+										<td width="40" bgcolor="#CCCCCC">Level 3</td>
+										<td>Weight MAX +6 units</td>
+									</tr>
+								</table>
+								</td>
+							</tr>
+						</table>
+						</td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+		</table>
+		</div>
+		<br>
+		<div style="width: 800px; border-style: solid; border-color: #000000; border-width: 1px; padding: 5px; padding-right: 1px;">
+		<table width="794" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100" valign="top"><img src="image/optpartico_advmount.jpg" width="100" height="100"></td>
+				<td width="5"><!---spacer---></td>
+				<td width="689" valign="top">
+				<table width="689" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td style="background-repeat: repeat-x;" width="689" height="21" background="image/opname_spacer1.jpg"><img src="image/opname_advmount.jpg" width="213" height="21"></td>
+					</tr>
+					<tr>
+						<td width="689" valign="top">
+						<table width="689" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="500" valign="top">Increases BOTH the STD and MAX weight mounts that a VT can equip.  This enables a VT to maintain an under STD weight when it would normally be OVR STD but equip more weaponry or fuel tanks.  Both Additional and Advanced Mount optional parts help to offset weight overloading effects on <a href="loc_testing_turnweighteffect.shtml">Turning Performance</a>.</td>
+								<td width="189" valign="top">
+								<table width="189" border="1" cellspacing="0" cellpadding="2" bordercolor="#6B6B6B">
+									<tr>
+										<td width="40" bgcolor="#EEEEEE">Level 1</td>
+										<td>Weight STD +2<br>
+										Weight MAX +2
+										</td>
+									</tr>
+									<tr>
+										<td width="40" bgcolor="#DDDDDD">Level 2</td>
+										<td>Weight STD +4<br>
+										Weight MAX +4
+										</td>
+									</tr>
+									<tr>
+										<td width="40" bgcolor="#CCCCCC">Level 3</td>
+										<td>Weight STD +6<br>
+										Weight MAX +6</td>
+									</tr>
+								</table>
+								</td>
+							</tr>
+						</table>
+						</td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+		</table>
+		</div>
+		<br>
+		<div style="width: 800px; border-style: solid; border-color: #000000; border-width: 1px; padding: 5px; padding-right: 1px;">
+		<table width="794" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100" valign="top"><img src="image/optpartico_mechunit.jpg" width="100" height="100"></td>
+				<td width="5"><!---spacer---></td>
+				<td width="689" valign="top">
+				<table width="689" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td style="background-repeat: repeat-x;" width="689" height="21" background="image/opname_spacer1.jpg"><img src="image/opname_mechunit.jpg" width="213" height="21"></td>
+					</tr>
+					<tr>
+						<td width="689" valign="top">
+						<table width="689" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="500" valign="top">Increases the durability of a VT armour by a given percentage.  I actually ran tests to determine by what factor with the help of several other players.  My test results conflict with other reported data, for completeness I have included both sets, with my results bolded and the other data italicised.</td>
+								<td width="189" valign="top">
+								<table width="189" border="1" cellspacing="0" cellpadding="2" bordercolor="#6B6B6B">
+									<tr>
+										<td width="40" bgcolor="#EEEEEE">Level 1</td>
+										<td>Durability +6.7%<br>
+										<em>Durability +10%</em>
+										</td>
+									</tr>
+									<tr>
+										<td width="40" bgcolor="#DDDDDD">Level 2</td>
+										<td>Durability +18.5%<br>
+										<em>Durability +20%</em>
+										</td>
+									</tr>
+									<tr>
+										<td width="40" bgcolor="#CCCCCC">Level 3</td>
+										<td>Durability +28%<br>
+										<em>Durability +30%</em>
+										</td>
+									</tr>
+								</table>
+								</td>
+							</tr>
+						</table>
+						</td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+		</table>
+		</div>
+		<br>
+		<div style="width: 800px; border-style: solid; border-color: #000000; border-width: 1px; padding: 5px; padding-right: 1px;">
+		<table width="794" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100" valign="top"><img src="image/optpartico_powercell.jpg" width="100" height="100"></td>
+				<td width="5"><!---spacer---></td>
+				<td width="689" valign="top">
+				<table width="689" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td style="background-repeat: repeat-x;" width="689" height="21" background="image/opname_spacer1.jpg"><img src="image/opname_advpower.jpg" width="213" height="21"></td>
+					</tr>
+					<tr>
+						<td width="689" valign="top">
+						<table width="689" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="500" valign="top">Decreases the battery recovery and recharge time when performing slidesteps or using charged weapons (Rail Gun, Gauss, melee weapons).  Actual test values were never obtained due to part rarity and difficulty in scheduling and designing an appropriate test.  Inferred values (obtained from Japanese players) are given in italics.  These values would be consistent with the 10/20/30 percent values found for Mechanic  optional parts.</td>
+								<td width="189" valign="top">
+								<table width="189" border="1" cellspacing="0" cellpadding="2" bordercolor="#6B6B6B">
+									<tr>
+										<td width="40" bgcolor="#EEEEEE">Level 1</td>
+										<td>unknown<br>
+										<em>Battery Recovery +10%</em>
+										</td>
+									</tr>
+									<tr>
+										<td width="40" bgcolor="#DDDDDD">Level 2</td>
+										<td>unknown<br>
+										<em>Battery Recovery +20%</em>
+										</td>
+									</tr>
+									<tr>
+										<td width="40" bgcolor="#CCCCCC">Level 3</td>
+										<td>unknown<br>
+										<em>Battery Recovery +30%</em>
+										</td>
+									</tr>
+								</table>
+								</td>
+							</tr>
+						</table>
+						</td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+		</table>
+		</div>
+		<br>
+		<div style="width: 800px; border-style: solid; border-color: #000000; border-width: 1px; padding: 5px; padding-right: 1px;">
+		<table width="794" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100" valign="top"><img src="image/optpartico_advbal.jpg" width="100" height="100"></td>
+				<td width="5"><!---spacer---></td>
+				<td width="689" valign="top">
+				<table width="689" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td style="background-repeat: repeat-x;" width="689" height="21" background="image/opname_spacer1.jpg"><img src="image/opname_advbal.jpg" width="213" height="21"></td>
+					</tr>
+					<tr>
+						<td width="689" valign="top">
+						<table width="689" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="500" valign="top">Makes a VT more stable and less likely to tip during turning, especially at high speeds in 5th gear wheel mode.  Use of this part is especially important to pilots of light attack VTs like the Falchion, Blade and Rapier.  Actual test values are unavailable as a proper test could not be designed or scheduled to obtain the information.  Values provided are based on reports from Japanese players and are consistent with the 10/20/30 percentage values for Mechanic unit optional parts.</td>
+								<td width="189" valign="top">
+								<table width="189" border="1" cellspacing="0" cellpadding="2" bordercolor="#6B6B6B">
+									<tr>
+										<td width="40" bgcolor="#EEEEEE">Level 1</td>
+										<td>unknown<br>
+										<em>Balancer Rating +10%</em>
+										</td>
+									</tr>
+									<tr>
+										<td width="40" bgcolor="#DDDDDD">Level 2</td>
+										<td>unknown<br>
+										<em>Balancer Rating +20%</em>
+										</td>
+									</tr>
+									<tr>
+										<td width="40" bgcolor="#CCCCCC">Level 3</td>
+										<td>unknown<br>
+										<em>Balancer Rating +30%</em>
+										</td>
+									</tr>
+								</table>
+								</td>
+							</tr>
+						</table>
+						</td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+		</table>
+		</div>
+		<br>
+		<div style="width: 800px; border-style: solid; border-color: #000000; border-width: 1px; padding: 5px; padding-right: 1px;">
+		<table width="794" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100" valign="top"><img src="image/optpartico_tactician.jpg" width="100" height="100"></td>
+				<td width="5"><!---spacer---></td>
+				<td width="689" valign="top">
+				<table width="689" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td style="background-repeat: repeat-x;" width="689" height="21" background="image/opname_spacer1.jpg"><img src="image/opname_tactunit.jpg" width="213" height="21"></td>
+					</tr>
+					<tr>
+						<td width="689" valign="top">
+						<table width="689" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="500" valign="top">Increases the number of sortie points that a team starts a mission with.  Can be useful for offsetting the sortie point advantage of highly ranked players on an opposing team.</td>
+								<td width="189" valign="top">
+								<table width="189" border="1" cellspacing="0" cellpadding="2" bordercolor="#6B6B6B">
+									<tr>
+										<td width="40" bgcolor="#EEEEEE">Level 1</td>
+										<td>Team Start Sortie + 10pts</td>
+									</tr>
+									<tr>
+										<td width="40" bgcolor="#DDDDDD">Level 2</td>
+										<td>Team Start Sortie + 20pts</td>
+									</tr>
+									<tr>
+										<td width="40" bgcolor="#CCCCCC">Level 3</td>
+										<td>Team Start Sortie + 30pts</td>
+									</tr>
+								</table>
+								</td>
+							</tr>
+						</table>
+						</td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+		</table>
+		</div>
+		<br>
+		<div style="width: 800px; border-style: solid; border-color: #000000; border-width: 1px; padding: 5px; padding-right: 1px;">
+		<table width="794" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100" valign="top"><img src="image/optpartico_stratunit.jpg" width="100" height="100"></td>
+				<td width="5"><!---spacer---></td>
+				<td width="689" valign="top">
+				<table width="689" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td style="background-repeat: repeat-x;" width="689" height="21" background="image/opname_spacer1.jpg"><img src="image/opname_stratunit.jpg" width="213" height="21"></td>
+					</tr>
+					<tr>
+						<td width="689" valign="top">
+						<table width="689" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="500" valign="top">A combat point multiplier for end-of-mission combat point results.  When equipped, the part applies an additional value to the "normally" awarded Strategic/Command points at the end of a mission.  For example, if a Strategic Unit Level 1 was equipped and the default 6000 strategic points was awarded, the actual amount applied to the pilot profile would be 6600 (6000 + (6000 x 0.10)).  Very useful for newer players to increase rank more quickly.</td>
+								<td width="189" valign="top">
+								<table width="189" border="1" cellspacing="0" cellpadding="2" bordercolor="#6B6B6B">
+									<tr>
+										<td width="40" bgcolor="#EEEEEE">Level 1</td>
+										<td>Result + 10%</td>
+									</tr>
+									<tr>
+										<td width="40" bgcolor="#DDDDDD">Level 2</td>
+										<td>Result + 20%</td>
+									</tr>
+									<tr>
+										<td width="40" bgcolor="#CCCCCC">Level 3</td>
+										<td>Result + 30%</td>
+									</tr>
+								</table>
+								</td>
+							</tr>
+						</table>
+						</td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+		</table>
+		</div>
+		<br>
+		<div style="width: 800px; border-style: solid; border-color: #000000; border-width: 1px; padding: 5px; padding-right: 1px;">
+		<table width="794" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100" valign="top"><img src="image/optpartico_supplybat.jpg" width="100" height="100"></td>
+				<td width="5"><!---spacer---></td>
+				<td width="689" valign="top">
+				<table width="689" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td style="background-repeat: repeat-x;" width="689" height="21" background="image/opname_spacer1.jpg"><img src="image/opname_supplybat.jpg" width="213" height="21"></td>
+					</tr>
+					<tr>
+						<td width="689" valign="top">
+						<table width="689" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="500" valign="top">A supply points multiplier for end-of-mission supply point results.  Very useful for newer players to build up money quickly or for experienced players to offset the loss of high supply point value VTs. Identical in point calculation to the Strategic Unit optional part.</td>
+								<td width="189" valign="top">
+								<table width="189" border="1" cellspacing="0" cellpadding="2" bordercolor="#6B6B6B">
+									<tr>
+										<td width="40" bgcolor="#EEEEEE">Level 1</td>
+										<td>Result + 10%</td>
+									</tr>
+									<tr>
+										<td width="40" bgcolor="#DDDDDD">Level 2</td>
+										<td>Result + 20%</td>
+									</tr>
+									<tr>
+										<td width="40" bgcolor="#CCCCCC">Level 3</td>
+										<td>Result + 30%</td>
+									</tr>
+								</table>
+								</td>
+							</tr>
+						</table>
+						</td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+		</table>
+		</div>
+		<br>
+		<div class="H1">Transient Optional Parts</div>
+		<br>
+		<div style="width: 800px; border-style: solid; border-color: #000000; border-width: 1px; padding: 5px; padding-right: 1px;">
+		<table width="794" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100" valign="top"><img src="image/optpartico_advarmour.jpg" width="100" height="100"></td>
+				<td width="5"><!---spacer---></td>
+				<td width="689" valign="top">
+				<table width="689" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td style="background-repeat: repeat-x;" width="689" height="21" background="image/opname_spacer1.jpg"><img src="image/opname_advarmour.jpg" width="213" height="21"></td>
+					</tr>
+					<tr>
+						<td width="689" valign="top">
+						<table width="689" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="689" valign="top">Increases the <a href="loc_testing_distancemod.shtml">distance modifier</a> armour rating of the VT on which it is equipped by 200m.  Lost if the current VT is destroyed.  The durability "bonus" added by this optional part is very minimal, given that mounting it only enables a distance modifier, not increased durability. Essentially equips a distance modification effect like that found on Heavy Class VT armour.</td>
+							</tr>
+						</table>
+						</td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+		</table>
+		</div>
+		<br>
+		<div style="width: 800px; border-style: solid; border-color: #000000; border-width: 1px; padding: 5px; padding-right: 1px;">
+		<table width="794" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100" valign="top"><img src="image/optpartico_survunit.jpg" width="100" height="100"></td>
+				<td width="5"><!---spacer---></td>
+				<td width="689" valign="top">
+				<table width="689" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td style="background-repeat: repeat-x;" width="689" height="21" background="image/opname_spacer1.jpg"><img src="image/opname_survunit.jpg" width="213" height="21"></td>
+					</tr>
+					<tr>
+						<td width="689" valign="top">
+						<table width="689" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="689" valign="top">Decreases the necessary time to capture an enemy base by  half (15 seconds from an original of 30).  Often used by Sheepdog pilots to rapidly take out the re-spawn capability of an opposing side. Lost if the current VT is destroyed.  Also, there have been reports that this part "disappears" after 3 uses.  Unable to confirm due to the rarity of the part.</td>
+							</tr>
+						</table>
+						</td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+		</table>
+		</div>
+		<br>
+		<div style="width: 800px; border-style: solid; border-color: #000000; border-width: 1px; padding: 5px; padding-right: 1px;">
+		<table width="794" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100" valign="top"><img src="image/optpartico_generalinsp.jpg" width="100" height="100"></td>
+				<td width="5"><!---spacer---></td>
+				<td width="689" valign="top">
+				<table width="689" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td style="background-repeat: repeat-x;" width="689" height="21" background="image/opname_spacer1.jpg"><img src="image/opname_generalinsp.jpg" width="213" height="21"></td>
+					</tr>
+					<tr>
+						<td width="689" valign="top">
+						<table width="689" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="689" valign="top"> When equipped, it will increase a players rank to the next higher rank at the end of a mission. This part disappears after one use whether or not the player VT is destroyed in battle.  The rank increase will occur whether or not the player is destroyed, or even if the player team is victorious in the mission.</td>
+							</tr>
+						</table>
+						</td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+		</table>
+		</div>
+		<br>
+		<div style="width: 800px; border-style: solid; border-color: #000000; border-width: 1px; padding: 5px; padding-right: 1px;">
+		<table width="794" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100" valign="top"><img src="image/optpartico_antishock.jpg" width="100" height="100"></td>
+				<td width="5"><!---spacer---></td>
+				<td width="689" valign="top">
+				<table width="689" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td style="background-repeat: repeat-x;" width="689" height="21" background="image/opname_spacer1.jpg"><img src="image/opname_antishock.jpg" width="213" height="21"></td>
+					</tr>
+					<tr>
+						<td width="689" valign="top">
+						<table width="689" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="689" valign="top">Makes a player VT immune to plasma torch, stun rod and gauss weapons.   Not commonly used (or needed). Lost if the current VT is destroyed.  Unavailable on resortie, even within the same mission/match.</td>
+							</tr>
+						</table>
+						</td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+		</table>
+		</div>
+		<br>
+		<div style="width: 800px; border-style: solid; border-color: #000000; border-width: 1px; padding: 5px; padding-right: 1px;">
+		<table width="794" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100" valign="top"><img src="image/optpartico_advradar.jpg" width="100" height="100"></td>
+				<td width="5"><!---spacer---></td>
+				<td width="689" valign="top">
+				<table width="689" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td style="background-repeat: repeat-x;" width="689" height="21" background="image/opname_spacer1.jpg"><img src="image/opname_advradar.jpg" width="213" height="21"></td>
+					</tr>
+					<tr>
+						<td width="689" valign="top">
+						<table width="689" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="689" valign="top">When equipped, enables a player VT to "see" enemy player VTs on radar within a 1000m radius. Lost if the current VT is destroyed in battle.  Also, per player reports, this part disappears after three uses.  Unable to confirm due to part rarity.</td>
+							</tr>
+						</table>
+						</td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+		</table>
+		</div>
+		<br>
+		<div style="width: 800px; border-style: solid; border-color: #000000; border-width: 1px; padding: 5px; padding-right: 1px;">
+		<table width="794" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100" valign="top"><img src="image/optpartico_goddess.jpg" width="100" height="100"></td>
+				<td width="5"><!---spacer---></td>
+				<td width="689" valign="top">
+				<table width="689" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td style="background-repeat: repeat-x;" width="689" height="21" background="image/opname_spacer1.jpg"><img src="image/opname_goddess.jpg" width="213" height="21"></td>
+					</tr>
+					<tr>
+						<td width="689" valign="top">
+						<table width="689" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="689" valign="top">Allows a player to keep their current VT if it is destroyed in battle.  This also deprives the opponent player who destroyed the VT their kill.  This will also allow a players pilot profile to "live" though a KIA situation but at the cost of the loss of the current VT. When the player VT is destroyed in a mission, the part automatically restores the current VT and pilot profile to the resortie queue.</td>
+							</tr>
+						</table>
+						</td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+		</table>
+		</div>
+		<br>
+		<br>
+		<div class="H1">Optional Parts by Availability by Turn</div>
+		<br>
+		This information is also available in a pure text format <a href="SBLOC_optional_parts_by_turn.txt" target="_blank">here</a>.<br>
+		<br>
+		<table width="478" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="15" height="17"><img src="image/strc_angle01.jpg" width="15" height="17"></td>
+				<td width="448" height="17"><img src="image/strc_hdr02.jpg" width="461" height="17"></td>
+				<td width="2" height="17"><img src="image/strc_hdr03.jpg" width="2" height="17"></td>
+			</tr>
+			<tr>
+				<td colspan="3">
+				<table width="465" border="1" cellpadding="0" cellspacing="0" bordercolor="#000000">
+					<tr>
+						<td colspan="2">&nbsp;TURN 01</td>
+					</tr>
+					<tr>
+						<td>
+						<table width="231" border="1" cellpadding="0" cellspacing="0" bordercolor="FFFFFF">
+							<tr>
+								<td width="124" height="14"><img src="image/oprel_name_addmount.jpg" width="124" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl2dim.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl3dim.jpg" width="34" height="14"></td>
+							</tr>
+							<tr>
+								<td width="124" height="14"><img src="image/oprel_name_advmount.jpg" width="124" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl1dim.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl2dim.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl3dim.jpg" width="34" height="14"></td>
+							</tr>
+							<tr>
+								<td width="124" height="14"><img src="image/oprel_name_mech.jpg" width="124" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl2dim.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl3dim.jpg" width="34" height="14"></td>
+							</tr>
+							<tr>
+								<td width="124" height="14"><img src="image/oprel_name_power.jpg" width="124" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl1dim.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl2dim.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl3dim.jpg" width="34" height="14"></td>
+							</tr>
+							<tr>
+								<td height="14" colspan="4"><img src="image/oprel_name_advarmourdim.jpg" width="232" height="14"></td>
+							</tr>
+							<tr>
+								<td height="14" colspan="4"><img src="image/oprel_name_survunitdim.jpg" width="232" height="14"></td>
+							</tr>
+							<tr>
+								<td height="14" colspan="4"><img src="image/oprel_name_antishockdim.jpg" width="232" height="14"></td>
+							</tr>
+						</table>
+						</td>
+						<td>
+						<table width="231" border="1" cellpadding="0" cellspacing="0" bordercolor="#FFFFFF">
+							<tr>
+								<td width="124" height="14"><img src="image/oprel_name_advbal.jpg" width="124" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl2dim.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl3dim.jpg" width="34" height="14"></td>
+							</tr>
+							<tr>
+								<td width="124" height="14"><img src="image/oprel_name_tactician.jpg" width="124" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl1dim.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl2dim.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl3dim.jpg" width="34" height="14"></td>
+							</tr>
+							<tr>
+								<td width="124" height="14"><img src="image/oprel_name_strat.jpg" width="124" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl2dim.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl3dim.jpg" width="34" height="14"></td>
+							</tr>
+							<tr>
+								<td width="124" height="14"><img src="image/oprel_name_supply.jpg" width="124" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl2dim.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl3dim.jpg" width="34" height="14"></td>
+							</tr>
+							<tr>
+								<td height="14" colspan="4"><img src="image/oprel_name_generaldim.jpg" width="232" height="14"></td>
+							</tr>
+							<tr>
+								<td height="14" colspan="4"><img src="image/oprel_name_advradardim.jpg" width="232" height="14"></td>
+							</tr>
+							<tr>
+								<td height="14" colspan="4"><img src="image/oprel_name_goddessdim.jpg" width="232" height="14"></td>
+							</tr>
+						</table>
+						</td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+		</table>
+		<br>
+		<table width="478" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="15" height="17"><img src="image/strc_angle01.jpg" width="15" height="17"></td>
+				<td width="448" height="17"><img src="image/strc_hdr02.jpg" width="461" height="17"></td>
+				<td width="2" height="17"><img src="image/strc_hdr03.jpg" width="2" height="17"></td>
+			</tr>
+			<tr>
+				<td colspan="3">
+				
+				<table width="465" border="1" cellpadding="0" cellspacing="0" bordercolor="#000000">
+			<tr>
+				<td colspan="2">&nbsp;TURN 02</td>
+			</tr>
+			<tr>
+			    <td>
+				<table width="231" border="1" cellpadding="0" cellspacing="0" bordercolor="FFFFFF">
+					<tr>
+						<td width="124" height="14"><img src="image/oprel_name_addmount.jpg" width="124" height="14"></td>
+						<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+						<td width="34" height="14"><img src="image/oprel_name_lvl2dim.jpg" width="34" height="14"></td>
+						<td width="34" height="14"><img src="image/oprel_name_lvl3dim.jpg" width="34" height="14"></td>
+					</tr>
+					<tr>
+						<td width="124" height="14"><img src="image/oprel_name_advmount.jpg" width="124" height="14"></td>
+						<td width="34" height="14"><img src="image/oprel_name_lvl1dim.jpg" width="34" height="14"></td>
+						<td width="34" height="14"><img src="image/oprel_name_lvl2dim.jpg" width="34" height="14"></td>
+						<td width="34" height="14"><img src="image/oprel_name_lvl3dim.jpg" width="34" height="14"></td>
+					</tr>
+					<tr>
+						<td width="124" height="14"><img src="image/oprel_name_mech.jpg" width="124" height="14"></td>
+						<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+						<td width="34" height="14"><img src="image/oprel_name_lvl2dim.jpg" width="34" height="14"></td>
+						<td width="34" height="14"><img src="image/oprel_name_lvl3dim.jpg" width="34" height="14"></td>
+					</tr>
+					<tr>
+						<td width="124" height="14"><img src="image/oprel_name_power.jpg" width="124" height="14"></td>
+						<td width="34" height="14"><img src="image/oprel_name_lvl1new.jpg" width="34" height="14"></td>
+						<td width="34" height="14"><img src="image/oprel_name_lvl2dim.jpg" width="34" height="14"></td>
+						<td width="34" height="14"><img src="image/oprel_name_lvl3dim.jpg" width="34" height="14"></td>
+					</tr>
+					<tr>
+						<td height="14" colspan="4"><img src="image/oprel_name_advarmourdim.jpg" width="232" height="14"></td>
+					</tr>
+					<tr>
+						<td height="14" colspan="4"><img src="image/oprel_name_survunitnew.jpg" width="232" height="14"></td>
+					</tr>
+					<tr>
+						<td height="14" colspan="4"><img src="image/oprel_name_antishockdim.jpg" width="232" height="14"></td>
+					</tr>
+					</table>
+					</td>
+				    <td>
+					<table width="231" border="1" cellpadding="0" cellspacing="0" bordercolor="#FFFFFF">
+						<tr>
+							<td width="124" height="14"><img src="image/oprel_name_advbal.jpg" width="124" height="14"></td>
+							<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+							<td width="34" height="14"><img src="image/oprel_name_lvl2dim.jpg" width="34" height="14"></td>
+							<td width="34" height="14"><img src="image/oprel_name_lvl3dim.jpg" width="34" height="14"></td>
+						</tr>
+						<tr>
+							<td width="124" height="14"><img src="image/oprel_name_tactician.jpg" width="124" height="14"></td>
+							<td width="34" height="14"><img src="image/oprel_name_lvl1new.jpg" width="34" height="14"></td>
+							<td width="34" height="14"><img src="image/oprel_name_lvl2dim.jpg" width="34" height="14"></td>
+							<td width="34" height="14"><img src="image/oprel_name_lvl3dim.jpg" width="34" height="14"></td>
+						</tr>
+						<tr>
+							<td width="124" height="14"><img src="image/oprel_name_strat.jpg" width="124" height="14"></td>
+							<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+							<td width="34" height="14"><img src="image/oprel_name_lvl2dim.jpg" width="34" height="14"></td>
+							<td width="34" height="14"><img src="image/oprel_name_lvl3dim.jpg" width="34" height="14"></td>
+						</tr>
+						<tr>
+							<td width="124" height="14"><img src="image/oprel_name_supply.jpg" width="124" height="14"></td>
+							<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+							<td width="34" height="14"><img src="image/oprel_name_lvl2dim.jpg" width="34" height="14"></td>
+							<td width="34" height="14"><img src="image/oprel_name_lvl3dim.jpg" width="34" height="14"></td>
+						</tr>
+						<tr>
+							<td height="14" colspan="4"><img src="image/oprel_name_generaldim.jpg" width="232" height="14"></td>
+						</tr>
+						<tr>
+							<td height="14" colspan="4"><img src="image/oprel_name_advradardim.jpg" width="232" height="14"></td>
+						</tr>
+						<tr>
+							<td height="14" colspan="4"><img src="image/oprel_name_goddessnew.jpg" width="232" height="14"></td>
+						</tr>
+						</table>
+						</td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+		</table>
+		<br>
+		<table width="478" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="15" height="17"><img src="image/strc_angle01.jpg" width="15" height="17"></td>
+				<td width="448" height="17"><img src="image/strc_hdr02.jpg" width="461" height="17"></td>
+				<td width="2" height="17"><img src="image/strc_hdr03.jpg" width="2" height="17"></td>
+			</tr>
+			<tr>
+				<td colspan="3">
+				<table width="465" border="1" cellpadding="0" cellspacing="0" bordercolor="#000000">
+					<tr>
+						<td colspan="2">&nbsp;TURN 03</td>
+					</tr>
+					<tr>
+						<td>
+						<table width="231" border="1" cellpadding="0" cellspacing="0" bordercolor="FFFFFF">
+							<tr>
+								<td width="124" height="14"><img src="image/oprel_name_addmount.jpg" width="124" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl2new.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl3dim.jpg" width="34" height="14"></td>
+							</tr>
+							<tr>
+								<td width="124" height="14"><img src="image/oprel_name_advmount.jpg" width="124" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl1dim.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl2dim.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl3dim.jpg" width="34" height="14"></td>
+							</tr>
+							<tr>
+								<td width="124" height="14"><img src="image/oprel_name_mech.jpg" width="124" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl2dim.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl3dim.jpg" width="34" height="14"></td>
+							</tr>
+							<tr>
+								<td width="124" height="14"><img src="image/oprel_name_power.jpg" width="124" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl2dim.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl3dim.jpg" width="34" height="14"></td>
+							</tr>
+							<tr>
+								<td height="14" colspan="4"><img src="image/oprel_name_advarmourdim.jpg" width="232" height="14"></td>
+							</tr>
+							<tr>
+								<td height="14" colspan="4"><img src="image/oprel_name_survunit.jpg" width="232" height="14"></td>
+							</tr>
+							<tr>
+								<td height="14" colspan="4"><img src="image/oprel_name_antishockdim.jpg" width="232" height="14"></td>
+							</tr>
+							</table>
+							</td>
+							<td>
+							<table width="231" border="1" cellpadding="0" cellspacing="0" bordercolor="#FFFFFF">
+								<tr>
+									<td width="124" height="14"><img src="image/oprel_name_advbal.jpg" width="124" height="14"></td>
+									<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+									<td width="34" height="14"><img src="image/oprel_name_lvl2new.jpg" width="34" height="14"></td>
+									<td width="34" height="14"><img src="image/oprel_name_lvl3dim.jpg" width="34" height="14"></td>
+								</tr>
+								<tr>
+									<td width="124" height="14"><img src="image/oprel_name_tactician.jpg" width="124" height="14"></td>
+									<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+									<td width="34" height="14"><img src="image/oprel_name_lvl2dim.jpg" width="34" height="14"></td>
+									<td width="34" height="14"><img src="image/oprel_name_lvl3dim.jpg" width="34" height="14"></td>
+								</tr>
+								<tr>
+									<td width="124" height="14"><img src="image/oprel_name_strat.jpg" width="124" height="14"></td>
+									<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+									<td width="34" height="14"><img src="image/oprel_name_lvl2new.jpg" width="34" height="14"></td>
+									<td width="34" height="14"><img src="image/oprel_name_lvl3dim.jpg" width="34" height="14"></td>
+								</tr>
+								<tr>
+									<td width="124" height="14"><img src="image/oprel_name_supply.jpg" width="124" height="14"></td>
+									<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+									<td width="34" height="14"><img src="image/oprel_name_lvl2new.jpg" width="34" height="14"></td>
+									<td width="34" height="14"><img src="image/oprel_name_lvl3dim.jpg" width="34" height="14"></td>
+								</tr>
+								<tr>
+									<td height="14" colspan="4"><img src="image/oprel_name_generaldim.jpg" width="232" height="14"></td>
+								</tr>
+								<tr>
+									<td height="14" colspan="4"><img src="image/oprel_name_advradardim.jpg" width="232" height="14"></td>
+								</tr>
+								<tr>
+									<td height="14" colspan="4"><img src="image/oprel_name_goddess.jpg" width="232" height="14"></td>
+								</tr>
+							</table>
+							</td>
+						</tr>
+					</table>
+					</td>
+				</tr>
+			</table>
+		<br>
+		<table width="478" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="15" height="17"><img src="image/strc_angle01.jpg" width="15" height="17"></td>
+				<td width="448" height="17"><img src="image/strc_hdr02.jpg" width="461" height="17"></td>
+				<td width="2" height="17"><img src="image/strc_hdr03.jpg" width="2" height="17"></td>
+			</tr>
+			<tr>
+				<td colspan="3">
+				<table width="465" border="1" cellpadding="0" cellspacing="0" bordercolor="#000000">
+					<tr>
+						<td colspan="2">&nbsp;TURN 04</td>
+					</tr>
+					<tr>
+						<td>
+						<table width="231" border="1" cellpadding="0" cellspacing="0" bordercolor="FFFFFF">
+							<tr>
+								<td width="124" height="14"><img src="image/oprel_name_addmount.jpg" width="124" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl2.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl3dim.jpg" width="34" height="14"></td>
+							</tr>
+							<tr>
+								<td width="124" height="14"><img src="image/oprel_name_advmount.jpg" width="124" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl1dim.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl2dim.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl3dim.jpg" width="34" height="14"></td>
+							</tr>
+							<tr>
+								<td width="124" height="14"><img src="image/oprel_name_mech.jpg" width="124" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl2new.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl3dim.jpg" width="34" height="14"></td>
+							</tr>
+							<tr>
+								<td width="124" height="14"><img src="image/oprel_name_power.jpg" width="124" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl2new.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl3dim.jpg" width="34" height="14"></td>
+							</tr>
+							<tr>
+								<td height="14" colspan="4"><img src="image/oprel_name_advarmourdim.jpg" width="232" height="14"></td>
+							</tr>
+							<tr>
+								<td height="14" colspan="4"><img src="image/oprel_name_survunit.jpg" width="232" height="14"></td>
+							</tr>
+							<tr>
+								<td height="14" colspan="4"><img src="image/oprel_name_antishockdim.jpg" width="232" height="14"></td>
+							</tr>
+							</table>
+							</td>
+							<td>
+							<table width="231" border="1" cellpadding="0" cellspacing="0" bordercolor="#FFFFFF">
+								<tr>
+									<td width="124" height="14"><img src="image/oprel_name_advbal.jpg" width="124" height="14"></td>
+									<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+									<td width="34" height="14"><img src="image/oprel_name_lvl2.jpg" width="34" height="14"></td>
+									<td width="34" height="14"><img src="image/oprel_name_lvl3dim.jpg" width="34" height="14"></td>
+								</tr>
+								<tr>
+									<td width="124" height="14"><img src="image/oprel_name_tactician.jpg" width="124" height="14"></td>
+									<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+									<td width="34" height="14"><img src="image/oprel_name_lvl2new.jpg" width="34" height="14"></td>
+									<td width="34" height="14"><img src="image/oprel_name_lvl3dim.jpg" width="34" height="14"></td>
+								</tr>
+								<tr>
+									<td width="124" height="14"><img src="image/oprel_name_strat.jpg" width="124" height="14"></td>
+									<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+									<td width="34" height="14"><img src="image/oprel_name_lvl2.jpg" width="34" height="14"></td>
+									<td width="34" height="14"><img src="image/oprel_name_lvl3dim.jpg" width="34" height="14"></td>
+								</tr>
+								<tr>
+									<td width="124" height="14"><img src="image/oprel_name_supply.jpg" width="124" height="14"></td>
+									<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+									<td width="34" height="14"><img src="image/oprel_name_lvl2.jpg" width="34" height="14"></td>
+									<td width="34" height="14"><img src="image/oprel_name_lvl3dim.jpg" width="34" height="14"></td>
+								</tr>
+								<tr>
+									<td height="14" colspan="4"><img src="image/oprel_name_generaldim.jpg" width="232" height="14"></td>
+								</tr>
+								<tr>
+									<td height="14" colspan="4"><img src="image/oprel_name_advradarnew.jpg" width="232" height="14"></td>
+								</tr>
+								<tr>
+									<td height="14" colspan="4"><img src="image/oprel_name_goddess.jpg" width="232" height="14"></td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+		</table>
+		<br>
+		<table width="478" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="15" height="17"><img src="image/strc_angle01.jpg" width="15" height="17"></td>
+				<td width="448" height="17"><img src="image/strc_hdr02.jpg" width="461" height="17"></td>
+				<td width="2" height="17"><img src="image/strc_hdr03.jpg" width="2" height="17"></td>
+			</tr>
+			<tr>
+				<td colspan="3">
+				<table width="465" border="1" cellpadding="0" cellspacing="0" bordercolor="#000000">
+					<tr>
+						<td colspan="2">&nbsp;TURN 05</td>
+					</tr>
+					<tr>
+						<td>
+						<table width="231" border="1" cellpadding="0" cellspacing="0" bordercolor="FFFFFF">
+							<tr>
+								<td width="124" height="14"><img src="image/oprel_name_addmount.jpg" width="124" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl2.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl3new.jpg" width="34" height="14"></td>
+							</tr>
+							<tr>
+								<td width="124" height="14"><img src="image/oprel_name_advmount.jpg" width="124" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl1new.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl2dim.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl3dim.jpg" width="34" height="14"></td>
+							</tr>
+							<tr>
+								<td width="124" height="14"><img src="image/oprel_name_mech.jpg" width="124" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl2.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl3dim.jpg" width="34" height="14"></td>
+							</tr>
+							<tr>
+								<td width="124" height="14"><img src="image/oprel_name_power.jpg" width="124" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl2.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl3dim.jpg" width="34" height="14"></td>
+							</tr>
+							<tr>
+								<td height="14" colspan="4"><img src="image/oprel_name_advarmournew.jpg" width="232" height="14"></td>
+							</tr>
+							<tr>
+								<td height="14" colspan="4"><img src="image/oprel_name_survunit.jpg" width="232" height="14"></td>
+							</tr>
+							<tr>
+								<td height="14" colspan="4"><img src="image/oprel_name_antishockdim.jpg" width="232" height="14"></td>
+							</tr>
+						</table>
+						</td>
+						<td>
+						<table width="231" border="1" cellpadding="0" cellspacing="0" bordercolor="#EEEEEE">
+							<tr>
+								<td width="124" height="14"><img src="image/oprel_name_advbal.jpg" width="124" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl2.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl3new.jpg" width="34" height="14"></td>
+							</tr>
+							<tr>
+								<td width="124" height="14"><img src="image/oprel_name_tactician.jpg" width="124" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl2.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl3dim.jpg" width="34" height="14"></td>
+							</tr>
+							<tr>
+								<td width="124" height="14"><img src="image/oprel_name_strat.jpg" width="124" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl2.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl3dim.jpg" width="34" height="14"></td>
+							</tr>
+							<tr>
+								<td width="124" height="14"><img src="image/oprel_name_supply.jpg" width="124" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl2.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl3dim.jpg" width="34" height="14"></td>
+							</tr>
+							<tr>
+								<td height="14" colspan="4"><img src="image/oprel_name_generaldim.jpg" width="232" height="14"></td>
+							</tr>
+							<tr>
+								<td height="14" colspan="4"><img src="image/oprel_name_advradar.jpg" width="232" height="14"></td>
+							</tr>
+							<tr>
+								<td height="14" colspan="4"><img src="image/oprel_name_goddess.jpg" width="232" height="14"></td>
+							</tr>
+						</table>
+						</td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+		</table>
+		<br>
+		<table width="478" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="15" height="17"><img src="image/strc_angle01.jpg" width="15" height="17"></td>
+				<td width="448" height="17"><img src="image/strc_hdr02.jpg" width="461" height="17"></td>
+				<td width="2" height="17"><img src="image/strc_hdr03.jpg" width="2" height="17"></td>
+			</tr>
+			<tr>
+				<td colspan="3">
+				<table width="465" border="1" cellpadding="0" cellspacing="0" bordercolor="#000000">
+					<tr>
+						<td colspan="2">&nbsp;TURN 06</td>
+					</tr>
+					<tr>
+						<td>
+						<table width="231" border="1" cellpadding="0" cellspacing="0" bordercolor="EEEEEE">
+							<tr>
+								<td width="124" height="14"><img src="image/oprel_name_addmount.jpg" width="124" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl2.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl3.jpg" width="34" height="14"></td>
+							</tr>
+							<tr>
+								<td width="124" height="14"><img src="image/oprel_name_advmount.jpg" width="124" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl2new.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl3dim.jpg" width="34" height="14"></td>
+							</tr>
+							<tr>
+								<td width="124" height="14"><img src="image/oprel_name_mech.jpg" width="124" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl2.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl3dim.jpg" width="34" height="14"></td>
+							</tr>
+							<tr>
+								<td width="124" height="14"><img src="image/oprel_name_power.jpg" width="124" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl2.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl3dim.jpg" width="34" height="14"></td>
+							</tr>
+							<tr>
+								<td height="14" colspan="4"><img src="image/oprel_name_advarmour.jpg" width="232" height="14"></td>
+							</tr>
+							<tr>
+								<td height="14" colspan="4"><img src="image/oprel_name_survunit.jpg" width="232" height="14"></td>
+							</tr>
+							<tr>
+								<td height="14" colspan="4"><img src="image/oprel_name_antishockdim.jpg" width="232" height="14"></td>
+							</tr>
+						</table>
+						</td>
+						<td>
+						<table width="231" border="1" cellpadding="0" cellspacing="0" bordercolor="#FFFFFF">
+							<tr>
+								<td width="124" height="14"><img src="image/oprel_name_advbal.jpg" width="124" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl2.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl3.jpg" width="34" height="14"></td>
+							</tr>
+							<tr>
+								<td width="124" height="14"><img src="image/oprel_name_tactician.jpg" width="124" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl2.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl3dim.jpg" width="34" height="14"></td>
+							</tr>
+							<tr>
+								<td width="124" height="14"><img src="image/oprel_name_strat.jpg" width="124" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl2.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl3new.jpg" width="34" height="14"></td>
+							</tr>
+							<tr>
+								<td width="124" height="14"><img src="image/oprel_name_supply.jpg" width="124" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl2.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl3new.jpg" width="34" height="14"></td>
+							</tr>
+							<tr>
+								<td height="14" colspan="4"><img src="image/oprel_name_generalnew.jpg" width="232" height="14"></td>
+							</tr>
+							<tr>
+								<td height="14" colspan="4"><img src="image/oprel_name_advradar.jpg" width="232" height="14"></td>
+							</tr>
+							<tr>
+								<td height="14" colspan="4"><img src="image/oprel_name_goddess.jpg" width="232" height="14"></td>
+							</tr>
+						</table>
+						</td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+		</table>
+		<br>
+		<table width="478" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="15" height="17"><img src="image/strc_angle01.jpg" width="15" height="17"></td>
+				<td width="448" height="17"><img src="image/strc_hdr02.jpg" width="461" height="17"></td>
+				<td width="2" height="17"><img src="image/strc_hdr03.jpg" width="2" height="17"></td>
+			</tr>
+			<tr>
+				<td colspan="3">
+				<table width="465" border="1" cellpadding="0" cellspacing="0" bordercolor="#000000">
+					<tr>
+						<td colspan="2">&nbsp;TURN 07</td>
+					</tr>
+					<tr>
+						<td>
+						<table width="231" border="1" cellpadding="0" cellspacing="0" bordercolor="FFFFFF">
+							<tr>
+								<td width="124" height="14"><img src="image/oprel_name_addmount.jpg" width="124" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl2.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl3.jpg" width="34" height="14"></td>
+							</tr>
+							<tr>
+								<td width="124" height="14"><img src="image/oprel_name_advmount.jpg" width="124" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl2.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl3dim.jpg" width="34" height="14"></td>
+							</tr>
+							<tr>
+								<td width="124" height="14"><img src="image/oprel_name_mech.jpg" width="124" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl2.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl3new.jpg" width="34" height="14"></td>
+							</tr>
+							<tr>
+								<td width="124" height="14"><img src="image/oprel_name_power.jpg" width="124" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl2.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl3dim.jpg" width="34" height="14"></td>
+							</tr>
+							<tr>
+								<td height="14" colspan="4"><img src="image/oprel_name_advarmour.jpg" width="232" height="14"></td>
+							</tr>
+							<tr>
+								<td height="14" colspan="4"><img src="image/oprel_name_survunit.jpg" width="232" height="14"></td>
+							</tr>
+							<tr>
+								<td height="14" colspan="4"><img src="image/oprel_name_antishocknew.jpg" width="232" height="14"></td>
+							</tr>
+						</table>
+						</td>
+						<td>
+						<table width="231" border="1" cellpadding="0" cellspacing="0" bordercolor="#FFFFFF">
+							<tr>
+								<td width="124" height="14"><img src="image/oprel_name_advbal.jpg" width="124" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl2.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl3.jpg" width="34" height="14"></td>
+							</tr>
+							<tr>
+								<td width="124" height="14"><img src="image/oprel_name_tactician.jpg" width="124" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl2.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl3new.jpg" width="34" height="14"></td>
+							</tr>
+							<tr>
+								<td width="124" height="14"><img src="image/oprel_name_strat.jpg" width="124" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl2.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl3.jpg" width="34" height="14"></td>
+							</tr>
+							<tr>
+								<td width="124" height="14"><img src="image/oprel_name_supply.jpg" width="124" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl2.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl3.jpg" width="34" height="14"></td>
+							</tr>
+							<tr>
+								<td height="14" colspan="4"><img src="image/oprel_name_general.jpg" width="232" height="14"></td>
+							</tr>
+							<tr>
+								<td height="14" colspan="4"><img src="image/oprel_name_advradar.jpg" width="232" height="14"></td>
+							</tr>
+							<tr>
+								<td height="14" colspan="4"><img src="image/oprel_name_goddess.jpg" width="232" height="14"></td>
+							</tr>
+						</table>
+						</td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+		</table>
+		<br>
+		<table width="478" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="15" height="17"><img src="image/strc_angle01.jpg" width="15" height="17"></td>
+				<td width="448" height="17"><img src="image/strc_hdr02.jpg" width="461" height="17"></td>
+				<td width="2" height="17"><img src="image/strc_hdr03.jpg" width="2" height="17"></td>
+			</tr>
+			<tr>
+				<td colspan="3">
+				<table width="465" border="1" cellpadding="0" cellspacing="0" bordercolor="#000000">
+					<tr>
+						<td colspan="2">&nbsp;TURN 08</td>
+					</tr>
+					<tr>
+						<td>
+						<table width="231" border="1" cellpadding="0" cellspacing="0" bordercolor="FFFFFF">
+							<tr>
+								<td width="124" height="14"><img src="image/oprel_name_addmount.jpg" width="124" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl2.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl3.jpg" width="34" height="14"></td>
+							</tr>
+							<tr>
+								<td width="124" height="14"><img src="image/oprel_name_advmount.jpg" width="124" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl2.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl3new.jpg" width="34" height="14"></td>
+							</tr>
+							<tr>
+								<td width="124" height="14"><img src="image/oprel_name_mech.jpg" width="124" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl2.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl3.jpg" width="34" height="14"></td>
+							</tr>
+							<tr>
+								<td width="124" height="14"><img src="image/oprel_name_power.jpg" width="124" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl2.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl3new.jpg" width="34" height="14"></td>
+							</tr>
+							<tr>
+								<td height="14" colspan="4"><img src="image/oprel_name_advarmour.jpg" width="232" height="14"></td>
+							</tr>
+							<tr>
+								<td height="14" colspan="4"><img src="image/oprel_name_survunit.jpg" width="232" height="14"></td>
+							</tr>
+							<tr>
+								<td height="14" colspan="4"><img src="image/oprel_name_antishock.jpg" width="232" height="14"></td>
+							</tr>
+						</table>
+						</td>
+						<td>
+						<table width="231" border="1" cellpadding="0" cellspacing="0" bordercolor="#FFFFFF">
+							<tr>
+								<td width="124" height="14"><img src="image/oprel_name_advbal.jpg" width="124" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl2.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl3.jpg" width="34" height="14"></td>
+							</tr>
+							<tr>
+								<td width="124" height="14"><img src="image/oprel_name_tactician.jpg" width="124" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl2.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl3.jpg" width="34" height="14"></td>
+							</tr>
+							<tr>
+								<td width="124" height="14"><img src="image/oprel_name_strat.jpg" width="124" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl2.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl3.jpg" width="34" height="14"></td>
+							</tr>
+							<tr>
+								<td width="124" height="14"><img src="image/oprel_name_supply.jpg" width="124" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl1.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl2.jpg" width="34" height="14"></td>
+								<td width="34" height="14"><img src="image/oprel_name_lvl3.jpg" width="34" height="14"></td>
+							</tr>
+							<tr>
+								<td height="14" colspan="4"><img src="image/oprel_name_general.jpg" width="232" height="14"></td>
+							</tr>
+							<tr>
+								<td height="14" colspan="4"><img src="image/oprel_name_advradar.jpg" width="232" height="14"></td>
+							</tr>
+							<tr>
+								<td height="14" colspan="4"><img src="image/oprel_name_goddess.jpg" width="232" height="14"></td>
+							</tr>
+						</table>
+						</td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+		</table>
+		<br>
+		<div class="footer" align="right">This file was last updated Saturday, 29-Nov-2008 14:59:29 PST</div><br>
+		<!---end content area--->
+		</td>
+		<td>&nbsp;</td>
+	</tr>
+<!---begin footer include--->
+<!---start footer include--->
+<tr>
+	<td style="background-repeat: repeat-x;" bgcolor="#EEEEEE" background="image/bg_footer.gif">&nbsp;</td>
+	<td width="900" valign="top" height="50" style="background-repeat: repeat-x;" bgcolor="#EEEEEE" background="image/bg_footer.gif">
+	<div class="footer" align="center"><a class="footer" href="loc_vt.shtml">Vertical Tanks</a> &nbsp; || &nbsp; <a class="footer" href="loc_weapon.shtml">Weapons</a> &nbsp; || &nbsp; <a class="footer" href="loc_mission.shtml">Missions</a> &nbsp; || &nbsp; <a class="footer" href="loc_contact.shtml">Contact</a> &nbsp; || &nbsp; <a class="footer" href="loc_about.shtml">About</a> &nbsp; || &nbsp; <a class="footer" href="loc_sitemap.shtml">Sitemap</a> &nbsp; || &nbsp; <a class="footer" href="loc_main.shtml">Home</a></div>
+	</td>
+	<td style="background-repeat: repeat-x;" bgcolor="#EEEEEE" background="image/bg_footer.gif">&nbsp;</td>
+</tr>
+<!---end footer include--->
+<!---end footer include--->
+</table>
+
+</div>
+
+</body>
+
+
+<!-- Mirrored from lineofcontact.net/loc_optionalparts.shtml by HTTrack Website Copier/3.x [XR&CO'2010], Thu, 06 May 2010 16:40:56 GMT -->
+</html>

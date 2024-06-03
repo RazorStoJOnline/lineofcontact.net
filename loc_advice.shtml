@@ -1,0 +1,445 @@
+<html>
+
+<!-- Mirrored from lineofcontact.net/loc_advice.shtml by HTTrack Website Copier/3.x [XR&CO'2010], Thu, 06 May 2010 16:25:23 GMT -->
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<title>LINEOFCONTACT.NET :: STEEL BATTALION: LINE OF CONTACT INFORMATION</title>
+
+<link rel=StyleSheet href="css/locnet.css" TYPE="text/css" media="screen">
+
+</head>
+
+<body topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0">
+<!---begin navigation include--->
+<!---start header navigation include--->
+<a name="#top"></a>
+<script type='text/javascript'>
+function Go(){return}
+</script>
+<script type='text/javascript' src='_js/main.js'></script>
+
+<script language="JavaScript">
+// Menu tree
+//	MenuX=new Array(Text to show, Link, background image (optional), number of sub elements, height, width);
+//	For rollover images set "Text to show" to:  "rollover:Image1.jpg:Image2.jpg"
+
+Menu1=new Array("<img src='image/btn_tutorial.gif' width='51' height='11'>","","",13,11,51);
+	Menu1_1=new Array("Tutorial Overview","loc_tutorial.shtml","",0,20,120);
+	Menu1_2=new Array("Create A Pilot","loc_newpilot.shtml","",0,20,120);
+	Menu1_3=new Array("New Pilot Advice","loc_advice.shtml","",0,20,120);
+	Menu1_4=new Array("Controlling VTs","loc_vtcontrol.shtml","",0,20,120);
+	Menu1_5=new Array("Starting a Game","loc_newgame.shtml","",0,20,120);
+	Menu1_6=new Array("Chat & Trade Tutorial","loc_tradechat.shtml","",0,20,120);
+	Menu1_7=new Array("Communication Tutorial","loc_communication.shtml","",0,20,120);
+	Menu1_8=new Array("Artillery Tutorial","loc_tutorial_artillery.shtml","",0,20,120);
+	Menu1_9=new Array("Sniper Tutorial","loc_tutorial_sniper.shtml","",0,20,120);
+	Menu1_10=new Array("Repacking Tutorial","loc_tutorial_repack.shtml","",0,20,120);
+	Menu1_11=new Array("Foot Controller Repair","loc_footcontroller_repair.shtml","",0,20,120);
+	Menu1_12=new Array("Insignia Tool","loc_tutorial_insigniatool.shtml","",0,20,120);
+	Menu1_13=new Array("Unlock Code","loc_unlockcode.shtml","",0,20,120);
+
+Menu2=new Array("<img src='image/btn_vt.gif' width='82' height='11'>","","",9,11,82);
+	Menu2_1=new Array("VT Overview","loc_vt.shtml","",0,20,130);
+	Menu2_2=new Array("Hai Shi Dao VTs","","",3,20,130);
+		Menu2_2_1=new Array("1st Generation VTs","","",5,20,110);
+			Menu2_2_1_1=new Array("Vitzh","ds_vitzh.shtml","",0,20,100);
+			Menu2_2_1_2=new Array("Vortex","ds_vortex.shtml","",0,20,100);
+			Menu2_2_1_3=new Array("m-Vitzh","ds_m-vitzh.shtml","",0,20,100);
+			Menu2_2_1_4=new Array("Scare Face","ds_scareface.shtml","",0,20,100);
+			Menu2_2_1_5=new Array("Scare Face A1","ds_scarefacea1.shtml","",0,20,100);
+		Menu2_2_2=new Array("2nd Generation VTs","","",4,20,110);
+			Menu2_2_2_1=new Array("Scare Face II","ds_scareface2.shtml","",0,20,110);
+			Menu2_2_2_2=new Array("Maelstrom","ds_maelstrom.shtml","",0,20,110);
+			Menu2_2_2_3=new Array("Garpike","ds_garpike.shtml","",0,20,110);
+			Menu2_2_2_4=new Array("Behemoth","ds_behemoth.shtml","",0,20,110);
+		Menu2_2_3=new Array("3rd Generation VTs","","",3,20,130);
+			Menu2_2_3_1=new Array("Regal Dress N","ds_regaldress_N.shtml","",0,20,110);
+			Menu2_2_3_2=new Array("Regal Dress A","ds_regaldress_A.shtml","",0,20,110);
+			Menu2_2_3_3=new Array("Juggernaut","ds_juggernaut.shtml","",0,20,110);
+	Menu2_3=new Array("Pacific Rim Forces VTs","","",3,20,130);
+		Menu2_3_1=new Array("1st Generation VTs","","",3,20,110);
+			Menu2_3_1_1=new Array("Decider","ds_decider.shtml","",0,20,110);
+			Menu2_3_1_2=new Array("Falchion","ds_falchion.shtml","",0,20,110);
+			Menu2_3_1_3=new Array("Decider Volcanic","ds_decidervolcanic.shtml","",0,20,110);
+		Menu2_3_2=new Array("2nd Generation VTs","","",5,20,110);
+			Menu2_3_2_1=new Array("Blade","ds_blade.shtml","",0,20,110);
+			Menu2_3_2_2=new Array("Prominence M1","ds_prominenceM1.shtml","",0,20,110);
+			Menu2_3_2_3=new Array("Rapier","ds_rapier.shtml","",0,20,110);
+			Menu2_3_2_4=new Array("Prominence M2","ds_prominenceM2.shtml","",0,20,110);
+			Menu2_3_2_5=new Array("Prominence M3","ds_prominenceM3.shtml","",0,20,110);
+		Menu2_3_3=new Array("3rd Generation VTs","","",1,20,110);
+			Menu2_3_3_1=new Array("Quasar","ds_quasar.shtml","",0,20,110);
+	Menu2_4=new Array("Right Brothers VTs","","",3,20,130);
+		Menu2_4_1=new Array("1st Generation VTs","","",2,20,110);
+			Menu2_4_1_1=new Array("Colt","ds_colt.shtml","",0,20,110);
+			Menu2_4_1_2=new Array("Colt Executive","ds_coltexecutive.shtml","",0,20,110);
+		Menu2_4_2=new Array("2nd Generation VTs","","",3,20,110);
+			Menu2_4_2_1=new Array("Yellow Jacket","ds_yellowjacket.shtml","",0,20,110);
+			Menu2_4_2_2=new Array("Siegeszug","ds_siegeszug.shtml","",0,20,110);
+			Menu2_4_2_3=new Array("Sheepdog","ds_sheepdog.shtml","",0,20,110);
+		Menu2_4_3=new Array("3rd Generation VTs","","",1,20,110);
+			Menu2_4_3_1=new Array("Earthshaker","ds_earthshaker.shtml","",0,20,110);
+	Menu2_5=new Array("Jaralaccs Mercenary VTs","","",1,20,130);
+		Menu2_5_1=new Array("2nd Generation VTs","","",4,20,110);
+			Menu2_5_1_1=new Array("Jaralaccs C","ds_jaralaccsC.shtml","",0,20,110);
+			Menu2_5_1_2=new Array("Jaralaccs N","ds_jaralaccsN.shtml","",0,20,110);
+			Menu2_5_1_3=new Array("Jaralaccs NS-R","ds_jaralaccsNS-R.shtml","",0,20,110);
+			Menu2_5_1_4=new Array("Jaralaccs Macabre","ds_jaralaccs_macabre.shtml","",0,20,110);
+	Menu2_6=new Array("VT Manufacturers","loc_manunav.shtml","",0,20,130);
+	Menu2_7=new Array("VT Comparissons","loc_vtcompare.shtml","",0,20,130);
+	Menu2_8=new Array("Cockpit Reference","loc_cockpits.shtml","",6,20,130);
+		Menu2_8_1=new Array("1st Gen - Standard","loc_cockpits_g1.shtml","",0,20,120);
+		Menu2_8_2=new Array("1st Gen - Support","loc_cockpits_g1s.shtml","",0,20,120);
+		Menu2_8_3=new Array("2nd Gen - Standard","loc_cockpits_g2.shtml","",0,20,120);
+		Menu2_8_4=new Array("2nd Gen - Support","loc_cockpits_g2s.shtml","",0,20,120);
+		Menu2_8_5=new Array("2nd Gen - Jaralaccs","loc_cockpits_g2j.shtml","",0,20,120);
+		Menu2_8_6=new Array("3rd Gen - Standard","loc_cockpits_g3.shtml","",0,20,120);
+	Menu2_9=new Array("VT Customisation","loc_vtcustom.shtml","",0,20,130);
+	
+Menu3=new Array("<img src='image/btn_config.gif' width='81' height='11'>","","",5,11,81);
+	Menu3_1=new Array("Weapon Information","loc_weapon.shtml","",0,20,130);
+	Menu3_2=new Array("Weapon Summary","loc_weapon_summary.shtml","",0,20,130);
+	Menu3_3=new Array("Weapon Configuration","loc_weaponconfig.shtml","",0,20,130);
+	Menu3_4=new Array("Optional Parts","loc_optionalparts.shtml","",0,20,130);
+	Menu3_5=new Array("Weapon Range Compare","loc_rangecompare.shtml","",0,20,130);
+	
+Menu4=new Array("<img src='image/btn_testing.gif' width='55' height='11'>","","",9,11,55);
+	Menu4_1=new Array("Testing & Results","loc_testing.shtml","",0,20,200);
+	Menu4_2=new Array("Loadout Weight Effect on Turning","loc_testing_turnweighteffect.shtml","",0,20,200);
+	Menu4_3=new Array("Vertical Tank Rise Time","loc_testing_vt_risetime.shtml","",0,20,200);
+	Menu4_4=new Array("Platform and Leg Durability","loc_testing_dur.shtml","",0,20,200);
+	Menu4_5=new Array("Vertical Tank Distance Modifiers","loc_testing_distancemod.shtml","",0,20,200);
+	Menu4_6=new Array("Vertical Tank Turning Performance","loc_testing_turn.shtml","",0,20,200);
+	Menu4_7=new Array("Vertical Tank Acceleration Testing","loc_testing_speed.shtml","",0,20,200);
+	Menu4_8=new Array("Guided Missile Testing","loc_testing_guidedmissile.shtml","",0,20,200);
+	Menu4_9=new Array("Torque Performance on Terrain","loc_testing_crossgear.shtml","",0,20,200);
+	
+Menu5=new Array("<img src='image/btn_tactical.gif' width='94' height='11'>","","",3,11,94);
+	Menu5_1=new Array("Sortie Points","loc_sortiepoints.shtml","",0,20,120);
+	Menu5_2=new Array("Gameplay","loc_gameplay.shtml","",0,20,120);
+	Menu5_3=new Array("Mission Information","loc_mission.shtml","",25,20,120);
+		Menu5_3_1=new Array("Mission 00 - Live Ammunition Training Grounds","loc_mission00.shtml","",0,20,300);
+		Menu5_3_2=new Array("Mission 01 - Sha Wan Hills","loc_mission01.shtml","",0,20,300);
+		Menu5_3_3=new Array("Mission 02 - Dong Lai River Ford","loc_mission02.shtml","",0,20,300);
+		Menu5_3_4=new Array("Mission 03 - Capture of Outpost 8","loc_mission03.shtml","",0,20,300);
+		Menu5_3_5=new Array("Mission 04 - Occupation of Highland 33","loc_mission04.shtml","",0,20,300);
+		Menu5_3_6=new Array("Mission 05 - Ji Feng Military Base","loc_mission05.shtml","",0,20,300);
+		Menu5_3_7=new Array("Mission 06 - Hong Shan Military Base","loc_mission06.shtml","",0,20,300);
+		Menu5_3_8=new Array("Mission 07 - Battle of Jian Da Harbor","loc_mission07.shtml","",0,20,300);
+		Menu5_3_9=new Array("Mission 08 - Zhong Huan City","loc_mission08.shtml","",0,20,300);
+		Menu5_3_10=new Array("Mission 09 - Reserve Base Siege","loc_mission09.shtml","",0,20,300);
+		Menu5_3_11=new Array("Mission 10 - Jacalita Woodlands","loc_mission10.shtml","",0,20,300);
+		Menu5_3_12=new Array("Mission 11 - San Kuchen Subterranean Fortress","loc_mission11.shtml","",0,20,300);
+		Menu5_3_13=new Array("Mission 12 - Ji Feng Basin","loc_mission12.shtml","",0,20,300);
+		Menu5_3_14=new Array("Mission 13 - Airbase Assault","loc_mission13.shtml","",0,20,300);
+		Menu5_3_15=new Array("Mission 14 - Wei Gu Strike","loc_mission14.shtml","",0,20,300);
+		Menu5_3_16=new Array("Mission 15 - Container Extraction","loc_mission15.shtml","",0,20,300);
+		Menu5_3_17=new Array("Mission 16 - Nan Jiang Ravine","loc_mission16.shtml","",0,20,300);
+		Menu5_3_18=new Array("Mission 17 - New Nan Jiang Factory","loc_mission17.shtml","",0,20,300);
+		Menu5_3_19=new Array("Mission 18 - Battle of Meng Chung He","loc_mission18.shtml","",0,20,300);
+		Menu5_3_20=new Array("Mission 19 - Yun Kota Gorge","loc_mission19.shtml","",0,20,300);
+		Menu5_3_21=new Array("Mission 20 - Xen Feng Tian Corridor","loc_mission20.shtml","",0,20,300);
+		Menu5_3_22=new Array("Mission 21 - Yu Jai Woodlands","loc_mission21.shtml","",0,20,300);
+		Menu5_3_23=new Array("Mission 22 - Capture of Xen Feng Tian","loc_mission22.shtml","",0,20,300);
+		Menu5_3_24=new Array("Mission 23 - Er Ting Foothills","loc_mission23.shtml","",0,20,300);
+		Menu5_3_25=new Array("Mission 24 - Defense of Yu Jai Village","loc_mission24.shtml","",0,20,300);
+		
+Menu6=new Array("<img src='image/btn_intel.gif' width='86' height='11'>","","",10,11,86);
+	Menu6_1=new Array("Pilot Profile","loc_pilotprofile.shtml","",0,20,150);
+	Menu6_2=new Array("Rank","loc_rank.shtml","",0,20,150);
+	Menu6_3=new Array("Awards","loc_awards.shtml","",0,20,150);
+	Menu6_4=new Array("Professional Names","loc_professional.shtml","",0,20,150);
+	Menu6_5=new Array("Faction Intel","loc_faction.shtml","",0,20,150);
+	Menu6_6=new Array("Communication","loc_communication.shtml","",0,20,150);
+	Menu6_7=new Array("Glossary","loc_glossary.shtml","",0,20,150);
+	Menu6_8=new Array("Githon's Steel Battalion Guide","loc_sbt.shtml","",0,20,150);
+	Menu6_9=new Array("Frequently Asked Questions","loc_faq.shtml","",0,20,150);
+	Menu6_10=new Array("Exploits","loc_exploits.shtml","",0,20,150);
+	
+Menu7=new Array("<img src='image/btn_platform.gif' width='58' height='11'>","","",12,11,58);
+	Menu7_1=new Array("Platform Overview","loc_platform.shtml","",0,20,150);
+	Menu7_2=new Array("Game Specifications","loc_game.shtml","",0,20,150);
+	Menu7_3=new Array("Game Requirements","loc_requirements.shtml","",0,20,150);
+	Menu7_4=new Array("Controller Overview","loc_controller.shtml","",0,20,150);
+	Menu7_5=new Array("Controller Serial Archive","loc_serialarchive.shtml","",0,20,150);
+	Menu7_6=new Array("Controller Differences","loc_controllerdifferences.shtml","",0,20,150);
+	Menu7_7=new Array("Connection Issues","loc_connection.shtml","",0,20,150);
+	Menu7_8=new Array("Game History & Patches","loc_gamehistory.shtml","",0,20,150);
+	Menu7_9=new Array("Replay Information","loc_replay.shtml","",0,20,150);
+	Menu7_10=new Array("Custom Soundtracks","loc_boombox.shtml","",0,20,150);
+	Menu7_11=new Array("SB vs SB: LOC","loc_sbdifferences.shtml","",0,20,150);
+	Menu7_12=new Array("Cockpit Setups","loc_cockpit.shtml","",0,20,150);
+	
+Menu8=new Array("<img src='image/btn_media.gif' width='76' height='11'>","","",10,11,76);
+	Menu8_1=new Array("Media Overview","loc_media.shtml","",0,20,150);
+	Menu8_2=new Array("VT Open Cockpit Details","loc_media_cockpit.shtml","",0,20,150);
+	Menu8_3=new Array("Hai Shi Dao VTs","","",12,20,150);
+		Menu8_3_1=new Array("Vitzh","loc_media_vitzh.shtml","",0,20,100);
+		Menu8_3_2=new Array("Vortex","loc_media_vortex.shtml","",0,20,100);
+		Menu8_3_3=new Array("Scare Face","loc_media_scareface.shtml","",0,20,100);
+		Menu8_3_4=new Array("m-Vitzh","loc_media_mvitzh.shtml","",0,20,100);
+		Menu8_3_5=new Array("Scare Face A1","loc_media_scarefacea1.shtml","",0,20,100);
+		Menu8_3_6=new Array("Scare Face II","loc_media_scareface2.shtml","",0,20,100);
+		Menu8_3_7=new Array("Maelstrom","loc_media_maelstrom.shtml","",0,20,100);
+		Menu8_3_8=new Array("Behemoth","loc_media_behemoth.shtml","",0,20,100);
+		Menu8_3_9=new Array("Garpike","loc_media_garpike.shtml","",0,20,100);
+		Menu8_3_10=new Array("Regal Dress A","loc_media_regaldressa.shtml","",0,20,100);
+		Menu8_3_11=new Array("Regal Dress N","loc_media_regaldressn.shtml","",0,20,100);
+		Menu8_3_12=new Array("Juggernaut","loc_media_juggernaut.shtml","",0,20,100);
+	Menu8_4=new Array("Pacific Rim Forces VTs","","",9,20,150);
+		Menu8_4_1=new Array("Decider","loc_media_decider.shtml","",0,20,100);
+		Menu8_4_2=new Array("Falchion","loc_media_falchion.shtml","",0,20,100);
+		Menu8_4_3=new Array("Decider Volcanic","loc_media_decidervolcanic.shtml","",0,20,100);
+		Menu8_4_4=new Array("Prominence M1","loc_media_prominencem1.shtml","",0,20,100);
+		Menu8_4_5=new Array("Prominence M2","loc_media_prominencem2.shtml","",0,20,100);
+		Menu8_4_6=new Array("Prominence M3","loc_media_prominencem3.shtml","",0,20,100);
+		Menu8_4_7=new Array("Blade","loc_media_blade.shtml","",0,20,100);
+		Menu8_4_8=new Array("Rapier","loc_media_rapier.shtml","",0,20,100);
+		Menu8_4_9=new Array("Quasar","loc_media_quasar.shtml","",0,20,100);
+	Menu8_5=new Array("Right Brothers VTs","","",6,20,150);
+		Menu8_5_1=new Array("Colt","loc_media_colt.shtml","",0,20,100);
+		Menu8_5_2=new Array("Colt Executive","loc_media_coltexecutive.shtml","",0,20,100);
+		Menu8_5_3=new Array("Yellow Jacket","loc_media_yellowjacket.shtml","",0,20,100);
+		Menu8_5_4=new Array("Sheepdog","loc_media_sheepdog.shtml","",0,20,100);
+		Menu8_5_5=new Array("Siegeszug","loc_media_siegeszug.shtml","",0,20,100);
+		Menu8_5_6=new Array("Earthshaker","loc_media_earthshaker.shtml","",0,20,100);
+	Menu8_6=new Array("Jaralaccs Mercenary VTs","","",4,20,150);
+		Menu8_6_1=new Array("Jaralaccs C","loc_media_jaralaccsc.shtml","",0,20,100);
+		Menu8_6_2=new Array("Jaralaccs N","loc_media_jaralaccsn.shtml","",0,20,100);
+		Menu8_6_3=new Array("Jaralaccs NS-R","loc_media_jaralaccsnsr.shtml","",0,20,100);
+		Menu8_6_4=new Array("Jaralaccs Macabre","loc_media_jaralaccsmacabre.shtml","",0,20,100);
+	Menu8_7=new Array("Battle Images","","",6,20,150);
+		Menu8_7_1=new Array("Battle 01","loc_media_battle.shtml","",0,20,100);
+		Menu8_7_2=new Array("Battle 02","loc_media_battle2.shtml","",0,20,100);
+		Menu8_7_3=new Array("Battle 03","loc_media_battle3.shtml","",0,20,100);
+		Menu8_7_4=new Array("Battle 04","loc_media_battle4.shtml","",0,20,100);
+		Menu8_7_5=new Array("Battle 05","loc_media_battle5.shtml","",0,20,100);
+		Menu8_7_6=new Array("Battle 06","loc_media_battle6.shtml","",0,20,100);
+	Menu8_8=new Array("Chaff Deployment Details","loc_media_chaff.shtml","",0,20,150);
+	Menu8_9=new Array("Gameplay Movies","loc_media_movies.shtml","",0,20,150);
+	Menu8_10=new Array("Action Replay Files","loc_media_actionreplay.shtml","",0,20,150);
+
+Menu9=new Array("<img src='image/btn_misc.gif' width='83' height='11'>","","",3,11,83);
+	Menu9_1=new Array("BoxLOC","loc_boxloc.shtml","",0,20,150);
+	Menu9_2=new Array("Order of Garpike","loc_orderofpike.shtml","",0,20,150);
+	Menu9_3=new Array("Random VT Selector","loc_randomvtselector.shtml","",0,20,150);
+
+Menu10=new Array("<img src='image/btn_comm.gif' width='49' height='11'>","","",2,11,49);
+	Menu10_1=new Array("Contact Us","loc_contact.shtml","",0,20,150);
+	Menu10_2=new Array("Links of Interest","loc_discuss.shtml","",0,20,150);
+
+Menu11=new Array("<img src='image/btn_about.gif' width='63' height='11'>","","",3,11,63);
+	Menu11_1=new Array("About the Site","loc_about.shtml","",0,20,150);
+	Menu11_2=new Array("Site Credits","loc_about.shtml#credits","",0,20,150);
+	Menu11_3=new Array("Sitemap","loc_sitemap.shtml","",0,20,150);
+</script>
+
+<div align="center">
+
+<table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td>&nbsp;</td>
+		<td width="900" height="88" valign="top">
+		
+		<!---begin header and navigation--->
+		<table width="900" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="9" height="79"><img src="image/bg_navhd01.gif" width="9" height="79" border="0" alt=""></td>
+				<td width="105" height="79"><a href="loc_main.shtml"><img src="image/header01.gif" width="105" height="79" border="0" alt="LINEOFCONTACT.NET"></a></td>
+				<td width="8" height="79"><img src="image/bg_navhd02.gif" width="8" height="79" border="0" alt=""></td>
+				<td width="778" height="79">
+				<table width="778" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td width="778" height="41">
+						<table width="778" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="425" height="41" align="left"><img src="image/hdr_icons.gif" width="22" height="41" border="0" alt=""></td>
+								<td width="353" height="41" align="right"><img src="image/hdr_locnet.gif" width="353" height="41" border="0" alt="LINEOFCONTACT.NET - Your Source for Steel Battalion: Line of Contact Information"></td>
+							</tr>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td width="778" height="11">
+						<span id="dropmenu">
+						<table width="778" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="51" height="11"><img src="image/btn_tutorial.gif" width="51" height="11" border="0" alt="TUTORIAL"></td>
+								<td width="82" height="11"><img src="image/btn_vt.gif" width="82" height="11" border="0" alt="VERTICAL TANKS"></td>
+								<td width="81" height="11"><img src="image/btn_config.gif" width="81" height="11" border="0" alt="CONFIGURATION"></td>
+								<td width="55" height="11"><img src="image/btn_testing.gif" width="55" height="11" border="0" alt="TESTING"></td>
+								<td width="94" height="11"><img src="image/btn_tactical.gif" width="94" height="11" border="0" alt="TACTICAL ANALYSIS"></td>
+								<td width="86" height="11"><img src="image/btn_intel.gif" width="86" height="11" border="0" alt="INTEL &amp; BRIEFING"></td>
+								<td width="58" height="11"><img src="image/btn_platform.gif" width="58" height="11" border="0" alt="PLATFORM"></td>
+								<td width="76" height="11"><img src="image/btn_media.gif" width="76" height="11" border="0" alt="MEDIA UPLINK"></td>
+								<td width="83" height="11"><img src="image/btn_misc.gif" width="83" height="11" border="0" alt="MISCELLANEOUS"></td>
+								<td width="49" height="11"><img src="image/btn_comm.gif" width="49" height="11" border="0" alt="COMLINK"></td>
+								<td width="63" height="11"><img src="image/btn_about.gif" width="63" height="11" border="0" alt="ABOUT SITE"></td>
+							</tr>
+						</table>
+						</span>
+						</td>
+					</tr>
+					<tr>
+						<td width="778" height="18">
+						<table width="778" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="51" height="18" background="image/bg_navhd07.gif"></td>
+								<td style="padding-top: 2px; padding-left: 3px;" width="725" height="18" background="image/bg_navhd08_splice.gif"><span class="headline">LATEST NEWS:</span> KEEBLER ON FIRE AGAIN - <span style="font-size: 9px;">Regular LOC times Wed from 8:30pmEST, Sun from 3pm EST</span></td>
+								<td width="2" height="18" background="image/bg_navhd08.gif"></td>
+							</tr>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td width="778" height="9" background="image/bg_navhd05_runner.gif"></td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+			<tr>
+				<td width="9" height="9"><img src="image/bg_navhd03.gif" width="9" height="9" border="0" alt=""></td>
+				<td width="105" height="9" background="image/bg_navhd03_splice.gif"></td>
+				<td width="8" height="9"><img src="image/bg_navhd04.gif" width="8" height="9" border="0" alt=""></td>
+				<td width="778" height="9" align="left"><img src="image/bg_navhd06.gif" width="5" height="9" border="0" alt=""></td>
+			</tr>
+		</table>
+		<!---end header and navigation--->
+		</td>
+		<td>&nbsp;</td>
+	</tr>
+<!---end header navigation include--->
+<!---end navigation include--->
+	<tr>
+		<td>&nbsp;</td>
+		<td width="900" height="40">
+		<div style="height: 9px;"></div>
+		<table width="900" cellspacing="0" cellpadding="0" style="border-style: solid; border-width: 1px; border-color: #000000;">
+			<tr>
+				<td width="106" height="13" background="image/bg_currentdoc.gif"></td>
+				<td class="crumbs" style="padding-left: 5px;" width="794" height="13" bgcolor="#E4E4E4"><a class="crumbs" href="loc_main.shtml">Home</a> &gt; <a class="crumbs" href="loc_advtactics.shtml">Advanced Tactics and Tutorials Overview</a> &gt; <a class="crumbs" href="loc_advice.shtml">New Pilot Advice</a></td>
+			</tr>
+		</table>
+		<div style="height: 18px;"></div>
+		</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td width="900" valign="top">
+		<!---start content area--->
+		<div class="H1">Advice for New Pilots</div>
+		<br>
+		<span class="italic">Steel Battalion: Line of Contact</span> is a daunting game to be a novice at, even for very experienced gamers.  The level of complexity entailed in the game is on a par with PC based massively multiplayer role playing games, but with a challenging controller interface, live voice-based communication and a stiff penalty for inattentiveness (eject or lose your pilot).  This section will give a broad overview of concepts and important details which new players should be somewhat familiar with <span class="italic">before</span> jumping into the online arena.
+		<br>
+		<br>
+		<div class="H1">Using The Controller</div>
+		There really is no way to prepare a player for the experience of first sitting down the the 40 button, 3 pedal, 2 joystick monstrosity.  Proficiency with <a href="loc_controller.shtml">the controller</a> will only come over time, but a few notes of interest should be mentioned.
+		<br>
+		<ul>
+			<li>Buttons "flash" when they need to be pressed.  If someone fires a homing missile at you, the CHAFF button flashes letting you know that now would be a good time to deploy some countermeasures.  Similarly, the WASHING button will blink until you have completely cleared the viewscreen of debris.  The only exceptions to this rule are buttons like NIGHT VISION or F.S.S., which are optional features, and used infrequently.<br><br></li>
+			<li>If you do not eject when your VT goes critical from damage, your pilot will be Killed In Action (KIA'd) and all VTs, Supply Points, Optional Parts and the pilot profile itself will be LOST.<br><br></li>
+		</ul>
+		
+		<div class="H1">Communication Basics</div>
+		<ul>
+			<li>An entire section is dedicated to the <a href="loc_communication.shtml">communication functions</a> and you should really read it.  The basics are, the TUNER DIAL selects which team member you want to communicate with, COM BUTTON 1 opens communication to that player, COM BUTTON 2 closes the channel.  COM BUTTON 3 will blink when another player is trying to communicate with you but the TUNER DIAL is not tuned to their "channel," you can press this button to immediately open communications with them, dropping any currently active communications.  Another way of telling whom you're speaking with is to look at the SUB-MONITOR (the small screen on the bottom) and it will display the pilot name and number.<br><br></li> 
+			<li>A little bit more on communication.  Listen to other players, especially those that have a bit of experience.  This game is very strategic and incorrect actions can spell disaster for all involved.  Similarly, if you have a vital piece of information, by all means share it.<br><br></li>
+			<li>The SUB-MONITOR and MULTI-MONITOR viewscreens provide a great deal of mission and VT specific information.  Learn to toggle through the various views as situations dictate.<br><br></li>
+		</ul>
+		
+		<div class="H1">Controlling the Vertical Tank</div>
+		<ul>
+			<li>VTs are very complex pieces of machinery and difficult to control.  The direction of travel is controlled by the ROTATION LEVER (left joystick) which has an X-axis only (left-right).<br><br></li>
+			<li>The AIMING LEVER (right joystick) controls the aiming of the weapons. It has both an X and a Y axis.<br><br></li>
+			<li>VTs use a remote camera system to relay imaging to the cockpit viewscreen.  The camera view may be controlled independently of the direction of travel by using the VIEW HAT control under the thumb on the ROTATION LEVER (left joystick).  Clicking the VIEW HAT re-centers the view to the current forward facing direction (VT centerline).<br><br></li>
+			<li>VTs use a manually engaged gearing system to maximise torque efficiency and control over varying terrain.  Gears 1 - 4 are forward motion gears, with N being Neutral (disengaged) and R being Reverse. 5th gear enables WHEEL MODE which allows rapid travel over flat or downhill terrain.  In order to shift gears, sufficient torque must be built up, and can be checked using the Torque Guage on the cockpit display.<br><br></li>
+			<li>VTs have a supplemental damage avoidance system which is triggered using the SLIDESTEP pedal on the foot controller block.  The slidestep manoeuvre uses up battery power, and is limited by what is currently available.  Slidesteps can be performed in concert with the ROTATION LEVER to move left or right, and depending on current gear selection, Forward or Backward.  Combinations of all three will perform diagonal manoeuvres.<br><br></li>
+			<li>VTs may mount up to three Main Weapons and three Sub-Weapons if weight allows.  M.0 (main weapon slot one) is on the right "arm" M.1 (main weapon slot two) is on the "left" arm.  M.2 (main weapon slot three is dependent on weapon selection and may either be shoulder mounted, or on the secondary right arm location, stowed on the back when not in use.  A similar schema applies to the Sub-Weapons.<br><br></li>
+			<li>Melee weaponry requires a full battery charge to deploy and will "fire" directly to the centerline of travel of the VT, <span class="italic">NOT</span> the currently faced or viewed direction.  Thus melee attacks must be lined up carefully.<br><br></li>
+			<li>VTs have advanced balancer systems to keep them upright, but the balancer may be overloaded by extreme manoeuvres or obstacles in the terrain.  The balancer indicator will show on the HUD as "BAL" and the balancer warning lamps will light in the cockpit.  In order to reset the balancer, a small slidestep may be performed, or if caught in time, correction of the radical turning move will reset the balancer.<br><br></li>
+			<li>The VT display screen has multiple informational icons and messages which are displayed based on situation and context.  Review the various <a href="loc_cockpits.shtml">cockpit types</a> to learn the locations and functions of the various displays and indicators.<br><br></li>
+		</ul>
+		
+		<div class="H1">Gameplay Types &amp; Details of Campaign</div>
+		<ul>
+			<li>There are two primary play modes for <span class="italic">Steel Battalion: Line of Contact</span>: Campaign and Free Mission.  Campaign mode involves a complex economy structure and regimented Campaign Mission progress.  Free Mission is less demanding and allows for more freedom in mission choice and VT availability, as well as control over other mission parameters.  Activities in Free Mission do not affect a Campaign pilot profile.<br><br></li>
+			<li>Campaign mode is played in increments of Rounds and Turns. A single Round lasts for 8 Turns.  Each week is a Turn, during which there are 3 Missions which may be played.  At the start of each Turn, new VTs are made available to purchase from the Supply Bin (commonly known as The Bin).  Currency within the game is known as Supply Points, which are earned by participating in Missions.  Mission Wins will earn more than Mission Losses, but even a Loss will give a player at least a 5,000 Supply Point "Participation Bonus" which will allow them to continue to purchase base level VTs and participate in future Missions.<br><br></li>
+		</ul>
+		
+		<div class="H1">Starting or Joining a Game</div>
+		<ul>
+			<li>Although this game as listed as supporting up to 10 players, the reality is that most people will be limited to 3v3 sessions due to the <a href="loc_connection.html">connection issues</a>.  If you create a room for 5v5, it will probably never fill, and the connection requirements to even join the room are so demanding that many players will not be able to even enter.  Try a 3v3 first, and if things go well, move up to 4v4.<br><br></li>
+			<li>If you're having trouble controlling your VT and keep getting eaten alive by more experienced players, consider playing some Free Mission mode matches to get experience.  You may also setup a room for 1st generation VTs only, which tends to be less demanding both in terms of supply points, and VT power.  Opening a room up to 2nd and 3rd generation VTs can result in some pretty powerful models being brought onto the field.<br><br></li>
+			<li>Everyone starts as a new player at some point.  Don't be discouraged if some experienced players don't want a "one dot" on their team.  As above, build up some pilot time in Free Mission mode and then come back to Campaign.  Let other players know you've got some experience under your belt (and back that up with a decent performance) and you will be in the mix in no time.<br><br></li>
+			<li>Learn how to change your spawn position (using the thumb controller for camera view) to avoid spawning next to enemy units.  The general rule of the game is that spawn killing IS acceptable (spawn <span class="italic">camping</span> is NOT).  You can tell if an enemy unit is within 1000m of a spawn base based on whether it has a "red dot" overlayed on it from the resortie menu.  You can also use the automated camera view from the resortie menu to check the surroundings.  Don't resortie with an enemy close by, it will only result in another VT loss (and sortie point loss for your team).<br><br></li>
+			<li>Always bring more than one unit of a VT type into battle (by this I mean multiples of a given model, not multiple types, ex. x3 Scare Faces, not x1 Scare Face, x1 Scare Face A1).  Nothing will upset your team members more than your pilot being withdrawn from battle because you didn't purchase enough VTs beforehand.  The general rule of thumb is to bring at least 3 of a first generation VT type, or 2 of a second generation VT type.  Third generation VTs are a special case as they are so rare.  They are also so expensive that losing even one may cost the match.  These guidelines apply to Campaign, in Free Mission, the sortie points can be set by the room host.  Be sure to check on the maximum sortie cost and multiplier before selecting VTs.  A low sortie cost setting and a high cost VT will result in a match loss the first time your VT is destroyed.  Understand how the <a href="loc_sortiepoints.shtml">sortie points</a> work and use the appropriately priced VT for the situation.<br><br></li>
+		</ul>
+		
+		<div class="H1">A Note About Playing Experienced Pilots</div>
+		<ul>
+			<li>As with all online games, <span class="italic">Steel Battalion: Line of Contact</span> is not without some number of unsavory players.  Typically, these players are more concerned with ranking and personal stats than enjoyment of the game.  New players should be aware of the practises of "newbie hunting" and "team stacking."<br><br></li>
+			<li>"Newbie Hunters" can usually be identified as a team of high ranked players, all with a very high win/loss and kill/death ratio.  They also tend to host rooms with one side completely filled and no players opposing (3v0).<br><br></li>
+			<li>"Team Stacking" is related to "newbie hunting" but involves a room host only allowing low ranked players or players with inferior stats access to a game session.  This ensures that their opposition will not have the necessary skills or VT firepower to take on their team.<br><br></li>
+			<li>Because the <span class="italic">Steel Battalion: Line of Contact</span> community is rather small, there may at times only be sessions available with the above types of rooms available.  It is at a players own risk that they join this kind of situation.<br><br></li>
+			<li>I will put in a note here saying that not all high-ranked player rooms are newbie hunters or team stackers, sometimes it is simply a group of friends wanting to play together.  Only experience and getting to know the community members will allow a player to identify these situations with regularity.<br><br></li>
+		</ul>
+		
+		<div class="H1">Vertical Tanks - Supply Points</div>
+		<ul>
+			<li>There are 3 generation classes of VTs; 1st, 2nd and 3rd.  Each generation adds capabilities and improved performance.  Generally, higher generation VTs are rarer and much more expensive.  All 3rd generation VTs are <span class="italic">very</span> rare and difficult to purchase from the Supply Bin.<br><br></li>
+			<li>VTs are sub-classified into Combat Types, including: STANDARD COMBAT, ASSAULT, SUPPORT (artillery), SCOUT, and LIGHT ATTACK.  Each sub-classification has specific strengths and weaknesses associated with it.<br><br></li>
+			<li>VTs cost a set number of Supply Points from the Supply Bin.  Additionally, there is another value called Sortie Cost associated with each VT.  Each player profile has a maximum of 600 Sortie Points available for hangar space.  Each VT uses up a set number of Sortie Points, thus limiting the maximum number (and type) of VTs available to a player.  600 points is more than sufficient for most players, excepting the most valuable and rare VT models.<br><br></li>
+		</ul>
+		
+		<div class="H1">Mission Details</div>
+		<ul>
+			<li>Each Mission is played as a team, with certain missions having additional objectives required in order to achieve victory.  Generally, each team attempts to destroy the opposing team and capture all of their bases (spawn points).<br><br></li>
+			<li>At the start of each Mission, a set number of Sortie Points are available based on a number of factors explained <a href="loc_sortiepoints.shtml">here</a>.  As the mission progresses, Sortie Points are lost or gained dependent on Base Captures and VT losses.<br><br></li>
+			<li>Bases are captured by standing within their boundaries for 30 seconds.  The HUD will display OCCUPYING while this is in progress and a tone will sound when it is complete.  A base can be made NEUTRAL by passing through it but not occupying it.  Capturing an enemy Base deprives the enemy of 50 sortie points and adds 50 sortie points to your team.  Capturing a neutral base adds 50 sortie points to  your team.  Neutraling an enemy base does not yield any points.<br><br></li>
+			<li>Destruction of a player VT results in the Sortie Cost of that VT being deducted from the team sortie point total.<br><br></li>
+			<li>Players should note that <span class="italic">sometimes</span> the best strategy may be to capture a base, rather than attempt to engage an enemy in combat.  This is especially true if your teams sortie points are very low.  Destroying the other team will not raise your team sortie point value, only the capture of bases.  Similarly, there may be times when it is prudent <span class="italic">not</span> to respawn after being destroyed as it would bring down sortie points for your team to a dangerously low point, resulting in a loss if the opposing team captured a base.  This sort of strategic thinking will only come with experience, in the meantime, consult with more experienced players on your team.<br><br></li>
+		</ul>
+		
+		<div class="H1">Exploits</div>
+		<ul>
+			<li>Clip Dumping is the process of rapidly pressing the MAGAZINE CHANGE button while holding in the MAIN WEAPON button.  This results in a rapid multi-round burst which overrides the normal reload time between rounds.  This tactic is generally not acceptable to player in the North American or EU regions, but is more accepted by the Japanese.  Typically, the room host will call for "no clip dumping" and it is then up to gentlemens honour to uphold the rule.  Players who violate the request are typically shunned from future sessions and can be alienated quite quickly from the community.<br><br></li>
+			<li>Early Ejecting is the unsportsmanlike behaviour of ejecting from a VT prior to sustaining critical damage.  Doing this denies the attacking player a kill statistic.  Not as frowned upon as Clip Dumping, but is still generally called out by the room host as "no early ejecting."<br><br></li>
+			<li>Pulling The Plug is the phrase used to describe players that will turn off their XBox console or pull their network cable when they are about to lose a match or have a VT destroyed.  This usually results in a massive room lag (and players being dropped randomly) as the game attempts to re-establish connection control between the remaining players. Players who pull their plugs do not have the current match statistics (VT losses/kills, or mission loss/win assessed to their Campaign pilot profile).<br><br></li>
+			<li>Gen Violation is the practise of taking the wrong (typically higher) generation VT into a game session specified for lower generation VTs.  Unlike the rank filter given in the session setup menu, the VT generation is only a "request," not a filter.  This means that during the pre-mission sortie menu, a player can choose any VT in their inventory to take into battle despite the host request.  This typically gives the violating pilot an edge in performance over lower classed VTs.  New pilots are STRONGLY advised to abide by host room requests or they will find themselves shunned by the community and unable to find games.  Similarly, if playing with other players that gen violate, do not tolerate the behaviour and leave the session.<br><br></li>
+		</ul>
+		
+		<div class="H1">Miscellaneous Information</div>
+		<ul>
+			<li>Optional Parts add additional performance or new features to VTs and are quite rare.  Optional parts are explained in more detail <a href="loc_optionalparts.shtml">here</a>.  Optional parts can only be "won" by Campaign Mission participation, although the exact criteria are not fully understood at this time.<br><br></li>
+			<li>Vertical Tanks can be "captured" by inflicting leg specific damage of greater than about 65% to the leg(s) alone.  If the total damage to the VT exceeds the maximum armour rating the VT is lost an cannot be captured.  A list of captured VTs will show up at the end of a Mission, with options to keep or discard the models.<br><br></li>
+			<li>Vertical Tanks, in addition to being grouped by generation, are further separated by "combat role."  Typically, the "easiest" VT type to pilot are standard or assault direct combat models.  Support role VTs (artillery and scout) are much more difficult to use as they require more refined strategies, some forethought on tactics and positioning, and above all: teamwork, to use them effectively.  DO NOT take an expensive Support role VT into direct combat unless you know what you are doing.  This will only result in your destruction, the loss of sortie points for your team, and frustration.<br><br></li>
+		</ul>
+		<br>
+		<div class="footer" align="right">This file was last updated Saturday, 29-Nov-2008 14:55:40 PST</div><br>
+		<!---end content area--->
+		</td>
+		<td>&nbsp;</td>
+	</tr>
+<!---begin footer include--->
+<!---start footer include--->
+<tr>
+	<td style="background-repeat: repeat-x;" bgcolor="#EEEEEE" background="image/bg_footer.gif">&nbsp;</td>
+	<td width="900" valign="top" height="50" style="background-repeat: repeat-x;" bgcolor="#EEEEEE" background="image/bg_footer.gif">
+	<div class="footer" align="center"><a class="footer" href="loc_vt.shtml">Vertical Tanks</a> &nbsp; || &nbsp; <a class="footer" href="loc_weapon.shtml">Weapons</a> &nbsp; || &nbsp; <a class="footer" href="loc_mission.shtml">Missions</a> &nbsp; || &nbsp; <a class="footer" href="loc_contact.shtml">Contact</a> &nbsp; || &nbsp; <a class="footer" href="loc_about.shtml">About</a> &nbsp; || &nbsp; <a class="footer" href="loc_sitemap.shtml">Sitemap</a> &nbsp; || &nbsp; <a class="footer" href="loc_main.shtml">Home</a></div>
+	</td>
+	<td style="background-repeat: repeat-x;" bgcolor="#EEEEEE" background="image/bg_footer.gif">&nbsp;</td>
+</tr>
+<!---end footer include--->
+<!---end footer include--->
+</table>
+
+</div>
+
+</body>
+
+
+<!-- Mirrored from lineofcontact.net/loc_advice.shtml by HTTrack Website Copier/3.x [XR&CO'2010], Thu, 06 May 2010 16:25:25 GMT -->
+</html>

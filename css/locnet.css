@@ -1,0 +1,921 @@
+/* LINEOFCONTACT.NET standard CSS styles */
+
+/*core style for body text*/
+body	{
+		font-family: Arial, Tahoma, sans-serif;
+		font-size: 11px;
+		color:#000000;
+		}
+
+img		{
+		border: none;
+		}
+
+H1		{
+		font-size: 12px;
+		font-weight: bold;
+		}
+
+.greybg	{
+		background-color: #CFCFCF;
+		font-weight: bold;
+		padding: 3px;
+		}
+.whitbg	{
+		background-color: #FFFFFF;
+		font-weight: bold;
+		padding: 3px;
+		}
+		
+/*bolded style for body text*/
+.bold	{
+		font-family: Arial, Tahoma, sans-serif;
+		font-size: 10px;
+		color:#000000;
+		font-weight: bold;
+		}
+/*white text for spec tables*/
+.white	{
+		font-family: Arial, Tahoma, sans-serif;
+		font-size: 10px;
+		color:#FFFFFF;
+		}
+		
+.redtext	{
+			font-family: Arial, Tahoma, sans-serif;
+			font-size: 10px;
+			color:#A70000;
+			}
+
+.headline	{
+			font-family: Arial, Tahoma, sans-serif;
+			font-size: 10px;
+			color:#EB1B42;
+			}
+			
+.footer		{
+			margin-top: 10px;
+			margin-left: 0px;
+			margin-right: 0px;
+			margin-bottom: 0px;
+			font-family: Arial, Tahoma, sans-serif;
+			font-size: 10px;
+			font-weight: bold;
+			color: #A70000;
+			}
+
+a.footer:active		{
+					color:#EB1B42;
+					text-decoration:none;
+					}
+					
+a.footer:link		{
+					color:#EB1B42;
+					text-decoration:none;
+					}
+					
+a.footer:hover		{
+					color:#C51738;
+					text-decoration:underline;
+					background-color: #CFCFCF;
+					}
+					
+a.footer:visited	{
+					color:#C51738;
+					text-decoration:underline;
+					}
+					
+					
+.crumbs		{
+			font-family: Arial, Tahoma, sans-serif;
+			font-size: 10px;
+			font-weight: normal;
+			color: #A70000;
+			}
+a.crumbs:active		{
+					color:#EB1B42;
+					text-decoration:none;
+					}
+					
+a.crumbs:link		{
+					color:#EB1B42;
+					text-decoration:none;
+					}
+					
+a.crumbs:hover		{
+					color:#C51738;
+					text-decoration:underline;
+					}
+					
+a.crumbs:visited	{
+					color:#C51738;
+					text-decoration:underline;
+					}
+
+
+/*bolded style for body text*/
+/*sub-header text titles*/
+.H1		{
+		font-family: Arial, Tahoma, sans-serif;
+		font-size: 11px;
+		font-weight: 900;
+		color:#000000;
+		}
+/*informational header - italicised*/
+.H2		{
+		font-family: Arial, Tahoma, sans-serif;
+		font-size: 10px;
+		font-style: italic;
+		font-weight: 200;
+		color:#000000;
+		}
+
+.margin5	{
+			margin: 5px
+			}
+			
+.margin3	{
+			margin: 3px
+			}
+
+.italic	{
+		font-family: Arial, Tahoma, sans-serif;
+		font-size: 11px;
+		color:#000000;
+		font-style: italic;
+		}
+
+.H1italic	{
+		font-family: Arial, Tahoma, sans-serif;
+		font-size: 11px;
+		color:#000000;
+		font-style: italic;
+		font-weight: 900;
+		}
+
+.selectmenu {
+	font-family: Arial, Tahoma, sans-serif;
+	font-size: 9px;
+	font-weight: normal;
+	color:#FFFFFF;
+	text-decoration: none;
+	background-color:#000000;
+	width: 101px;
+}
+
+
+/*link styles*/
+A:link	{color:#EB1B42; text-decoration:none;}
+A:hover {color:#C51738; text-decoration:underline;}
+A:visited {color:#C51738; text-decoration:underline;}
+
+table	{
+		font-family: Arial, Tahoma, sans-serif;
+		font-size: 11px;
+		}
+
+
+ul		{
+		font-family: Arial, Tahoma, sans-serif;
+		font-size: 10px;
+		color:#000000;
+		list-style-type: square;
+		}
+
+.content {
+		width: 500px;
+		
+		}
+.spacer	{
+		width: 65px;
+		}
+	
+		
+/*new vt datasheet related styles*/
+
+.spec01	{
+		font-family: Arial, Tahoma, sans-serif;
+		font-size: 11px;
+		color:#000000;
+		font-weight: bold;
+		background-color: #EEEEEE;
+		}
+.spbrd	{
+		border: 1px;
+		border-width: 1px;
+		border-color: #000000;
+		border-style: solid;
+		width: 353px;
+		}
+.spec02	{
+		font-family: Arial, Tahoma, sans-serif;
+		font-size: 10px;
+		color:#000000;
+		background-color: #EEEEEE;
+		}
+.subbrd	{
+		border: 1px;
+		border-width: 1px;
+		border-color: #000000;
+		border-style: solid;
+		width: 263px;
+		}
+.misbrd	{
+		border: 1px;
+		border-width: 1px;
+		border-color: #000000;
+		border-style: solid;
+		width: 240px;
+		}
+.misovr	{
+		border: 1px;
+		border-width: 1px;
+		border-color: #000000;
+		border-style: solid;
+		width: 640px;
+		}
+
+.bgnorpt{
+		background-repeat: no-repeat;
+		}
+		
+.setupthumb
+		{
+		float: left;
+		padding: 5px;
+		border: 1px solid #000000;
+		margin-right: 10px;
+		}
+
+.setuptitle
+		{
+		font-size: 14px;
+		font-weight: bold;
+		padding: 3px 2px 3px 2px;
+		background-color: #999999;
+		border: 1px solid #000000;
+		}
+		
+		
+/*div assignments for weapon comparator code*/
+div#270-RI
+{
+margin: 0px 0px 0px 0px;
+height: 11px;
+width: 798px;
+z-index: 0;
+background-image:url(../range/range_270-RI.gif);
+background-repeat: no-repeat;
+background-position: center;
+display: none;
+}
+
+div#315-SB
+{
+margin: 0px 0px 0px 0px;
+width: 798px;
+height: 11px;
+z-index: 1;
+background-image:url(../range/range_315-SB.gif);
+background-repeat: no-repeat;
+background-position: center;
+display: none;
+}
+
+div#355-SB
+{
+margin: 0px 0px 0px 0px;
+width: 798px;
+height: 11px;
+z-index: 2;
+position: absolute; top: 45px;
+background-image: url(../range/range_355-SB.gif);
+background-repeat: no-repeat;
+background-position: center;
+display: none;
+}
+
+div#430-SB
+{
+margin: 0px 0px 0px 0px;
+width: 798px;
+height: 11px;
+z-index: 3;
+background-image: url(../range/range_430-SB.gif);
+background-repeat: no-repeat;
+background-position: center;
+display: none;
+}
+
+div#200-AR
+{
+margin: 0px 0px 0px 0px;
+width: 798px;
+height: 11px;
+z-index: 4;
+background-image: url(../range/range_200-AR.gif);
+background-repeat: no-repeat;
+background-position: center;
+display: none;
+}
+
+div#270-AR
+{
+margin: 0px 0px 0px 0px;
+width: 798px;
+height: 11px;
+z-index: 5;
+background-image: url(../range/range_270-AR.gif);
+background-repeat: no-repeat;
+background-position: center;
+display: none;
+}
+
+div#320-SR
+{
+margin: 0px 0px 0px 0px;
+width: 798px;
+height: 11px;
+z-index: 6;
+background-image: url(../range/range_320-SR.gif);
+background-repeat: no-repeat;
+background-position: center;
+display: none;
+}
+
+div#370-SR
+{
+margin: 0px 0px 0px 0px;
+width: 798px;
+height: 11px;
+z-index: 7;
+background-image: url(../range/range_370-SR.gif);
+background-repeat: no-repeat;
+background-position: center;
+display: none;
+}
+
+div#315-RF
+{
+margin: 0px 0px 0px 0px;
+width: 798px;
+height: 11px;
+z-index: 8;
+background-image: url(../range/range_315-RF.gif);
+background-repeat: no-repeat;
+background-position: center;
+display: none;
+}
+
+div#355-RF
+{
+margin: 0px 0px 0px 0px;
+width: 798px;
+height: 11px;
+z-index: 9;
+background-image: url(../range/range_355-RF.gif);
+background-repeat: no-repeat;
+background-position: center;
+display: none;
+}
+
+div#315-TR
+{
+margin: 0px 0px 0px 0px;
+width: 798px;
+height: 11px;
+z-index: 9;
+background-image: url(../range/range_315-TR.gif);
+background-repeat: no-repeat;
+background-position: center;
+display: none;
+}
+
+div#4A-REC
+{
+margin: 0px 0px 0px 0px;
+width: 798px;
+height: 11px;
+z-index: 10;
+background-image: url(../range/range_4A-REC.gif);
+background-repeat: no-repeat;
+background-position: center;
+display: none;
+}
+
+div#77-REC
+{
+margin: 0px 0px 0px 0px;
+width: 798px;
+height: 11px;
+z-index: 12;
+background-image: url(../range/range_77-REC.gif);
+background-repeat: no-repeat;
+background-position: center;
+display: none;
+}
+
+div#MK21-R
+{
+margin: 0px 0px 0px 0px;
+width: 798px;
+height: 11px;
+z-index: 13;
+background-image: url(../range/range_MK21-R.gif);
+background-repeat: no-repeat;
+background-position: center;
+display: none;
+}
+
+div#MK34-R
+{
+margin: 0px 0px 0px 0px;
+width: 798px;
+height: 11px;
+z-index: 14;
+background-image: url(../range/range_MK34-R.gif);
+background-repeat: no-repeat;
+background-position: center;
+display: none;
+}
+
+div#120-MG
+{
+margin: 0px 0px 0px 0px;
+width: 798px;
+height: 11px;
+z-index: 15;
+background-image: url(../range/range_120-MG.gif);
+background-repeat: no-repeat;
+background-position: center;
+display: none;
+}
+
+div#140-MG
+{
+margin: 0px 0px 0px 0px;
+width: 798px;
+height: 11px;
+z-index: 16;
+background-image: url(../range/range_140-MG.gif);
+background-repeat: no-repeat;
+background-position: center;
+display: none;
+}
+
+div#AS-MIS
+{
+margin: 0px 0px 0px 0px;
+width: 798px;
+height: 11px;
+z-index: 17;
+background-image: url(../range/range_AS-MIS.gif);
+background-repeat: no-repeat;
+background-position: center;
+display: none;
+}
+
+div#PZ-MIS
+{
+margin: 0px 0px 0px 0px;
+width: 798px;
+height: 11px;
+z-index: 18;
+background-image: url(../range/range_PZ-MIS.gif);
+background-repeat: no-repeat;
+background-position: center;
+display: none;
+}
+
+div#HVM-LA
+{
+margin: 0px 0px 0px 0px;
+width: 798px;
+height: 11px;
+z-index: 19;
+background-image: url(../range/range_HVM-LA.gif);
+background-repeat: no-repeat;
+background-position: center;
+display: none;
+}
+
+div#MKR-LA
+{
+margin: 0px 0px 0px 0px;
+width: 798px;
+height: 11px;
+z-index: 20;
+background-image: url(../range/range_MKR-LA.gif);
+background-repeat: no-repeat;
+background-position: center;
+display: none;
+}
+
+div#PPNG-S
+{
+margin: 0px 0px 0px 0px;
+width: 798px;
+height: 11px;
+z-index: 21;
+background-image: url(../range/range_PPNG-S.gif);
+background-repeat: no-repeat;
+background-position: center;
+display: none;
+}
+
+div#67-CG
+{
+margin: 0px 0px 0px 0px;
+width: 798px;
+height: 11px;
+z-index: 22;
+background-image: url(../range/range_67-CG.gif);
+background-repeat: no-repeat;
+background-position: center;
+display: none;
+}
+
+div#80-CG
+{
+margin: 0px 0px 0px 0px;
+width: 798px;
+height: 11px;
+z-index: 23;
+background-image: url(../range/range_80-CG.gif);
+background-repeat: no-repeat;
+background-position: center;
+display: none;
+}
+
+div#100-CG
+{
+margin: 0px 0px 0px 0px;
+width: 798px;
+height: 11px;
+z-index: 24;
+background-image: url(../range/range_100-CG.gif);
+background-repeat: no-repeat;
+background-position: center;
+display: none;
+}
+
+div#135-MG
+{
+margin: 0px 0px 0px 0px;
+width: 798px;
+height: 11px;
+z-index: 25;
+background-image: url(../range/range_135-MG.gif);
+background-repeat: no-repeat;
+background-position: center;
+display: none;
+}
+
+div#GND
+{
+margin: 0px 0px 0px 0px;
+width: 798px;
+height: 11px;
+z-index: 26;
+background-image: url(../range/range_GND.gif);
+background-repeat: no-repeat;
+background-position: center;
+display: none;
+}
+
+div#T-GND
+{
+margin: 0px 0px 0px 0px;
+width: 798px;
+height: 11px;
+z-index: 27;
+background-image: url(../range/range_T-GND.gif);
+background-repeat: no-repeat;
+background-position: center;
+display: none;
+}
+
+div#DL-GM
+{
+margin: 0px 0px 0px 0px;
+width: 798px;
+height: 11px;
+z-index: 28;
+background-image: url(../range/range_DL-GM.gif);
+background-repeat: no-repeat;
+background-position: center;
+display: none;
+}
+
+div#SL-GM
+{
+margin: 0px 0px 0px 0px;
+width: 798px;
+height: 11px;
+z-index: 29;
+background-image: url(../range/range_SL-GM.gif);
+background-repeat: no-repeat;
+background-position: center;
+display: none;
+}
+
+div#MM
+{
+margin: 0px 0px 0px 0px;
+width: 798px;
+height: 11px;
+z-index: 30;
+background-image: url(../range/range_MM.gif);
+background-repeat: no-repeat;
+background-position: center;
+display: none;
+}
+
+div#AVTDV
+{
+margin: 0px 0px 0px 0px;
+width: 798px;
+height: 11px;
+z-index: 31;
+background-image: url(../range/range_AVTDV.gif);
+background-repeat: no-repeat;
+background-position: center;
+display: none;
+}
+
+div#DP-MIS
+{
+margin: 0px 0px 0px 0px;
+width: 798px;
+height: 11px;
+z-index: 32;
+background-image: url(../range/range_DP-MIS.gif);
+background-repeat: no-repeat;
+background-position: center;
+display: none;
+}
+
+div#TP-MIS
+{
+margin: 0px 0px 0px 0px;
+width: 798px;
+height: 11px;
+z-index: 33;
+background-image: url(../range/range_TP-MIS.gif);
+background-repeat: no-repeat;
+background-position: center;
+display: none;
+}
+
+div#RAIL-Ga
+{
+margin: 0px 0px 0px 0px;
+width: 798px;
+height: 11px;
+z-index: 34;
+background-image: url(../range/range_RAIL-Ga.gif);
+background-repeat: no-repeat;
+background-position: center;
+display: none;
+}
+
+div#RAIL-Gb
+{
+margin: 0px 0px 0px 0px;
+width: 798px;
+height: 11px;
+z-index: 35;
+background-image: url(../range/range_RAIL-Gb.gif);
+background-repeat: no-repeat;
+background-position: center;
+display: none;
+}
+
+div#GAUSS
+{
+margin: 0px 0px 0px 0px;
+width: 798px;
+height: 11px;
+z-index: 36;
+background-image: url(../range/range_GAUSS.gif);
+background-repeat: no-repeat;
+background-position: center;
+display: none;
+}
+
+div#AVTGM
+{
+margin: 0px 0px 0px 0px;
+width: 798px;
+height: 11px;
+z-index: 37;
+background-image: url(../range/range_AVTGM.gif);
+background-repeat: no-repeat;
+background-position: center;
+display: none;
+}
+
+div#NPM
+{
+margin: 0px 0px 0px 0px;
+width: 798px;
+height: 11px;
+z-index: 38;
+background-image: url(../range/range_NPM.gif);
+background-repeat: no-repeat;
+background-position: center;
+display: none;
+}
+
+div#FMTHR
+{
+margin: 0px 0px 0px 0px;
+width: 798px;
+height: 11px;
+z-index: 39;
+background-image: url(../range/range_FMTHR.gif);
+background-repeat: no-repeat;
+background-position: center;
+display: none;
+}
+
+div#AVTM
+{
+margin: 0px 0px 0px 0px;
+width: 798px;
+height: 11px;
+z-index: 40;
+background-image: url(../range/range_AVTM.gif);
+background-repeat: no-repeat;
+background-position: center;
+display: none;
+}
+
+div#8-MLR
+{
+margin: 0px 0px 0px 0px;
+width: 798px;
+height: 11px;
+z-index: 41;
+background-image: url(../range/range_8-MLR.gif);
+background-repeat: no-repeat;
+background-position: center;
+display: none;
+}
+
+div#12-MLR
+{
+margin: 0px 0px 0px 0px;
+width: 798px;
+height: 11px;
+z-index: 42;
+background-image: url(../range/range_12-MLR.gif);
+background-repeat: no-repeat;
+background-position: center;
+display: none;
+}
+
+div#305-HW
+{
+margin: 0px 0px 0px 0px;
+width: 798px;
+height: 11px;
+z-index: 43;
+background-image: url(../range/range_305-HW.gif);
+background-repeat: no-repeat;
+background-position: center;
+display: none;
+}
+
+div#370-HW
+{
+margin: 0px 0px 0px 0px;
+width: 798px;
+height: 11px;
+z-index: 44;
+background-image: url(../range/range_370-HW.gif);
+background-repeat: no-repeat;
+background-position: center;
+display: none;
+}
+
+div#550-HW
+{
+margin: 0px 0px 0px 0px;
+width: 798px;
+height: 11px;
+z-index: 45;
+background-image: url(../range/range_550-HW.gif);
+background-repeat: no-repeat;
+background-position: center;
+display: none;
+}
+
+div#660-HW
+{
+margin: 0px 0px 0px 0px;
+width: 798px;
+height: 11px;
+z-index: 46;
+background-image: url(../range/range_660-HW.gif);
+background-repeat: no-repeat;
+background-position: center;
+display: none;
+}
+
+
+div#205-PT
+{
+margin: 0px 0px 0px 0px;
+width: 798px;
+height: 11px;
+z-index: 47;
+background-image: url(../range/range_205-PT.gif);
+background-repeat: no-repeat;
+background-position: center;
+display: none;
+}
+
+div#22b-PT
+{
+margin: 0px 0px 0px 0px;
+width: 798px;
+height: 11px;
+z-index: 48;
+background-image: url(../range/range_22b-PT.gif);
+background-repeat: no-repeat;
+background-position: center;
+display: none;
+}
+
+div#CUT-B
+{
+margin: 0px 0px 0px 0px;
+width: 798px;
+height: 11px;
+z-index: 49;
+background-image: url(../range/range_CUT-B.gif);
+background-repeat: no-repeat;
+background-position: center;
+display: none;
+}
+
+
+div#BANG-N
+{
+margin: 0px 0px 0px 0px;
+width: 798px;
+height: 11px;
+z-index: 50;
+background-image: url(../range/range_BANG-N.gif);
+background-repeat: no-repeat;
+background-position: center;
+display: none;
+}
+
+
+div#STUN-R
+{
+margin: 0px 0px 0px 0px;
+width: 798px;
+height: 11px;
+z-index: 51;
+background-image: url(../range/range_STUN-R.gif);
+background-repeat: no-repeat;
+background-position: center;
+display: none;
+}
+
+div#SHLD-B
+{
+margin: 0px 0px 0px 0px;
+width: 798px;
+height: 11px;
+z-index: 52;
+background-image: url(../range/range_SHLD-B.gif);
+background-repeat: no-repeat;
+background-position: center;
+display: none;
+}
+/*end div assignments for weapon comparator code*/
+
+div#safari
+{
+width: 180px;
+margin: 0px;
+padding: 5px;
+text-align: center;
+background-color: #CFCFCF;
+display: none;
+}
+
+div#kingleeruk, div#nemesis8722, div#shaloop, div#dewiz, div#kaebora, div#dwraith, div#dagsabot, div#reverendted, div#methusulah, div#wagonofdeath, div#coalraker, div#goldengun
+{
+display: none;
+margin: 0px;
+margin-bottom: 5px;
+height: auto;
+width: 850px;
+z-index: 2;
+background-color: #CFCFCF;
+}

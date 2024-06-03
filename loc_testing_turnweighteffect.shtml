@@ -1,0 +1,1671 @@
+<html>
+
+<!-- Mirrored from lineofcontact.net/loc_testing_turnweighteffect.shtml by HTTrack Website Copier/3.x [XR&CO'2010], Thu, 06 May 2010 16:40:56 GMT -->
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<title>LINEOFCONTACT.NET :: STEEL BATTALION: LINE OF CONTACT INFORMATION</title>
+
+<link rel=StyleSheet href="css/locnet.css" TYPE="text/css" media="screen">
+
+</head>
+
+<body topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0">
+<!---begin navigation include--->
+<!---start header navigation include--->
+<a name="#top"></a>
+<script type='text/javascript'>
+function Go(){return}
+</script>
+<script type='text/javascript' src='_js/main.js'></script>
+
+<script language="JavaScript">
+// Menu tree
+//	MenuX=new Array(Text to show, Link, background image (optional), number of sub elements, height, width);
+//	For rollover images set "Text to show" to:  "rollover:Image1.jpg:Image2.jpg"
+
+Menu1=new Array("<img src='image/btn_tutorial.gif' width='51' height='11'>","","",13,11,51);
+	Menu1_1=new Array("Tutorial Overview","loc_tutorial.shtml","",0,20,120);
+	Menu1_2=new Array("Create A Pilot","loc_newpilot.shtml","",0,20,120);
+	Menu1_3=new Array("New Pilot Advice","loc_advice.shtml","",0,20,120);
+	Menu1_4=new Array("Controlling VTs","loc_vtcontrol.shtml","",0,20,120);
+	Menu1_5=new Array("Starting a Game","loc_newgame.shtml","",0,20,120);
+	Menu1_6=new Array("Chat & Trade Tutorial","loc_tradechat.shtml","",0,20,120);
+	Menu1_7=new Array("Communication Tutorial","loc_communication.shtml","",0,20,120);
+	Menu1_8=new Array("Artillery Tutorial","loc_tutorial_artillery.shtml","",0,20,120);
+	Menu1_9=new Array("Sniper Tutorial","loc_tutorial_sniper.shtml","",0,20,120);
+	Menu1_10=new Array("Repacking Tutorial","loc_tutorial_repack.shtml","",0,20,120);
+	Menu1_11=new Array("Foot Controller Repair","loc_footcontroller_repair.shtml","",0,20,120);
+	Menu1_12=new Array("Insignia Tool","loc_tutorial_insigniatool.shtml","",0,20,120);
+	Menu1_13=new Array("Unlock Code","loc_unlockcode.shtml","",0,20,120);
+
+Menu2=new Array("<img src='image/btn_vt.gif' width='82' height='11'>","","",9,11,82);
+	Menu2_1=new Array("VT Overview","loc_vt.shtml","",0,20,130);
+	Menu2_2=new Array("Hai Shi Dao VTs","","",3,20,130);
+		Menu2_2_1=new Array("1st Generation VTs","","",5,20,110);
+			Menu2_2_1_1=new Array("Vitzh","ds_vitzh.shtml","",0,20,100);
+			Menu2_2_1_2=new Array("Vortex","ds_vortex.shtml","",0,20,100);
+			Menu2_2_1_3=new Array("m-Vitzh","ds_m-vitzh.shtml","",0,20,100);
+			Menu2_2_1_4=new Array("Scare Face","ds_scareface.shtml","",0,20,100);
+			Menu2_2_1_5=new Array("Scare Face A1","ds_scarefacea1.shtml","",0,20,100);
+		Menu2_2_2=new Array("2nd Generation VTs","","",4,20,110);
+			Menu2_2_2_1=new Array("Scare Face II","ds_scareface2.shtml","",0,20,110);
+			Menu2_2_2_2=new Array("Maelstrom","ds_maelstrom.shtml","",0,20,110);
+			Menu2_2_2_3=new Array("Garpike","ds_garpike.shtml","",0,20,110);
+			Menu2_2_2_4=new Array("Behemoth","ds_behemoth.shtml","",0,20,110);
+		Menu2_2_3=new Array("3rd Generation VTs","","",3,20,130);
+			Menu2_2_3_1=new Array("Regal Dress N","ds_regaldress_N.shtml","",0,20,110);
+			Menu2_2_3_2=new Array("Regal Dress A","ds_regaldress_A.shtml","",0,20,110);
+			Menu2_2_3_3=new Array("Juggernaut","ds_juggernaut.shtml","",0,20,110);
+	Menu2_3=new Array("Pacific Rim Forces VTs","","",3,20,130);
+		Menu2_3_1=new Array("1st Generation VTs","","",3,20,110);
+			Menu2_3_1_1=new Array("Decider","ds_decider.shtml","",0,20,110);
+			Menu2_3_1_2=new Array("Falchion","ds_falchion.shtml","",0,20,110);
+			Menu2_3_1_3=new Array("Decider Volcanic","ds_decidervolcanic.shtml","",0,20,110);
+		Menu2_3_2=new Array("2nd Generation VTs","","",5,20,110);
+			Menu2_3_2_1=new Array("Blade","ds_blade.shtml","",0,20,110);
+			Menu2_3_2_2=new Array("Prominence M1","ds_prominenceM1.shtml","",0,20,110);
+			Menu2_3_2_3=new Array("Rapier","ds_rapier.shtml","",0,20,110);
+			Menu2_3_2_4=new Array("Prominence M2","ds_prominenceM2.shtml","",0,20,110);
+			Menu2_3_2_5=new Array("Prominence M3","ds_prominenceM3.shtml","",0,20,110);
+		Menu2_3_3=new Array("3rd Generation VTs","","",1,20,110);
+			Menu2_3_3_1=new Array("Quasar","ds_quasar.shtml","",0,20,110);
+	Menu2_4=new Array("Right Brothers VTs","","",3,20,130);
+		Menu2_4_1=new Array("1st Generation VTs","","",2,20,110);
+			Menu2_4_1_1=new Array("Colt","ds_colt.shtml","",0,20,110);
+			Menu2_4_1_2=new Array("Colt Executive","ds_coltexecutive.shtml","",0,20,110);
+		Menu2_4_2=new Array("2nd Generation VTs","","",3,20,110);
+			Menu2_4_2_1=new Array("Yellow Jacket","ds_yellowjacket.shtml","",0,20,110);
+			Menu2_4_2_2=new Array("Siegeszug","ds_siegeszug.shtml","",0,20,110);
+			Menu2_4_2_3=new Array("Sheepdog","ds_sheepdog.shtml","",0,20,110);
+		Menu2_4_3=new Array("3rd Generation VTs","","",1,20,110);
+			Menu2_4_3_1=new Array("Earthshaker","ds_earthshaker.shtml","",0,20,110);
+	Menu2_5=new Array("Jaralaccs Mercenary VTs","","",1,20,130);
+		Menu2_5_1=new Array("2nd Generation VTs","","",4,20,110);
+			Menu2_5_1_1=new Array("Jaralaccs C","ds_jaralaccsC.shtml","",0,20,110);
+			Menu2_5_1_2=new Array("Jaralaccs N","ds_jaralaccsN.shtml","",0,20,110);
+			Menu2_5_1_3=new Array("Jaralaccs NS-R","ds_jaralaccsNS-R.shtml","",0,20,110);
+			Menu2_5_1_4=new Array("Jaralaccs Macabre","ds_jaralaccs_macabre.shtml","",0,20,110);
+	Menu2_6=new Array("VT Manufacturers","loc_manunav.shtml","",0,20,130);
+	Menu2_7=new Array("VT Comparissons","loc_vtcompare.shtml","",0,20,130);
+	Menu2_8=new Array("Cockpit Reference","loc_cockpits.shtml","",6,20,130);
+		Menu2_8_1=new Array("1st Gen - Standard","loc_cockpits_g1.shtml","",0,20,120);
+		Menu2_8_2=new Array("1st Gen - Support","loc_cockpits_g1s.shtml","",0,20,120);
+		Menu2_8_3=new Array("2nd Gen - Standard","loc_cockpits_g2.shtml","",0,20,120);
+		Menu2_8_4=new Array("2nd Gen - Support","loc_cockpits_g2s.shtml","",0,20,120);
+		Menu2_8_5=new Array("2nd Gen - Jaralaccs","loc_cockpits_g2j.shtml","",0,20,120);
+		Menu2_8_6=new Array("3rd Gen - Standard","loc_cockpits_g3.shtml","",0,20,120);
+	Menu2_9=new Array("VT Customisation","loc_vtcustom.shtml","",0,20,130);
+	
+Menu3=new Array("<img src='image/btn_config.gif' width='81' height='11'>","","",5,11,81);
+	Menu3_1=new Array("Weapon Information","loc_weapon.shtml","",0,20,130);
+	Menu3_2=new Array("Weapon Summary","loc_weapon_summary.shtml","",0,20,130);
+	Menu3_3=new Array("Weapon Configuration","loc_weaponconfig.shtml","",0,20,130);
+	Menu3_4=new Array("Optional Parts","loc_optionalparts.shtml","",0,20,130);
+	Menu3_5=new Array("Weapon Range Compare","loc_rangecompare.shtml","",0,20,130);
+	
+Menu4=new Array("<img src='image/btn_testing.gif' width='55' height='11'>","","",9,11,55);
+	Menu4_1=new Array("Testing & Results","loc_testing.shtml","",0,20,200);
+	Menu4_2=new Array("Loadout Weight Effect on Turning","loc_testing_turnweighteffect.shtml","",0,20,200);
+	Menu4_3=new Array("Vertical Tank Rise Time","loc_testing_vt_risetime.shtml","",0,20,200);
+	Menu4_4=new Array("Platform and Leg Durability","loc_testing_dur.shtml","",0,20,200);
+	Menu4_5=new Array("Vertical Tank Distance Modifiers","loc_testing_distancemod.shtml","",0,20,200);
+	Menu4_6=new Array("Vertical Tank Turning Performance","loc_testing_turn.shtml","",0,20,200);
+	Menu4_7=new Array("Vertical Tank Acceleration Testing","loc_testing_speed.shtml","",0,20,200);
+	Menu4_8=new Array("Guided Missile Testing","loc_testing_guidedmissile.shtml","",0,20,200);
+	Menu4_9=new Array("Torque Performance on Terrain","loc_testing_crossgear.shtml","",0,20,200);
+	
+Menu5=new Array("<img src='image/btn_tactical.gif' width='94' height='11'>","","",3,11,94);
+	Menu5_1=new Array("Sortie Points","loc_sortiepoints.shtml","",0,20,120);
+	Menu5_2=new Array("Gameplay","loc_gameplay.shtml","",0,20,120);
+	Menu5_3=new Array("Mission Information","loc_mission.shtml","",25,20,120);
+		Menu5_3_1=new Array("Mission 00 - Live Ammunition Training Grounds","loc_mission00.shtml","",0,20,300);
+		Menu5_3_2=new Array("Mission 01 - Sha Wan Hills","loc_mission01.shtml","",0,20,300);
+		Menu5_3_3=new Array("Mission 02 - Dong Lai River Ford","loc_mission02.shtml","",0,20,300);
+		Menu5_3_4=new Array("Mission 03 - Capture of Outpost 8","loc_mission03.shtml","",0,20,300);
+		Menu5_3_5=new Array("Mission 04 - Occupation of Highland 33","loc_mission04.shtml","",0,20,300);
+		Menu5_3_6=new Array("Mission 05 - Ji Feng Military Base","loc_mission05.shtml","",0,20,300);
+		Menu5_3_7=new Array("Mission 06 - Hong Shan Military Base","loc_mission06.shtml","",0,20,300);
+		Menu5_3_8=new Array("Mission 07 - Battle of Jian Da Harbor","loc_mission07.shtml","",0,20,300);
+		Menu5_3_9=new Array("Mission 08 - Zhong Huan City","loc_mission08.shtml","",0,20,300);
+		Menu5_3_10=new Array("Mission 09 - Reserve Base Siege","loc_mission09.shtml","",0,20,300);
+		Menu5_3_11=new Array("Mission 10 - Jacalita Woodlands","loc_mission10.shtml","",0,20,300);
+		Menu5_3_12=new Array("Mission 11 - San Kuchen Subterranean Fortress","loc_mission11.shtml","",0,20,300);
+		Menu5_3_13=new Array("Mission 12 - Ji Feng Basin","loc_mission12.shtml","",0,20,300);
+		Menu5_3_14=new Array("Mission 13 - Airbase Assault","loc_mission13.shtml","",0,20,300);
+		Menu5_3_15=new Array("Mission 14 - Wei Gu Strike","loc_mission14.shtml","",0,20,300);
+		Menu5_3_16=new Array("Mission 15 - Container Extraction","loc_mission15.shtml","",0,20,300);
+		Menu5_3_17=new Array("Mission 16 - Nan Jiang Ravine","loc_mission16.shtml","",0,20,300);
+		Menu5_3_18=new Array("Mission 17 - New Nan Jiang Factory","loc_mission17.shtml","",0,20,300);
+		Menu5_3_19=new Array("Mission 18 - Battle of Meng Chung He","loc_mission18.shtml","",0,20,300);
+		Menu5_3_20=new Array("Mission 19 - Yun Kota Gorge","loc_mission19.shtml","",0,20,300);
+		Menu5_3_21=new Array("Mission 20 - Xen Feng Tian Corridor","loc_mission20.shtml","",0,20,300);
+		Menu5_3_22=new Array("Mission 21 - Yu Jai Woodlands","loc_mission21.shtml","",0,20,300);
+		Menu5_3_23=new Array("Mission 22 - Capture of Xen Feng Tian","loc_mission22.shtml","",0,20,300);
+		Menu5_3_24=new Array("Mission 23 - Er Ting Foothills","loc_mission23.shtml","",0,20,300);
+		Menu5_3_25=new Array("Mission 24 - Defense of Yu Jai Village","loc_mission24.shtml","",0,20,300);
+		
+Menu6=new Array("<img src='image/btn_intel.gif' width='86' height='11'>","","",10,11,86);
+	Menu6_1=new Array("Pilot Profile","loc_pilotprofile.shtml","",0,20,150);
+	Menu6_2=new Array("Rank","loc_rank.shtml","",0,20,150);
+	Menu6_3=new Array("Awards","loc_awards.shtml","",0,20,150);
+	Menu6_4=new Array("Professional Names","loc_professional.shtml","",0,20,150);
+	Menu6_5=new Array("Faction Intel","loc_faction.shtml","",0,20,150);
+	Menu6_6=new Array("Communication","loc_communication.shtml","",0,20,150);
+	Menu6_7=new Array("Glossary","loc_glossary.shtml","",0,20,150);
+	Menu6_8=new Array("Githon's Steel Battalion Guide","loc_sbt.shtml","",0,20,150);
+	Menu6_9=new Array("Frequently Asked Questions","loc_faq.shtml","",0,20,150);
+	Menu6_10=new Array("Exploits","loc_exploits.shtml","",0,20,150);
+	
+Menu7=new Array("<img src='image/btn_platform.gif' width='58' height='11'>","","",12,11,58);
+	Menu7_1=new Array("Platform Overview","loc_platform.shtml","",0,20,150);
+	Menu7_2=new Array("Game Specifications","loc_game.shtml","",0,20,150);
+	Menu7_3=new Array("Game Requirements","loc_requirements.shtml","",0,20,150);
+	Menu7_4=new Array("Controller Overview","loc_controller.shtml","",0,20,150);
+	Menu7_5=new Array("Controller Serial Archive","loc_serialarchive.shtml","",0,20,150);
+	Menu7_6=new Array("Controller Differences","loc_controllerdifferences.shtml","",0,20,150);
+	Menu7_7=new Array("Connection Issues","loc_connection.shtml","",0,20,150);
+	Menu7_8=new Array("Game History & Patches","loc_gamehistory.shtml","",0,20,150);
+	Menu7_9=new Array("Replay Information","loc_replay.shtml","",0,20,150);
+	Menu7_10=new Array("Custom Soundtracks","loc_boombox.shtml","",0,20,150);
+	Menu7_11=new Array("SB vs SB: LOC","loc_sbdifferences.shtml","",0,20,150);
+	Menu7_12=new Array("Cockpit Setups","loc_cockpit.shtml","",0,20,150);
+	
+Menu8=new Array("<img src='image/btn_media.gif' width='76' height='11'>","","",10,11,76);
+	Menu8_1=new Array("Media Overview","loc_media.shtml","",0,20,150);
+	Menu8_2=new Array("VT Open Cockpit Details","loc_media_cockpit.shtml","",0,20,150);
+	Menu8_3=new Array("Hai Shi Dao VTs","","",12,20,150);
+		Menu8_3_1=new Array("Vitzh","loc_media_vitzh.shtml","",0,20,100);
+		Menu8_3_2=new Array("Vortex","loc_media_vortex.shtml","",0,20,100);
+		Menu8_3_3=new Array("Scare Face","loc_media_scareface.shtml","",0,20,100);
+		Menu8_3_4=new Array("m-Vitzh","loc_media_mvitzh.shtml","",0,20,100);
+		Menu8_3_5=new Array("Scare Face A1","loc_media_scarefacea1.shtml","",0,20,100);
+		Menu8_3_6=new Array("Scare Face II","loc_media_scareface2.shtml","",0,20,100);
+		Menu8_3_7=new Array("Maelstrom","loc_media_maelstrom.shtml","",0,20,100);
+		Menu8_3_8=new Array("Behemoth","loc_media_behemoth.shtml","",0,20,100);
+		Menu8_3_9=new Array("Garpike","loc_media_garpike.shtml","",0,20,100);
+		Menu8_3_10=new Array("Regal Dress A","loc_media_regaldressa.shtml","",0,20,100);
+		Menu8_3_11=new Array("Regal Dress N","loc_media_regaldressn.shtml","",0,20,100);
+		Menu8_3_12=new Array("Juggernaut","loc_media_juggernaut.shtml","",0,20,100);
+	Menu8_4=new Array("Pacific Rim Forces VTs","","",9,20,150);
+		Menu8_4_1=new Array("Decider","loc_media_decider.shtml","",0,20,100);
+		Menu8_4_2=new Array("Falchion","loc_media_falchion.shtml","",0,20,100);
+		Menu8_4_3=new Array("Decider Volcanic","loc_media_decidervolcanic.shtml","",0,20,100);
+		Menu8_4_4=new Array("Prominence M1","loc_media_prominencem1.shtml","",0,20,100);
+		Menu8_4_5=new Array("Prominence M2","loc_media_prominencem2.shtml","",0,20,100);
+		Menu8_4_6=new Array("Prominence M3","loc_media_prominencem3.shtml","",0,20,100);
+		Menu8_4_7=new Array("Blade","loc_media_blade.shtml","",0,20,100);
+		Menu8_4_8=new Array("Rapier","loc_media_rapier.shtml","",0,20,100);
+		Menu8_4_9=new Array("Quasar","loc_media_quasar.shtml","",0,20,100);
+	Menu8_5=new Array("Right Brothers VTs","","",6,20,150);
+		Menu8_5_1=new Array("Colt","loc_media_colt.shtml","",0,20,100);
+		Menu8_5_2=new Array("Colt Executive","loc_media_coltexecutive.shtml","",0,20,100);
+		Menu8_5_3=new Array("Yellow Jacket","loc_media_yellowjacket.shtml","",0,20,100);
+		Menu8_5_4=new Array("Sheepdog","loc_media_sheepdog.shtml","",0,20,100);
+		Menu8_5_5=new Array("Siegeszug","loc_media_siegeszug.shtml","",0,20,100);
+		Menu8_5_6=new Array("Earthshaker","loc_media_earthshaker.shtml","",0,20,100);
+	Menu8_6=new Array("Jaralaccs Mercenary VTs","","",4,20,150);
+		Menu8_6_1=new Array("Jaralaccs C","loc_media_jaralaccsc.shtml","",0,20,100);
+		Menu8_6_2=new Array("Jaralaccs N","loc_media_jaralaccsn.shtml","",0,20,100);
+		Menu8_6_3=new Array("Jaralaccs NS-R","loc_media_jaralaccsnsr.shtml","",0,20,100);
+		Menu8_6_4=new Array("Jaralaccs Macabre","loc_media_jaralaccsmacabre.shtml","",0,20,100);
+	Menu8_7=new Array("Battle Images","","",6,20,150);
+		Menu8_7_1=new Array("Battle 01","loc_media_battle.shtml","",0,20,100);
+		Menu8_7_2=new Array("Battle 02","loc_media_battle2.shtml","",0,20,100);
+		Menu8_7_3=new Array("Battle 03","loc_media_battle3.shtml","",0,20,100);
+		Menu8_7_4=new Array("Battle 04","loc_media_battle4.shtml","",0,20,100);
+		Menu8_7_5=new Array("Battle 05","loc_media_battle5.shtml","",0,20,100);
+		Menu8_7_6=new Array("Battle 06","loc_media_battle6.shtml","",0,20,100);
+	Menu8_8=new Array("Chaff Deployment Details","loc_media_chaff.shtml","",0,20,150);
+	Menu8_9=new Array("Gameplay Movies","loc_media_movies.shtml","",0,20,150);
+	Menu8_10=new Array("Action Replay Files","loc_media_actionreplay.shtml","",0,20,150);
+
+Menu9=new Array("<img src='image/btn_misc.gif' width='83' height='11'>","","",3,11,83);
+	Menu9_1=new Array("BoxLOC","loc_boxloc.shtml","",0,20,150);
+	Menu9_2=new Array("Order of Garpike","loc_orderofpike.shtml","",0,20,150);
+	Menu9_3=new Array("Random VT Selector","loc_randomvtselector.shtml","",0,20,150);
+
+Menu10=new Array("<img src='image/btn_comm.gif' width='49' height='11'>","","",2,11,49);
+	Menu10_1=new Array("Contact Us","loc_contact.shtml","",0,20,150);
+	Menu10_2=new Array("Links of Interest","loc_discuss.shtml","",0,20,150);
+
+Menu11=new Array("<img src='image/btn_about.gif' width='63' height='11'>","","",3,11,63);
+	Menu11_1=new Array("About the Site","loc_about.shtml","",0,20,150);
+	Menu11_2=new Array("Site Credits","loc_about.shtml#credits","",0,20,150);
+	Menu11_3=new Array("Sitemap","loc_sitemap.shtml","",0,20,150);
+</script>
+
+<div align="center">
+
+<table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td>&nbsp;</td>
+		<td width="900" height="88" valign="top">
+		
+		<!---begin header and navigation--->
+		<table width="900" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="9" height="79"><img src="image/bg_navhd01.gif" width="9" height="79" border="0" alt=""></td>
+				<td width="105" height="79"><a href="loc_main.shtml"><img src="image/header01.gif" width="105" height="79" border="0" alt="LINEOFCONTACT.NET"></a></td>
+				<td width="8" height="79"><img src="image/bg_navhd02.gif" width="8" height="79" border="0" alt=""></td>
+				<td width="778" height="79">
+				<table width="778" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td width="778" height="41">
+						<table width="778" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="425" height="41" align="left"><img src="image/hdr_icons.gif" width="22" height="41" border="0" alt=""></td>
+								<td width="353" height="41" align="right"><img src="image/hdr_locnet.gif" width="353" height="41" border="0" alt="LINEOFCONTACT.NET - Your Source for Steel Battalion: Line of Contact Information"></td>
+							</tr>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td width="778" height="11">
+						<span id="dropmenu">
+						<table width="778" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="51" height="11"><img src="image/btn_tutorial.gif" width="51" height="11" border="0" alt="TUTORIAL"></td>
+								<td width="82" height="11"><img src="image/btn_vt.gif" width="82" height="11" border="0" alt="VERTICAL TANKS"></td>
+								<td width="81" height="11"><img src="image/btn_config.gif" width="81" height="11" border="0" alt="CONFIGURATION"></td>
+								<td width="55" height="11"><img src="image/btn_testing.gif" width="55" height="11" border="0" alt="TESTING"></td>
+								<td width="94" height="11"><img src="image/btn_tactical.gif" width="94" height="11" border="0" alt="TACTICAL ANALYSIS"></td>
+								<td width="86" height="11"><img src="image/btn_intel.gif" width="86" height="11" border="0" alt="INTEL &amp; BRIEFING"></td>
+								<td width="58" height="11"><img src="image/btn_platform.gif" width="58" height="11" border="0" alt="PLATFORM"></td>
+								<td width="76" height="11"><img src="image/btn_media.gif" width="76" height="11" border="0" alt="MEDIA UPLINK"></td>
+								<td width="83" height="11"><img src="image/btn_misc.gif" width="83" height="11" border="0" alt="MISCELLANEOUS"></td>
+								<td width="49" height="11"><img src="image/btn_comm.gif" width="49" height="11" border="0" alt="COMLINK"></td>
+								<td width="63" height="11"><img src="image/btn_about.gif" width="63" height="11" border="0" alt="ABOUT SITE"></td>
+							</tr>
+						</table>
+						</span>
+						</td>
+					</tr>
+					<tr>
+						<td width="778" height="18">
+						<table width="778" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="51" height="18" background="image/bg_navhd07.gif"></td>
+								<td style="padding-top: 2px; padding-left: 3px;" width="725" height="18" background="image/bg_navhd08_splice.gif"><span class="headline">LATEST NEWS:</span> KEEBLER ON FIRE AGAIN - <span style="font-size: 9px;">Regular LOC times Wed from 8:30pmEST, Sun from 3pm EST</span></td>
+								<td width="2" height="18" background="image/bg_navhd08.gif"></td>
+							</tr>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td width="778" height="9" background="image/bg_navhd05_runner.gif"></td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+			<tr>
+				<td width="9" height="9"><img src="image/bg_navhd03.gif" width="9" height="9" border="0" alt=""></td>
+				<td width="105" height="9" background="image/bg_navhd03_splice.gif"></td>
+				<td width="8" height="9"><img src="image/bg_navhd04.gif" width="8" height="9" border="0" alt=""></td>
+				<td width="778" height="9" align="left"><img src="image/bg_navhd06.gif" width="5" height="9" border="0" alt=""></td>
+			</tr>
+		</table>
+		<!---end header and navigation--->
+		</td>
+		<td>&nbsp;</td>
+	</tr>
+<!---end header navigation include--->
+<!---end navigation include--->
+	<tr>
+		<td>&nbsp;</td>
+		<td width="900" height="40">
+		<div style="height: 9px;"></div>
+		<table width="900" cellspacing="0" cellpadding="0" style="border-style: solid; border-width: 1px; border-color: #000000;">
+			<tr>
+				<td width="106" height="13" background="image/bg_currentdoc.gif"></td>
+				<td class="crumbs" style="padding-left: 5px;" width="794" height="13" bgcolor="#E4E4E4"><a class="crumbs" href="loc_main.shtml">Home</a> &gt; <a class="crumbs" href="loc_testing.shtml">Testing &amp; Results</a> &gt; <a class="crumbs" href="loc_testing_turnweighteffect.shtml">Vertical Tank Turning Weight Effect Testing</a></td>
+			</tr>
+		</table>
+		<div style="height: 18px;"></div>
+		</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td width="900" valign="top">
+		<!---start content area--->
+		<div class="H1">Vertical Tank Weight Effect on Turning Performance Results</div>
+		<br>
+		Effects of Over STD weight loadouts on VTs as given in time to complete one revolution (seconds) and the percentage of decrease from the original turning performance STD (sec).  Tests performed on flat open ground with no override functions.  Not all weight configurations can be tested due to armament limitations for certain VT types.
+		<br>
+		<br>
+		<table width="760" border="1" cellspacing="0" cellpadding="2" bordercolor="#CFCFCF">
+			<tr>
+				<td width="160" align="center"><span class="H1">VT</span></td>
+				<td align="center">STD<br>spec</td>
+				<td align="center">MAX<br>spec</td>
+				<td align="center">MAX-STD</td>
+				<td align="center">STD<br>(sec)</td>
+				<td align="center">STD+1<br>(sec)</td>
+				<td align="center">Increase<br>(%)</td>
+				<td align="center">STD+2<br>(sec)</td>
+				<td align="center">Increase<br>(%)</td>
+				<td align="center">STD+3<br>(sec)</td>
+				<td align="center">Increase<br>(%)</td>
+				<td align="center">STD+4<br>(sec)</td>
+				<td align="center">Increase<br>(%)</td>
+			</tr>
+			<tr>
+				<td width="160">Sheepdog</td>
+				<td align="center">8</td>
+				<td align="center">10</td>
+				<td align="center">2</td>
+				<td align="center">15.2</td>
+				<td align="center">16.7</td>
+				<td align="center">9.0</td>
+				<td align="center">18.2</td>
+				<td align="center">16.5</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+			</tr>
+		 	<tr>
+				<td width="160">Rapier</td>
+				<td align="center">15</td>
+				<td align="center">18</td>
+				<td align="center">3</td>
+				<td align="center">16.4</td>
+				<td align="center">17.3</td>
+				<td align="center">5.2</td>
+				<td align="center">18.9</td>
+				<td align="center">13.2</td>
+				<td align="center">19.1</td>
+				<td align="center">14.1</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+			</tr>
+			<tr>
+				<td width="160">Quasar</td>
+				<td align="center">32</td>
+				<td align="center">36</td>
+				<td align="center">4</td>
+				<td align="center">16.6</td>
+				<td align="center">17.6</td>
+				<td align="center">5.7</td>
+				<td align="center">18.3</td>
+				<td align="center">9.3</td>
+				<td align="center">19.0</td>
+				<td align="center">12.6</td>
+				<td align="center">19.7</td>
+				<td align="center">15.7</td>
+			</tr>
+			<tr>
+				<td width="160">Juggernaut</td>
+				<td align="center">38</td>
+				<td align="center">40</td>
+				<td align="center">2</td>
+				<td align="center">18.0</td>
+				<td align="center">19.5</td>
+				<td align="center">7.7</td>
+				<td align="center">20.9</td>
+				<td align="center">13.9</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+			</tr>
+			<tr>
+				<td width="160">Falchion</td>
+				<td align="center">10</td>
+				<td align="center">12</td>
+				<td align="center">2</td>
+				<td align="center">18.2</td>
+				<td align="center">20.6</td>
+				<td align="center">11.7</td>
+				<td align="center">21.7</td>
+				<td align="center">16.1</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+			</tr>
+			<tr>
+				<td width="160">Blade</td>
+				<td align="center">12</td>
+				<td align="center">15</td>
+				<td align="center">3</td>
+				<td align="center">18.2</td>
+				<td align="center">18.8</td>
+				<td align="center">3.2</td>
+				<td align="center">20.1</td>
+				<td align="center">9.5</td>
+				<td align="center">20.9</td>
+				<td align="center">12.9</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+			</tr>
+			<tr>
+				<td width="160">Jaralaccs Macabre</td>
+				<td align="center">26</td>
+				<td align="center">29</td>
+				<td align="center">3</td>
+				<td align="center">18.2</td>
+				<td align="center">19.6</td>
+				<td align="center">7.1</td>
+				<td align="center">20.1</td>
+				<td align="center">9.5</td>
+				<td align="center">21.3</td>
+				<td align="center">14.6</td>
+				<td align="center">22.4</td>
+				<td align="center">18.8</td>
+			</tr>
+			<tr>
+				<td width="160">Earthshaker</td>
+				<td align="center">34</td>
+				<td align="center">37</td>
+				<td align="center">3</td>
+				<td align="center">19.2</td>
+				<td align="center">19.4</td>
+				<td align="center">1.0</td>
+				<td align="center">20.7</td>
+				<td align="center">7.2</td>
+				<td align="center">22.2</td>
+				<td align="center">13.5</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+			</tr>
+			<tr>
+				<td width="160">Jaralaccs NS-R</td>
+				<td align="center">22</td>
+				<td align="center">26</td>
+				<td align="center">4</td>
+				<td align="center">20.8</td>
+				<td align="center">21.0</td>
+				<td align="center">1.0</td>
+				<td align="center">22.0</td>
+				<td align="center">5.5</td>
+				<td align="center">23.1</td>
+				<td align="center">10.0</td>
+				<td align="center">24.2</td>
+				<td align="center">14.0</td>
+			</tr>
+			<tr>
+				<td width="160">Scare Face A1</td>
+				<td align="center">12</td>
+				<td align="center">13</td>
+				<td align="center">1</td>
+				<td align="center">21.3</td>
+				<td align="center">27.0</td>
+				<td align="center">21.1</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+			</tr>
+			<tr>
+				<td width="160">Regal Dress N</td>
+				<td align="center">24</td>
+				<td align="center">26</td>
+				<td align="center">2</td>
+				<td align="center">21.4</td>
+				<td align="center">23.4</td>
+				<td align="center">8.5</td>
+				<td align="center">25.7</td>
+				<td align="center">16.7</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+			</tr>
+			<tr>
+				<td width="160">Regal Dress A</td>
+				<td align="center">24</td>
+				<td align="center">28</td>
+				<td align="center">4</td>
+				<td align="center">23.4</td>
+				<td align="center">23.8</td>
+				<td align="center">1.7</td>
+				<td align="center">25.1</td>
+				<td align="center">6.8</td>
+				<td align="center">26.2</td>
+				<td align="center">10.7</td>
+				<td align="center">27.7</td>
+				<td align="center">15.5</td>
+			</tr>
+			<tr>
+				<td width="160">Garpike</td>
+				<td align="center">15</td>
+				<td align="center">18</td>
+				<td align="center">3</td>
+				<td align="center">24.2</td>
+				<td align="center">27.1</td>
+				<td align="center">10.7</td>
+				<td align="center">29.0</td>
+				<td align="center">16.6</td>
+				<td align="center">31.5</td>
+				<td align="center">23.2</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+			</tr>
+			<tr>
+				<td width="160">Prominence M3</td>
+				<td align="center">12</td>
+				<td align="center">14</td>
+				<td align="center">2</td>
+				<td align="center">26.0</td>
+				<td align="center">29.8</td>
+				<td align="center">12.8</td>
+				<td align="center">34.5</td>
+				<td align="center">24.6</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+			</tr>
+			<tr>
+				<td width="160">Jaralaccs C</td>
+				<td align="center">16</td>
+				<td align="center">18</td>
+				<td align="center">2</td>
+				<td align="center">26.0</td>
+				<td align="center">30.2</td>
+				<td align="center">13.9 </td>
+				<td align="center">34.3 </td>
+				<td align="center">24.2 </td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+			</tr>
+			<tr>
+				<td width="160">Jaralaccs N</td>
+				<td align="center">22</td>
+				<td align="center">24</td>
+				<td align="center">2</td>
+				<td align="center">26.0</td>
+				<td align="center">30.2</td>
+				<td align="center">13.9</td>
+				<td align="center">34.3</td>
+				<td align="center">24.2</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+			</tr>
+			<tr>
+				<td width="160">Siegeszug</td>
+				<td align="center">20</td>
+				<td align="center">22</td>
+				<td align="center">2</td>
+				<td align="center">27.8</td>
+				<td align="center">32.8</td>
+				<td align="center">15.2</td>
+				<td align="center">37.2</td>
+				<td align="center">25.3</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+			</tr>
+			<tr>
+				<td width="160">Prominence M1</td>
+				<td align="center">22</td>
+				<td align="center">24</td>
+				<td align="center">2</td>
+				<td align="center">28.0</td>
+				<td align="center">33.3</td>
+				<td align="center">15.9</td>
+				<td align="center">37.8</td>
+				<td align="center">25.9</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+			</tr>
+			<tr>
+				<td width="160">Scare Face II</td>
+				<td align="center">20</td>
+				<td align="center">24</td>
+				<td align="center">4</td>
+				<td align="center">28.8</td>
+				<td align="center">30.6</td>
+				<td align="center">5.9</td>
+				<td align="center">32.6</td>
+				<td align="center">11.7</td>
+				<td align="center">34.8</td>
+				<td align="center">17.2</td>
+				<td align="center">37.5</td>
+				<td align="center">23.2</td>
+			</tr>
+			<tr>
+				<td width="160">Yellow Jacket</td>
+				<td align="center">16</td>
+				<td align="center">20</td>
+				<td align="center">4</td>
+				<td align="center">29.0</td>
+				<td align="center">29.9</td>
+				<td align="center">3.0</td>
+				<td align="center">32.7</td>
+				<td align="center">11.3</td>
+				<td align="center">34.0</td>
+				<td align="center">14.7 </td>
+				<td align="center">37.5</td>
+				<td align="center">22.7</td>
+			</tr>
+			<tr>
+			<td width="160">Decider</td>
+				<td align="center">14</td>
+				<td align="center">16</td>
+				<td align="center">2</td>
+				<td align="center">30.2</td>
+				<td align="center">34.5</td>
+				<td align="center">12.5</td>
+				<td align="center">40.4</td>
+				<td align="center">25.2</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+			</tr>
+			<tr>
+				<td width="160">Scare Face</td>
+				<td align="center">15</td>
+				<td align="center">17</td>
+				<td align="center">2</td>
+				<td align="center">30.3</td>
+				<td align="center">34.5</td>
+				<td align="center">12.2</td>
+				<td align="center">40.4</td>
+				<td align="center">25.0</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+			</tr>
+			<tr>
+				<td width="160">Prominence M2 (armour ejected)</td>
+				<td align="center">8</td>
+				<td align="center">10</td>
+				<td align="center">2</td>
+				<td align="center">33.0</td>
+				<td align="center">33.0</td>
+				<td align="center">0.0</td>
+				<td align="center">33.0</td>
+				<td align="center">0.0</td>
+				<td align="center">33.0</td>
+				<td align="center">0.0</td>
+				<td align="center">33.0</td>
+				<td align="center">0.0</td>
+			</tr>
+			<tr>
+				<td width="160">Maelstrom</td>
+				<td align="center">19</td>
+				<td align="center">22</td>
+				<td align="center">3</td>
+				<td align="center">33.0</td>
+				<td align="center">37.4</td>
+				<td align="center">11.8</td>
+				<td align="center">40.2</td>
+				<td align="center">17.9</td>
+				<td align="center">46.8</td>
+				<td align="center">29.5</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+			</tr>
+			<tr>
+				<td width="160">Colt Executive</td>
+				<td align="center">13</td>
+				<td align="center">16</td>
+				<td align="center">3</td>
+				<td align="center">33.0</td>
+				<td align="center">36.7</td>
+				<td align="center">10.1</td>
+				<td align="center">42.0</td>
+				<td align="center">21.4</td>
+				<td align="center">45.7</td>
+				<td align="center">27.8</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+			</tr>
+			<tr>
+				<td width="160">Vortex</td>
+				<td align="center">14</td>
+				<td align="center">16</td>
+				<td align="center">2</td>
+				<td align="center">36.3</td>
+				<td align="center">n/a<span class="redtext">**</span></td>
+				<td align="center">n/a<span class="redtext">**</span></td>
+				<td align="center">53.8</td>
+				<td align="center">32.5 </td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+			</tr>
+			<tr>
+				<td width="160">Vitzh</td>
+				<td align="center">10</td>
+				<td align="center">12</td>
+				<td align="center">2</td>
+				<td align="center">36.4</td>
+				<td align="center">44.0</td>
+				<td align="center">17.3</td>
+				<td align="center">53.5</td>
+				<td align="center">32.0 </td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+			</tr>
+			<tr>
+				<td width="160">Decider Volcanic</td>
+				<td align="center">12</td>
+				<td align="center">16</td>
+				<td align="center">4</td>
+				<td align="center">36.5</td>
+				<td align="center">40.5</td>
+				<td align="center">9.9</td>
+				<td align="center">44.1</td>
+				<td align="center">17.2 </td>
+				<td align="center">48.4</td>
+				<td align="center">24.6</td>
+				<td align="center">53.6</td>
+				<td align="center">31.9</td>
+			</tr>
+			<tr>
+				<td width="160">Colt</td>
+				<td align="center">12</td>
+				<td align="center">15</td>
+				<td align="center">3</td>
+				<td align="center">37.4</td>
+				<td align="center">42.2</td>
+				<td align="center">11.4</td>
+				<td align="center">46.9</td>
+				<td align="center">20.3</td>
+				<td align="center">54.2</td>
+				<td align="center">31.0</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+			</tr>
+			<tr>
+				<td width="160">m-Vitzh</td>
+				<td align="center">10</td>
+				<td align="center">14</td>
+				<td align="center">4</td>
+				<td align="center">37.6</td>
+				<td align="center">39.5</td>
+				<td align="center">4.8</td>
+				<td align="center">43.7</td>
+				<td align="center">14.0</td>
+				<td align="center">47.1</td>
+				<td align="center">20.2</td>
+				<td align="center">53.0</td>
+				<td align="center">29.1</td>
+			</tr>
+			<tr>
+				<td width="160">Behemoth</td>
+				<td align="center">26</td>
+				<td align="center">29</td>
+				<td align="center">3</td>
+				<td align="center">40.0</td>
+				<td align="center">46.9</td>
+				<td align="center">14.7</td>
+				<td align="center">53.1</td>
+				<td align="center">24.7</td>
+				<td align="center">62.3</td>
+				<td align="center">35.8</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+				<td align="center" bgcolor="#EEEEEE">&nbsp;</td>
+			</tr>
+			<tr>
+				<td width="160">Prominence M2</td>
+				<td align="center">8</td>
+				<td align="center">10</td>
+				<td align="center">2</td>
+				<td align="center">40.3</td>
+				<td align="center">45.4</td>
+				<td align="center">11.2</td>
+				<td align="center">50.0</td>
+				<td align="center">19.4</td>
+				<td align="center">55.4</td>
+				<td align="center">27.3</td>
+				<td align="center">62.5</td>
+				<td align="center">35.5</td>
+			</tr>
+		</table>
+		<br>
+		<br>
+		<div class="H1">Graphical Format</div>
+		<br>
+		<table width="760" border="1" cellspacing="0" cellpadding="0" bordercolor="#EEEEEE">
+			<tr>
+				<td width="180" height="20" align="center"><span class="H1">VT</span></td>
+			    <td width="580" align="center"><img src="image/timescale.gif" width="580" height="20" border="0" alt=""></td>
+			</tr>
+			<tr>
+				<td width="180" height="20">Sheepdog</td>
+			    <td width="580" valign="middle">
+				<table width="100%" border="1" cellspacing="0" cellpadding="0" bordercolor="#FFFFFF">
+					<tr>
+						<td height="2"><img src="image/spacer_green.gif" height="4" width="110" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_yellow.gif" height="4" width="121" border="0" alt=""></td>
+					</tr>
+						<td height="2"><img src="image/spacer_orange.gif" height="4" width="132" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer.gif" height="4" width="1" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer.gif" height="4" width="1" border="0" alt=""></td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+			<tr>
+				<td width="180" height="20">Rapier</td>
+			    <td width="580" valign="middle">
+				<table width="100%" border="1" cellspacing="0" cellpadding="0" bordercolor="#FFFFFF">
+					<tr>
+						<td height="2"><img src="image/spacer_green.gif" height="4" width="119" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_yellow.gif" height="4" width="125" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_orange.gif" height="4" width="137" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_red.gif" height="4" width="138" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer.gif" height="4" width="1" border="0" alt=""></td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+			<tr>
+				<td width="180" height="20">Quasar</td>
+			    <td width="580" valign="top">
+				<table width="100%" border="1" cellspacing="0" cellpadding="0" bordercolor="#FFFFFF">
+					<tr>
+						<td height="2"><img src="image/spacer_green.gif" height="4" width="120" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_yellow.gif" height="4" width="128" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_orange.gif" height="4" width="133" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_red.gif" height="4" width="138" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_blue.gif" height="4" width="143" border="0" alt=""></td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+			<tr>
+				<td width="180" height="20">Juggernaut</td>
+			    <td width="580" valign="top">
+				<table width="100%" border="1" cellspacing="0" cellpadding="0" bordercolor="#FFFFFF">
+					<tr>
+						<td height="2"><img src="image/spacer_green.gif" height="4" width="131" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_yellow.gif" height="4" width="141" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_orange.gif" height="4" width="152" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer.gif" height="4" width="1" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer.gif" height="4" width="1" border="0" alt=""></td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+			<tr>
+				<td width="180" height="20">Falchion</td>
+			    <td width="580" valign="top">
+				<table width="100%" border="1" cellspacing="0" cellpadding="0" bordercolor="#FFFFFF">
+					<tr>
+						<td height="2"><img src="image/spacer_green.gif" height="4" width="132" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_yellow.gif" height="4" width="149" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_orange.gif" height="4" width="157" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer.gif" height="4" width="1" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer.gif" height="4" width="1" border="0" alt=""></td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+			<tr>
+				<td width="180" height="20">Blade</td>
+			    <td width="580" valign="top">
+				<table width="100%" border="1" cellspacing="0" cellpadding="0" bordercolor="#FFFFFF">
+					<tr>
+						<td height="2"><img src="image/spacer_green.gif" height="4" width="132" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_yellow.gif" height="4" width="136" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_orange.gif" height="4" width="146" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_red.gif" height="4" width="152" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer.gif" height="4" width="1" border="0" alt=""></td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+			<tr>
+				<td width="180" height="20">Jaralaccs Macabre</td>
+			    <td width="580" valign="top">
+				<table width="100%" border="1" cellspacing="0" cellpadding="0" bordercolor="#FFFFFF">
+					<tr>
+						<td height="2"><img src="image/spacer_green.gif" height="4" width="132" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_yellow.gif" height="4" width="142" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_orange.gif" height="4" width="146" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_red.gif" height="4" width="154" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_blue.gif" height="4" width="162" border="0" alt=""></td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+			<tr>
+				<td width="180" height="20">Earthshaker</td>
+			    <td width="580" valign="top">
+				<table width="100%" border="1" cellspacing="0" cellpadding="0" bordercolor="#FFFFFF">
+					<tr>
+						<td height="2"><img src="image/spacer_green.gif" height="4" width="139" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_yellow.gif" height="4" width="141" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_orange.gif" height="4" width="150" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_red.gif" height="4" width="161" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer.gif" height="4" width="1" border="0" alt=""></td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+			<tr>
+				<td width="180" height="20">Jaralaccs NS-R</td>
+			    <td width="580" valign="top">
+				<table width="100%" border="1" cellspacing="0" cellpadding="0" bordercolor="#FFFFFF">
+					<tr>
+						<td height="2"><img src="image/spacer_green.gif" height="4" width="151" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_yellow.gif" height="4" width="152" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_orange.gif" height="4" width="160" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_red.gif" height="4" width="167" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_blue.gif" height="4" width="175" border="0" alt=""></td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+			<tr>
+				<td width="180" height="20">Scare Face A1</td>
+			    <td width="580" valign="top">
+				<table width="100%" border="1" cellspacing="0" cellpadding="0" bordercolor="#FFFFFF">
+					<tr>
+						<td height="2"><img src="image/spacer_green.gif" height="4" width="154" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_yellow.gif" height="4" width="200" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer.gif" height="4" width="1" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer.gif" height="4" width="1" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer.gif" height="4" width="1" border="0" alt=""></td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+			<tr>
+				<td width="180" height="20">Regal Dress N</td>
+			    <td width="580" valign="top">
+				<table width="100%" border="1" cellspacing="0" cellpadding="0" bordercolor="#FFFFFF">
+					<tr>
+						<td height="2"><img src="image/spacer_green.gif" height="4" width="155" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_yellow.gif" height="4" width="170" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_orange.gif" height="4" width="186" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer.gif" height="4" width="1" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer.gif" height="4" width="1" border="0" alt=""></td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+			<tr>
+				<td width="180" height="20">Regal Dress A</td>
+			    <td width="580" valign="top">
+				<table width="100%" border="1" cellspacing="0" cellpadding="0" bordercolor="#FFFFFF">
+					<tr>
+						<td height="2"><img src="image/spacer_green.gif" height="4" width="170" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_yellow.gif" height="4" width="173" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_orange.gif" height="4" width="182" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_red.gif" height="4" width="190" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_blue.gif" height="4" width="201" border="0" alt=""></td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+			<tr>
+				<td width="180" height="20">Garpike</td>
+			    <td width="580" valign="top">
+				<table width="100%" border="1" cellspacing="0" cellpadding="0" bordercolor="#FFFFFF">
+					<tr>
+						<td height="2"><img src="image/spacer_green.gif" height="4" width="175" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_yellow.gif" height="4" width="210" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_orange.gif" height="4" width="228" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer.gif" height="4" width="1" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer.gif" height="4" width="1" border="0" alt=""></td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+			<tr>
+				<td width="180" height="20">Prominence M3</td>
+			    <td width="580" valign="top">
+				<table width="100%" border="1" cellspacing="0" cellpadding="0" bordercolor="#FFFFFF">
+					<tr>
+						<td height="2"><img src="image/spacer_green.gif" height="4" width="188" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_yellow.gif" height="4" width="216" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_orange.gif" height="4" width="250" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer.gif" height="4" width="1" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer.gif" height="4" width="1" border="0" alt=""></td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+			<tr>
+				<td width="180" height="20">Jaralaccs C</td>
+			    <td width="580" valign="top">
+				<table width="100%" border="1" cellspacing="0" cellpadding="0" bordercolor="#FFFFFF">
+					<tr>
+						<td height="2"><img src="image/spacer_green.gif" height="4" width="189" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_yellow.gif" height="4" width="219" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_orange.gif" height="4" width="249" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer.gif" height="4" width="1" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer.gif" height="4" width="1" border="0" alt=""></td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+			<tr>
+				<td width="180" height="20">Jaralaccs N</td>
+			    <td width="580" valign="top">
+				<table width="100%" border="1" cellspacing="0" cellpadding="0" bordercolor="#FFFFFF">
+					<tr>
+						<td height="2"><img src="image/spacer_green.gif" height="4" width="189" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_yellow.gif" height="4" width="219" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_orange.gif" height="4" width="249" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer.gif" height="4" width="1" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer.gif" height="4" width="1" border="0" alt=""></td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+			<tr>
+				<td width="180" height="20" align="center"><span class="H1">VT</span></td>
+			    <td width="580" align="center"><img src="image/timescale.gif" width="580" height="20" border="0" alt=""></td>
+			</tr>
+			<tr>
+				<td width="180" height="20">Siegeszug</td>
+			    <td width="580" valign="top">
+				<table width="100%" border="1" cellspacing="0" cellpadding="0" bordercolor="#FFFFFF">
+					<tr>
+						<td height="2"><img src="image/spacer_green.gif" height="4" width="202" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_yellow.gif" height="4" width="238" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_orange.gif" height="4" width="270" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer.gif" height="4" width="1" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer.gif" height="4" width="1" border="0" alt=""></td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+			<tr>
+				<td width="180" height="20">Prominence M1</td>
+			    <td width="580" valign="top">
+				<table width="100%" border="1" cellspacing="0" cellpadding="0" bordercolor="#FFFFFF">
+					<tr>
+						<td height="2"><img src="image/spacer_green.gif" height="4" width="203" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_yellow.gif" height="4" width="241" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_orange.gif" height="4" width="274" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer.gif" height="4" width="1" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer.gif" height="4" width="1" border="0" alt=""></td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+			<tr>
+				<td width="180" height="20">Scare Face II</td>
+			    <td width="580" valign="top">
+				<table width="100%" border="1" cellspacing="0" cellpadding="0" bordercolor="#FFFFFF">
+					<tr>
+						<td height="2"><img src="image/spacer_green.gif" height="4" width="209" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_yellow.gif" height="4" width="222" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_orange.gif" height="4" width="236" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_red.gif" height="4" width="252" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_blue.gif" height="4" width="272" border="0" alt=""></td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+			<tr>
+				<td width="180" height="20">Yellow Jacket</td>
+			    <td width="580" valign="top">
+				<table width="100%" border="1" cellspacing="0" cellpadding="0" bordercolor="#FFFFFF">
+					<tr>
+						<td height="2"><img src="image/spacer_green.gif" height="4" width="210" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_yellow.gif" height="4" width="217" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_orange.gif" height="4" width="237" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_red.gif" height="4" width="247" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_blue.gif" height="4" width="272" border="0" alt=""></td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+			<tr>
+				<td width="180" height="20">Decider</td>
+			    <td width="580" valign="top">
+				<table width="100%" border="1" cellspacing="0" cellpadding="0" bordercolor="#FFFFFF">
+					<tr>
+						<td height="2"><img src="image/spacer_green.gif" height="4" width="219" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_yellow.gif" height="4" width="250" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_orange.gif" height="4" width="293" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer.gif" height="4" width="1" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer.gif" height="4" width="1" border="0" alt=""></td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+			<tr>
+				<td width="180" height="20">Scare Face</td>
+			    <td width="580" valign="top">
+				<table width="100%" border="1" cellspacing="0" cellpadding="0" bordercolor="#FFFFFF">
+					<tr>
+						<td height="2"><img src="image/spacer_green.gif" height="4" width="220" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_yellow.gif" height="4" width="250" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_orange.gif" height="4" width="293" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer.gif" height="4" width="1" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer.gif" height="4" width="1" border="0" alt=""></td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+			<tr>
+				<td width="180" height="20">Prominence M2 (armour ejected)</td>
+			    <td width="580" valign="top">
+				<table width="100%" border="1" cellspacing="0" cellpadding="0" bordercolor="#FFFFFF">
+					<tr>
+						<td height="2"><img src="image/spacer_green.gif" height="4" width="239" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_yellow.gif" height="4" width="239" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_orange.gif" height="4" width="239" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_red.gif" height="4" width="239" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_blue.gif" height="4" width="239" border="0" alt=""></td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+			<tr>
+				<td width="180" height="20">Maelstrom</td>
+			    <td width="580" valign="top">
+				<table width="100%" border="1" cellspacing="0" cellpadding="0" bordercolor="#FFFFFF">
+					<tr>
+						<td height="2"><img src="image/spacer_green.gif" height="4" width="239" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_yellow.gif" height="4" width="271" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_orange.gif" height="4" width="291" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_red.gif" height="4" width="339" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer.gif" height="4" width="1" border="0" alt=""></td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+			<tr>
+				<td width="180" height="20">Colt Executive</td>
+			    <td width="580" valign="top">
+				<table width="100%" border="1" cellspacing="0" cellpadding="0" bordercolor="#FFFFFF">
+					<tr>
+						<td height="2"><img src="image/spacer_green.gif" height="4" width="239" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_yellow.gif" height="4" width="266" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_orange.gif" height="4" width="305" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_red.gif" height="4" width="331" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer.gif" height="4" width="1" border="0" alt=""></td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+			<tr>
+				<td width="180" height="20">Vortex</td>
+			    <td width="580" valign="top">
+				<table width="100%" border="1" cellspacing="0" cellpadding="0" bordercolor="#FFFFFF">
+					<tr>
+						<td height="2"><img src="image/spacer_green.gif" height="4" width="263" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer.gif" height="4" width="1" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_orange.gif" height="4" width="390" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer.gif" height="4" width="1" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer.gif" height="4" width="1" border="0" alt=""></td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+			<tr>
+				<td width="180" height="20">Vitzh</td>
+			    <td width="580" valign="top">
+				<table width="100%" border="1" cellspacing="0" cellpadding="0" bordercolor="#FFFFFF">
+					<tr>
+						<td height="2"><img src="image/spacer_green.gif" height="4" width="264" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_yellow.gif" height="4" width="319" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_orange.gif" height="4" width="388" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer.gif" height="4" width="1" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer.gif" height="4" width="1" border="0" alt=""></td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+			<tr>
+				<td width="180" height="20">Decider Volcanic</td>
+			    <td width="580" valign="top">
+				<table width="100%" border="1" cellspacing="0" cellpadding="0" bordercolor="#FFFFFF">
+					<tr>
+						<td height="2"><img src="image/spacer_green.gif" height="4" width="265" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_yellow.gif" height="4" width="294" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_orange.gif" height="4" width="320" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_red.gif" height="4" width="351" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_blue.gif" height="4" width="389" border="0" alt=""></td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+			<tr>
+				<td width="180" height="20">Colt</td>
+			    <td width="580" valign="top">
+				<table width="100%" border="1" cellspacing="0" cellpadding="0" bordercolor="#FFFFFF">
+					<tr>
+						<td height="2"><img src="image/spacer_green.gif" height="4" width="271" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_yellow.gif" height="4" width="306" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_orange.gif" height="4" width="340" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_red.gif" height="4" width="393" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer.gif" height="4" width="1" border="0" alt=""></td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+			<tr>
+				<td width="180" height="20">m-Vitzh</td>
+			    <td width="580" valign="top">
+				<table width="100%" border="1" cellspacing="0" cellpadding="0" bordercolor="#FFFFFF">
+					<tr>
+						<td height="2"><img src="image/spacer_green.gif" height="4" width="273" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_yellow.gif" height="4" width="289" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_orange.gif" height="4" width="317" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_red.gif" height="4" width="341" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_blue.gif" height="4" width="384" border="0" alt=""></td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+			<tr>
+				<td width="180" height="20">Behemoth</td>
+			    <td width="580" valign="top">
+				<table width="100%" border="1" cellspacing="0" cellpadding="0" bordercolor="#FFFFFF">
+					<tr>
+						<td height="2"><img src="image/spacer_green.gif" height="4" width="290" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_yellow.gif" height="4" width="340" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_orange.gif" height="4" width="385" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_red.gif" height="4" width="452" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer.gif" height="4" width="1" border="0" alt=""></td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+			<tr>
+				<td width="180" height="20">Prominence M2</td>
+			    <td width="580" valign="top">
+				<table width="100%" border="1" cellspacing="0" cellpadding="0" bordercolor="#FFFFFF">
+					<tr>
+						<td height="2"><img src="image/spacer_green.gif" height="4" width="292" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_yellow.gif" height="4" width="329" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_orange.gif" height="4" width="363" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_red.gif" height="4" width="402" border="0" alt=""></td>
+					</tr>
+					<tr>
+						<td height="2"><img src="image/spacer_blue.gif" height="4" width="453" border="0" alt=""></td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+		</table>
+		<br>
+		<br>
+		<div class="H1">Additional Notes and Summary of Data</div>
+		<br>
+		Based on the test results, a number of conclusions and inferrences can be drawn regarding the way VT loadout effects turning performance.
+		<br>
+		<br>
+		<div class="H1">Prominence M2</div>
+		Of all the VTs tested, the most revealing results came from the Prominence M2.  It would seem that the "optional" armour modules do indeed have a weight value assigned to them during the VT configuration process.  This weight value is hidden to the user, but is <em>at least</em> 4 weight units (since having the VT +4 STD OVR and ejecting the armour yields a turning result the same as a STD loadout VT).<br>
+		Prominence M2 pilots seeking maximum mobility are advised to dump their armour when engaging in close quarters combat.  Doing so brings their turning performance close to Yellow Jacket, Scare Face II and Prominence M1 values, the likely opponents of such combat.<br>
+		<br>
+		<div class="H1">"Assault" VTs</div>
+		It is interesting to note that several of the VTs classified as "assault" appear to have very good +1 and +2 OVR STD weight handling.  This is probably due to their need to carry an additional sub-tank into battle and jetison it prior to engaging in close combat.<br>
+		<br>
+		<div class="H1">Vortex</div>
+		Just a note to clarify the lack of test result for a +1 STD OVR weight for this VT.  Because of the weapon loadout, there are no weapons available which are of an odd weight rating, thus not allowing a +1 configuration to be tested.<br>
+		<br>
+		<div class="H1">Large Difference Between STD and MAX Weight</div>
+		VTs which have a large difference between the STD and MAX weights tend to exhibit better handling with higher loads (less penalty in turning performance).<br>
+		<br>
+		<div class="H1">High Rotational Efficiency</div>
+		VTs which start with a high rotational efficiency (they turn well) tend to handle additional OVR STD weight loadouts better than those that had a low rotational efficiency to start with.<br>
+		<br>
+		Example would be Blade at STD (18.2sec) and STD+2 (20.1sec) an increase of only 9.5%.  Compare this with something that has a bad turning ability like a Vortex at STD (36.3sec) and STD+2 (53.8sec), an increase of 32.5%<br>
+		<br>
+		<br>
+		<br>
+		<div class="H1">Summary and Areas of Further Investigation</div>
+		I'm still working on test analysis of how Additional Mount and Advanced Mount optional parts counter-act the effects of an OVR STD loadout.  It would appear that each optional part "level" it cuts half the additional time added for each OVR weight unit.  I will have more test data to support this soon.<br>
+		<br>
+		Additional items I'd like to test would be to determine if being "under" the default STD weight gives any turning advantage.  My qualitative observations seem to indicate that there is not, but I will confirm.
+		<br>
+		<br>
+		<!---
+		NOTES<br>
+		As for Decider Volcanic with STD+4 the place revolution 1 lap before doing, inversion. Depending, the half lap the data of the ×2.<br>
+		As for Vortex being there is no weapon of odd numbered weight, STD+1 is not possible.<br>
+		Prominence M2 if armoring is thrown away even with surcharge, is settled in standard loading. Thus, the possibility where it hides and there is a weight of the fixed soldier equipment with parameter.<br>
+		<br>
+		<br>
+		Tendency of decrease ratio<br>
+		<br>
+		The fuselage whose rotation efficiency is high originally decrease ratio is low.<br>
+		About the fuselage whose MAX-STD is large decrease ratio is low.<br>
+		For example, Vitzh and m-Vitzh are most same rotation efficiencies, but as for m Vitzh MAX-STD 4 confronting is<br>
+		That of Vitzh is 2.<br>
+		In addition Blade and Falchion rotation efficiency are the same, but the blade it meaning that MAX-STD is large<br>
+		Decrease ratio of rotation efficiency is low.<br>
+		<br>
+		<hr width="400" height="1" noshade>
+		VT which have interesting weight characteristics<br>
+		<br>
+		Especially, decrease ratio of revolving efficiency is high, the low fuselage the pickup.<br>
+		<br>
+		Jaralaccs NS-R
+		STD+4 doing, the moth of the element - equality to the Garpike. Reaching up to +1 and +2 it has almost not changed. It is too strong.<br>
+		<br>
+		Jaralaccs C (N)<br>
+		Decrease ratio is large. As for C anyhow, as for N it stops wanting to stack the weapon mainly, but the one which with the tank separating it tries to be inside standard is better.<br>
+		<br>
+		Behemoth<br>
+		It is low originally, but when +3 it does, in the revolving efficiency where either the eye is not applied.<br>
+		<br>
+		<hr width="400" height="1" noshade>
+		In addition, because decrease ratio of the extent revolving efficiency where the value of MAX-STD is large goes down, you use the additional mount, prevent the decrease of STD over, is revolving efficiency by the fact that this value is enlarged can.
+		Example<br>
+		<br>
+		<table width="500" border="1" cellspacing="0" cellpadding="2" bordercolor="#CFCFCF">
+			<tr>
+				<td>VT</td>
+				<td align="center">STD (sec)</td>
+				<td align="center">AddMnt Lv3 STD+2(sec)</td>
+				<td align="center">AddMnt Lv3 Ratio Decreased(%)</td>
+				<td align="center">Default Time STD+2(sec)</td>
+				<td align="center">Default Time Ratio Decreased(%)</td>
+			</tr>
+			<tr>
+				<td>Vortex (AddMnt Lv3)</td>
+				<td align="center">36.3</td>
+				<td align="center">39.1</td>
+				<td align="center">7.2</td>
+				<td align="center">53.8</td>
+				<td align="center">32.5</td>
+			</tr>
+			<tr>
+				<td>Decider (AddMnt Lv3)</td>
+				<td align="center">30.2</td>
+				<td align="center">32.3</td>
+				<td align="center">6.5</td>
+				<td align="center">40.4</td>
+				<td align="center">25.0</td>
+			</tr>
+		</table>
+		--->
+		<br>
+		<div class="footer" align="right">This file was last updated Saturday, 29-Nov-2008 15:00:14 PST</div><br>
+		<!---end content area--->
+		</td>
+		<td>&nbsp;</td>
+	</tr>
+<!---begin footer include--->
+<!---start footer include--->
+<tr>
+	<td style="background-repeat: repeat-x;" bgcolor="#EEEEEE" background="image/bg_footer.gif">&nbsp;</td>
+	<td width="900" valign="top" height="50" style="background-repeat: repeat-x;" bgcolor="#EEEEEE" background="image/bg_footer.gif">
+	<div class="footer" align="center"><a class="footer" href="loc_vt.shtml">Vertical Tanks</a> &nbsp; || &nbsp; <a class="footer" href="loc_weapon.shtml">Weapons</a> &nbsp; || &nbsp; <a class="footer" href="loc_mission.shtml">Missions</a> &nbsp; || &nbsp; <a class="footer" href="loc_contact.shtml">Contact</a> &nbsp; || &nbsp; <a class="footer" href="loc_about.shtml">About</a> &nbsp; || &nbsp; <a class="footer" href="loc_sitemap.shtml">Sitemap</a> &nbsp; || &nbsp; <a class="footer" href="loc_main.shtml">Home</a></div>
+	</td>
+	<td style="background-repeat: repeat-x;" bgcolor="#EEEEEE" background="image/bg_footer.gif">&nbsp;</td>
+</tr>
+<!---end footer include--->
+<!---end footer include--->
+</table>
+
+</div>
+
+</body>
+
+
+<!-- Mirrored from lineofcontact.net/loc_testing_turnweighteffect.shtml by HTTrack Website Copier/3.x [XR&CO'2010], Thu, 06 May 2010 16:40:58 GMT -->
+</html>
